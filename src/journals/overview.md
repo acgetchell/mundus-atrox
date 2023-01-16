@@ -12,3 +12,5 @@ The first adventuring group based out of Neverwinter.
 - Tasbros, an Elf Sorcerer
 - Tysnera, an Elf Wizard
 - Wulrif, a Human Warlock
+
+[First Session](first.md)
