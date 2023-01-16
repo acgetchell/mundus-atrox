@@ -2,19 +2,20 @@
 
 A great variety of Artifacts can be found on Mundus. The most well-known include:
 
-- The Human Urb of NeverWinter
-- The High Elven Capital Castela of Ovda
-- The Dwarven Forge of Maxwell
-- The Sea Elven Submersible Marianus
 - The Eye of Sol
+- The Sky Tower of Ovda
+- The Maxwell Forge
+- The Marianus Submersible
 - The Smiting Hammer
-- Oracle Stones
-- The Sword of Morning
+- The Oracle Stones
+- The Sword of Mourning
 - Baba Yaga's Hut
 - The Orbs of Dragonkind
 - The Chaos Blade
 - Spellbreaker
-- The Armor of the Arc
+- The Arc Armor
 - The Vortex feather
+- The Book of Exalted Deeds
+- The Book of Vile Deeds
 
-Less-famous artifacts abound and are in common use by the heroes, villains, and aristocracy in the various societies.
+Less-famous artifacts abound and are in use by the heroes, villains, and leaders in the various societies.
