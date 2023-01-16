@@ -1,11 +1,13 @@
 # Introduction
 
-Mundus Atrox is a campaign for Dungeons & Dragons 5th edition.
+**Mundus Atrox** is a campaign for [Dungeons & Dragons 5th edition](https://www.dndbeyond.com).
 
-It is a high-magic world driven by extreme climate and geography, with elements of steampunk and indicatons of a techno-magical collapse of civilization in ancient times.
+It is a high-magic world driven by extreme climate and geography, with elements of steampunk and indicatons of a techno-magical collapse of [Civilization](background/civilization.md) in ancient times.
 
-Dwarves and Gnomes hunker down in their mines, Humans flee the worst in their mobile cities, and Elves chase the Perpetual Spring in their flying castles.
+[Dwarves](background/dwarves.md) and [Gnomes](background/gnomes.md) hunker down in their [Mines](background/mines.md), [Humans](background/humans.md) flee the worst weather in [mobile cities](background/urbs.md), and [Elves](background/elves.md) chase the [Perpetual Spring](background/seasons.md) in [flying castles](background/castelas.md).
 
-The land and seas are dotted with ancient *Artifacts* ranging in size from a marble to a lost city. Their effects vary from mundane to world-altering, with size little clue to their potency.
+[Dragons](background/dragons.md) rule the sky. [Unnatural](background/old-ones.md) and [strange](background/fey.md) beings stalk the land. Almost anything fixed in place is battered or corroded to oblivion within a few [seasons](background/seasons.md).
 
-The search for these items, and encounters with mythical races and guardians, often become the catalyst for adventure.
+Strewn across the world, ancient [Artifacts](background/artifacts.md) range in size from a marble to a city. Their effects vary from mundane to world-altering, with size being little clue to their potency.
+
+The search for these items, and encounters with mythical races and guardians, become the catalyst for [adventure](journals/overview.md).

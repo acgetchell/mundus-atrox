@@ -23,6 +23,17 @@
     - [Humans](background/humans.md)
     - [Gnomes](background/gnomes.md)
     - [Otherkin](background/otherkin.md)
+- [Civilization](background/civilization.md)
+  - [Mines](background/mines.md)
+  - [Urbs](background/urbs.md)
+  - [Castelas](background/castelas.md)
+- [Artifacts](background/artifacts.md)
+
+# Game Information
+
+- [Starting](game/starting.md)
+  - [Races](game/races.md)
+  - [Classes](game/classes.md)
 
 # Journals
 
