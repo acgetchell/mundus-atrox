@@ -1,6 +1,6 @@
 # Overview
 
-The first adventuring group based out of Neverwinter.
+The first adventuring group based out of [Neverwinter](../background/urbs.md).
 
 ## Dramatis Personae
 

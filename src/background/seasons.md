@@ -1,5 +1,7 @@
 # Sky and Seasons
 
+![The Arch](images/arch.jpeg)
+
 The day and night cycle on Mundus is tied to the seasons.
 
 *Summer* lasts for ~1400 hours, during which time the *Sun* never sets and can be felt but not seen through the *Enclouding*, the constant daytime overcast.

@@ -3,7 +3,7 @@
 
 Spring rises over the Sword Coast as Neverwinter makes its way along the High Road to summer at Biscayne Bay, awaiting the arrival of the Marianus Submersible.
 
-The Magisterium has declard the Spring Week as the majority of inhabitants of Neverwinter exchange their musty and clamorous dwellings for the warmth of the surrounding lands. Gaily colored tents and trade booths dot the surrounding countryside, patrolled by the Protectorate astride their clanking beasts.
+The *Magisterium* has declard the *Spring Week* as the majority of inhabitants of Neverwinter exchange their musty and clamorous dwellings for the warmth of the surrounding lands. Gaily colored tents and trade booths dot the surrounding countryside, patrolled by the Protectorate astride their clanking beasts.
 
 > A Dwarf named Gundren Rockseeker asks you to bring a wagonload of provisions to the summer settlement of Phandalin, a couple of days travel southwest of your current location.
 Gundren was clearly excited and more than a little secretive about his reasons for the trip, saying only that he and his brothers had found "something big", and that he'd pay you
@@ -31,7 +31,7 @@ The party ambushed two guards at the cave entrance, and then slew three wolves j
 
 Before they could go further, Tysnera arrived bearing the news that the wagon caravan was under attack by a foul beast.
 
-Returning, the party encountered an Owlbear, who had dispatched Geral and was ravaging the remains of the oxen team.
+Returning, the party encountered an Owlbear, which had dispatched Geral and was ravaging the remains of the oxen team.
 
 The Owlbear was defeated and Geral revived from near death. The remains of four oxen were scattered amongst the beast's feeding frenzy, and Benjamin eventually retrieved the remaining four.
 

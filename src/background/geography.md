@@ -1,5 +1,7 @@
 # Geography
 
+![Volcano image](images/snowy-volcanos.jpg)
+
 The majority of terrain is flat plains with crinkle ridges and basaltic rock, weathered by sudden and common flash floods (in *Summer*) and avalanches of snow (in *Winter*).
 Mountain ranges are jagged, marked by broken escarpments, sharp caldera, and intense winds that can strip flesh from bone.
 
