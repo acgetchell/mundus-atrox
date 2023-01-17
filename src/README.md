@@ -2,7 +2,7 @@
 
 **Mundus Atrox** is a campaign for [Dungeons & Dragons 5th edition](https://www.dndbeyond.com).
 
-It is a high-magic world driven by extreme climate and geography, with elements of steampunk and indicatons of a techno-magical collapse of [Civilization](background/civilization.md) in ancient times.
+It is a high-magic world driven by extreme climate and geography, with elements of steampunk and indications of a techno-magical collapse of [Civilization](background/civilization.md) in ancient times.
 
 [Dwarves](background/dwarves.md) and [Gnomes](background/gnomes.md) hunker down in their [Mines](background/mines.md), [Humans](background/humans.md) flee the worst weather in [mobile cities](background/urbs.md), and [Elves](background/elves.md) chase the [Perpetual Spring](background/seasons.md) in [flying castles](background/castelas.md).
 

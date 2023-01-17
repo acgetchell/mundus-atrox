@@ -1,4 +1,5 @@
 # Old Ones
+![Nyarlathotep](images/nyarlathotep-stalks-lava-plains.png)
 
 The *Old Ones* are a group of utterly inimical Beings that seem to have little relationship to the natural order of things.
 
