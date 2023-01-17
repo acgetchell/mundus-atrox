@@ -1,4 +1,5 @@
 # First Session
+
 ## 2023-01-13
 
 Spring rises over the Sword Coast as [Neverwinter](../background/urbs.md) makes its way along the High Road to summer at Biscayne Bay, awaiting the arrival of the Marianus Submersible.
