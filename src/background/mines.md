@@ -1,4 +1,5 @@
 # Mines
+
 ![Mines](images/mines.png)
 
 The surface of Mundus is dotted with enormous, open-air mines miles across and many more miles deep.
