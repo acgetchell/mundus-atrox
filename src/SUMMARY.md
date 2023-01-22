@@ -39,3 +39,4 @@
 
 - [Overview](journals/overview.md)
   - [First Session](journals/first.md)
+  - [Second Session](journals/second.md)
