@@ -30,13 +30,13 @@ Character introductions were made.
 
 The party encountered two dead horses along the trail. Despite *Geral*'s warning, the party went to investigate and were ambushed by Goblins.
 
-*Geral* leapt forward to save *CoralKing*, *Benjamin*, and *Wulrif* and *Orky*'s charge broke the back of goblin resistance.
+*Geral* leapt forward to save *CoralKing*, *Benjamin*, and *Wulrif* and *Orky*'s charge broke the back of Goblin resistance.
 
-The remainder disengaged and slunk back into the woods, firing desultory arrows at Orky to no effect.
+The remainder disengaged and slunk back into the woods, firing desultory arrows at *Orky* to no effect.
 
 *Benjamin* determined the Goblins to have numbered a dozen, and they dragged someone away. Empty satchels and a map case were found near the dead horses.
 
-A further day's travel along the *Triboar Trail*, and *Benjamin* discovered a Goblin lair in a cave hidden in the woods a scant two bowshots from the trail. Hidden in the woods, *Benjamin* observed the goblins taking a bound human into the cave. From their, any other travelers along the *Triboar Trail* are sure to come under assault.
+A further day's travel along the *Triboar Trail*, and *Benjamin* discovered a Goblin lair in a cave hidden in the woods a scant two bowshots from the trail. Hidden in the woods, *Benjamin* observed the Goblins taking a bound human into the cave. From their, any other travelers along the *Triboar Trail* are sure to come under assault.
 
 The party crept to the cave entrance, leaving *Geral* and *Tysnera* to guard the oxen team and wagon full of the provisions they were hired to deliver.
 
@@ -44,9 +44,9 @@ The party ambushed two guards at the cave entrance, and then slew three wolves j
 
 Before they could go further, *Tysnera* arrived bearing the news that the wagon caravan was under attack by a foul beast.
 
-Returning, the party encountered an Owlbear, which had dispatched *Geral* and was ravaging the remains of the oxen team.
+Returning, the party encountered an *Owlbear*, which had dispatched *Geral* and was ravaging the remains of the oxen team.
 
-The Owlbear was defeated and Geral revived from near death. The remains of four oxen were scattered amongst the beast's feeding frenzy, and *Benjamin* eventually retrieved the remaining four.
+The *Owlbear* was defeated and *Geral* revived from near death. The remains of four oxen were scattered amongst the beast's feeding frenzy, and *Benjamin* eventually retrieved the remaining four.
 
 The party must decide what to do next.
 

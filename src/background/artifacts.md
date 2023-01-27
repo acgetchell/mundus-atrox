@@ -1,6 +1,6 @@
 # Artifacts
 
-A great variety of Artifacts can be found on Mundus. The most well-known include:
+A great variety of Artifacts can be found on **Mundus**. The most well-known include:
 
 - The Eye of Sol
 - The Sky Tower of Ovda

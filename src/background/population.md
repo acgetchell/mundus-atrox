@@ -1,6 +1,6 @@
 # Population
 
-The peoples of *Mundus* are often categorized by *Magi* as *Barbaria* and *Populi*.
+The peoples of **Mundus** are often categorized by *Magi* as *Barbaria* and *Populi*.
 
 [Barbaria](barbaria.md) live a nomad existence, following (and sometimes tending) the vast herds which provide sustenance and shelter.
 

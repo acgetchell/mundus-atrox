@@ -14,14 +14,14 @@
 - Steve, a 2nd-level Halfling Rogue
 - Wulrif, a 2nd-level Human Warlock
 
-After determining that the goblins in the cave were going to be a persistent threat until taken care of,
+After determining that the Goblins in the cave were going to be a persistent threat until taken care of,
 the party decided to hide the wagon and oxen in a safe place and go back to the cave. *Benjamin* found
 a good location off the main trail for the oxen, and *Wulrif* cast an illusion over the wagon to hide it,
 with limited success.
 
-The group set off toward the caves, only to be met by a party of a dozen goblins attempting to ambush them again.
-The team succeeded in defeating the goblin raiding party, with a few goblins escaping back into the woods.
-*CoralKing* detected and the party avoided two traps along the trail the goblins had set, and the party found themselves
+The group set off toward the caves, only to be met by a party of a dozen Goblins attempting to ambush them again.
+The team succeeded in defeating the Goblin raiding party, with a few Goblins escaping back into the woods.
+*CoralKing* detected and the party avoided two traps along the trail the Goblins had set, and the party found themselves
 back at the mouth of the cave.
 
 Proceeding cautiously, the party noted the chamber that had formerly held the wolves to contain little more than bloodstains.
@@ -32,22 +32,22 @@ lower. While the party was deciding what to do, a huge deluge of water came roar
 nearly outside. A few desultory arrows came out of the darkness, but they had little effect.
 
 The group decided to explore instead the side passage, but this time they made use of pickaxes and ropes that many of them had been
-carrying. CoralKing stealthily climbed up the passage, finding another group of 6 goblins arguing and abusing a tied up human.
+carrying. CoralKing stealthily climbed up the passage, finding another group of 6 Goblins arguing and abusing a tied up human.
 
-Turning the tides, the group blitzed into the room, taking down all of the goblins except one, which they kept as a prisoner.
+Turning the tides, the group blitzed into the room, taking down all of the Goblins except one, which they kept as a prisoner.
 
 The human prisoner turned out to be *Sildar Hallwinter*, a retired warrior and bodyguard of *Gundren Rockseeker*. He relayed that they
-were both ambushed by a large band of goblins with a bugbear leader, who took Gundren someplace else.
+were both ambushed by a large band of Goblins with a bugbear leader, who took *Gundren* someplace else.
 
-The party turned to interrogate the captured goblin, who revealed a number of items:
+The party turned to interrogate the captured Goblin, who revealed a number of items:
 
 - The Bugbear's name is *Klarg*, and he's the leader of the band, which numbers more than two dozen. But *Yeemik* is second in command, and know's many things of interest to the group.
 - *Klarg* answers to *King Grol*, chief of the *Cragmaw tribe*, who dwells in *Cragmaw Castle*.
-- *Klarg* received a messenger from *King Grol* a few days ago. Somone named the *Black Spider* was paying the *Cragmaws* to watch for the dwarf
+- *Klarg* received a messenger from *King Grol* a few days ago. Somone named *The Black Spider* was paying the *Cragmaws* to watch for the dwarf
 *Gundren Rockseeker*, capture him, and send him and his effects (but most especially a map) back to *King Grol*.
 - *Klarg* took *Gundren* to *Cragmaw Castle*. *Yeemik* can lead the party there.
 
-At this point *Sildar* interrupts, saying he needs to get to Phandalin along with the supplies, because he needs to find out the whereabouts of
+At this point *Sildar* interrupts, saying he needs to get to *Phandalin* along with the supplies, because he needs to find out the whereabouts of
 his friend, *Iarno Glasstaff*, who went to *Phandalin* last summer to prepare the way. He offers an additional 50 gold pieces for safe escort to *Phandalin*.
 
 The party agrees that they need to get *Sildar* and the wagon of supplies to *Phandalin*, and then find *Gundren*.
@@ -62,7 +62,7 @@ makeshift club. *Actias* and *Wulrif*'s spells likewise affect the monsters. *Be
 equipped with only slashing and piercing weapons, guard *Yeemik* to ensure he doesn't run off in the confusion.
 *Silmar* yells out that these are "Ash Zombies".
 
-The Ash Zombies go down very hard, but eventually they do go down.
+The *Ash Zombies* go down very hard, but eventually they do go down.
 
 The party stops to rest and recuperate.
 
