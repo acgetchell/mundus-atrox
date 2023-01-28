@@ -39,7 +39,7 @@ Making camp, they are beset by a pack of 8 vicious Allosaurs!
 ![Allosaurus Attack!](images/allosaurs.jpeg)
 
 The Allosaurs blitz the party, jumping and shredding with claws and teeth. The party spellcasters scramble up trees for cover,
-and *Orky*, *Geral*, and *CoralKing* hold the center.  *Actias* and *Wulrif* cast potent curses and Elidrith blasts, *Calmul* breathes
+and *Orky*, *Geral*, and *CoralKing* hold the center.  *Actias* and *Wulrif* cast potent curses and *Eldricth Blasts*, *Calmul* breathes
 poison and provides critical blessings to *Orky*, and *Geral* makes a couple of key saves with his shield as well as inspiring *Orky*
 to heroic feats with her now-flaming Great Sword. *Steve* and *Benjamin* shoot arrows and *Viker* saves the life of the unfortunate *Tysnera* who has
 been taken into the jaws of an Allosaur after she and *Tasbros* expend all of their potent combat spells.
