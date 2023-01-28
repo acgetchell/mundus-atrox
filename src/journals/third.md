@@ -34,6 +34,6 @@ her services upon their return, and says that if *Agatha* is approached correctl
 
 After conferring and restocking provisions, the group sets off on the *Triboar Trail*, intending to speak to *Agatha* and clear out the Orcs.
 
-Making camp, they are beset by 8 vicious Allosaurs!
+Making camp, they are beset by a pack of 8 vicious Allosaurs!
 
 ![Allosaurus Attack!](images/allosaurs.jpeg)
