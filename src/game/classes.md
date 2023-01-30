@@ -2,7 +2,7 @@
 
 The available classes are:
 
-- Artificers
+- [Artificers](artificer.md)
 - Barbarian
 - Bard
 - Cleric
