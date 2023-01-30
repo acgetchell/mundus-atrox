@@ -2,10 +2,14 @@
 
 *Artificers* are described in [Tasha's Cauldron of Everything](https://www.dndbeyond.com/sources/tcoe/artificer#Artificer).
 
-Most *Artificers* on **Mundus** belong to the *Artificers Guild*. As *Artificers* are present in all centers of
-[Civilization](../background/civilization.md), *Artificers* themselves are highly valued and often protected by the *Artificers' Guild* as
-long as they are members of good standing. Naturally, the *Artificers' Guild* frowns upon non-Guild practicioners, but such folk often
-make quite a good living trading or living amongst the [Barbaria](../background/barbaria.md).
+Most *Artificers* on **Mundus** belong to the *Artificers Guild*. Members of the *Artificers' Guild* speak to each other in a highly technical
+language that sounds like *Common* but is full of outlandish words with little meaning to outsiders. *Artificers' Guild* members can recognize
+each other via this *Artificers' Cant*.
+
+ As *Artificers* are present in all centers of
+[Civilization](../background/civilization.md), they are highly valued and protected by the *Artificers' Guild* (as
+long as they are members of good standing). Naturally, the *Artificers' Guild* frowns upon non-Guild practicioners, but such folk are in demand
+and do quite well trading or living amongst the [Barbaria](../background/barbaria.md).
 
 ## Hit Points
 
