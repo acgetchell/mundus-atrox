@@ -34,6 +34,7 @@
 - [Starting](game/starting.md)
   - [Races](game/races.md)
   - [Classes](game/classes.md)
+    - [Artificer](game/artificer.md)
 
 # Journals
 
