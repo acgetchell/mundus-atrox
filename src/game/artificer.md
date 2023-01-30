@@ -42,13 +42,11 @@ Intelligence is used as the *Artificers* spellcasting ability.
 ## Starting Equipment
 
 - Any 2 simple weapons
-- 1 [Musket](firearms.md) or 2 [Pistols](firearms.md) with 20 pieces of ammunition [^1]
+- 1 [Musket](firearms.md) or 2 [Pistols](firearms.md) with 20 pieces of ammunition
 - [Studded Leather] armor or [Scale Mail]
 - [Tinkers' Tools]
 - [Thieves' Tools]
 - [Dungeoneers' Pack]
-
-[^1] N.B. Only *Artificers* may start with [Firearms].
 
 [Firearms]: firearms.md
 [Studded Leather]: https://www.dndbeyond.com/equipment/studded-leather

@@ -35,7 +35,8 @@
   - [Races](game/races.md)
   - [Classes](game/classes.md)
     - [Artificer](game/artificer.md)
-      - [Firearms](game/firearms.md)
+  - [Equipment](game/equipment.md)
+    - [Firearms](game/firearms.md)
 
 # Journals
 
