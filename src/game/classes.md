@@ -2,6 +2,7 @@
 
 The available classes are:
 
+- Artificers
 - Barbarian
 - Bard
 - Cleric
