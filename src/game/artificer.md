@@ -19,7 +19,7 @@ make quite a good living trading or living amongst the [Barbaria](../background/
 
 *Armor*: Light armor, medium armor, shields
 
-*Weapons*: Simple weapons, firearms
+*Weapons*: Simple weapons, [firearms](firearms.md)
 
 *Tools*: Thieves' Tools, Tinkers' Tools, one type of Artisans' Tools
 
@@ -38,13 +38,12 @@ Intelligence is used as the *Artificers* spellcasting ability.
 ## Starting Equipment
 
 - Any 2 simple weapons
-- 1 [Musket][1] or 2 [Pistols][1] with 20 pieces of ammunition
+- 1 [Musket](firearms.md) or 2 [Pistols](firearms.md) with 20 pieces of ammunition
 - [Studded Leather] armor or [Scale Mail]
 - [Tinkers' Tools]
 - [Thieves' Tools]
 - [Dungeoneers' Pack]
 
-[1]: https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#Firearms
 [Studded Leather]: https://www.dndbeyond.com/equipment/studded-leather
 [Scale Mail]: https://www.dndbeyond.com/equipment/scale-mail
 [Tinkers' Tools]: https://www.dndbeyond.com/equipment/tinkers-tools
