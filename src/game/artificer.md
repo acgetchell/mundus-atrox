@@ -2,7 +2,7 @@
 
 *Artificers* are described in [Tasha's Cauldron of Everything](https://www.dndbeyond.com/sources/tcoe/artificer#Artificer).
 
-Most *Artificers* on **Mundus** belong to the *Artificers Guild*. As *Artificers* are present in all centers of 
+Most *Artificers* on **Mundus** belong to the *Artificers Guild*. As *Artificers* are present in all centers of
 [Civilization](../background/civilization.md), *Artificers* themselves are highly valued and often protected by the *Artificers' Guild* as
 long as they are members of good standing. Naturally, the *Artificers' Guild* frowns upon non-Guild practicioners, but such folk often
 make quite a good living trading or living amongst the [Barbaria](../background/barbaria.md).
@@ -30,7 +30,7 @@ make quite a good living trading or living amongst the [Barbaria](../background/
 ## Spellcasting
 
 Spells "cast" by an *Artificer* involve wonders and outlandish inventions, and either *Thieves' Tools* or *Artisans' Tools* are always
-required as a *Material* component to the spell. Once *Infuse Item* is attained at 2nd level, any item bearing an *Infusion* may be used
+required as a *Material* component to the spell. Once [Infuse Item] is attained at 2nd level, any item bearing an *Infusion* may be used
 as a spellcasting focus.
 
 Intelligence is used as the *Artificers* spellcasting ability.
@@ -38,7 +38,7 @@ Intelligence is used as the *Artificers* spellcasting ability.
 ## Starting Equipment
 
 - Any 2 simple weapons
-- 1 [Musket][1] or 2 [Pistols][1]
+- 1 [Musket][1] or 2 [Pistols][1] with 20 pieces of ammunition
 - [Studded Leather] armor or [Scale Mail]
 - [Tinkers' Tools]
 - [Thieves' Tools]
@@ -50,3 +50,4 @@ Intelligence is used as the *Artificers* spellcasting ability.
 [Tinkers' Tools]: https://www.dndbeyond.com/equipment/tinkers-tools
 [Thieves' Tools]: https://www.dndbeyond.com/equipment/thieves-tools
 [Dungeoneers' Pack]: https://www.dndbeyond.com/equipment/dungeoneers-pack
+[Infuse Item]: https://www.dndbeyond.com/sources/tcoe/artificer#InfuseItem
