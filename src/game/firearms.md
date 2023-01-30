@@ -17,10 +17,12 @@ throughout their ranks.
 Firearms require 10 rounds to reload per barrel. A person with *Proficiency* in Firearms can reload a barrel in 5 rounds.
 Someone with the [Gunner Feat] can reload a barrel and fire once per round.
 
-The *Quattour* and *Septum* may discharge all their barrels in a single round. In this instance, the firer receives *Disadvantage* unless they posess
-the [Repeating Shot] feat. Success produces d4/d8 hits.
+The *Quattour* and *Octo* may discharge all their barrels in a single round. In this instance, the firer receives *Disadvantage* unless they possess
+the [Gunner Feat]. Success produces d4/d8 hits.
 
-An [Artificer](artificer.md) that casts [Repeating Shot] and attunes to a firearm can reload and fire up to four barrels per round.
+An [Artificer](artificer.md) that [Infuses] a *Firearm* with [Repeating Shot] can reload and fire up to two shotgun barrels or four single shot barrels
+per round.
 
 [Repeating Shot]: https://www.dndbeyond.com/sources/tcoe/artificer#RepeatingShot
 [Gunner Feat]: https://www.dndbeyond.com/feats/gunner
+[Infuses]: https://www.dndbeyond.com/sources/tcoe/artificer#ArtificerInfusions
