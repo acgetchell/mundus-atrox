@@ -10,6 +10,8 @@ Level 1, or -1 from current party average.
 
 Generate *6* Ability Goups, choose your favorite. [DnDBeyond](https://www.dndbeyond.com) can do this electronically.
 
+There are two additional Ability Scores, [Honor] and [Sanity]. They are based off of [Charisma] and [Wisdom] respectively, and thereafter are independent.
+
 ### Ability Groups
 
 Roll 4d6 for each characteristic, take best 3 dice, arrange scores as desired.
@@ -21,3 +23,8 @@ Roll 4d6 for each characteristic, take best 3 dice, arrange scores as desired.
 ## Classes
 
 - [Character Classes](classes.md)
+
+[Honor]: https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#HonorScore
+[Sanity]: https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#SanityScore
+[Wisdom]: https://www.dndbeyond.com/sources/phb/using-ability-scores#Wisdom
+[Charisma]: https://www.dndbeyond.com/sources/phb/using-ability-scores#Charisma
