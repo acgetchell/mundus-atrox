@@ -39,7 +39,7 @@ In this case, *Always Prepared* spells are added to the *Known Spell* list, and 
 [Ritual Spells] require *Mana* equal to their level available to begin the ritual, but the spellcaster attunes the spell to the *Mana* of the environment.
 Thus, it does not deplete the spellcaster's *Mana* directly.
 
-### Cleric, Druid, Sorcerer, Wizard
+### Bard, Cleric, Druid, Sorcerer, Wizard
 
 | Level| Cantrips[^2] | Max Spell Level | Mana[^3]|
 | ---- | ------------ | --------------- | ------- |
