@@ -15,8 +15,8 @@ Certain classes also have spells that are *Always Prepared* and do not count aga
 In this case, *Always Prepared* spells are added to both the *known spell* list and the *prepared spell* list,
 and their *Spell Levels* are added to the *Mana* for the character.
 
-*Example: A 5th level Druid in the Circle of the Forest has 26 Mana. Barkskin, Spider Climb, Call Lightning, and Plant Growth are always both known
-and prepared and may be cast if the Druid has sufficient Mana.*
+*Example: A 5th level Druid in the Circle of the Forest has 26 Mana. Barkskin, Spider Climb, Call Lightning, and Plant Growth are always
+prepared and may be cast if the Druid has sufficient Mana.*
 
 [Ritual Spells] require *Mana* equal to their level available to begin the ritual, but the spellcaster attunes the spell to the *Mana* of the environment.
 Thus, it does not deplete the spellcaster's *Mana* directly.
