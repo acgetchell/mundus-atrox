@@ -12,10 +12,11 @@ Spells cost *Mana* equal to their level, plus any modifiers to that level.
 
 *Cantrips* and other *At Will* abilities do not consume *Mana* directly, as they are powered by the **Being**.
 Certain classes also have spells that are *Always Prepared* and do not count against Spell Slots.
-In this case, *Always Prepared* spells are added to the *Known Spell* list, and their *Spell Level* is added to the *Mana* for the character.
+In this case, *Always Prepared* spells are added to both the *known spell* list and the *prepared spell* list,
+and their *Spell Levels* are added to the *Mana* for the character.
 
-*Example: A 5th level Druid in the Circle of the Forest has 26 Mana. Barkskin, Spider Climb, Call Lightning, and Plant Growth are always on the prepared
-spell list and may be cast if the Druid has sufficient Mana.*
+*Example: A 5th level Druid in the Circle of the Forest has 26 Mana. Barkskin, Spider Climb, Call Lightning, and Plant Growth are always both known
+and prepared and may be cast if the Druid has sufficient Mana.*
 
 [Ritual Spells] require *Mana* equal to their level available to begin the ritual, but the spellcaster attunes the spell to the *Mana* of the environment.
 Thus, it does not deplete the spellcaster's *Mana* directly.

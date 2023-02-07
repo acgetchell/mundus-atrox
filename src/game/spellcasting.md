@@ -45,26 +45,28 @@ If these words, gestures, or materials are interrupted or interfered with, the s
 
 ## Environmental Effects
 
-Spells which use an [Attack Roll] generate [Critical Hits] on a roll of 20.
+Spells which use an [Attack Roll] normally generate [Critical Hits] on a roll of 20.
 
 *Example: Call Lightning does not trigger [Critical Hits], because it has a Saving Throw.*
 
-Radiant [damage type] spells or effects generate [Critical Hits] on a roll of 19 or 20 during [Summerday](../background/seasons.md).
+Certain spells have enhanced effects in certain environments, as follows:
 
-Necrotic [damage type] spells or effects generate [Critical Hits] on a roll of 19 or 20 during [Winternight](../background/seasons.md).
+A spell causing damage matching the environment generates a Critical Hit on a 19 or 20 [Attack Roll].
+Likewise, [Saving Throws] are at Disadvantage.
 
-Acid [damage type] spells or effects generate [Critical Hits] on a roll of 19 or 20 during *Acid Rains*.
-
-Cold [damage type] spells or effects generate [Critical Hits] on a roll of 19 or 20 during *Blizzards*.
-
-Lightning and Thunder [damage type] spells or effects generate [Critical Hits] on a roll of 19 or 20 during *Thunderstorms*.
-
-Fire [damage type] spells or effects generate [Critical Hits] on a roll of 19 or 20 near *Active Volcanoes*.
-
-Force [damage type] spells or effects generate [Critical Hits] on a roll of 19 or 20 when *The Arch* is visible.
+| Damage Type | Environmental Enhanced Effect |
+| ----------- | ----------------------------- |
+| Radiant     | [Summerday] |
+| Necrotic    | [Winternight] |
+| Acid        | Acid Rain |
+| Cold        | Blizzard |
+| Lightning   | Thunderstorm |
+| Thunder     | Thunderstorm |
+| Fire        | Active volcano |
+| Force       | *The Arch* is visible |
 
 *Example: A roll of 19 with a [Javelin of Lightning] during a Thunderstorm triggers a Critical Hit on the target for 2d6 Piercing + 8d6 Lightning.
-However, those creatures between the thrower and the target do not receive [Critical Hits], because they make a Dexterity Save for half damage.*
+The creatures between the thrower and the target do not receive [Critical Hits], but they make a Dexterity Save for half damage at Disadvantage.*
 
 [Wild Magic] [Sorcerers] trigger a [Wild Magic] Surge on a spellcasting [Attack Roll] of 20.
 
@@ -88,3 +90,6 @@ He also triggers a Wild Magic Surge.*
 [damage type]: https://www.dndbeyond.com/sources/basic-rules/combat#DamageTypes
 [Wild Magic]: https://www.dndbeyond.com/classes/sorcerer#WildMagic
 [Javelin of Lightning]: https://www.dndbeyond.com/magic-items/4667-javelin-of-lightning
+[Saving Throws]: https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#SavingThrows
+[Summerday]: ../background/seasons.md
+[Winternight]: ../background/seasons.md
