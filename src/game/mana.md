@@ -14,7 +14,8 @@ Spells cost *Mana* equal to their level, plus any modifiers to that level.
 Certain classes also have spells that are *Always Prepared* and do not count against Spell Slots.
 In this case, *Always Prepared* spells are added to the *Known Spell* list, and their *Spell Level* is added to the *Mana* for the character.
 
-*Example: A 5th level Druid in the Circle of the Forest has 26 Mana, with Barkskin, Spider Climb, Call Lightning, and Plant Growth Always Prepared.*
+*Example: A 5th level Druid in the Circle of the Forest has 26 Mana. Barkskin, Spider Climb, Call Lightning, and Plant Growth are always on the prepared
+spell list and may be cast if the Druid has sufficient Mana.*
 
 [Ritual Spells] require *Mana* equal to their level available to begin the ritual, but the spellcaster attunes the spell to the *Mana* of the environment.
 Thus, it does not deplete the spellcaster's *Mana* directly.
