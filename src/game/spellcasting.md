@@ -20,10 +20,11 @@ Example: a 5th-level Wizard can channel up to 3rd-level spells.
 
 ## Mana
 
-Lastly, the character must have *Mana* available to cast the spell. Using *Mana* often requires *Verbal*, *Somatic*, and/or *Material* components, which are
-consumed when *Mana* is expended.
+*Mana*, regardless of provenance, powers magic, and the character must have it to cast spells.
 
-To determine *Mana*, for each *Spell Level* take the number of *Spell Slots* at that level and multiply by *Spell Level*. This is summarized in the tables below.[^1]
+Using *Mana* often requires *Verbal*, *Somatic*, and/or *Material* components, which are consumed when *Mana* is expended.
+
+Spellcasters have *Mana* as part of their **Being**. To determine how much, for each *Spell Slot* multiply by *Spell Level* and add up the total. This is summarized in the tables below.[^1]
 
 Example: a 4th level Wizard has 10 *Mana* (4 1st-level slots x 1 + 3 2nd-level slots x 2 = 10).
 
@@ -31,35 +32,37 @@ Spells cost *Mana* equal to their level, plus any modifiers to that level.
 
 Example: *Fireball* (a 3rd-level spell) cast with an additional 2d6 damage (10d6 total) costs 5 *Mana*.
 
-*Cantrips* and other *At Will* abilities do not consume *Mana*. Certain classes also have spells that are *Always Prepared* and do not count against Spell Slots.
-In this case, *Always Prepared* spells are added to the *Known Spell* list, and the Spell Level of these prepared spells are added to the *Mana* for the character.
+*Cantrips* and other *At Will* abilities do not consume *Mana* directly, as they are powered by the **Being**.
+Certain classes also have spells that are *Always Prepared* and do not count against Spell Slots.
+In this case, *Always Prepared* spells are added to the *Known Spell* list, and their *Spell Level* is added to the *Mana* for the character.
 
-Ritual Spells require *Mana* equal to their level to begin the ritual, but the spell itself is cast slowly enough that it does not deplete the *Mana* of the spellcaster.
+[Ritual Spells] require *Mana* equal to their level available to begin the ritual, but the spellcaster attunes the spell to the *Mana* of the environment.
+Thus, it does not deplete the spellcaster's *Mana* directly.
 
 ### Cleric, Druid, Sorcerer, Wizard
 
-| Level| Cantrips | Max Spell Level | Mana |
-| ---- | -------- | --------------- | ---- |
-| 1st  | 2[^2]    | 1st             | 2[^3]|
-| 2nd  | 2        | 1st             |  3   |
-| 3rd  | 2        | 2nd             |  8   |
-| 4th  | 3        | 2nd             | 10   |
-| 5th  | 3        | 3rd             | 16   |
-| 6th  | 3        | 3rd             | 19   |
-| 7th  | 3        | 4th             | 23   |
-| 8th  | 3        | 4th             | 27   |
-| 9th  | 3        | 5th             | 36   |
-| 10th | 4        | 5th             | 41   |
-| 11th | 4        | 6th             | 47   |
-| 12th | 4        | 6th             | 50   |
-| 13th | 4        | 7th             | 54   |
-| 14th | 4        | 7th             | 57   |
-| 15th | 4        | 8th             | 62   |
-| 16th | 4        | 8th             | 67   |
-| 17th | 4        | 9th             | 71   |
-| 18th | 4        | 9th             | 76   |
-| 19th | 4        | 9th             | 82   |
-| 20th | 4        | 9th             | 89   |
+| Level| Cantrips[^2] | Max Spell Level | Mana[^3]|
+| ---- | ------------ | --------------- | ------- |
+| 1st  | 2            | 1st             |  2      |
+| 2nd  | 2            | 1st             |  3      |
+| 3rd  | 2            | 2nd             |  8      |
+| 4th  | 3            | 2nd             | 10      |
+| 5th  | 3            | 3rd             | 16      |
+| 6th  | 3            | 3rd             | 19      |
+| 7th  | 3            | 4th             | 23      |
+| 8th  | 3            | 4th             | 27      |
+| 9th  | 3            | 5th             | 36      |
+| 10th | 4            | 5th             | 41      |
+| 11th | 4            | 6th             | 47      |
+| 12th | 4            | 6th             | 50      |
+| 13th | 4            | 7th             | 54      |
+| 14th | 4            | 7th             | 57      |
+| 15th | 4            | 8th             | 62      |
+| 16th | 4            | 8th             | 67      |
+| 17th | 4            | 9th             | 71      |
+| 18th | 4            | 9th             | 76      |
+| 19th | 4            | 9th             | 82      |
+| 20th | 4            | 9th             | 89      |
 
 ### Artificer, Paladin, Ranger
 
@@ -113,26 +116,26 @@ Ritual Spells require *Mana* equal to their level to begin the ritual, but the s
 
 ### Eldritch Knight, Arcane Trickster
 
-| Level| Cantrips | Spells | Max Spell Level | Mana |
-| ---- | -------- | ------ | --------------- | ---- |
-| 3rd  |  2[^6]   |  3     |  1st            |  2   |
-| 4th  |  2       |  4     |  2nd            |  3   |
-| 5th  |  2       |  4     |  2nd            |  4   |
-| 6th  |  2       |  4     |  2nd            |  5   |
-| 7th  |  2       |  5     |  2nd            |  6   |
-| 8th  |  2       |  6     |  2nd            |  7   |
-| 9th  |  2       |  6     |  2nd            |  8   |
-| 10th |  3       |  7     |  2nd            | 10   |
-| 11th |  3       |  8     |  2nd            | 11   |
-| 12th |  3       |  8     |  2nd            | 12   |
-| 13th |  3       |  9     |  3rd            | 16   |
-| 14th |  3       | 10     |  3rd            | 17   |
-| 15th |  3       | 10     |  3rd            | 18   |
-| 16th |  3       | 11     |  3rd            | 19   |
-| 17th |  3       | 11     |  3rd            | 20   |
-| 18th |  3       | 11     |  3rd            | 21   |
-| 19th |  3       | 12     |  4th            | 22   |
-| 20th |  3       | 13     |  4th            | 23   |
+| Level| Cantrips[^6] | Spells | Max Spell Level | Mana |
+| ---- | ------------ | ------ | --------------- | ---- |
+| 3rd  |  2           |  3     |  1st            |  2   |
+| 4th  |  2           |  4     |  2nd            |  3   |
+| 5th  |  2           |  4     |  2nd            |  4   |
+| 6th  |  2           |  4     |  2nd            |  5   |
+| 7th  |  2           |  5     |  2nd            |  6   |
+| 8th  |  2           |  6     |  2nd            |  7   |
+| 9th  |  2           |  6     |  2nd            |  8   |
+| 10th |  3           |  7     |  2nd            | 10   |
+| 11th |  3           |  8     |  2nd            | 11   |
+| 12th |  3           |  8     |  2nd            | 12   |
+| 13th |  3           |  9     |  3rd            | 16   |
+| 14th |  3           | 10     |  3rd            | 17   |
+| 15th |  3           | 10     |  3rd            | 18   |
+| 16th |  3           | 11     |  3rd            | 19   |
+| 17th |  3           | 11     |  3rd            | 20   |
+| 18th |  3           | 11     |  3rd            | 21   |
+| 19th |  3           | 12     |  4th            | 22   |
+| 20th |  3           | 13     |  4th            | 23   |
 
 [^1]: The tables gives slightly more spell points than a straight conversion, to provide increasing Mana per level.
 
@@ -148,3 +151,4 @@ Ritual Spells require *Mana* equal to their level to begin the ritual, but the s
 
 [Artificers]: artificer.md
 [Metamagic]: https://www.dndbeyond.com/sources/basic-rules/classes#Metamagic
+[Ritual Spells]: https://www.dndbeyond.com/sources/phb/customization-options#RitualCaster
