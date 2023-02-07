@@ -39,6 +39,7 @@
     - [Firearms](game/firearms.md)
     - [Conveyances](game/conveyances.md)
   - [Spellcasting](game/spellcasting.md)
+    - [Mana](game/mana.md)
 
 # Journals
 

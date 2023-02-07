@@ -10,4 +10,6 @@ but are instead resistant to a great many natural toxins.
 
 - The *Sea Elves* live in [Oceanus](ocean.md) and can breathe underwater. Their wings are thicker and allow them to swim effortlessly. They are not immune to acid, but are resistant to a great many toxins found in Oceanus.
 
-- The *Dark Elves* live deep underground, and are in constant conflict with their other kin. They do not have wings, but can instead produce spiderwebs. They are resistant to the toxins of the *Underdark*.
+- The [Dark Elves] live deep underground, and are in constant conflict with their other kin. They do not have wings, but can instead produce spiderwebs. They are resistant to the toxins of the *Underdark*.
+
+[Dark Elves]: https://www.dndbeyond.com/races/3-elf#DarkElf(Drow)
