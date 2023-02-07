@@ -39,7 +39,6 @@ Some classes, like the [Artificer](artificer.md), can change known spells by tin
 
 **Lastly, the character must have available [Mana].**
 
-
 Using [Mana] often requires *Verbal*, *Somatic*, and/or *Material* components, which are consumed when [Mana] is expended.
 If these words, gestures, or materials are interrupted or interfered with, the spell fizzles and the [Mana] is lost.
 
@@ -51,18 +50,18 @@ Spells which use an [Attack Roll] normally generate [Critical Hits] on a roll of
 
 Certain spells have enhanced effects in certain environments, as follows:
 
-A spell causing damage matching the environment generates a Critical Hit on a 19 or 20 [Attack Roll].
+A spell with a [damage type] matching the environment generates a Critical Hit on a 19 or 20 [Attack Roll].
 Likewise, [Saving Throws] are at Disadvantage.
 
-| Damage Type | Environmental Enhanced Effect |
-| ----------- | ----------------------------- |
-| Radiant     | [Summerday] |
-| Necrotic    | [Winternight] |
-| Acid        | Acid Rain |
-| Cold        | Blizzard |
-| Lightning   | Thunderstorm |
-| Thunder     | Thunderstorm |
-| Fire        | Active volcano |
+| Damage Type | Environment           |
+| ----------- | --------------------- |
+| Radiant     | [Summerday]           |
+| Necrotic    | [Winternight]         |
+| Acid        | Acid Rain             |
+| Cold        | Blizzard              |
+| Lightning   | Thunderstorm          |
+| Thunder     | Thunderstorm          |
+| Fire        | Active volcano        |
 | Force       | *The Arch* is visible |
 
 *Example: A roll of 19 with a [Javelin of Lightning] during a Thunderstorm triggers a Critical Hit on the target for 2d6 Piercing + 8d6 Lightning.

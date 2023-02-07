@@ -23,7 +23,6 @@ clanking beasts.
 *Gundren* was clearly excited and more than a little secretive about his reasons for the trip, saying only that he and his brothers had found "something big", and that he'd pay you
 ten gold pieces each to escort his supplies to *Bathen's Provisions*, a trading post in *Phandalin*.
 He then set out ahead of you on horse, along with a warrior escort named *Sildar Hallwinter*, claiming he needed to arrive early to "take care of business".
-
 > You've spent the last day following the broad *High Road* south, and you've just recently veered east along the *Triboar Trail*. You've encountered no trouble so far, but the wilderness is always dangerous and full of predators.
 
 Character introductions were made.
