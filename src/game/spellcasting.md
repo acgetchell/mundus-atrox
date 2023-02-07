@@ -4,16 +4,17 @@ To cast a spell, a character requires three things:
 
 ## Spell Knowledge and Preparation
 
-[Arcane Tricksters], [Artificers], [Bards], [Eldritch Knights], [Rangers], [Sorcerers], [Warlocks], and [Wizards] must know and prepare spell formula
+[Arcane Tricksters], [Artificers], [Bards], [Eldritch Knights], [Rangers], [Sorcerers], [Warlocks], and [Wizards] must know and/or prepare spell formula
 to cast spells.
 
 These formulae take different forms, depending upon the discipline of the spell-caster, and usually do not translate across classes.
 
 *Example: the spell formula for Magic Missile written by [Wizards] is different from the [Sorcerers] Magic Missile.*
 
-Some classes, like the [Artificer](artificer.md), can change known spells by tinkering with their spellcasting focus. Other classes, like [Wizards], write down formulae in their spellbooks. Usually, the number of known spells exceeds the number of prepared spells.
+Some classes, like the [Artificer](artificer.md), can change known spells by tinkering with their spellcasting focus. Other classes, like [Wizards], write down formulae in their spellbooks. The number of known spells can exceed the number of prepared spells.
 
-**Only known spells can be prepared.**
+[Arcane Tricksters] and [Wizards] must prepare spells from their list of known spells. For all other classes, there is no distinction
+between known spells and prepared spells.
 
 **Only prepared spells can be cast.**
 
