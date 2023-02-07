@@ -37,6 +37,7 @@
     - [Artificer](game/artificer.md)
   - [Equipment](game/equipment.md)
     - [Firearms](game/firearms.md)
+  - [Spellcasting](game/spellcasting.md)
 
 # Journals
 

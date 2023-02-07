@@ -6,7 +6,7 @@ Game statistics for the various races. Note that you will have to add some modif
 | ------------------- | -------------------------------------------------------------------------------------------------------------- |
 | Dragonborn          | +2 Str, +1 Wis, +1 Cha, Wings, Breath Weapon, Resistances: Own Breath Weapon                                   |
 | Dwarf               | +2 Str, +2 Con, Darkvision, Resistances: Poison and Magic, Proficiencies: Axe, Hammer, Artisan Tools           |
-| Elf (High)          | +2 Dex, +2 Int, Gliding Wings, Extra Cantrip, Darkvision, Resistances: Acid, Charm/Sleep, Proficiencies: Bow, Swords |
+| Elf (Sky)           | +2 Dex, +2 Int, Gliding Wings, Extra Cantrip, Darkvision, Resistances: Acid, Charm/Sleep, Proficiencies: Bow, Swords |
 | Elf (Wood)          | +2 Dex, +2 Wis, Gliding Wings, Extra Cantrip, Darkvision, Resistances: Charm/Sleep, Poison, Proficiencies: Bow, Swords |
 | Elf (Sea)           | +2 Dex, +2 Con, Swimming Wings, Extra Cantrip, Water Breathing, Resistances: Charm/Sleep, Poison, Proficiencies: Net, Trident, Crossbow |
 | Elf (Dark)          | +2 Dex, +2 Cha, Web spell, Dancing Lights, Faeri Fire, Darkness, Superior Darkvision, Resistances: Charm/Sleep, Proficiencies: Rapiers, Shortswords, Hand Crossbows |

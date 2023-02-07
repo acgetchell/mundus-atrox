@@ -1,4 +1,5 @@
 # Firearms
+
 ![Flintlock Pistol](images/nock-volley-gun.jpg)
 *Image Credit: Wikimedia Commons*
 
@@ -14,7 +15,7 @@ throughout their ranks.
 | -------- | ------- | -------------------------- | ------- | --------------------------------------------------------- |
 | Pistol   | 250 gp  | 2d8 piercing               | 3 lbs.  | Ammunition (range 30/90), loading                         |
 | Quattour | 1000 gp | 2d6 piercing per barrel    | 5 lbs.  | Ammunition (range 30/90), reload (4 shots)                |
-| Musket   | 500 gp  | 2d10 piercing              | 10 lbs.  | Ammunition (range 40/120), loading, two-handed            |
+| Musket   | 500 gp  | 2d10 piercing              | 7 lbs.  | Ammunition (range 40/120), loading, two-handed            |
 | Shotgun  | 750 gp  | 3d6 bludgeoning per barrel | 10 lbs. | Ammunition (range 30/90), reload (2 shots), two-handed,   |
 | Sept     | 1500 gp | 2d8 piercing per barrel    | 13 lbs. | Ammunition (range 40/120), reload (7 shots), two-handed   |
 | Bullets  | 3 gp    |             -              | 1 lb.   | 10 rounds + powder                                        |
@@ -22,11 +23,11 @@ throughout their ranks.
 
 ## Use
 
-A *Pistol* or *Musket* discharges one lead ball per round.
+A *Pistol* or *Musket* discharges one lead ball per barrel.
 
-Shotguns discharge a number of pellets per round.
+Shotguns discharge a number of pellets per barrel.
 
-The *Quattour* and *Sept* may discharge all their barrels in a single round. In this instance, the firer receives *Disadvantage* unless they possess
+The *Quattour* and *Sept* may discharge all barrels in a single round. In this instance, the firer receives *Disadvantage* unless they possess
 the [Gunner Feat]. Success produces d4/d6 hits.
 
 ## Reloading
