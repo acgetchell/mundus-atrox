@@ -4,18 +4,22 @@
 
 Spellcasters have *Mana* as part of their **Being**. To determine how much, for each *Spell Slot* multiply by *Spell Level* and add up the total. This is summarized in the tables below.[^1]
 
-Example: a 4th level Wizard has 10 *Mana* (4 1st-level slots x 1 + 3 2nd-level slots x 2 = 10).
+*Example: a 4th level Wizard has 10 Mana (4 1st-level slots x 1 + 3 2nd-level slots x 2 = 10).*
 
 Spells cost *Mana* equal to their level, plus any modifiers to that level.
 
-Example: *Fireball* (a 3rd-level spell) cast with an additional 2d6 damage (10d6 total) costs 5 *Mana*.
+*Example: Fireball (a 3rd-level spell) cast with an additional 2d6 damage (10d6 total) costs 5 Mana.*
 
 *Cantrips* and other *At Will* abilities do not consume *Mana* directly, as they are powered by the **Being**.
 Certain classes also have spells that are *Always Prepared* and do not count against Spell Slots.
 In this case, *Always Prepared* spells are added to the *Known Spell* list, and their *Spell Level* is added to the *Mana* for the character.
 
+*Example: A 5th level Druid in the Circle of the Forest has 26 Mana, with Barkskin, Spider Climb, Call Lightning, and Plant Growth Always Prepared.*
+
 [Ritual Spells] require *Mana* equal to their level available to begin the ritual, but the spellcaster attunes the spell to the *Mana* of the environment.
 Thus, it does not deplete the spellcaster's *Mana* directly.
+
+*Example: Identify requires, but does not use, 1 Mana to start the ritual.*
 
 ## Bard, Cleric, Druid, Sorcerer, Wizard
 
