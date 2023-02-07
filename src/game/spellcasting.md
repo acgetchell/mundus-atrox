@@ -4,7 +4,7 @@ To cast a spell, a character requires three things:
 
 ## Spell Knowledge and Preparation
 
-*Arcane Tricksters*, [Artificers], *Eldritch Knights*, *Rangers*, *Sorcerers*, *Warlocks*, and *Wizards* must know and prepare the spell formula.
+*Arcane Tricksters*, [Artificers], *Bards*, *Eldritch Knights*, *Rangers*, *Sorcerers*, *Warlocks*, and *Wizards* must know and prepare the spell formula.
 
 These formulae take different forms, depending upon the discipline of the spell-caster, and usually do not translate across classes.
 
