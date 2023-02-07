@@ -13,7 +13,8 @@ These formulae take different forms, depending upon the discipline of the spell-
 
 Some classes, like the [Artificer](artificer.md), can change known spells by tinkering with their spellcasting focus. Other classes, like [Wizards], write down formulae in their spellbooks. The number of known spells can exceed the number of prepared spells.
 
-[Arcane Tricksters] and [Wizards] must prepare spells from their list of known spells.
+[Arcane Tricksters] and [Wizards] must prepare spells from their list of known spells. For all other classes, there is no distinction
+between known spells and prepared spells.
 
 **Only prepared spells can be cast.**
 
