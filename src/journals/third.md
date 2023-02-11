@@ -4,17 +4,17 @@
 
 ### Dramatis Personae
 
-- Actias Aureus, a 2st-level Otherkin Warlock
-- Benjamin, a 3nd-level Elf Ranger
-- Calmul Rhoqiroth, a 2st-level Dragonkin Bard
-- CoralKing, a 3nd-level Gnome Monk
-- Geral Bryn, a 3nd-level Human Fighter
-- Orky, a 3nd-level Half-Elf Paladin
-- Steve, a 3nd-level Halfling Rogue
+- Actias Aureus, a 2nd-level Otherkin Warlock
+- Benjamin, a 3rd-level Elf Ranger
+- Calmul Rhoqiroth, a 2nd-level Dragonkin Bard
+- CoralKing, a 3rd-level Gnome Monk
+- Geral Bryn, a 3rd-level Human Fighter
+- Orky, a 3rd-level Half-Elf Paladin
+- Steve, a 3rd-level Halfling Rogue
 - Tasbros, a 2nd-level Elf Sorcerer
 - Tysnera, a 2nd-level Elf Wizard
 - Viker, a 2nd-level Elf Druid
-- Wulrif, a 3nd-level Human Warlock
+- Wulrif, a 3rd-level Human Warlock
 
 The party finally makes it to *Phandalin*. *Sildar* leads the group to the *Stonehill Inn*, where they set about procuring lodgings. *Sildar* pays the
 party the 50 gold pieces and sets off in search of his friend, *Iarno Glasstaff*.
