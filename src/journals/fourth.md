@@ -69,7 +69,7 @@ On the strange clockwork scavengers.
 
 "No one knows, but best not to get in their way."
 
-"What's Old Owl Well?"
+"What's *Old Owl Well*?"
 
 "Oh, an ancient tower. Be careful, there's been *Undead* spotted around there."
 
@@ -80,3 +80,38 @@ The party makes camp on the hillside as the wind picks up.
 And that's when the Orc war-band attacks!
 
 ![Orcs attack!](images/orcs-attacking-downhill.png)
+
+The party isn't surprised, but the Orcs have the high ground and the wind makes archery difficult.
+
+There are ten Orcs, with a fearsome leader and, as it becomes apparent, a Shaman. The Shaman casts buffs on the attacking group
+which rushes downhill at the party. *Geral*, *Orky*, and *CoralKing* move to block.
+
+*Benjamin* and *Steve* shoot arrows with limited success. It becomes apparent by the unusual resistance of the Orcs to the
+Hexes and such from *Wulrif* and *Actias* that the Shaman has countered some of their spells. *Tasbros* and *Tysnera* get some
+damaging spell strikes in. But the center is held by *Geral*, *Orky*, and *CoralKing*, who absorb the brunt of the warband's attacks.
+
+*CoralKing* goes down no less than three times, revived by *Viker* and *Calmul* before finally going down for good. His stand gives
+*Orky* and *Geral* time to deal with the Shaman and the other Orcs, until only the leader is left. His last strike is a mighty blow
+which nearly takes *Geral's* head off.
+
+*Viker* heals *CoralKing* just before he takes the long dirt nap to join his ancestors.
+
+Battered, the party rests, after taking suitable trophies from the Orcs.
+
+Again, two *Clockwork Horrors* arrive and the party leaves them to their grisly task. During the Long Rest, *Benjamin*
+sees three leave.
+
+> As you crest a low ridge, you spy the crumbling ruins of an old watchtower standing amid the rugged hills.
+> The place is so old that the walls are only mounds of rubble enclosing a courtyard of sorts, adjacent to the broken stump of an old tower.
+> A colorful tent has been set up in the middle of the courtyard, but no one is in sight.
+
+*Actias* casts *Invisibility* on *Steve*, who stealthily reconnoiters.
+
+A few minutes later, a quite visible *Steve* walks stiffly back, seemingly in the magical grip of a bald, red-robed Mage. Twelve *Zombies*
+lurk nearby, but do not attack.
+
+> "What is the meaning of this?" asks the Mage.
+
+*Wulrif* seems to be the de-facto spokesperson of the group.
+
+> We were looking for the *Old Owl Well*.
