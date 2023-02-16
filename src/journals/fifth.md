@@ -60,15 +60,17 @@ They encounter *Sindar Hallwinter*, who seems to be the new Townmaster.
 > He didn't have the fortitude to do what needs to be done around here. But how goes the search for Gundren? Have you found Cragmaw Castle?
 > I'll pay you 500gp for the rescue of Gundren Rockseeker.
 
-The party finds this a more appealing quest, given *Snaga* knows the location.
+The party finds this more appealing.
 
-*Snaga* does, indeed, lead them right to the castle after a full 8 hours march.
+*Snaga* indeed knows some crafty pathways which, after a full 8 hours march, lead the party to *Cragmaw Castle* without notable encounters.
 
 The party scouts cautiously.
 
-*Viker* shapeshifts into a field mouse and hops into *Steve's* pocket and *Actius* turns *Steve* invisible. *Benjamin* follows stealthily and the three of them take up station by the front entrance to the West.
+*Viker* shapeshifts into a field mouse and hops into *Steve's* pocket. *Actius* turns *Steve* (and *Viker*) invisible.
+*Benjamin* follows stealthily as the three of them take up station by the front entrance to the West.
 
-The rest of the party carefully moves into the Southern entrance. *Calmul* produces strange spidery Constructs which *Infuse* *Orky's* Chain Mail and Greatsword with Magic.
+The rest of the party carefully moves to the Southern entrance, beneath the arrow slits.
+*Calmul* produces small, scurrying spider Constructs which *Infuse* *Orky's* Chain Mail and Greatsword with Magic.
 
 *Actius* uses *Mold Earth* to collapse the South Wall, exposing the Hobgoblins inside!
 
