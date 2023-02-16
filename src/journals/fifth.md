@@ -52,7 +52,7 @@ It's any easy fight for the party, and the *Redbrands* are quickly overwhelmed. 
 
 Benjamin uses *Primeval Awareness* again to discern that there is some sort of Aberration underneath the manor, as well as a large group of undead.
 
-The party returns to the *Phandalin Miner's Exchange*, deciding to pass on assaulting Tresendar Manor. *Wulrif* discerns that *Halla* is interested in taking over the *Redbrands*.
+The party returns to the *Phandalin Miner's Exchange*, deciding to pass on assaulting *Tresendar Manor*. *Wulrif* discerns that *Halla* is interested in taking over the *Redbrands*.
 
 They encounter *Sindar Hallwinter*, who seems to have taken over the Townmaster role from *Harbin*.
 
@@ -60,11 +60,11 @@ They encounter *Sindar Hallwinter*, who seems to have taken over the Townmaster 
 > He didn't have the fortitude to do what needs to be done around here. But how goes the search for Gundren? Have you found Cragmaw Castle?
 > I'll pay you 500gp for the rescue of Gundren Rockseeker.
 
- The party finds this a more appealing quest, given *Snaga* knows the location.
+The party finds this a more appealing quest, given *Snaga* knows the location.
 
- *Snaga* does, indeed, lead them right to the castle after a full 8 hours march. 
- 
- The party scouts cautiously.
+*Snaga* does, indeed, lead them right to the castle after a full 8 hours march.
+
+The party scouts cautiously.
 
 *Viker* shapeshifts into a field mouse and hops into Steve's pocket and *Actius* turns *Steve* invisible. Benjamin follows stealthily and the three of them take up station by the front entrance to the West.
 
