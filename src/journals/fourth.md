@@ -148,7 +148,7 @@ A wave of cold, and *Agatha* looks at the party, curiously.
 
 > Agatha seems to think a moment. "The Tower of Endymion." She vanishes.
 
-Another half-day's trek brings the party back to *Old Owl Well*. The Mage receives the answer with interest, and delivers the ring.
+Another four hour's trek brings the party back to *Old Owl Well*. The Mage receives the answer with interest, and delivers the ring.
 After consultation, the party decides that *CoralKing* shall be it's bearer.
 
 But the next rest period brings a strange clicking sound, and the appearance of 3 *Clockwork Horrors*. Ignoring the rest of the party, they make a beeline for *CoralKing*.
