@@ -160,4 +160,6 @@ return *Lightning Bolts*.
 
 The party looks at each other haplessly, then go to heal *CoralKing*.
 
+#### 1000 XPs
+
 ![Old Owl Well](images/old-owl-well.png)

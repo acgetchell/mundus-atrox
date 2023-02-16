@@ -66,4 +66,6 @@ The *Ash Zombies* go down very hard, but eventually they do go down.
 
 The party stops to rest and recuperate.
 
+#### 600 XPs
+
 ![Triboar trail](images/triboar-trail.png)

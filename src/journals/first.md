@@ -35,6 +35,8 @@ The remainder disengaged and slunk back into the woods, firing desultory arrows 
 
 *Benjamin* determined the Goblins to have numbered a dozen, and they dragged someone away. Empty satchels and a map case were found near the dead horses.
 
+#### 300 XPs
+
 A further day's travel along the *Triboar Trail*, and *Benjamin* discovered a Goblin lair in a cave hidden in the woods a scant two bowshots from the trail. Hidden in the woods, *Benjamin* observed the Goblins taking a bound human into the cave. From their, any other travelers along the *Triboar Trail* are sure to come under assault.
 
 The party crept to the cave entrance, leaving *Geral* and *Tysnera* to guard the oxen team and wagon full of the provisions they were hired to deliver.
@@ -48,5 +50,7 @@ Returning, the party encountered an *Owlbear*, which had dispatched *Geral* and 
 The *Owlbear* was defeated and *Geral* revived from near death. The remains of four oxen were scattered amongst the beast's feeding frenzy, and *Benjamin* eventually retrieved the remaining four.
 
 The party must decide what to do next.
+
+#### 500 XPs
 
 ![Sword Coast](images/lmop2.jpg)

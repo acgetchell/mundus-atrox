@@ -45,3 +45,5 @@ to heroic feats with her now-flaming Great Sword. *Steve* and *Benjamin* shoot a
 been taken into the jaws of an Allosaur after she and *Tasbros* expend all of their potent combat spells.
 
 Triumphant after an epic battle, the party heals up and considers their next action.
+
+#### 700 XPs
