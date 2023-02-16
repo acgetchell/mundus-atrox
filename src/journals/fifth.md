@@ -26,10 +26,10 @@ He does sense a Dragon flying North of the party just before it moves out of ran
 The great tracks of the *Urb* once again provides shelter as the party marches for two rest periods back to *Phandalin*.
 They greet Sister Garaele at the *Shrine of Luck* and tell her Agatha's answer.
 *Sister Garaele* is grateful and offers her healing and more potions.
-She can't regenerate *CoralKing's* finger, but Qelline Alderleaf, a local farmer, might know a Druid who can.
+She can't regenerate *CoralKing's* finger, but *Qelline Alderleaf*, a local farmer, might know a Druid who can.
 
 The group heads back to the *Townmaster's Hall*, where they meet *Harbin Wester*, and retrieve the Goblin from the gaol.
-*Geral* makes the Goblin swear allegiance as his armor bearer, and names him *Snaga*. The party gives *Harbin* the orc tusks, for which he pays 5gp per pair, 50gp total.
+*Geral* makes the Goblin swear allegiance as his armor bearer, and names him *Snaga*. The party gives *Harbin* the Orc tusks, for which he pays 5gp per pair, 50gp total.
 *Calmul* and *Geral* spot the firearms carried by *Harbin's* Dwarven mercenaries, and note that they don't seem to protect anyone else in the town.
 Harbin talks about the *Redbrand Ruffians*, who recently arrived and began beating up and killing townfolk.
 
@@ -54,9 +54,9 @@ Benjamin uses *Primeval Awareness* again to discern that there is some sort of A
 
 The party returns to the *Phandalin Miner's Exchange*, deciding to pass on assaulting *Tresendar Manor*. *Wulrif* discerns that *Halla* is interested in taking over the *Redbrands*.
 
-They encounter *Sindar Hallwinter*, who seems to have taken over the Townmaster role from *Harbin*.
+They encounter *Sindar Hallwinter*, who seems to be the new Townmaster.
 
-> "What happened to Harbin, you ask? As soon as he saw me, that fat fool scurried off with his guards back to his bank. Good riddance, I say!
+> "What happened to Harbin, you ask? As soon as he saw me, that fool scurried off with his guards back to his bank. Good riddance, I say!
 > He didn't have the fortitude to do what needs to be done around here. But how goes the search for Gundren? Have you found Cragmaw Castle?
 > I'll pay you 500gp for the rescue of Gundren Rockseeker.
 
