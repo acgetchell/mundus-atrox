@@ -25,9 +25,9 @@ forest over to the bodies of the Allosaurs. Ignoring the party entirely, the str
 The sights and sounds were unpleasant to say the least, so the party moved a bit further along the trail of the Urb. The rest period was otherwise uneventful, the light
 from the *Enclouding* giving a dreamlike quality while everyone meditated and healed.
 
-Midway through next period’s march the *Urban* trail turned North into the forest, a vast scar of sawn-down trees and torn-up earth rent between the giant Sequoias.
+Midway through the next 8-hour march, the *Urban* trail turns North into the forest, a vast scar of sawn-down trees and torn-up earth rent between the giant Sequoias.
 
-The group continued East, reaching the ruins of Conyberry.
+The group continues East, reaching the ruins of Conyberry.
 
 > The forest grows dark and still as the trail winds deeper into the trees. Heavy vines and thick layers of moss drape the branches,
 > and the air is noticeably colder than it was in the ruined village. Rounding a bend in the trail, you see a screen made from the warped
@@ -45,11 +45,11 @@ The adventurers enter.
 
 > "Where is Bojangle's spellbook?" asks *Wulrif*.
 
-> "I traded that to a necromancer named Tsernoth from the city of Iriaebor, let's see, more than a hundred years ago. I do not know what happened to it after that."
+> "I traded that to a Necromancer named Tsernoth from the city of Iriaebor, let's see, more than a hundred years ago. I do not know what happened to it after that."
 
-Agatha disappears.
+*Agatha* disappears.
 
-After some consultation, the party decides to head *South* to look at the *Old Owl Well*, a point of interest on the map. The ground gets steeper and the wind picks up.
+After some consultation, the party decides to head South to look at the *Old Owl Well*, a point of interest on the map. The ground gets steeper and the wind picks up.
 
 They encounter an old dwarf riding a horseless carriage.
 
@@ -59,9 +59,9 @@ They encounter an old dwarf riding a horseless carriage.
 
 > "Hello", replies *Orky*.
 
-After establishing that he was miner around these parts, the party asks a few questions.
+After establishing that he is a Miner around these parts, the party asks a few questions.
 
-On the strange mechanical scavengers.
+On the strange mechanical scavengers:
 
 > "Oh, avoid the *Clockwork Horrors* if you can."
 
@@ -81,15 +81,15 @@ And that's when the Orc war-band attacks!
 
 The party isn't surprised, but the Orcs have the high ground and the wind makes archery difficult.
 
-There are ten Orcs, with a fearsome leader and, as it becomes apparent, a Shaman. The Shaman casts buffs on the attacking group
+There are ten Orcs, with a fearsome War-Chief and, as it becomes apparent, a Shaman. The Shaman casts buffs on the attacking group
 which rushes downhill at the party. *Geral*, *Orky*, and *CoralKing* move to block.
 
-*Benjamin* and *Steve* shoot arrows with limited success. The unusual resistance of the Orcs to the
-Hexes and such from *Wulrif* and *Actias* indicates that the Shaman has countered some of their spells. *Tasbros* and *Tysnera* get some
-damaging spell strikes in. But the center is held by *Geral*, *Orky*, and *CoralKing*, who absorb the brunt of the warband's attacks.
+*Benjamin* and *Steve* shoot arrows with limited success. The unusual resistance of the Orcs to
+*Hexes* and such from *Wulrif* and *Actias* indicates that the Shaman has countered some of their spells. *Tasbros* and *Tysnera* get in some
+damaging spell strikes. But it is the center that is held by *Geral*, *Orky*, and *CoralKing*, who absorb the brunt of the warband's attacks.
 
 *CoralKing* goes down no less than three times, revived by *Viker* and *Calmul* before finally falling. His stand gives
-*Orky* and *Geral* time to deal with the Shaman and the other Orcs, until only the leader is left. His death strike is a mighty blow
+*Orky* and *Geral* time to deal with the Shaman and the other Orcs, until only the War-Chief is left. The War-Chief's death strike is a mighty blow
 which nearly takes *Geral* with him.
 
 *Viker* heals *CoralKing* just before he takes the long dirt nap to join his ancestors.

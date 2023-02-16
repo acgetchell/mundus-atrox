@@ -13,9 +13,11 @@
 - Tysnera, a 1st-level Elf Wizard
 - Wulrif, a 1st-level Human Warlock
 
+![Sword Coast](images/lmop2.jpg)
+
 Spring rises over the *Sword Coast* as [Neverwinter](../background/urbs.md) makes its way along the *High Road* to summer at *Biscayne Bay*, awaiting the arrival of the *Marianus Submersible*.
 
-The *Magisterium* has declared *Spring Week* as the majority of the inhabitants of *Neverwinter* exchange their musty and clamorous dwellings for the
+The *Magisterium* has declared *Springrise* as the majority of the inhabitants of *Neverwinter* exchange their musty and clamorous dwellings for the
 warmth of the surrounding lands. Gaily colored tents and trade booths dot the surrounding countryside, patrolled by the *Protectorate* astride their
 clanking beasts.
 
@@ -37,7 +39,8 @@ The remainder disengaged and slunk back into the woods, firing desultory arrows 
 
 #### 300 XPs
 
-A further day's travel along the *Triboar Trail*, and *Benjamin* discovered a Goblin lair in a cave hidden in the woods a scant two bowshots from the trail. Hidden in the woods, *Benjamin* observed the Goblins taking a bound human into the cave. From their, any other travelers along the *Triboar Trail* are sure to come under assault.
+A further 8 hours travel along the *Triboar Trail*, and *Benjamin* discovered a Goblin lair in a cave hidden in the woods a scant two bowshots from the trail.
+Concealed in natural surroundings, *Benjamin* observed the Goblins taking a bound human into the cave. From there, any other travelers along the *Triboar Trail* are sure to come under assault.
 
 The party crept to the cave entrance, leaving *Geral* and *Tysnera* to guard the oxen team and wagon full of the provisions they were hired to deliver.
 
@@ -53,4 +56,4 @@ The party must decide what to do next.
 
 #### 500 XPs
 
-![Sword Coast](images/lmop2.jpg)
+![Owlbear](images/owlbear.png)

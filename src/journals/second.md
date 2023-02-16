@@ -14,6 +14,8 @@
 - Steve, a 2nd-level Halfling Rogue
 - Wulrif, a 2nd-level Human Warlock
 
+![Goblins](images/goblin.png)
+
 After determining that the Goblins in the cave were going to be a persistent threat until taken care of,
 the party decided to hide the wagon and oxen in a safe place and go back to the cave. *Benjamin* found
 a good location off the main trail for the oxen, and *Wulrif* cast an illusion over the wagon to hide it,
@@ -28,11 +30,11 @@ Proceeding cautiously, the party noted the chamber that had formerly held the wo
 Careful investigation revealed a narrow chimney 20' or so up in the chamber, but the climb looked slick and difficult and
 no one risked it. Moving deeper into the cave, it again branched, going upwards into a large chamber with a wooden bridge 20'
 over the stream flowing down the left side of the main cave tunnel. A side branch also went upwards, but the ceiling was much
-lower. While the party was deciding what to do, a huge deluge of water came roaring down the main passage, washing most of the party
-nearly outside. A few desultory arrows came out of the darkness, but they had little effect.
+lower. While the party was deciding what to do, a huge deluge of water came roaring down the main passage, washing away most of the party.
+A few desultory arrows came out of the darkness, but they had little effect.
 
-The group decided to explore instead the side passage, but this time they made use of pickaxes and ropes that many of them had been
-carrying. CoralKing stealthily climbed up the passage, finding another group of 6 Goblins arguing and abusing a tied up human.
+The group decided to explore instead the side passage, but this time they made use of the pickaxes and ropes that many of them had been
+carrying. CoralKing stealthily crept up the passage, finding another group of 6 Goblins arguing and abusing a tied up human.
 
 Turning the tides, the group blitzed into the room, taking down all of the Goblins except one, which they kept as a prisoner.
 
@@ -48,7 +50,7 @@ The party turned to interrogate the captured Goblin, who revealed a number of it
 - *Klarg* took *Gundren* to *Cragmaw Castle*. *Yeemik* can lead the party there.
 
 At this point *Sildar* interrupts, saying he needs to get to *Phandalin* along with the supplies, because he needs to find out the whereabouts of
-his friend, *Iarno Glasstaff*, who went to *Phandalin* last summer to prepare the way. He offers an additional 50 gold pieces for safe escort to *Phandalin*.
+his friend, *Iarno Glasstaff*, who went to *Phandalin* last Summerday to prepare the way. He offers an additional 50 gold pieces for safe escort to *Phandalin*.
 
 The party agrees that they need to get *Sildar* and the wagon of supplies to *Phandalin*, and then find *Gundren*.
 
