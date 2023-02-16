@@ -39,11 +39,11 @@ The adventurers enter.
 > female elf, her hair and robes waving in a spectral wind. She might have been beautiful once, but a hateful expression twists her features now.
 > “Foolish mortals,” she snarls. “What do you want here? Do you not know it is death to seek me out?”
 
-"We have brought you a gift," replies *Wulrif*. He offers her *Garaele's* *Silver Comb*.
+> "We have brought you a gift," replies *Wulrif*. He offers her *Garaele's* *Silver Comb*.
 
 > The ghostly figure smiles with cold amusement. “Very well,” she says. “I know that you seek many things. Ask me one question, and I will give you an answer.”
 
-"Where is Bojangle's spellbook?" asks *Wulrif*.
+> "Where is Bojangle's spellbook?" asks *Wulrif*.
 
 > "I traded that to a necromancer named Tsernoth from the city of Iriaebor, let's see, more than a hundred years ago. I do not know what happened to it after that."
 
@@ -55,27 +55,25 @@ They encounter an old dwarf riding a horseless carriage.
 
 ![Dwarf and his horseless carriage](images/dwarf-horseless-carriage.png)
 
-"Hallooooo!" he yells, seemingly friendly.
+> "Hallooooo!" he yells, seemingly friendly.
 
-"Hello", replies *Orky*.
+> "Hello", replies *Orky*.
 
-After establishing that he was relatively friendly, the party asks a few questions.
+After establishing that he was miner around these parts, the party asks a few questions.
 
-On the strange clockwork scavengers.
+On the strange mechanical scavengers.
 
-"Oh, avoid the *Clockwork Horrors* if you can."
+> "Oh, avoid the *Clockwork Horrors* if you can."
 
-"But what do they want?"
+> "But what do they want?"
 
-"No one knows, but best not to get in their way."
+> "No one knows, but best not to get in their way if you can help it."
 
-"What's *Old Owl Well*?"
+> "What's *Old Owl Well*?"
 
-"Oh, an ancient tower. Be careful, there's been *Undead* spotted around there."
+> "Oh, an ancient tower. Be careful, there's *Undead* been spotted around there."
 
-After a few more shouts the party continues on.
-
-The party makes camp on the hillside as the wind picks up.
+After a few more shouts the party continues, finally making camp on a hillside as the wind picks up.
 
 And that's when the Orc war-band attacks!
 
@@ -86,17 +84,17 @@ The party isn't surprised, but the Orcs have the high ground and the wind makes 
 There are ten Orcs, with a fearsome leader and, as it becomes apparent, a Shaman. The Shaman casts buffs on the attacking group
 which rushes downhill at the party. *Geral*, *Orky*, and *CoralKing* move to block.
 
-*Benjamin* and *Steve* shoot arrows with limited success. It becomes apparent by the unusual resistance of the Orcs to the
-Hexes and such from *Wulrif* and *Actias* that the Shaman has countered some of their spells. *Tasbros* and *Tysnera* get some
+*Benjamin* and *Steve* shoot arrows with limited success. The unusual resistance of the Orcs to the
+Hexes and such from *Wulrif* and *Actias* indicates that the Shaman has countered some of their spells. *Tasbros* and *Tysnera* get some
 damaging spell strikes in. But the center is held by *Geral*, *Orky*, and *CoralKing*, who absorb the brunt of the warband's attacks.
 
-*CoralKing* goes down no less than three times, revived by *Viker* and *Calmul* before finally going down for good. His stand gives
-*Orky* and *Geral* time to deal with the Shaman and the other Orcs, until only the leader is left. His last strike is a mighty blow
-which nearly takes *Geral's* head off.
+*CoralKing* goes down no less than three times, revived by *Viker* and *Calmul* before finally falling. His stand gives
+*Orky* and *Geral* time to deal with the Shaman and the other Orcs, until only the leader is left. His death strike is a mighty blow
+which nearly takes *Geral* with him.
 
 *Viker* heals *CoralKing* just before he takes the long dirt nap to join his ancestors.
 
-Battered, the party rests, after taking suitable trophies from the Orcs.
+Battered, the party rests, taking suitable trophies from the Orcs.
 
 Again, two *Clockwork Horrors* arrive and the party leaves them to their grisly task. During the Long Rest, *Benjamin*
 sees three leave.
@@ -107,11 +105,59 @@ sees three leave.
 
 *Actias* casts *Invisibility* on *Steve*, who stealthily reconnoiters.
 
-A few minutes later, a quite visible *Steve* walks stiffly back, seemingly in the magical grip of a bald, red-robed Mage. Twelve *Zombies*
+A few minutes later, a quite visible *Steve* walks stiffly back, in some sort of magical grip by a bald, tatooed, red-robed Mage. Twelve *Zombies*
 lurk nearby, but do not attack.
 
 > "What is the meaning of this?" asks the Mage.
 
 *Wulrif* seems to be the de-facto spokesperson of the group.
 
-> We were looking for the *Old Owl Well*.
+> "We were looking for the *Old Owl Well*."
+
+> "Indeed, you have found it." An odd gleam in his eyes. "Have you spoken to Agatha?"
+
+> "Well, yes."
+
+> "I have a question of her I would bade you ask, and a gift to offer." A strange metal box floats over.
+
+> "What is inside the box?"
+
+> "Probably best you don't know," says the Mage with cold amusement. "I can offer you this ring as a reward."
+
+Viker goes into a brief trance, then nods and whispers:
+
+> *"It's a Ring of Protection."*
+
+The party consults briefly.
+
+> "We accept."
+
+*Steve* the Halfling walks over of his own accord, unharmed.
+
+The party treks back down the foothills, surprisingly not encountering anything unusual. Another 4 hours travel brings them to *Agatha's* lair.
+
+A wave of cold, and *Agatha* looks at the party, curiously.
+
+> "We have a gift, and a question."
+
+*Agatha* gestures and the curiously heavy wooden box floats over, lid opening.
+
+> "Acceptable. What is your question?"
+
+> "What is the name of the tower at *Old Owl Well*?
+
+> Agatha seems to think a moment. "The Tower of Endymion." She vanishes.
+
+Another half-day's trek brings the party back to *Old Owl Well*. The Mage receives the answer with interest, and delivers the ring.
+After consultation, the party decides that *CoralKing* shall be it's bearer.
+
+But the next rest period brings a strange clicking sound, and the appearance of 3 *Clockwork Horrors*. Ignoring the rest of the party, they make a beeline for *CoralKing*.
+
+The things have mechanical saws and pincers, and return fire with *Lightning Bolts* when *Benjamin* hits them, harmlessly, with
+his arrows. No weapon the party has seems to have the least effect on them. *CoralKing* struggles, but is astonishingly quickly subdued.
+They cut off the ring (and *CoralKing's* finger), then retreat back the way they came. *Actias* sends a *Eldritch Blast* at them, and narrowly dodges
+return *Lightning Bolts*.
+
+The party looks at each other haplessly, then go to heal *CoralKing*.
+
+![Old Owl Well](images/old-owl-well.png)
