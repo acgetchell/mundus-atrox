@@ -66,9 +66,9 @@ The party finds this a more appealing quest, given *Snaga* knows the location.
 
 The party scouts cautiously.
 
-*Viker* shapeshifts into a field mouse and hops into Steve's pocket and *Actius* turns *Steve* invisible. Benjamin follows stealthily and the three of them take up station by the front entrance to the West.
+*Viker* shapeshifts into a field mouse and hops into *Steve's* pocket and *Actius* turns *Steve* invisible. *Benjamin* follows stealthily and the three of them take up station by the front entrance to the West.
 
-The rest of the party carefully moves into the Southern entrance. *Calmul* *Infuses* *Orky's* Chain Mail and Greatsword.
+The rest of the party carefully moves into the Southern entrance. *Calmul* produces strange spidery Constructs which *Infuse* *Orky's* Chain Mail and Greatsword with Magic.
 
 *Actius* uses *Mold Earth* to collapse the South Wall, exposing the Hobgoblins inside!
 
