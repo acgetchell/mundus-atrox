@@ -24,7 +24,7 @@ He does sense a Dragon flying North of the party just before it moves out of ran
 *Tasbros* thinks the *Clockwork Horrors* are some kind of Construct, and *Calmul* agrees.
 
 The great tracks of the *Urb* once again provides shelter as the party marches for two rest periods back to *Phandalin*.
-They greet Sister Garaele at the *Shrine of Luck* and tell her Agatha's answer.
+They greet *Sister Garaele* at the *Shrine of Luck* and relay *Agatha's* answer.
 *Sister Garaele* is grateful and offers her healing and more potions.
 She can't regenerate *CoralKing's* finger, but *Qelline Alderleaf*, a local farmer, might know a Druid who can.
 
@@ -38,27 +38,27 @@ Harbin talks about the *Redbrand Ruffians*, who recently arrived and began beati
 ![Phandalin](images/phandalin.jpg)
 
 The party heads to the *Phandalin Miner's Exchange*, meeting the proprietor, *Halla Thorton*. A shrewd, sharp-looking human woman, she tells them more about the *Redbrands*,
-and offers 100gp for the death of their leader, some mage who recently arrived. *Wulfric* senses an ulterior motive, though.
+and offers 100gp for the death of their leader, an unknown Mage who recently arrived. *Wulfric* senses an ulterior motive, though.
 *Halla* notes that many *Redbrands* hang out at the *Sleeping Giant Inn*, and but their leader is almost always at *Tresendar Manor*. *Halla* thinks there might be two dozen *Redbrands*.
 
-The party carefully reconnoiters the *Tresendar Manor*, preparing to set a trap near the Sleeping Giant. By chance, four *Redbrands* emerge from the *Sleeping Giant*, triggering the ambush.
+The party carefully reconnoiters the manor, preparing to set a trap near the *Sleeping Giant*. By chance, four *Redbrands* emerge from the *Sleeping Giant*, triggering the ambush.
 
 It's any easy fight for the party, and the *Redbrands* are quickly overwhelmed. A *Redbrand* is captured and interrogated, and the party discovers that:
 
-- The leader of the *Redbrands* is a human wizard known as *Glasstaff*. Arcana knowledge by *Tysnera* notes that is likely a *Staff of Defense*.
+- The leader of the *Redbrands* is a Human Wizard known as *Glasstaff*. Arcana knowledge by *Tysnera* notes that is likely a *Staff of Defense*.
 - Someone called the *Black Spider* hired the *Redbrands* to frighten off adventurers and intimidate the locals. The *Black Spider* sent Bugbears to reinforce the *Redbrands*.
-- Underneath the manor contains a hideous "eye monster", which the *Redbrands* avoid.
-- The *Redbrands* have captive townsfolk "near the old crypt", guarded by skeletons.
+- Underneath the manor lives a hideous "eye monster", which the *Redbrands* avoid.
+- The *Redbrands* have captive townsfolk "near the old crypt", guarded by Skeletons.
 
-Benjamin uses *Primeval Awareness* again to discern that there is some sort of Aberration underneath the manor, as well as a large group of undead.
+Benjamin uses *Primeval Awareness* again to discern that there is some sort of Aberration underneath the manor, as well as a large group of Undead.
 
 The party returns to the *Phandalin Miner's Exchange*, deciding to pass on assaulting *Tresendar Manor*. *Wulrif* discerns that *Halla* is interested in taking over the *Redbrands*.
 
 They encounter *Sindar Hallwinter*, who seems to be the new Townmaster.
 
-> "What happened to Harbin, you ask? As soon as he saw me, that fool scurried off with his guards back to his bank. Good riddance, I say!
-> He didn't have the fortitude to do what needs to be done around here. But how goes the search for Gundren? Have you found Cragmaw Castle?
-> I'll pay you 500gp for the rescue of Gundren Rockseeker.
+> "What happened to Harbin, you ask? As soon as he saw me, that fool scurried off with his guards back to his Bank. Good riddance, I say!
+> He didn't have the fortitude to do what needs to be done around here. But how goes the search for *Gundren*? Have you found *Cragmaw Castle*?
+> I'll pay you 500gp for the rescue of *Gundren Rockseeker*.
 
 The party finds this more appealing.
 

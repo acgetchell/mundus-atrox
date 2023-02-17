@@ -122,7 +122,7 @@ lurk nearby, but do not attack.
 
 > "What is inside the box?"
 
-> "Probably best you don't know," says the Mage with cold amusement. "I can offer you this ring as a reward."
+> "Probably best you don't know," says the Mage with a chilling smile. "I can offer you this ring as a reward."
 
 Viker goes into a brief trance, then nods and whispers:
 
@@ -134,28 +134,28 @@ The party consults briefly.
 
 *Steve* the Halfling walks over of his own accord, unharmed.
 
-The party treks back down the foothills, surprisingly not encountering anything unusual. Another 4 hours travel brings them to *Agatha's* lair.
+The party treks back down the foothills, surprisingly not encountering anything unusual. Another four hours travel brings them to *Agatha's* lair.
 
 A wave of cold, and *Agatha* looks at the party, curiously.
 
 > "We have a gift, and a question."
 
-*Agatha* gestures and the curiously heavy wooden box floats over, lid opening.
+*Agatha* gestures and the curiously heavy metal box floats over, lid opening.
 
 > "Acceptable. What is your question?"
 
 > "What is the name of the tower at *Old Owl Well*?
 
-> Agatha seems to think a moment. "The Tower of Endymion." She vanishes.
+> *Agatha* seems to think a moment. "The Tower of Endymion." She vanishes.
 
-Another four hour's trek brings the party back to *Old Owl Well*. The Mage receives the answer with interest, and delivers the ring.
+Back to *Old Owl Well*. The Mage receives the answer with interest, and delivers the ring.
 After consultation, the party decides that *CoralKing* shall be it's bearer.
 
-But the next rest period brings a strange clicking sound, and the appearance of 3 *Clockwork Horrors*. Ignoring the rest of the party, they make a beeline for *CoralKing*.
+But the next rest period brings a strange clicking sound, and the appearance of three *Clockwork Horrors*. Ignoring the rest of the party, they make a beeline for *CoralKing*.
 
 The things have mechanical saws and pincers, and return fire with *Lightning Bolts* when *Benjamin* hits them, harmlessly, with
 his arrows. No weapon the party has seems to have the least effect on them. *CoralKing* struggles, but is astonishingly quickly subdued.
-They cut off the ring (and *CoralKing's* finger), then retreat back the way they came. *Actias* sends a *Eldritch Blast* at them, and narrowly dodges
+They cut off the ring (and *CoralKing's* finger), then retreat back the way they came. *Actias* sends an *Eldritch Blast* at them, narrowly dodging
 return *Lightning Bolts*.
 
 The party looks at each other haplessly, then go to heal *CoralKing*.
