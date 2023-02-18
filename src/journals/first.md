@@ -1,6 +1,8 @@
 # First Session
 
-## 2023-01-13
+## Goblins on the Triboar Trail
+
+### Springrise
 
 ### Dramatis Personae
 
@@ -15,17 +17,17 @@
 
 ![Sword Coast](images/lmop2.jpg)
 
-Spring rises over the *Sword Coast* as [Neverwinter](../background/urbs.md) makes its way along the *High Road* to summer at *Biscayne Bay*, awaiting the arrival of the *Marianus Submersible*.
+Spring rises over the *Sword Coast* as [Neverwinter](../background/urbs.md) makes its way along the *High Road* to spend Summerday at *Biscayne Bay*, awaiting the arrival of the *Marianus Submersible*.
 
-The *Magisterium* has declared *Springrise* as the majority of the inhabitants of *Neverwinter* exchange their musty and clamorous dwellings for the
+The *Magisterium* declares *Springrise* as the majority of the inhabitants of *Neverwinter* exchange their musty and clamorous dwellings for the
 warmth of the surrounding lands. Gaily colored tents and trade booths dot the surrounding countryside, patrolled by the *Protectorate* astride their
 clanking beasts.
 
-> A Dwarf named *Gundren Rockseeker* asks you to bring a wagonload of provisions to the summer settlement of *Phandalin*, three days travel southwest of your current location.
+> A Dwarf named *Gundren Rockseeker* asks you to bring a wagonload of provisions to the Summerday settlement of *Phandalin*, 20 hours travel Southwest of your current location.
 *Gundren* was clearly excited and more than a little secretive about his reasons for the trip, saying only that he and his brothers had found "something big", and that he'd pay you
 ten gold pieces each to escort his supplies to *Bathen's Provisions*, a trading post in *Phandalin*.
 He then set out ahead of you on horse, along with a warrior escort named *Sildar Hallwinter*, claiming he needed to arrive early to "take care of business".
-> You've spent the last day following the broad *High Road* south, and you've just recently veered east along the *Triboar Trail*. You've encountered no trouble so far, but the wilderness is always dangerous and full of predators.
+> You've spent the last 8 hours following the broad *High Road* south, and you've just recently veered east along the *Triboar Trail*. You've encountered no trouble so far, but the wilderness is always dangerous and full of predators.
 
 Character introductions were made.
 

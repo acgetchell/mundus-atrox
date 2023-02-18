@@ -2,6 +2,8 @@
 
 ## Orcs, the Tower of Endymion, and a mystery
 
+### Summerday +128 hours
+
 ### Dramatis Personae
 
 - Actias Aureus, a 3rd-level Otherkin Warlock

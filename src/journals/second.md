@@ -1,6 +1,8 @@
 # Second Session
 
-## 2023-01-20
+## Goblins and Zombies, Oh My!
+
+### Summerday +48 hours
 
 ### Dramatis Personae
 

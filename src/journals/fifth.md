@@ -2,6 +2,8 @@
 
 ## Return to Phandalin
 
+### Summerday +210 hours
+
 ### Dramatis Personae
 
 - Actias Aureus, a 4th-level Otherkin Warlock

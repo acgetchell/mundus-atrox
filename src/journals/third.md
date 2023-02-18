@@ -1,6 +1,8 @@
 # Third Session
 
-## 2023-01-27
+## Wildlife Problems
+
+### Summerday +80 hours
 
 ### Dramatis Personae
 
