@@ -12,7 +12,7 @@ A place where stories and legends unfold,
 Whispers of magic, of gods and kings,  
 Of druids, and rituals, and sacred things.
 
->On the first day of spring, a new life begins,  
+>In the hours of Springrise, a new life begins,  
 As nature awakens from her winterly sins,  
 And Stonehenge, too, seems to come alive,  
 As if a resurrection of times gone by.
@@ -31,4 +31,3 @@ The promise of life, the end of the game.
 Let us gather at Stonehenge and sing,  
 Songs of joy, of hope, and of love,  
 And let the stones bless us from above.
-
