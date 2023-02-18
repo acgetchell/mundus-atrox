@@ -2,7 +2,7 @@
 
 ![Stonehenge](images/stonehenge.png)
 
->Amidst the rolling hills of green,   
+>Amidst the rolling hills of green,  
 Where ancient mysteries lie unseen,  
 Stands a circle of stones so grand,  
 A monument of an unknown hand.
