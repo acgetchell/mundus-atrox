@@ -28,6 +28,7 @@
   - [Urbs](background/urbs.md)
   - [Castelas](background/castelas.md)
 - [Artifacts](background/artifacts.md)
+  - [Stonehenge](background/stoenhenge.md)
 
 # Game Information
 
