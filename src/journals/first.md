@@ -58,4 +58,5 @@ The party must decide what to do next.
 
 #### 500 XPs
 
-![Owlbear](images/owlbear.png)
+<!-- markdownlint-disable MD033 -->
+<img src="images/owlbear.png" width=50% height=50%>

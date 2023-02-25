@@ -1,18 +1,18 @@
 # Mana
 
-*Mana*, regardless of provenance, powers magic, and the character must have it to cast spells.
+*Mana*, regardless of provenance, powers magic, and spellcasters use it to cast spells.
 
-Spellcasters have *Mana* as part of their **Being**. To determine how much, for each *Spell Slot* multiply by *Spell Level* and add up the total. This is summarized in the tables below.[^1]
+To determine how much *Mana* is available, for each *Spell Slot* multiply by *Spell Level* and add up the total. This is summarized in the tables below.[^1]
 
 *Example: a 4th level Wizard has 10 Mana (4 1st-level slots x 1 + 3 2nd-level slots x 2 = 10).*
 
 Spells cost *Mana* equal to their level, plus any modifiers to that level.
 
-*Example: Fireball (a 3rd-level spell) cast with an additional 2d6 damage (10d6 total) costs 5 Mana.*
+*Example: Fireball (a 3rd-level spell) cast at 5th-level with an additional 2d6 damage (10d6 total) costs 5 Mana.*
 
-*Cantrips* and other *At Will* abilities do not consume *Mana* directly, as they are powered by the **Being**.
-Certain classes also have spells that are *Always Prepared* and do not count against Spell Slots.
-In this case, *Always Prepared* spells are added to both the *known spell* list and the *prepared spell* list,
+*Cantrips* and other *At Will* abilities do not consume *Mana* directly, as they are innate to the **Being**.
+Certain classes also have spells that are *Always Prepared* and which do not count against Spell Slots.
+In this case, *Always Prepared* spells are added to both the *Known Spells* list and the *Prepared Spells* list,
 and their *Spell Levels* are added to the *Mana* for the character.
 
 *Example: A 5th level Druid in the Circle of the Forest has 26 Mana. Barkskin, Spider Climb, Call Lightning, and Plant Growth are always

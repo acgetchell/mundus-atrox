@@ -4,7 +4,7 @@ Here is some information to help you create a character for play in **Mundus**.
 
 ## Level
 
-Level 1, or -1 from current party average.
+*Level 1*, or minimum XP for *Level - 1* from the [current party](../journals/overview.md) average (currently 4.5).
 
 ## Ability scores
 

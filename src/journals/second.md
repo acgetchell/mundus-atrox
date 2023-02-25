@@ -1,6 +1,6 @@
 # Second Session
 
-## Goblins and Zombies, Oh My!
+## Goblins and Zombies and Wolves, Oh My!
 
 ### Summerday +48 hours
 

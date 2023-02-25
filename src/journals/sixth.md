@@ -23,25 +23,15 @@
 *Initiatives & First Turn:*
 
 1. Benjamin (Comes in the west-side door and opens a door to attack a pack of goblins)
-
 2. Coral King (Attacked Goblin A with a strike and hella missed)
-
 3. Steve (Short bow makes a crit hit on Goblin D and kills it)
-
 4. Calmul (Hits and kills Goblin E)
-
 5. Tysnera (Casts firebolt on Goblin ? and misses)
-
 6. Viker (Casts Frost Bite on Goblin using Con. And the Goblin and deals 3 damage and has disadvantage on its next attack)
-
 7. Wulrif (Hexes and Edrich blasts -Armor class is 15 on Goblins- kills something?)
-
 8. Actius (Edrich blast on Goblin B and downs it)
-
 9. Geral (Swings on Goblin C and deals 6 damage)
-
 10. Tasbros (AA Goblin gets damage from a psychic thing)
-
 11. Goblin attacks Benjamin and deals 8 points of damage, same for CoralKing, and he fades away as a reaction.
 
 *Turn 2*
