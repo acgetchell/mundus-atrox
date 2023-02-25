@@ -1,5 +1,7 @@
 # Halflings
 
+![Halfling](images/halfling.png)
+
 [Halflings] live in the jungles in cleverly concealed homes and burrows. They have no known Capital.
 
 They spend their whole lives hiding from predators are are quite good at it.

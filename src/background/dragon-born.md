@@ -1,9 +1,11 @@
 # Dragonborn
 
-The [Draconigena] are a mysterious and sundered people, found living in small conclaves amongst the Elves, Humans, Dwarves, and sometimes Halflings.
+![Dragonborn](images/dragon-born.png)
 
-They have wings and a thick, powerful tail, and can fly. Any equipment they have, excepting magic items, must be specially made for their anatomy.
+The [Dragon-born] are a mysterious and sundered people, found living in small conclaves amongst the [Elves](elves.md), [Humans](humans.md), [Dwarves](dwarves.md), and sometimes [Halflings](halflings.md).
+
+**Mundus** [Dragon-born] have wings and a thick, powerful tail. They can fly, and any equipment they have, excepting magic items, must be specially made for their anatomy.
 
 Their relation to the mighty [Dracos](dragons.md) is a matter of much speculation but little knowledge.
 
-[Draconigena]: https://www.dndbeyond.com/races/16-dragonborn
+[Dragon-born]: https://www.dndbeyond.com/races/16-dragonborn

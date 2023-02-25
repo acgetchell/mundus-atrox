@@ -51,3 +51,4 @@
   - [Fourth Session](journals/fourth.md)
   - [Fifth Session](journals/fifth.md)
   - [Sixth Session](journals/sixth.md)
+  - [Seventh Session](journals/seventh.md)

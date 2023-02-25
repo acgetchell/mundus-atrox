@@ -8,14 +8,14 @@
 
 - Actias Aureus, a 4th-level Otherkin Warlock
 - Benjamin, a 4th-level Elf Ranger
-- Calmul Rhoqiroth, a 4th-level Dragonkin Artificer
+- Calmul Rhoqiroth, a 3rd-level Dragonkin Artificer
 - CoralKing, a 4th-level Gnome Monk
 - Geral Bryn, a 4th-level Human Fighter
 - Orky, a 4th-level Half-Elf Paladin
 - Steve, a 4th-level Halfling Rogue
 - Tasbros, a 4th-level Elf Sorcerer
 - Tysnera, a 4th-level Elf Wizard
-- Viker, a 4th-level Elf Druid
+- Viker, a 3rd-level Elf Druid
 - Wulrif, a 4th-level Human Warlock
 
 *Viker* revives *CoralKing*, who immediately wants to get his ring back (the **Precious**).

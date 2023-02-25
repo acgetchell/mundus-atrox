@@ -1,5 +1,7 @@
 # Otherkin
 
+![Otherkin](images/otherkin.png)
+
 [Otherkin] aren't just Touched by the [Fey](fey.md), they are rumored to be [Fey](fey.md) crossed with strange bloodlines.
 
 They have few common traits or characteristics, even when compared amongst themselves.
