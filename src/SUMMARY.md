@@ -36,6 +36,7 @@
   - [Races](game/races.md)
   - [Classes](game/classes.md)
     - [Artificer](game/artificer.md)
+    - [Playtest Materials](game/playtest.md)
   - [Equipment](game/equipment.md)
     - [Firearms](game/firearms.md)
     - [Conveyances](game/conveyances.md)

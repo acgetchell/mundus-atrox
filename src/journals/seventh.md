@@ -121,4 +121,6 @@ The Constructs have these jeweled eyes in the center of their faces and are made
 
 #### 1,520 XP for each player
 
+![Stegosaurs](images/stegosaurs.png)
+
 [Adamantium]: ../game/magic-items.md#adamantium
