@@ -88,7 +88,7 @@ A critical hit is also done by the 1st Construct and does 22 points of damage, 1
 3. *Viker* hits the 2nd construct (the one remaining) and deals 3 damage.
 4. *Steve* hits the Construct and does 2 damage.
 5. *CoralKing* moves closer to the remaining Construct using his Flurry of Blows and hits once. He does 5 damage.
-6. The 2nd Construct heals the 1st one and revives the 3rd one. The Stegosaur knocks the 3rd one over again.
+6. The 2nd Construct shoots bolts of lighting at its companions, healing the 1st one and reviving the 3rd one. They seem to act in perfect coordination. The Stegosaur knocks the 3rd one over again.
 
 #### Turn 6
 
@@ -121,7 +121,7 @@ while her mate had taken a lot of Lightning bolts. We leave the Druid and the Ra
 
 The Constructs have a single large, jeweled eye in the center of their face, and are made of [Adamantium]. As we remove the eyes we can see the life fade from them. We all gather up as much of their material as we can and stuff it into our backpacks. We go back to our group at the castle and take a long rest.
 
-#### 1,520 XP for each player
+#### 1,520 XP
 
 ![Stegosaurs](images/stegosaurs.png)
 
