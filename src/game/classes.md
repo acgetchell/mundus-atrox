@@ -7,9 +7,11 @@ The available classes are:
 - [Bard]
 - [Cleric]
 - [Druid]
+  - [Druid and Paladin Playtest materials]
 - [Fighter]
 - [Monk]
 - [Paladin]
+  - [Druid and Paladin Playtest materials]
 - [Ranger]
 - [Rogue]
 - [Sorcerer]
@@ -28,3 +30,4 @@ The available classes are:
 [Sorcerer]: https://www.dndbeyond.com/classes/sorcerer
 [Warlock]: https://www.dndbeyond.com/classes/warlock
 [Wizard]: https://www.dndbeyond.com/classes/wizard
+[Druid and Paladin Playtest materials]: images/UA-2023-DruidandPaladin.pdf

@@ -41,6 +41,7 @@
     - [Conveyances](game/conveyances.md)
   - [Spellcasting](game/spellcasting.md)
     - [Mana](game/mana.md)
+  - [Magic Items](game/magic-items.md)
 
 # Journals
 

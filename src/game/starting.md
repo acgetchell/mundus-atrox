@@ -31,6 +31,7 @@ Roll 4d6 for each characteristic, take best 3 dice, arrange scores as desired.
 ## Magic
 
 - [Spellcasting][spellcasting]
+- [Magic Items](magic-items.md)
 
 [Honor]: https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#HonorScore
 [Sanity]: https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#SanityScore
