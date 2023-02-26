@@ -74,7 +74,7 @@ The party scouts cautiously.
 The rest of the party carefully moves to the Southern entrance, beneath the arrow slits.
 *Calmul* produces small, scurrying spider Constructs which *Infuse* *Orky's* Chain Mail and Greatsword with Magic.
 
-*Actius* uses *Mold Earth* to collapse the South Wall, exposing the Hobgoblins inside!
+*Actius* uses *Mold Earth* to collapse the South Wall, exposing the Goblins inside!
 
 #### 400 XPs
 
