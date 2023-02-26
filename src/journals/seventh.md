@@ -14,7 +14,7 @@
 
 #### From the journal of Dame Orky
 
-*Gundren* is so happy to see us! He wants to return to Phandalin and then take us along to **Wave Echo Cave**.
+*Gundren* is so happy to see us! He wants to return to **Phandalin** and then take us along to **Wave Echo Cave**.
 *Gundren* was in *King Grol’s* chamber and grabs his map. *Steve* finds 3 healing potions, 220 sp, and 160 electrum hidden under a filthy mattress.
 *King Grol* had black armor and a black sword, which Calmul says is made of [Adamantium].
 *Gundren* recognizes the sword and armor as Sildar’s, who he says will probably want it back. For the time being, I take the chain mail and *Viker* takes the sword.
