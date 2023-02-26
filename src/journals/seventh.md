@@ -20,8 +20,8 @@
 *Gundren* recognizes the sword and armor as Sildar’s, who he says will probably want it back. For the time being, I take the chain mail and *Viker* takes the sword.
 
 There is a large beast trapped in the castle. *Benjamin* wants to open the door. I do not!
-*Benjamin* starts digging and we see a paw digging from the other side! Its head comes out and we see that it’s an Owl Bear. 
-Now it’s completely out, sees us, meanders over, and starts snacking on the remains of a goblin. A few of us go to explore the room it came from. 
+*Benjamin* starts digging and we see a paw digging from the other side! Its head comes out and we see that it’s an Owl Bear.
+Now it’s completely out, sees us, meanders over, and starts snacking on the remains of a Goblin. A few of us go to explore the room it came from.
 We move 30 ft toward a different corridor and attempt to go around the Owl Bear, which starts growling at us. *Steve* tries to sneak around the Owl Bear, but
 his Stealth roll fails. So, he uses Luck but fails again. He is forced to step carefully back and move through another corridor. The Owl Bear stops growling and turns back to it's Goblin.
 We follow *Steve*. We can still hear growling and shuffling but it gets fainter. *Viker*, who is waiting outside the castle, sees the Owl Bear run off.
@@ -47,20 +47,20 @@ Meanwhile, *Steve*, *CoralKing*, and I are hearing the noises. The automatons tu
 #### Turn 1
 
 1. *Benjamin* uses Hunter’s Sense. They are Constructs, vulnerable to Acid. They are immune to Lightning, Poison, Cold, Fire, Radiant, and attacks from Piercing/Slashing non-magical weapons. We find all this out later, *Benjamin* only has time to shout out "Use magical weapons!".
-2. I approach the closest Construct and swings my Infused Greatsword, missing.
+2. I approach the closest Construct and swing my Infused Greatsword, missing.
 3. *Viker* uses her new Longsword and hits, doing 5 damage.
 4. *Steve* hides.
 5. *CoralKing* attacks the other Construct with an unarmed strike and a bonus strike. He hits with one and deals 7 damage.
-6. A Construct attacks me and hits. It deals 9 points of damage after 3 attacks. A second one Lightning Bolts *CoralKing* with (luckily) 4 points of damage. The 3rd one attacks the Stegosaurus and hits all 3, one critically. It deals a lot of damage. The stegosaurus staggers but attacks back. Because its tail spikes are mostly piercing, it deals little damage.
+6. A Construct attacks me and hits. It deals 9 points of damage after 3 attacks. A second one Lightning Bolts *CoralKing* with (luckily) 4 points of damage. The 3rd one attacks the Stegosaur and hits all 3, one critically. It deals a lot of damage. The Stegosaur staggers but attacks back. Because its tail spikes are mostly piercing, it deals little damage.
 
 #### Turn 2
 
-1. *Benjamin* tries to communicate to the Stegosaurus that we are going to help them. He attacks a Construct with his Quarterstaff, missing.
+1. *Benjamin* tries to communicate to the Stegosaur that we are going to help them. He attacks a Construct with his Quarterstaff, missing.
 2. I attack again and do 8 damage. (18 to hit)
-3. *Viker* uses her spirit totem (Bear) as a Bonus action, giving everyone 9 temporary hit points. She swings her sword and hits, dealing 8 damage.
+3. *Viker* uses her Spirit Totem (Bear) as a Bonus action, giving everyone 9 temporary hit points. She swings her sword and hits, dealing 8 damage.
 4. *Steve* makes an unarmed strike and misses.
 5. *CoralKing* makes an unarmed strike and crits, dealing double damage (7).
-6. I get messed up by the Constructs and do 20 damage in return. *Viker* gets hit once and takes 3 damage. The 3rd one attacks the Stegosaurus.
+6. I get messed up by the Constructs and do 20 damage in return. *Viker* gets hit once and takes 3 damage. The 3rd one attacks the Stegosaur.
 
 #### Turn 3
 
@@ -69,17 +69,17 @@ Meanwhile, *Steve*, *CoralKing*, and I are hearing the noises. The automatons tu
 3. *Viker* misses her attacks.
 4. *Steve* hits the Construct critically and does 3 damage.
 5. *CoralKing* hits one headbutt and does 5 damage.
-6. The Constructs hit *CoralKing* 1/6 times with their flanked advantage on him, lucky! He gets 9 points of damage. I get bit for 7 points of damage. One of the Constructs shoots 2 bolts of Lightning at another damaged Construct and heals it 34 HP! The Stegosaurus attacks and does 15 damage.
+6. The Constructs hit *CoralKing* 1/6 times with their flanked advantage on him, lucky! He gets 9 points of damage. I get bit for 7 points of damage. One of the Constructs shoots 2 bolts of Lightning at another damaged Construct and heals it 34 HP! The Stegosaur attacks and does 15 damage.
 
 #### Turn 4
 
 1. *Benjamin* moves and heals me for 9 HP while a Construct gets an Opportunity attack on him but misses.
 2. I hit and deal 22 damage! However, the extra flames don't seem to have an effect.
-3. *Viker* disengages and moves to the 3rd Construct (it is the most damaged since it keeps getting hit by the Stegosaurus) to cast a Shillelagh cantrip as a Bonus action which gives her wooden staff magical damage.
+3. *Viker* disengages and moves to the 3rd Construct (it is the most damaged since it keeps getting hit by the Stegosaur) to cast a Shillelagh cantrip as a Bonus action which gives her wooden staff magical damage.
 4. *Steve* hits a Construct with an Unarmed attack and does 2 points of damage.
-5. *CoralKing* uses Step of the Wind (which disengages from the 2nd Construct as a bonus action) to move and flank the 1st Construct with me and attack. He hits and does 8 damage.
+5. *CoralKing* uses Step of the Wind (which disengages from the 2nd Construct as a Bonus action) to move and flank the 1st Construct with me and attack. He hits and does 8 damage.
 6. The 2nd Construct moves closer to me and attacks. They hit twice and deal 10 points of damage but only 4 stick. Remember that every hit is reduced by 3 because of my armor and feat!
-A critical hit is also done by the 1st Construct and does 22 points of damage, 19 sticks. The 3rd one attacks *Viker* and does 7 points of damage. The Stegosaurus flanks and hits a Construct for double damage! That Construct is down!
+A critical hit is also done by the 1st Construct and does 22 points of damage, 19 sticks. The 3rd one attacks *Viker* and does 7 points of damage. The Stegosaur flanks and hits a Construct for double damage! That Construct is down!
 
 #### Turn 5
 
@@ -88,16 +88,16 @@ A critical hit is also done by the 1st Construct and does 22 points of damage, 1
 3. *Viker* hits the 2nd construct (the one remaining) and deals 3 damage.
 4. *Steve* hits the Construct and does 2 damage.
 5. *CoralKing* moves closer to the remaining Construct using his Flurry of Blows and hits once. He does 5 damage.
-6. The 2nd Construct heals the 1st one and revives the 3rd one. The Stegosaurus knocks the 3rd one over again.
+6. The 2nd Construct heals the 1st one and revives the 3rd one. The Stegosaur knocks the 3rd one over again.
 
 #### Turn 6
 
-1. *Benjamin* heals the downed Stegosaurus for 12 points.
+1. *Benjamin* heals the downed Stegosaur for 12 points.
 2. I hit with the Greatsword and do 14 damage to the 1st Construct.
 3. *Viker* hits it so the Construct is back down.
 4. *Steve* misses a dagger throw.
 5. *CoralKing* does 11 damage to the remaining Construct with a flurry of blows!
-6. The Construct heals his friend 13 and the other 17. The Stegosaurus hits with advantage and drops one. The other Stegosaurus moves and misses a whack on the 1st Construct.
+6. The Construct heals his friend 13 and the other 17. The Stegosaur hits with advantage and drops one. The other Stegosaurus gets up, moves, and misses a whack on the 1st Construct.
 
 #### Turn 7
 
@@ -106,7 +106,7 @@ A critical hit is also done by the 1st Construct and does 22 points of damage, 1
 3. *Viker* hits the damaged Construct and knocks it over again. She also hands *Steve* her Longsword while keeping her Shillelagh.
 4. *Steve* swings on the 1st Construct with the Longsword and lands a critical hit for 19 damage! We should have given him the Longsword sooner!
 5. *CoralKing* uses his Flurry of shinkicks with 1 hit and 1 crit for 15 damage.
-6. 1 Construct gets 21 HP and the other one gets 14 HP. The Stegosaurus hits the 21 for 15 damage. The other Stegosaurus swings and misses.
+6. 1 Construct gets 21 HP and the other one gets 14 HP. The Stegosaur hits the 21 for 15 damage. The other Stegosaur swings and misses.
 
 #### Turn 8
 
@@ -116,8 +116,8 @@ A critical hit is also done by the 1st Construct and does 22 points of damage, 1
 4. *Steve* moves to the Contruct with 14 HP and misses a swing.
 5. *CoralKing* flanks the last Construct and uses his Flurry of attacks. He hits once, deals 7 damage, and it drops! As it falls apart, the magic ring and a black, decayed finger fall out of it!!!
 
-The Stegosaurs turn toward us, not knowing if they need to defend themselves against us. We back off, slowly. *Benjamin* and *Viker* speak soothingly to the animals. It turns out the female was the one up defending
-while her mate took a lot of Lightning bolts. We leave the Druid and the Ranger to communicate.
+The Stegosaurs turn toward us, not knowing if they need to defend themselves against us. We back off, slowly. *Benjamin* and *Viker* speak soothingly. It turns out the female was the one up defending
+while her mate had taken a lot of Lightning bolts. We leave the Druid and the Ranger to communicate with them.
 
 The Constructs have a single large, jeweled eye in the center of their face, and are made of [Adamantium]. As we remove the eyes we can see the life fade from them. We all gather up as much of their material as we can and stuff it into our backpacks. We go back to our group at the castle and take a long rest.
 
