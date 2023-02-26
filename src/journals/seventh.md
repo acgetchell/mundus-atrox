@@ -117,7 +117,7 @@ A critical hit is also done by the 1st construct and does 22 points of damage, 1
 The Stegosaurs turn toward us, not knowing if they need to defend themselves against us. We back off, slowly. Benjamin and Viker speak soothingly to the animals. It turns out the female was the one up defending
 while her mate took a lot of Lightning bolts. We leave the Druid and the Ranger to communicate.
 
-The Constructs have these jeweled eyes in the center of their faces and are made of [Adamantium]. As we remove the eyes we can see the life fade from them. We all gather up as much of the construct materials as we can and stuff it into our backpacks. We go back to our group at the castle and take a long rest.
+The Constructs have a single large, jeweled eye in the center of their face, and are made of [Adamantium]. As we remove the eyes we can see the life fade from them. We all gather up as much of their material as we can and stuff it into our backpacks. We go back to our group at the castle and take a long rest.
 
 #### 1,520 XP for each player
 
