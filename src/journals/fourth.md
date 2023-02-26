@@ -18,7 +18,7 @@
 - Viker, a 3rd-level Elf Druid
 - Wulrif, a 3rd-level Human Warlock
 
-In the aftermath of the battle with the pack of Allosaurs, the party camped between the tread marks of a passing *Urb* on the *Triboar Trail*, reasoning the deep indentations
+In the aftermath of the battle with the pack of Allosaurs, the party camped between the tread marks of a passing *Urb* on the **Triboar Trail**, reasoning the deep indentations
 and broken ground would provide a more defensible camp site. While resting they saw a curious sight: strange, whirring clockwork automatons marching single file out of the
 forest over to the bodies of the Allosaurs. Ignoring the party entirely, the strange machines proceeded to render the bodies into small pieces.
 
@@ -29,7 +29,7 @@ from the *Enclouding* giving a dreamlike quality while everyone meditated and he
 
 Midway through the next 8-hour march, the *Urban* trail turns North into the forest, a vast scar of sawn-down trees and torn-up earth rent between the giant Sequoias.
 
-The group continues East, reaching the ruins of Conyberry.
+The group continues East, reaching the ruins of **Conyberry**.
 
 > The forest grows dark and still as the trail winds deeper into the trees. Heavy vines and thick layers of moss drape the branches,
 > and the air is noticeably colder than it was in the ruined village. Rounding a bend in the trail, you see a screen made from the warped
@@ -51,7 +51,7 @@ The adventurers enter.
 
 *Agatha* disappears.
 
-After some consultation, the party decides to head South to look at the *Old Owl Well*, a point of interest on the map. The ground gets steeper and the wind picks up.
+After some consultation, the party decides to head South to look at the **Old Owl Well**, a point of interest on the map. The ground gets steeper and the wind picks up.
 
 They encounter an old dwarf riding a horseless carriage.
 
@@ -71,7 +71,7 @@ On the strange mechanical scavengers:
 
 > "No one knows, but best not to get in their way if you can help it."
 
-> "What's *Old Owl Well*?"
+> "What's **Old Owl Well**?"
 
 > "Oh, an ancient tower. Be careful, there's *Undead* been spotted around there."
 
@@ -114,7 +114,7 @@ lurk nearby, but do not attack.
 
 *Wulrif* seems to be the de-facto spokesperson of the group.
 
-> "We were looking for the *Old Owl Well*."
+> "We were looking for the **Old Owl Well**."
 
 > "Indeed, you have found it." An odd gleam in his eyes. "Have you spoken to Agatha?"
 
@@ -146,11 +146,11 @@ A wave of cold, and *Agatha* looks at the party, curiously.
 
 > "Acceptable. What is your question?"
 
-> "What is the name of the tower at *Old Owl Well*?
+> "What is the name of the tower at **Old Owl Well**?
 
 > *Agatha* seems to think a moment. "The Tower of Endymion." She vanishes.
 
-Back to *Old Owl Well*. The Mage receives the answer with interest, and delivers the ring.
+Back to **Old Owl Well**. The Mage receives the answer with interest, and delivers the ring.
 After consultation, the party decides that *CoralKing* shall be it's bearer.
 
 But the next rest period brings a strange clicking sound, and the appearance of three *Clockwork Horrors*. Ignoring the rest of the party, they make a beeline for *CoralKing*.

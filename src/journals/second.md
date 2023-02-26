@@ -41,22 +41,22 @@ carrying. CoralKing stealthily crept up the passage, finding another group of 6 
 Turning the tides, the group blitzed into the room, taking down all of the Goblins except one, which they kept as a prisoner.
 
 The human prisoner turned out to be *Sildar Hallwinter*, a retired warrior and bodyguard of *Gundren Rockseeker*. He relayed that they
-were both ambushed by a large band of Goblins with a bugbear leader, who took *Gundren* someplace else.
+were both ambushed by a large band of Goblins with a Bugbear leader, who took *Gundren* someplace else.
 
 The party turned to interrogate the captured Goblin, who revealed a number of items:
 
 - The Bugbear's name is *Klarg*, and he's the leader of the band, which numbers more than two dozen. But *Yeemik* is second in command, and know's many things of interest to the group.
-- *Klarg* answers to *King Grol*, chief of the *Cragmaw tribe*, who dwells in *Cragmaw Castle*.
+- *Klarg* answers to *King Grol*, chief of the *Cragmaw tribe*, who dwells in **Cragmaw Castle**.
 - *Klarg* received a messenger from *King Grol* a few days ago. Somone named *The Black Spider* was paying the *Cragmaws* to watch for the dwarf
 *Gundren Rockseeker*, capture him, and send him and his effects (but most especially a map) back to *King Grol*.
-- *Klarg* took *Gundren* to *Cragmaw Castle*. *Yeemik* can lead the party there.
+- *Klarg* took *Gundren* to **Cragmaw Castle**. *Yeemik* can lead the party there.
 
-At this point *Sildar* interrupts, saying he needs to get to *Phandalin* along with the supplies, because he needs to find out the whereabouts of
-his friend, *Iarno Glasstaff*, who went to *Phandalin* last Summerday to prepare the way. He offers an additional 50 gold pieces for safe escort to *Phandalin*.
+At this point *Sildar* interrupts, saying he needs to get to **Phandalin** along with the supplies, because he needs to find out the whereabouts of
+his friend, *Iarno Glasstaff*, who went to **Phandalin** last Summerday to prepare the way. He offers an additional 50 gold pieces for safe escort to **Phandalin**.
 
-The party agrees that they need to get *Sildar* and the wagon of supplies to *Phandalin*, and then find *Gundren*.
+The party agrees that they need to get *Sildar* and the wagon of supplies to **Phandalin**, and then find *Gundren*.
 
-Turning south along the *Triboar Trail*, the party, along with *Sildar* and *Yeemik*, head towards *Phandalin*.
+Turning south along the **Triboar Trail**, the party, along with *Sildar* and *Yeemik*, head towards **Phandalin**.
 
 They pass another wagon that has been torn apart, bodies littered everywhere. As they approach, the bodies rise with a groan and attack.
 
