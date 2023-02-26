@@ -1,6 +1,6 @@
 # Seventh Session
 
-## Now What?
+## Return of the Automatons
 
 ### Summerday +294 hours
 
@@ -41,6 +41,8 @@ The automatons are trying to reach it, but the other Stegosaurus is whipping aro
 We can also see a clutch of eggs by the fallen Stegosaur.
 
 Meanwhile, Steve, CoralKing, and Orky are hearing the noises. The automatons turn toward us like they might attack. So, well, we roll Initiative:
+
+![Clockwork Horrors](images/clockwork-horror.png)
 
 #### Turn 1
 

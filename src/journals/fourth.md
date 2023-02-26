@@ -22,7 +22,7 @@ In the aftermath of the battle with the pack of Allosaurs, the party camped betw
 and broken ground would provide a more defensible camp site. While resting they saw a curious sight: strange, whirring clockwork automatons marching single file out of the
 forest over to the bodies of the Allosaurs. Ignoring the party entirely, the strange machines proceeded to render the bodies into small pieces.
 
-![Clockwork Horror](images/Clockwork_horror_5e.png)
+![Clockwork Horror](images/clockwork-horror.png)
 
 The sights and sounds were unpleasant to say the least, so the party moved a bit further along the trail of the Urb. The rest period was otherwise uneventful, the light
 from the *Enclouding* giving a dreamlike quality while everyone meditated and healed.
