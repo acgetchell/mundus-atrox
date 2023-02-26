@@ -43,7 +43,7 @@ The party heads to the **Phandalin Miner's Exchange**, meeting the proprietor, *
 and offers 100gp for the death of their leader, an unknown Mage who recently arrived. *Wulfric* senses an ulterior motive, though.
 *Halla* notes that many *Redbrands* hang out at the **Sleeping Giant Inn**, and but their leader is almost always at **Tresendar Manor**. *Halla* thinks there might be two dozen *Redbrands*.
 
-The party carefully reconnoiters the manor, preparing to set a trap near the *Sleeping Giant*. By chance, four *Redbrands* emerge from the *Sleeping Giant*, triggering the ambush.
+The party carefully reconnoiters the manor, preparing to set a trap near the **Sleeping Giant Inn**. By chance, four *Redbrands* emerge from the **Sleeping Giant Inn**, triggering the ambush.
 
 It's any easy fight for the party, and the *Redbrands* are quickly overwhelmed. A *Redbrand* is captured and interrogated, and the party discovers that:
 

@@ -116,7 +116,7 @@ lurk nearby, but do not attack.
 
 > "We were looking for the **Old Owl Well**."
 
-> "Indeed, you have found it." An odd gleam in his eyes. "Have you spoken to Agatha?"
+> "Indeed, you have found it." An odd gleam in his eyes. "Have you spoken to *Agatha*?"
 
 > "Well, yes."
 
@@ -148,7 +148,7 @@ A wave of cold, and *Agatha* looks at the party, curiously.
 
 > "What is the name of the tower at **Old Owl Well**?
 
-> *Agatha* seems to think a moment. "The Tower of Endymion." She vanishes.
+> *Agatha* seems to think a moment. "The **Tower of Endymion**." She vanishes.
 
 Back to **Old Owl Well**. The Mage receives the answer with interest, and delivers the ring.
 After consultation, the party decides that *CoralKing* shall be it's bearer.
