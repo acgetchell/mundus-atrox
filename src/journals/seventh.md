@@ -36,8 +36,8 @@ Viker can identify the scrolls.
 Steve takes a cursory look around and sees that there’s not much left in the rest of the castle. As we join Viker we hear a weird crashing sound in the forest. 
 Viker identifies the potion as healing and the scrolls are Silence and Revivify. Since we found the 3 healing potions with Gundren, we now have 4.
 We also now hear a clicking sound like the ones the automatons made when they chop up a body.
-Viker and Benjamin go to investigate the sound. They find a clearing with 2 Stegosauruses, one on the ground. 
-The automatons are trying to reach it, but the other Stegosaurus is whipping around with its tail, defending it.
+Viker and Benjamin go to investigate the sound. They find a clearing with 2 Stegosaurs, one on the ground.
+The automatons are trying to reach it, but the other Stegosaur is whipping around with its tail, defending it.
 We can also see a clutch of eggs by the fallen Stegosaur.
 
 Meanwhile, Steve, CoralKing, and Orky are hearing the noises. The automatons turn toward us like they might attack. So, well, we roll Initiative:
@@ -67,7 +67,7 @@ Meanwhile, Steve, CoralKing, and Orky are hearing the noises. The automatons tur
 1. Benjamin misses.
 2. I Disengage and moves behind the Construct to flank it with Viker and gain Advantage. Then, I cast Searing Smite as a Bonus action (extra 1d6 fire damage + my enemy must take a constitution save)
 3. Viker misses her attacks.
-4. Steve hits the construct critically and does 3 damage.
+4. Steve hits the Construct critically and does 3 damage.
 5. CoralKing hits one headbutt and does 5 damage.
 6. The Constructs hit CoralKing 1/6 times with their flanked advantage on him, lucky! He gets 9 points of damage. I get bit for 7 points of damage. One of the Constructs shoots 2 bolts of Lightning at another damaged Construct and heals it 34 HP! The Stegosaurus attacks and does 15 damage.
 
@@ -75,38 +75,38 @@ Meanwhile, Steve, CoralKing, and Orky are hearing the noises. The automatons tur
 
 1. Benjamin moves and heals me for 9 HP while a Construct gets an Opportunity attack on him but misses.
 2. I hit and deal 22 damage! However, the extra flames don't seem to have an effect.
-3. Viker disengages and moves to the 3rd construct (it is the most damaged since it keeps getting hit by the Stegosaurus) to cast a Shillelagh cantrip as a Bonus action which gives her wooden staff magical damage.
+3. Viker disengages and moves to the 3rd Construct (it is the most damaged since it keeps getting hit by the Stegosaurus) to cast a Shillelagh cantrip as a Bonus action which gives her wooden staff magical damage.
 4. Steve hits a Construct with an Unarmed attack and does 2 points of damage.
 5. CoralKing uses Step of the Wind (which disengages from the 2nd Construct as a bonus action) to move and flank the 1st Construct with me and attack. He hits and does 8 damage.
-6. The 2nd construct moves closer to me and attacks. They hit twice and deal 10 points of damage but only 4 stick. Remember that every hit is reduced by 3 because of my armor and feat!
-A critical hit is also done by the 1st construct and does 22 points of damage, 19 sticks. The 3rd one attacks Viker and does 7 points of damage. The Stegosaurus flanks and hits a construct for double damage! That Construct is down!
+6. The 2nd Construct moves closer to me and attacks. They hit twice and deal 10 points of damage but only 4 stick. Remember that every hit is reduced by 3 because of my armor and feat!
+A critical hit is also done by the 1st Construct and does 22 points of damage, 19 sticks. The 3rd one attacks Viker and does 7 points of damage. The Stegosaurus flanks and hits a Construct for double damage! That Construct is down!
 
 #### Turn 5
 
 1. Benjamin heals me for 9 points!
-2. I swing on the 1st construct, do 14 damage, and it goes down! So, a fully healed construct is still up.
+2. I swing on the 1st Construct, do 14 damage, and it goes down! So, a fully healed Construct is still up.
 3. Viker hits the 2nd construct (the one remaining) and deals 3 damage.
-4. Steve hits the construct and does 2 damage.
-5. CoralKing moves closer to the remaining construct using his Flurry of Blows and hits once. He does 5 damage.
-6. The 2nd construct heals the 1st one and revives the 3rd one. The Stegosaurus knocks the 3rd one over again.
+4. Steve hits the Construct and does 2 damage.
+5. CoralKing moves closer to the remaining Construct using his Flurry of Blows and hits once. He does 5 damage.
+6. The 2nd Construct heals the 1st one and revives the 3rd one. The Stegosaurus knocks the 3rd one over again.
 
 #### Turn 6
 
 1. Benjamin heals the downed Stegosaurus for 12 points.
-2. I hit with the Greatsword and do 14 damage to the 1st construct.
+2. I hit with the Greatsword and do 14 damage to the 1st Construct.
 3. Viker hits it so the Construct is back down.
 4. Steve misses a dagger throw.
-5. CoralKing does 11 damage to the remaining construct with a flurry of blows!
-6. The construct heals his friend 13 and the other 17. The Stegosaurus hits with advantage and drops one. The other Stegosaurus moves and misses a whack on the 1st construct.
+5. CoralKing does 11 damage to the remaining Construct with a flurry of blows!
+6. The Construct heals his friend 13 and the other 17. The Stegosaurus hits with advantage and drops one. The other Stegosaurus moves and misses a whack on the 1st Construct.
 
 #### Turn 7
 
 1. Benjamin misses but is now flanking the Construct.
 2. I hit the 17 HP Construct and do 15 damage.
 3. Viker hits the damaged Construct and knocks it over again. She also hands Steve her Longsword while keeping her Shillelagh.
-4. Steve swings on the 1st construct with the Longsword and lands a critical hit for 19 damage! We should have given him the Longsword sooner!
+4. Steve swings on the 1st Construct with the Longsword and lands a critical hit for 19 damage! We should have given him the Longsword sooner!
 5. CoralKing uses his Flurry of shinkicks with 1 hit and 1 crit for 15 damage.
-6. 1 construct gets 21 HP and the other one gets 14 HP. The Stegosaurus hits the 21 for 15 damage. The other Stegosaurus swings and misses.
+6. 1 Construct gets 21 HP and the other one gets 14 HP. The Stegosaurus hits the 21 for 15 damage. The other Stegosaurus swings and misses.
 
 #### Turn 8
 
