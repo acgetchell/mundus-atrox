@@ -47,7 +47,7 @@ The adventurers enter.
 
 > "Where is Bojangle's spellbook?" asks *Wulrif*.
 
-> "I traded that to a Necromancer named Tsernoth from the city of Iriaebor, let's see, more than a hundred years ago. I do not know what happened to it after that."
+> "I traded that to a Necromancer named *Tsernoth* from **Iriaebor**, let's see, more than a hundred years ago. I do not know what happened to it after that."
 
 *Agatha* disappears.
 
@@ -65,7 +65,7 @@ After establishing that he is a Miner around these parts, the party asks a few q
 
 On the strange mechanical scavengers:
 
-> "Oh, avoid the *Clockwork Horrors* if you can."
+> "Oh, avoid the Clockwork Horrors if you can."
 
 > "But what do they want?"
 
@@ -98,7 +98,7 @@ which nearly takes *Geral* with him.
 
 Battered, the party rests, taking suitable trophies from the Orcs.
 
-Again, two *Clockwork Horrors* arrive and the party leaves them to their grisly task. During the Long Rest, *Benjamin*
+Again, two Clockwork Horrors arrive and the party leaves them to their grisly task. During the Long Rest, *Benjamin*
 sees three leave.
 
 > As you crest a low ridge, you spy the crumbling ruins of an old watchtower standing amid the rugged hills.
@@ -126,7 +126,7 @@ lurk nearby, but do not attack.
 
 > "Probably best you don't know," says the Mage with a chilling smile. "I can offer you this ring as a reward."
 
-Viker goes into a brief trance, then nods and whispers:
+*Viker* goes into a brief trance, then nods and whispers:
 
 > *"It's a Ring of Protection."*
 
@@ -153,7 +153,7 @@ A wave of cold, and *Agatha* looks at the party, curiously.
 Back to **Old Owl Well**. The Mage receives the answer with interest, and delivers the ring.
 After consultation, the party decides that *CoralKing* shall be it's bearer.
 
-But the next rest period brings a strange clicking sound, and the appearance of three *Clockwork Horrors*. Ignoring the rest of the party, they make a beeline for *CoralKing*.
+But the next rest period brings a strange clicking sound, and the appearance of three Clockwork Horrors. Ignoring the rest of the party, they make a beeline for *CoralKing*.
 
 The things have mechanical saws and pincers, and return fire with *Lightning Bolts* when *Benjamin* hits them, harmlessly, with
 his arrows. No weapon the party has seems to have the least effect on them. *CoralKing* struggles, but is astonishingly quickly subdued.

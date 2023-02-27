@@ -20,10 +20,10 @@
 
 *Viker* revives *CoralKing*, who immediately wants to get his ring back (the **Precious**).
 
-*Benjamin* uses *Primeval Awareness* to try to track the *Clockwork Horrors*, but they are something beyond his understanding.
+*Benjamin* uses *Primeval Awareness* to try to track the Clockwork Horrors, but they are something beyond his understanding.
 He does sense a Dragon flying North of the party just before it moves out of range.
 
-*Tasbros* thinks the *Clockwork Horrors* are some kind of Construct, and *Calmul* agrees.
+*Tasbros* thinks the Clockwork Horrors are some kind of Construct, and *Calmul* agrees.
 
 The great tracks of the *Urb* once again provides shelter as the party marches for two rest periods back to **Phandalin**.
 They greet *Sister Garaele* at the **Shrine of Luck** and relay *Agatha's* answer.
