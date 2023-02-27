@@ -73,7 +73,7 @@ On the strange mechanical scavengers:
 
 > "What's **Old Owl Well**?"
 
-> "Oh, an ancient tower. Be careful, there's *Undead* been spotted around there."
+> "Oh, an ancient tower. Be careful, there's Undead been spotted around there."
 
 After a few more shouts the party continues, finally making camp on a hillside as the wind picks up.
 

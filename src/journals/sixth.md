@@ -210,9 +210,9 @@ Magically the castle clears and we hear noises, so we move towards a back room t
 5. *Tysnera* cast Sleep on 3 Goblins, downing them.
 6. *Viker* uses Ice Knife on the Hobgoblin and deals 9 damage, killing our final foe!!!
 
-*Benjamin* sends his Pterodactyl to scout and it senses a monstrosity locked in an area. The Southeast tower is heavily barricaded with snuffling and growling inside. Even the door is barricaded by rocks.
+*Benjamin* sends his Pterodactyl to scout and it senses a Monstrosity locked in an area. The Southeast tower is heavily barricaded with snuffling and growling inside. Even the door is barricaded by rocks.
 
-We finally find Gundren Rockseeker, tied up in the Southwest room. With him is his map, which shows the way to **Wave Echo Cave**, a place that makes magic items.
+We finally find *Gundren Rockseeker*, tied up in the Southwest room. With him is his map, which shows the way to **Wave Echo Cave**, a place that makes magic items.
 
 #### 2,600 XP
 
