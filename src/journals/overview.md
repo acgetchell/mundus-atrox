@@ -15,3 +15,5 @@ The first adventuring group based out of [Neverwinter](../background/urbs.md).
 [Sixth Session](sixth.md)
 
 [Seventh Session](seventh.md)
+
+[Eighth Session](eighth.md)
