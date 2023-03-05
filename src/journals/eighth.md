@@ -68,12 +68,12 @@ We decide to scatter since we are in the middle of the plains between **Neverwin
 > Faugh! I'm merely snacking on a few elves, as is my wont.
 
 
-8.  We have 4 Elves (*Viker*, *Tasbros*, *Tysnera*, *Benjamin*), and I'm half-elven. *Calmul* next attempts to be intimidating and fails.
-9.  I'm prone, so I get up and use Misty Step (2 mana) to teleport behind a tree.
-10.  *Wulrif* attempts to barter with the Dragon and it's not interested.
-11.  *Geral* shoots the Dragon once and uses Commander's Strike on *Benjamin*. *Geral* hits and deals 4 damage. *Benjamin* also hits and deals 18 damage!
-12.  *Tysnera* casts Lightning Bolt (8d6 damage!!!) and deals 26 damage! I peek out from behind my tree and silently cheer!
-13.  *Tasbros* casts Chromatic Orb and deals the Dragon 13 damage.
+8. We have 4 Elves (*Viker*, *Tasbros*, *Tysnera*, *Benjamin*), and I'm half-elven. *Calmul* next attempts to be intimidating and fails.
+9. I'm prone, so I get up and use Misty Step (2 mana) to teleport behind a tree.
+10. *Wulrif* attempts to barter with the Dragon and it's not interested.
+11. *Geral* shoots the Dragon once and uses Commander's Strike on *Benjamin*. *Geral* hits and deals 4 damage. *Benjamin* also hits and deals 18 damage!
+12. *Tysnera* casts Lightning Bolt (8d6 damage!!!) and deals 26 damage! I peek out from behind my tree and silently cheer!
+13. *Tasbros* casts Chromatic Orb and deals the Dragon 13 damage.
 
 #### Turn 2
 
@@ -139,6 +139,8 @@ We travel with *Carp* toward the manor but he is concerned about the noise from 
 *Wulrif* and *Actius* confer, saying it’s not a Death Tyrant. We all discuss and decide it would be best to approach and attempt to negotiate with the Beholder, as opposed to coming in hot through the front door. The Redbrand we interrogated said they avoid the Beholder, so it and the Redbrands may not have aligned agendas.
 
 We are crawling through the tunnel, single file, which seems to be skillfully constructed. We approach the Beholder and it seems quite mad, rambling gibberish and tongues.
+
+![Beholder](images/beholder.png)
 
 > "What are you doing here?" it says, finally, in Common.
 
