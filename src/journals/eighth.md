@@ -49,6 +49,8 @@ Our plan is to go back to **Phandalin** to return *Gundren* (8 hour trip), maybe
 
 On our way to **Phandalin**, a young Green Dragon swoops down on us from behind, ambushing us with it's Poisonous breath weapon - 26 damage for everyone who succeeded their saving throws! For those who didn’t, they take 52 damage and got knocked down (*Actius* and I). The dragon swoops around for a second pass ...
 
+![Young Green Dragon Swooping](images/young-green-dragon-swooping.png)
+
 #### Turn 1
 
 We decide to scatter since we are in the middle of the plains between **Neverwinter Wood** and the **Triboar Trail**.
