@@ -110,7 +110,7 @@ We all look back and see that *Gundren* (and *Snaga*) are dead. *Gundren* was su
 
 > "You lost", replies *Wulrif*.
 
-> "Thank you for saving my life, " says Gundren, bowing. "We Dwarves always repay our debts. When we find my brothers in **Wave Echo Cave** and we restart **Phandalever Mine**, you shall have 10% of the proceeds.
+> "Thank you for saving my life, " says Gundren, bowing. "We Dwarves always repay our debts. When we find my brothers in **Wave Echo Cave** and restart **Phandalever Mine**, you shall have 10% of the proceeds.
 
 > "Sounds good to us", replies *Geral*.
 
@@ -128,13 +128,14 @@ There are a couple of Dwaven mercenaries outside of the bank, but otherwise no o
 
 > "Ah, well, the *Redbrands* have been carrying off the folk to slavery, I fear. Held in the basement of **Tresendar Manor** until they conclude their foul business with the Hobgoblins and Bugbears."
 
-> "We should have dispatched this foul injustice when we were here last," I say. "You have my solemn Oath that will will defeat these villains."
+> "We should have dispatched this grave injustice when we were here last," I say. "You have my solemn Oath that will will defeat these villains."
 
 > "Blessings upon you! I do not know how they swell their numbers, but you should find Farmer *Alderleaf*. She is both cunning and practical, and may know something to aid in your quest."
 
-The farm looks like it hasn’t been used in awhile, but the house looks strong. *Geral* knocks on the door, and *Qhelling Alderleaf*, a Halfling, answers. She invites us in for a hearty feast. We are all grateful and eat, but *CoralKing* remains hesitant and stands in the corner. She says her son, *Carp*, might know a secret way to get in the castle. Carp’s friend, *Radof*, is a Druid, and told her about the Undead in the Manor. He seems to have been lured away to **Thundertree** to deal with a Dragon. The Redbrands are well-equipped and led by a Wizard, *Glassstaff*.
+The farm looks like it hasn’t been used in awhile, but the house looks strong. *Geral* knocks on the door, and *Qelline Alderleaf*, a Halfling, answers. She invites us in for a hearty feast. We are all grateful and eat, but *CoralKing* remains hesitant and stands in the corner. She says her son, *Carp*, might know a secret way to get in the castle. Carp’s friend, *Reidoth*, is a Druid, and told her about the Undead in the Manor. He seems to have been lured away to **Thundertree** to deal with a Dragon. The Redbrands are well-equipped and led by a Wizard, *Glassstaff*.
 
-We travel with *Carp* toward the manor but he is concerned about the noise from our heavy armor. He says if we can just get to this tunnel carefully, we should be good from there. We take off our loud armor. The tunnel leads to a storeroom and there’s a big floating thing in there. *Wulrif* tries to get *Carp* to visualize it and then reads his mind, but Carp fled before he got a good look.
+We travel with *Carp* toward the manor but he is concerned about the noise from our heavy armor. He says if we can just get to this tunnel carefully, we should be good from there. We take off our loud armor. The tunnel leads to a storeroom but *Carp* says
+there’s a big floating creature in there. *Wulrif* tries to get *Carp* to visualize it and then reads his mind, but Carp fled before he got a good look at the thing.
 
 *Wulrif* and *Actius* confer, saying it’s not a Death Tyrant. We all discuss and decide it would be best to approach and attempt to negotiate with the Beholder, as opposed to coming in hot through the front door. The Redbrand we interrogated said they avoid the Beholder, so it and the Redbrands may not have aligned agendas.
 
@@ -162,9 +163,9 @@ We are crawling through the tunnel, single file, which seems to be skillfully co
 
 Ten stuffed turkeys with all the fixings on plates materialize in front of each of us.
 
-> "But that's not my kind of food ..." It conjures a bowl of something foul and wriggling, proceeding to slurp the things down with great gusto.
+> "But that's not my kind of food ..." It conjures a bowl of something foul-smelling and wriggling, proceeding to slurp the things down with great gusto.
 
-*Wulrif* studies it really intently. Suddenly, he gives a shriek as if his mind has understood things it wasn't supposed to. *Wulrif* begins greedily grubbing around in the same slush as the Beholder.
+*Wulrif* studies it really intently. Suddenly, he gives a shriek as if his mind has understood things it wasn't supposed to. *Wulrif* begins greedily grubbing around in the same nauseous slush as the Beholder.
 
 > "Ah, now you understand something of what really nourishes us!" It nods sagaciously.
 
@@ -172,24 +173,24 @@ Ten stuffed turkeys with all the fixings on plates materialize in front of each 
 
 *I think we lost *Tysnera* and *Tasbros* here.*
 
-We are in a crevasse which is unusually cold, and it’s a 20 foot climb up. *Actius* casts a cantrip to make a very convenient ramp for us to walk up. Up top, the crevasse is spanned by two narrow wooden bridges.
+We are in a crevasse which is unusually cold, and it’s a 20 foot climb up. *Actius* casts Mold Earth to make a very convenient ramp for us to walk up. Up top, the crevasse is spanned by two narrow wooden bridges.
 *Viker* transforms into a mouse and heads West, finding a room with 8 Redbrands.
-She goes into the room across the hall and sees it contains 12 Redbrands, eating. One of them throws a dagger at what he thinks is a mouse in disgust. *Viker* skitters away, reporting back. We confer.
+She goes into the room across the hall and sees 12 Redbrands, eating. One of them throws a dagger at what he thinks is a mouse, in disgust. *Viker* skitters away, reporting back. We confer.
 
 I'm going to block the middle of the hallway to control how many can attack us at once. *Actius* makes the hallway behind us difficult terrain to hopefully slow the others down.
 *CoralKing* stays at the rear of the pack to defend us from that direction.
 
 #### First Turn
 
-1. *Viker* casts Moonbeam (what is a Moon?) on the spot where the first soldier appears. Ghostly flames envelope him as he takes 14 damage.
+1. *Viker* casts Moonbeam (what is a Moon?) on the spot where the first soldier appears. Ghostly flames envelop him as he takes 14 damage.
 2. *Calmul's* Musket misfires and dumps black powder all over him.
-3. *Wulrif* Hexes him and Eldritch Blasts him. He goes down.
+3. *Wulrif* Hexes and Eldritch Blasts him. He goes down.
 4. *CoralKing* holds his action.
 5. *Geral* holds his attack.
 6. I hold my attack.
 7. *Actius* holds.
-8. Another soldier comes out and walks into the Moonbeam. He gets brought down. A very loud noise, like an alarm starts to ring out throughout the whole castle. A soldier comes out of the room, and I slice the foe in half. Another soldier gets rocked by *Viker's* Moonbeam.
-9. Half of the guys start to come down that back hallway, so *CoralKing* moves to face them. A soldier shoots at him and hits him for 4 HP damage.
+8. Another soldier runs out into the Moonbeam. He gets brought down. A very loud alarm rings throughout the whole manor. A soldier comes out of the room, and I slice him in half. Another soldier gets rocked by *Viker's* Moonbeam.
+9. Half of the guys start to come out back hallway, so *CoralKing* moves to face them. A soldier shoots and hits him for 4 HP damage.
 10. *Geral* crits the guy over Orky’s shoulder.
 11. *Actius* backs up to come help *CoralKing*
 
@@ -199,7 +200,7 @@ I'm going to block the middle of the hallway to control how many can attack us a
 2. *Calmul* repairs his Musket.
 3. *Wulrif* backs up to get a better view of both streams of soldiers, over one of the bridges. It collapses and he falls down into the chasm, taking 4HP damage.
 4. *CoralKing* moves back to get in a more strategic position and holds his action.
-5. A fireball goes off! But everyone makes their saving throws, so they only take 16 damage.
+5. A fireball goes off! But everyone makes their saving throws, only taking 16 damage.
 6. *Geral* holds his action.
 7. I hold my action.
 8. *Actius* forks his Eldritch Blast. He lands both and does 20 damage! That guy goes down, as does the one coming at *CoralKing*.
@@ -207,17 +208,17 @@ I'm going to block the middle of the hallway to control how many can attack us a
 
 #### Third Turn
 
-1. *Viker* moves through that hallway to move her Moonbeam into the room with most of the soldiers. One of them takes an opportunity of attack on her and crits her with 12 damage. She manages to maintain her Moonbeam.
+1. *Viker* moves through the hallway to move her Moonbeam into the room with most of the soldiers. One of them takes an opportunity attack as she moves by and crits her with 12 damage. She manages to maintain her Moonbeam.
 2. *Calmul* shoots a soldier and deals 5 damage.
-3. *Wulrif* seems to be talking to the Beholder in the chasm.
-4. *CoralKing* Flurries 3 hits and they all miss. Then he and Actius make Wisdom saving throws, succeeding. Something was trying to paralyze them.
+3. *Wulrif* seems to be talking again with the Beholder in the chasm.
+4. *CoralKing* Flurries 3 hits, but they all miss. Then he and Actius make Wisdom saving throws, succeeding. Something was trying to paralyze them.
 5. *Geral* moves up to protect *Viker* and hits a soldier for 8 damage. He uses an Action Surge and hits for another 8 HP.
 6. I move to protect *Viker* and hold my action.
-7. *Actius* splits his Eldritch Blast to hit 2 people. He misses one and hits another for 7 damage and knocks him down. He retreats across the remaining bridge and finds a huge new group of enemies, including the Wizard.
-*Actius* gets hit with 2 swords and takes 12 damage total. *CoralKing* takes 15 damage from a volley of arrows and Fades Away. *Calmul* takes hits for 13 HP damage. *Actius* does a quick Rebuke on one of the archers and does 7 damage.
+7. *Actius* splits his Eldritch Blast to hit 2 people. He misses one but hits another for 7 damage, knocking him down. He retreats across the remaining bridge and finds a **HUGE** new group of enemies, including the Wizard!
+*Actius* immediately gets 2 swords, taking 12 damage total. *CoralKing* takes 15 damage from a volley of arrows and Fades Away. *Calmul* takes more arrows for 13 HP. *Actius* does a quick Rebuke on one of the archers, doing 7 damage.
 
 #### Fourth Turn
 
-1. *Viker* moves her Moonbeam and kills a soldier. She uses a Bonus action to use Healing Word on *Calmul* to heal him 9 HP.
+1. *Viker* moves her Moonbeam and kills a soldier. She uses a Bonus action to say a Healing Word on *Calmul* for 9 HP.
 
 The players have decided to take a pause here and take up the fight again next week.
