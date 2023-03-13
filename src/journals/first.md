@@ -17,7 +17,7 @@
 
 ![Sword Coast](images/lmop2.jpg)
 
-Spring rises over the **Sword Coast** as [Neverwinter](../background/urbs.md) makes its way along the **High Road** to spend Summerday at **Biscayne Bay**, awaiting the arrival of the **Marianus Submersible**.
+Spring rises over the **Sword Coast** as [Neverwinter](../background/urbs.md) makes its way along the **High Road** to spend Summerday at **Biscayne Bay**, awaiting the arrival of **Waterdeep**, the largest known Submersible Urb.
 
 The *Magisterium* declares *Springrise* as the majority of the inhabitants of **Neverwinter** exchange their musty and clamorous dwellings for the
 warmth of the surrounding lands. Gaily colored tents and trade booths dot the surrounding countryside, patrolled by the *Protectorate* astride their

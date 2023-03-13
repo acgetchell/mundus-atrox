@@ -6,7 +6,7 @@
 
 ### Dramatis Personae
 
-- Actias Aureus, a 2nd-level Otherkin Warlock
+- Actias Aureus, a 2nd-level Tiefling Warlock
 - Benjamin, a 3rd-level Elf Ranger
 - Calmul Rhoqiroth, a 2nd-level Dragonkin Bard
 - CoralKing, a 3rd-level Gnome Monk

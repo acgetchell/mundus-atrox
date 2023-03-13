@@ -23,7 +23,7 @@
     - [Halflings](background/halflings.md)
     - [Humans](background/humans.md)
     - [Gnomes](background/gnomes.md)
-    - [Otherkin](background/otherkin.md)
+    - [Tiefling](background/tiefling.md)
 - [Civilization](background/civilization.md)
   - [Mines](background/mines.md)
   - [Urbs](background/urbs.md)

@@ -14,4 +14,4 @@ The distinction between [Barbaria](barbaria.md) and [Populi](populi.md) is often
 - [Halflings](halflings.md)
 - [Humans](halflings.md)
 - [Gnomes](gnomes.md)
-- [Otherkin](otherkin.md)
+- [Tiefling](otherkin.md)
