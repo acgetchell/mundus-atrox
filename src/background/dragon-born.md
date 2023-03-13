@@ -4,7 +4,7 @@
 
 The [Dragon-born] are a mysterious and sundered people, found living in small conclaves amongst the [Elves](elves.md), [Humans](humans.md), [Dwarves](dwarves.md), and sometimes [Halflings](halflings.md).
 
-**Mundus** [Dragon-born] have wings and a thick, powerful tail. They can fly, and any equipment they have, excepting magic items, must be specially made for their anatomy.
+Any equipment they have, excepting magic items, must be specially made for their anatomy.
 
 Their relation to the mighty [Dracos](dragons.md) is a matter of much speculation but little knowledge.
 

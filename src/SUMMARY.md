@@ -7,6 +7,7 @@
 - [Sky and Seasons](background/seasons.md)
 - [Geography](background/geography.md)
 - [Oceanography](background/ocean.md)
+- [Climate](background/climate.md)
 - [Flora and Fauna](background/flora-fauna.md)
   - [Dragons](background/dragons.md)
   - [Fey](background/fey.md)
@@ -55,3 +56,4 @@
   - [Sixth Session](journals/sixth.md)
   - [Seventh Session](journals/seventh.md)
   - [Eighth Session](journals/eighth.md)
+  - [Ninth Session](journals/ninth.md)
