@@ -1,0 +1,1943 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>The Mundus Atrox Campaign</title>
+        <meta name="robots" content="noindex" />
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var html = document.querySelector('html');
+            var sidebar = null;
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="index.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">Background</li><li class="chapter-item expanded "><a href="background/seasons.html"><strong aria-hidden="true">1.</strong> Sky and Seasons</a></li><li class="chapter-item expanded "><a href="background/geography.html"><strong aria-hidden="true">2.</strong> Geography</a></li><li class="chapter-item expanded "><a href="background/ocean.html"><strong aria-hidden="true">3.</strong> Oceanography</a></li><li class="chapter-item expanded "><a href="background/climate.html"><strong aria-hidden="true">4.</strong> Climate</a></li><li class="chapter-item expanded "><a href="background/flora-fauna.html"><strong aria-hidden="true">5.</strong> Flora and Fauna</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="background/dragons.html"><strong aria-hidden="true">5.1.</strong> Dragons</a></li><li class="chapter-item expanded "><a href="background/fey.html"><strong aria-hidden="true">5.2.</strong> Fey</a></li><li class="chapter-item expanded "><a href="background/old-ones.html"><strong aria-hidden="true">5.3.</strong> Old Ones</a></li></ol></li><li class="chapter-item expanded "><a href="background/population.html"><strong aria-hidden="true">6.</strong> Population</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="background/barbaria.html"><strong aria-hidden="true">6.1.</strong> Barbaria</a></li><li class="chapter-item expanded "><a href="background/populi.html"><strong aria-hidden="true">6.2.</strong> Populi</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="background/dragon-born.html"><strong aria-hidden="true">6.2.1.</strong> Dragonborn</a></li><li class="chapter-item expanded "><a href="background/dwarves.html"><strong aria-hidden="true">6.2.2.</strong> Dwarves</a></li><li class="chapter-item expanded "><a href="background/elves.html"><strong aria-hidden="true">6.2.3.</strong> Elves</a></li><li class="chapter-item expanded "><a href="background/half-elves.html"><strong aria-hidden="true">6.2.4.</strong> Half-Elves</a></li><li class="chapter-item expanded "><a href="background/half-orcs.html"><strong aria-hidden="true">6.2.5.</strong> Half-Orcs</a></li><li class="chapter-item expanded "><a href="background/halflings.html"><strong aria-hidden="true">6.2.6.</strong> Halflings</a></li><li class="chapter-item expanded "><a href="background/humans.html"><strong aria-hidden="true">6.2.7.</strong> Humans</a></li><li class="chapter-item expanded "><a href="background/gnomes.html"><strong aria-hidden="true">6.2.8.</strong> Gnomes</a></li><li class="chapter-item expanded "><a href="background/tiefling.html"><strong aria-hidden="true">6.2.9.</strong> Tiefling</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="background/civilization.html"><strong aria-hidden="true">7.</strong> Civilization</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="background/mines.html"><strong aria-hidden="true">7.1.</strong> Mines</a></li><li class="chapter-item expanded "><a href="background/urbs.html"><strong aria-hidden="true">7.2.</strong> Urbs</a></li><li class="chapter-item expanded "><a href="background/castelas.html"><strong aria-hidden="true">7.3.</strong> Castelas</a></li></ol></li><li class="chapter-item expanded "><a href="background/artifacts.html"><strong aria-hidden="true">8.</strong> Artifacts</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="background/stonehenge.html"><strong aria-hidden="true">8.1.</strong> Stonehenge</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Game Information</li><li class="chapter-item expanded "><a href="game/starting.html"><strong aria-hidden="true">9.</strong> Starting</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="game/races.html"><strong aria-hidden="true">9.1.</strong> Races</a></li><li class="chapter-item expanded "><a href="game/classes.html"><strong aria-hidden="true">9.2.</strong> Classes</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="game/artificer.html"><strong aria-hidden="true">9.2.1.</strong> Artificer</a></li><li class="chapter-item expanded "><a href="game/playtest.html"><strong aria-hidden="true">9.2.2.</strong> Playtest Materials</a></li></ol></li><li class="chapter-item expanded "><a href="game/equipment.html"><strong aria-hidden="true">9.3.</strong> Equipment</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="game/firearms.html"><strong aria-hidden="true">9.3.1.</strong> Firearms</a></li><li class="chapter-item expanded "><a href="game/conveyances.html"><strong aria-hidden="true">9.3.2.</strong> Conveyances</a></li></ol></li><li class="chapter-item expanded "><a href="game/spellcasting.html"><strong aria-hidden="true">9.4.</strong> Spellcasting</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="game/mana.html"><strong aria-hidden="true">9.4.1.</strong> Mana</a></li></ol></li><li class="chapter-item expanded "><a href="game/magic-items.html"><strong aria-hidden="true">9.5.</strong> Magic Items</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Journals</li><li class="chapter-item expanded "><a href="journals/overview.html"><strong aria-hidden="true">10.</strong> Overview</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="journals/first.html"><strong aria-hidden="true">10.1.</strong> First Session</a></li><li class="chapter-item expanded "><a href="journals/second.html"><strong aria-hidden="true">10.2.</strong> Second Session</a></li><li class="chapter-item expanded "><a href="journals/third.html"><strong aria-hidden="true">10.3.</strong> Third Session</a></li><li class="chapter-item expanded "><a href="journals/fourth.html"><strong aria-hidden="true">10.4.</strong> Fourth Session</a></li><li class="chapter-item expanded "><a href="journals/fifth.html"><strong aria-hidden="true">10.5.</strong> Fifth Session</a></li><li class="chapter-item expanded "><a href="journals/sixth.html"><strong aria-hidden="true">10.6.</strong> Sixth Session</a></li><li class="chapter-item expanded "><a href="journals/seventh.html"><strong aria-hidden="true">10.7.</strong> Seventh Session</a></li><li class="chapter-item expanded "><a href="journals/eighth.html"><strong aria-hidden="true">10.8.</strong> Eighth Session</a></li><li class="chapter-item expanded "><a href="journals/ninth.html"><strong aria-hidden="true">10.9.</strong> Ninth Session</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">The Mundus Atrox Campaign</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="introduction"><a class="header" href="#introduction">Introduction</a></h1>
+<p><strong>Mundus Atrox</strong> is a campaign for <a href="https://www.dndbeyond.com">Dungeons &amp; Dragons 5th edition</a>.</p>
+<p>It is a high-<a href="game/spellcasting.html#mana">Mana</a> world driven by extreme climate and geography, with elements of steampunk and indications of a techno-magical collapse of <a href="background/civilization.html">Civilization</a> in ancient times.</p>
+<p><a href="background/dwarves.html">Dwarves</a> and <a href="background/gnomes.html">Gnomes</a> hunker down in their <a href="background/mines.html">Mines</a>, <a href="background/humans.html">Humans</a> flee the worst weather in <a href="background/urbs.html">mobile cities</a>, and <a href="background/elves.html">Elves</a> chase the <a href="background/seasons.html">Perpetual Spring</a> in <a href="background/castelas.html">flying castles</a>.</p>
+<p><a href="background/dragons.html">Dragons</a> rule the sky. <a href="background/old-ones.html">Unnatural</a> and <a href="background/fey.html">strange</a> beings stalk the land. Almost anything fixed in place is battered or corroded to oblivion within a few <a href="background/seasons.html">seasons</a>.</p>
+<p>Strewn across the world, ancient <a href="background/artifacts.html">Artifacts</a> range in size from a marble to a city. Their effects vary from mundane to world-altering, with size being little clue to their potency.</p>
+<p>The search for these items, and encounters with mythical races and guardians, become the catalyst for <a href="journals/overview.html">adventure</a>.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="sky-and-seasons"><a class="header" href="#sky-and-seasons">Sky and Seasons</a></h1>
+<p><img src="background/images/arch.jpeg" alt="The Arch" /></p>
+<p>The day and night cycle on <strong>Mundus</strong> is tied to the seasons.</p>
+<p><em>Springrise</em> is when the <strong>Sun</strong> rises in the West. It lasts for about 24 hours, during which time the paths to <strong>The Feywild</strong> are open. The skies clear of <em>Winternight's</em> clouds and the brilliance of the <strong>Arch</strong> can be most clearly seen. </p>
+<p>During <em>Summerday</em> the <strong>Sun</strong> rises high in the sky, circling the horizon but never setting, bringing forth the great mists from the Ocean that is the <em>Enclouding</em>. The nearly constant daytime overcast lasts for ~1400 hours,
+and the climate is hot and steamy. The flora and fauna go into overdrive, making the most of <em>Summerday</em> before the next <em>Winternight</em>.</p>
+<p>With <em>Autumnset</em> the <strong>Sun</strong> sets in the West and the <em>Enclouding</em> dissipates. Also lasting 24 hours, the skies again show the <strong>Arch</strong>, and the paths to <strong>The Shadowfell</strong> open.</p>
+<p><em>Winternight</em> is the long darkness, with lots of snowfall and, when the clouds dissipate, the <strong>Arch</strong> spans from horizon to horizon, causing perpetual twilight. Most animals migrate or hibernate, and the Undead emerge.</p>
+<p>The <em>Arch</em> is thickest in the higher latitudes of <em>Ishtar</em>, although reports of distant traders say it is thin in the skies of <em>Aphrodite</em>.
+The <em>Vigils</em> are a grouping of bright stars which move across the night sky in intricate patterns.</p>
+<p>The <a href="background/elves.html">High Elves</a> say <strong>Mundus</strong> is a giant sphere, and their <a href="background/castelas.html">Castelas</a> follow the <em>Perpetual Spring</em>, the narrow band between the <em>Daylight</em> and the <em>Darkness</em> that circles the world yearly.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="geography"><a class="header" href="#geography">Geography</a></h1>
+<p><img src="background/images/snowy-volcanos.jpg" alt="Volcano image" /></p>
+<p>The majority of terrain is flat plains with crinkle ridges and basaltic rock, weathered by sudden and common flash floods (in <em>Summer</em>) and avalanches of snow (in <em>Winter</em>).
+Mountain ranges are jagged, marked by broken escarpments, sharp caldera, and intense winds that can strip flesh from bone.</p>
+<p>There are three known continents:</p>
+<ul>
+<li><em>Ishtar</em> is the northermost and most hospitable</li>
+<li><em>Aphrodite</em> is the larger and more dangerous, straddling the equator</li>
+<li><em>Lada</em> is the unexplored southern continent</li>
+</ul>
+<p>Countless islands lie between.</p>
+<p>There are large chains of volcanoes throughout, the tallest is Maxwell on <em>Ishtar</em>, but the largest is Theia on <em>Aphrodite</em>. These shield volcanos are hundreds of miles across, and these lands are criss-crossed with lava tubes and vents, making overland travel across (and even over) dangerous.</p>
+<p>There are few large permanent rivers on each continent, which often change their course during the <em>Summer</em> snow-melts.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="oceanography"><a class="header" href="#oceanography">Oceanography</a></h1>
+<p><img src="background/images/ahstat.jpg" alt="World image" /></p>
+<p><em>Oceanum</em> spans the entire world. Although the winds are comparitively mild at sea level compared to the tempests at altitude, they gather force for thousands of miles, and along with the tremendous ocean-crossing waves, make sailing upon the surface a hazardous affair. The skies above <em>Oceanum</em> are often no better, with great turbulent masses of clouds tossing even the largest <em>Castela</em> about. The only regular travelers across <em>Oceanus</em> are the mysterious <em>Submersible Urbs</em>.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="climate"><a class="header" href="#climate">Climate</a></h1>
+<p><img src="background/images/winternight.png" alt="Winternight" /></p>
+<p>The air is thicker, and the climate is hot and wet during <em>Summerday</em>, and cold and wet at <em>Winternight</em>.</p>
+<p><em>Autumnset</em> and <em>Springrise</em> are the most temperate, pleasant climes.</p>
+<p>Winds are gentle to non-existent in the plains, increasingly stronger with higher altitudes. When the air smells rotten, becomes extremely dry, and turns greenish-yellow, almost everything finds shelter from the <em>Acid Rains</em>.</p>
+<p>Weather by season can be generated from <a href="https://donjon.bin.sh/d20/weather/">Donjon's Random Weather Generator</a>.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="flora-and-fauna"><a class="header" href="#flora-and-fauna">Flora and Fauna</a></h1>
+<p><img src="background/images/dall-e-rex-v-knight.png" alt="Predator-vs-knight" /></p>
+<p>There is a tremendous variety of flora and fauna. Land animals tend towards gigantism, and <em>Oceanus</em> contains vast denizens in its mysterious depths. Tremendous flocks of avian and other creatures stretch for miles and continously wheel about the skies, often unseen through the <em>Enclouding</em> but discerned by their tremendous racket. Plants and Animals both have strange and mysterious abilities, and are often harvested or hunted for their magic.</p>
+<p>The jungles of <em>Ishtar</em> resemble the Pacific Northwest, with giant colonies of Sequoias that grow on the plateaus and mountain slopes. The jungles of <em>Aphrodite</em> have quintuple canopies of rubbery and flexible plants which die or go dormant during Autumnset and Winternight, only to grow again during
+Springrise and Summerday.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="dragons"><a class="header" href="#dragons">Dragons</a></h1>
+<p><img src="background/images/dragon-conquering-castle.png" alt="Dragon Conquering Castle" /></p>
+<p>The apex predator of the skies are the <em>Dracos</em>; huge, intelligent, flying, and enigmatic. They winter in their accustomed lairs and emerge in <em>Spring</em>, dining upon the vast herds and other denizens.</p>
+<p><em>Dracos</em> covet <a href="background/artifacts.html">Artifacts</a> and precious metals, especially gold and platinum, as well as items worked in those metals. Many an <a href="background/elves.html">Elf</a>, <a href="background/dwarves.html">Dwarf</a>, or <a href="background/gnomes.html">Gnome</a> have successfully bargained for their lives with cunningly wrought jewelry.</p>
+<p>They are few in number but terrifying to behold.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="fey"><a class="header" href="#fey">Fey</a></h1>
+<p><img src="background/images/wild-hunt.png" alt="The Wild Hunt" /></p>
+<p>The <em>Fey</em> are a group of ancient, powerful, other-worldly <strong>Beings</strong> that left their mark upon the world and races of <strong>Mundus</strong>. Much speculation but little fact surrounds them. Some <a href="background/barbaria.html">Barbaria</a> worship them.</p>
+<p>Some <em>Fey</em> live upon <strong>Mundus</strong>, entering and leaving during <em>Springrise</em>.</p>
+<ul>
+<li><a href="https://www.dndbeyond.com/races/1026381-centaur">Centaurs</a></li>
+<li><a href="https://www.dndbeyond.com/races/1026382-changeling">Changelings</a></li>
+<li><a href="https://www.dndbeyond.com/races/1026386-eladrin">Eladrin</a></li>
+<li><a href="https://www.dndbeyond.com/races/814913-fairy">Fairy</a></li>
+<li><a href="https://www.dndbeyond.com/races/814914-harengon">Harengon</a></li>
+<li><a href="https://www.dndbeyond.com/races/1026399-satyr">Satyr</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="old-ones"><a class="header" href="#old-ones">Old Ones</a></h1>
+<p><img src="background/images/nyarlathotep-stalks-lava-plains.png" alt="Nyarlathotep" /></p>
+<p>The <em>Old Ones</em> are a group of utterly inimical <strong>Beings</strong> that seem to have little relationship to the natural order of things.</p>
+<p>Near them, the laws of Nature and Magic become warped and hostile to anything nearby, which are often twisted to accomodate this <em>outre</em> existence.</p>
+<p>They often enter or leave <strong>Mundus</strong> during <em>Autumnset</em>, when paths to <strong>The Shadowfell</strong> lie open. </p>
+<p>Other races also arrive via <strong>The Shadowfell</strong>.</p>
+<ul>
+<li><a href="https://www.dndbeyond.com/races/1026394-kenku">Kenku</a></li>
+<li><a href="https://www.dndbeyond.com/races/1026401-shadar-kai">Shadar-Kai</a></li>
+<li><a href="https://www.dndbeyond.com/races/1026407-yuan-ti">Yuan-Ti</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="population"><a class="header" href="#population">Population</a></h1>
+<p>The peoples of <strong>Mundus</strong> are often categorized by <em>Magi</em> as <em>Barbaria</em> and <em>Populi</em>.</p>
+<p><a href="background/barbaria.html">Barbaria</a> live a nomad existence, following (and sometimes tending) the vast herds which provide sustenance and shelter.</p>
+<p><a href="background/populi.html">Populi</a> live in fixed shelters (e.g. the great <em>Mines</em>) or roving techno-magical constructions (<em>Urbs</em> and <em>Castelas</em>).</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="barbaria"><a class="header" href="#barbaria">Barbaria</a></h1>
+<p><img src="background/images/barbarians.png" alt="Barbarians" /></p>
+<p>An uncounted variety of intelligent, tool-using races live in or under the skies, seas, and jungles of <strong>Mundus</strong>. They often war and trade with the <a href="background/populi.html">Populi</a>.</p>
+<ul>
+<li><a href="https://www.dndbeyond.com/races/1026377-aarakocra">Aarakocra</a></li>
+<li><a href="https://www.dndbeyond.com/races/1026378-aasimar">Aasimar</a></li>
+<li><a href="https://www.dndbeyond.com/races/1026380-bugbear">Bugbear</a></li>
+<li><a href="https://www.dndbeyond.com/races/1026383-deep-gnome">Deep Gnomes</a></li>
+<li><a href="https://www.dndbeyond.com/races/1026384-duergar">Duergar</a></li>
+<li><a href="https://www.dndbeyond.com/races/1026387-firbolg">Firbolg</a></li>
+<li><a href="https://www.dndbeyond.com/races/1026391-goblin">Goblin</a></li>
+<li><a href="https://www.dndbeyond.com/races/1026392-goliath">Goliath</a></li>
+<li><a href="https://www.dndbeyond.com/races/1026393-hobgoblin">Hobgoblin</a></li>
+<li><a href="https://www.dndbeyond.com/races/1026396-lizardfolk">Lizardfolk</a></li>
+<li><a href="https://www.dndbeyond.com/races/1026397-minotaur">Minotaur</a></li>
+<li><a href="https://www.dndbeyond.com/races/1026398-orc">Orc</a></li>
+<li><a href="https://www.dndbeyond.com/races/1026400-sea-elf">Sea Elves</a></li>
+<li><a href="https://www.dndbeyond.com/races/1026402-shifter">Shifter</a></li>
+<li><a href="https://www.dndbeyond.com/races/1026403-tabaxi">Tabaxi</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="populi"><a class="header" href="#populi">Populi</a></h1>
+<p><img src="background/images/populi.png" alt="Populi" /></p>
+<p>The land and skies are rife with predators natural and otherwise that, in addition to the hazardous weather, dictates that the <em>Populi</em> live in sturdy, defensible, and sometimes mobile <a href="background/artifacts.html">Artifacts</a> of unknown design.</p>
+<p>The distinction between <a href="background/barbaria.html">Barbaria</a> and <a href="background/populi.html">Populi</a> is often a matter of debate between <em>Magi</em>, but the following are the most commonly accepted members.</p>
+<ul>
+<li><a href="background/dragon-born.html">Dragonborn</a></li>
+<li><a href="background/dwarves.html">Dwarves</a></li>
+<li><a href="background/elves.html">Elves</a></li>
+<li><a href="background/half-elves.html">Half-Elves</a></li>
+<li><a href="background/half-orcs.html">Half-Orcs</a></li>
+<li><a href="background/halflings.html">Halflings</a></li>
+<li><a href="background/halflings.html">Humans</a></li>
+<li><a href="background/gnomes.html">Gnomes</a></li>
+<li><a href="background/otherkin.html">Tiefling</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="dragonborn"><a class="header" href="#dragonborn">Dragonborn</a></h1>
+<p><img src="background/images/dragon-born.png" alt="Dragonborn" /></p>
+<p>The <a href="https://www.dndbeyond.com/races/16-dragonborn">Dragon-born</a> are a mysterious and sundered people, found living in small conclaves amongst the <a href="background/elves.html">Elves</a>, <a href="background/humans.html">Humans</a>, <a href="background/dwarves.html">Dwarves</a>, and sometimes <a href="background/halflings.html">Halflings</a>.</p>
+<p>Any equipment they have, excepting magic items, must be specially made for their anatomy.</p>
+<p>Their relation to the mighty <a href="background/dragons.html">Dracos</a> is a matter of much speculation but little knowledge.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="dwarves"><a class="header" href="#dwarves">Dwarves</a></h1>
+<p><img src="background/images/dwarf.png" alt="Dwarf" /></p>
+<p><a href="https://www.dndbeyond.com/races/13-dwarf">Dwarves</a> live in the tunnels surrounding the vast open <a href="background/mines.html">Mines</a>, which produce metals and other substances for trade with the <a href="background/humans.html">Human</a> <a href="background/urbs.html">Urbs</a> and <a href="background/elves.html">Elven</a> <a href="background/castelas.html">Castelas</a>.</p>
+<p>They dislike Magic and are especially resistant to it.</p>
+<p>Their captial city is hidden above the clouds in the high peaks of <em>Maxwell</em>.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="elves"><a class="header" href="#elves">Elves</a></h1>
+<p>The Elves are a long-lived race that consider themselves the masters of <strong>Mundus</strong>. There are several species of Elves and they seem to be highly adapted to life wherever they find themselves.</p>
+<ul>
+<li>
+<p>The <em>Sky Elves</em> commune with the <a href="background/fey.html">Fey</a> and live in the <a href="background/castelas.html">Castelas</a>. Their great Capital sits aloft over the continent of <em>Aphrodite</em>.
+They have foldable bat-wings from wrist to ankle with which they can glide great distances, and are resistant to Acid.</p>
+</li>
+<li>
+<p>The <em>Wood Elves</em> live in communities made from the gigantic Sequoias of <em>Ishtar</em>. They guard their forests jealously, and like their High Elf cousins, posses gliding membranes. They appear to have lost their resistance to Acid,
+but are instead resistant to a great many natural toxins.</p>
+</li>
+<li>
+<p>The <a href="https://www.dndbeyond.com/races/1026400-sea-elf">Sea Elves</a> live in <a href="background/ocean.html">Oceanus</a> and can breathe underwater. Their wings are thicker and allow them to swim effortlessly. They are resistant to Cold.</p>
+</li>
+<li>
+<p>The <a href="https://www.dndbeyond.com/races/3-elf#DarkElf(Drow)">Dark Elves</a> live deep underground, and are in constant conflict with their other kin. They do not have wings, but can instead produce spiderwebs. They are resistant to the toxins of the <em>Underdark</em>.</p>
+</li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="half-elves"><a class="header" href="#half-elves">Half-Elves</a></h1>
+<p><a href="https://www.dndbeyond.com/races/20-half-elf">Half-Elves</a> are usualy cast out from Elven society, and instead dwell amongst <a href="background/humans.html">Humans</a>.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="half-orcs"><a class="header" href="#half-orcs">Half-Orcs</a></h1>
+<p><a href="https://www.dndbeyond.com/races/2-half-orc">Half-Orcs</a>, like <a href="background/half-elves.html">Half-Elves</a>, tend to be found in the company of Humans, especially Barbarians.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="halflings"><a class="header" href="#halflings">Halflings</a></h1>
+<p><img src="background/images/halfling.png" alt="Halfling" /></p>
+<p><a href="https://www.dndbeyond.com/races/14-halfling">Halflings</a> live in the jungles in cleverly concealed homes and burrows. They have no known Capital.</p>
+<p>They spend their whole lives hiding from predators are are quite good at it.</p>
+<p>Trade with <a href="https://www.dndbeyond.com/races/14-halfling">Halflings</a> is extremely valuable for the exotic flora and fauna they produce with mysterious healing and magical properties.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="humans"><a class="header" href="#humans">Humans</a></h1>
+<p><a href="https://www.dndbeyond.com/races/1-human">Humans</a> come in the widest variety of shapes, colors, and sizes. They tend towards two types:</p>
+<ul>
+<li>Civilized <a href="https://www.dndbeyond.com/races/1-human">Humans</a> live in the <a href="background/urbs.html">Urbs</a>, ruled by the <em>Magisterium</em>, which communes with their particular <a href="background/urbs.html">Urb</a> and guards their secrets jealously. Each Urb is a society to itself and various <em>Urban Leagues</em> have risen and fallen throughout human history.</li>
+<li>The <em>Barbarians</em> live on the open plains, tending vast herds on their giant <em>Thunderbeasts</em>. Each tribe is a society unto its own, warring, trading, or both with other tribes and, occasionally, Civilized <a href="https://www.dndbeyond.com/races/1-human">Humans</a>. They sometimes exchange food and exotic items for
+<a href="background/artifacts.html">Artifacts</a> produced by <a href="background/civilization.html">Civilization</a>.</li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="gnomes"><a class="header" href="#gnomes">Gnomes</a></h1>
+<p><img src="background/images/gnome.png" alt="Gnome" /></p>
+<p><a href="https://www.dndbeyond.com/races/18-gnome">Gnomes</a> often live near the same <a href="background/mines.html">Mines</a> as the <a href="background/dwarves.html">Dwarves</a>.</p>
+<p>Unlike the <a href="background/dwarves.html">Dwarves</a>, Gnomes have an affinity for magic and are rumored, like the <a href="background/elves.html">Elves</a>, to be Touched by the <a href="background/fey.html">Fey</a>.</p>
+<p>It is rumored they have their own Capital in <em>Lada</em>.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="tiefling"><a class="header" href="#tiefling">Tiefling</a></h1>
+<p><img src="background/images/tiefling.png" alt="Tiefling" /></p>
+<p><a href="https://www.dndbeyond.com/races/7-tiefling">Tiefling</a> are <a href="background/humans.html">Human</a> crossed with strange bloodlines.</p>
+<p>They have few common traits or characteristics, even when compared amongst themselves.</p>
+<p>Even amoungs the most tolerant <a href="background/humans.html">Human</a> societies, they are viewed with suspicion.</p>
+<p>However, the exploits of certain <a href="https://www.dndbeyond.com/races/7-tiefling">Tiefling</a> heroes have saved <strong>Neverwinter</strong> and <strong>Waterdeep</strong> in the past, and on the basis
+of that acclaim Tieflings have been accepted into society, especially amongst the lower classes.</p>
+<p>Tieflings have no known social structure of their own -- at least, on <strong>Mundus</strong>.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="civilization"><a class="header" href="#civilization">Civilization</a></h1>
+<p>Civilization on <strong>Mundus</strong> is situated in the <a href="background/../background/dwarves.html">Dwarven</a> <a href="background/mines.html">Mines</a>, <a href="background/../background/humans.html">Human</a> <a href="background/urbs.html">Urbs</a>, and <a href="background/../background/elves.html">Elven</a> <a href="background/castelas.html">Castelas</a>.</p>
+<p>The <a href="background/../background/halflings.html">Halfling</a> communities and Wood Elven forests are also considered as part of the Civilized world, although they are extremely difficult to find even with an explicit invitation.</p>
+<ul>
+<li><a href="background/mines.html">Dwarven Mines</a></li>
+<li><a href="background/urbs.html">Human Urbs</a></li>
+<li><a href="background/castelas.html">Elven Castelas</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="mines"><a class="header" href="#mines">Mines</a></h1>
+<p><img src="background/images/mines.png" alt="Mines" /></p>
+<p>The surface of <strong>Mundus</strong> is dotted with enormous, open-air mines miles across and many more deep.</p>
+<p>Gigantic tracks have ground out all flora surrounding these vast pits, and many <a href="background/background/urbs.html">Urbs</a> make yearly voyages.</p>
+<p>Sometimes these <em>Urbs</em> will winter next to the <em>Mine</em> for mutual protection.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="urbs"><a class="header" href="#urbs">Urbs</a></h1>
+<p><img src="background/images/traction-city-mortal-engines-2.png" alt="Image of Traction City from Mortal Engines" /></p>
+<p>Gigantic cities of metal which rove the land, and sometimes <a href="background/ocean.html">Oceanus</a>, the <em>Urbs</em> ingest great quantities of ore and other substances, often from <a href="background/mines.html">Mines</a>, which they can manufacture into <a href="background/artifacts.html">Artifacts</a>.</p>
+<p>These manufacturing processes seem intrinsic to the <em>Urb</em> itself; the <a href="background/../game/artificer.html">Artificers Guild</a> seem mainly to ensure continued functionality of the machinery.</p>
+<p>Some whisper the <a href="background/../game/artificer.html">Artificers</a> themselves have little understanding of the inner workings of the Urbs, but such rumors are firmly put down by the <em>Protectors</em> of the <em>Magisterium</em>.</p>
+<p><em>Urbs</em> range in size from merely gigantic rovers to mile-long structures with as many as seven tiers. The typical <em>Urb</em> moves at a stately walking pace, and the clanking of their gigantic treads can be heard for miles.</p>
+<p>Inhabitants usually live in sturdy wooden and stone structures that are built upon the metal foundations of the <em>Urb</em>, which produces anchor points upon demand by an <a href="background/../game/artificer.html">Artificer</a>. Some say these <em>Urban</em> folk have a near-permanent deafened condition.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="castelas"><a class="header" href="#castelas">Castelas</a></h1>
+<p><img src="background/images/castela.png" alt="Castela" /></p>
+<p><a href="background/artifacts.html">Artifacts</a> that are vast flying cities of metal which often follow the <a href="background/seasons.html">Perpetual Spring</a>.</p>
+<p>High Elves can glide the winds, but use Airships to travel long distances.</p>
+<p><a href="background/humans.html">Humans</a> and other races can often be found in the Castelas, but almost never in the higher levels reserved for the Nobility.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="artifacts"><a class="header" href="#artifacts">Artifacts</a></h1>
+<p>A great variety of Artifacts can be found on <strong>Mundus</strong>. The most well-known include:</p>
+<ul>
+<li><a href="background/stonehenge.html">Stonehenge</a></li>
+<li>The Eye of Sol</li>
+<li>The Sky Tower of Ovda</li>
+<li>The Maxwell Forge</li>
+<li>The Marianus Submersible</li>
+<li>The Smiting Hammer</li>
+<li>The Oracle Stones</li>
+<li>The Sword of Mourning</li>
+<li>Baba Yaga's Hut</li>
+<li>The Orbs of Dragonkind</li>
+<li>The Chaos Blade</li>
+<li>Spellbreaker</li>
+<li>The Arc Armor</li>
+<li>The Vortex feather</li>
+<li>The Book of Exalted Deeds</li>
+<li>The Book of Vile Deeds</li>
+</ul>
+<p>Less-famous artifacts abound and are in use by the heroes, villains, and leaders in the various societies.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="stonehenge"><a class="header" href="#stonehenge">Stonehenge</a></h1>
+<p><img src="background/images/stonehenge.png" alt="Stonehenge" /></p>
+<blockquote>
+<p>Amidst the rolling hills of green,<br />
+Where ancient mysteries lie unseen,<br />
+Stands a circle of stones so grand,<br />
+A monument of an unknown hand.</p>
+</blockquote>
+<blockquote>
+<p>Stonehenge, they call it, a wonder of old,<br />
+A place where stories and legends unfold,<br />
+Whispers of magic, of gods and kings,<br />
+Of druids, and rituals, and sacred things.</p>
+</blockquote>
+<blockquote>
+<p>In the hours of Springrise, a new life begins,<br />
+As nature awakens from her winterly sins,<br />
+And Stonehenge, too, seems to come alive,<br />
+As if a resurrection of times gone by.</p>
+</blockquote>
+<blockquote>
+<p>The sun rises high, and the air is crisp,<br />
+The stones stand tall, as if in a mystic tryst,<br />
+The morning dew glistens on the green,<br />
+As if a sign of a sacred dream.</p>
+</blockquote>
+<blockquote>
+<p>Amidst this magic, a sense of hope,<br />
+Of new beginnings, a way to cope,<br />
+As if the stones themselves proclaim,<br />
+The promise of life, the end of the game.</p>
+</blockquote>
+<blockquote>
+<p>So, on this day of resurrection and spring,<br />
+Let us gather at Stonehenge and sing,<br />
+Songs of joy, of hope, and of love,<br />
+And let the stones bless us from above.</p>
+</blockquote>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="starting"><a class="header" href="#starting">Starting</a></h1>
+<p>Here is some information to help you create a character for play in <strong>Mundus</strong>.</p>
+<h2 id="level"><a class="header" href="#level">Level</a></h2>
+<p><em>Level 1</em>, or minimum XP for <em>Level - 1</em> from the <a href="game/../journals/overview.html">current party</a> average (currently 4.5).</p>
+<h2 id="ability-scores"><a class="header" href="#ability-scores">Ability scores</a></h2>
+<p>Generate <em>6</em> Ability Goups, choose your favorite. <a href="https://www.dndbeyond.com">DnDBeyond</a> can do this electronically.</p>
+<p>There are two additional Ability Scores, <a href="https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#HonorScore">Honor</a> and <a href="https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#SanityScore">Sanity</a>. They are based off of <a href="https://www.dndbeyond.com/sources/phb/using-ability-scores#Charisma">Charisma</a> and <a href="https://www.dndbeyond.com/sources/phb/using-ability-scores#Wisdom">Wisdom</a> respectively, and thereafter are independent.</p>
+<h3 id="ability-groups"><a class="header" href="#ability-groups">Ability Groups</a></h3>
+<p>Roll 4d6 for each characteristic, take best 3 dice, arrange scores as desired.</p>
+<h2 id="races"><a class="header" href="#races">Races</a></h2>
+<ul>
+<li><a href="game/races.html">Playable Races</a></li>
+</ul>
+<h2 id="classes"><a class="header" href="#classes">Classes</a></h2>
+<ul>
+<li><a href="game/classes.html">Character Classes</a></li>
+</ul>
+<h2 id="equipment"><a class="header" href="#equipment">Equipment</a></h2>
+<ul>
+<li><a href="game/equipment.html">Starting Equipment</a></li>
+</ul>
+<h2 id="magic"><a class="header" href="#magic">Magic</a></h2>
+<ul>
+<li><a href="game/spellcasting.html">Spellcasting</a></li>
+<li><a href="game/magic-items.html">Magic Items</a></li>
+</ul>
+<h2 id="hero-dice"><a class="header" href="#hero-dice">Hero Dice</a></h2>
+<p>At 5th level, characters gain <strong>Hero Dice</strong> equal to half their level. <strong>Hero Dice</strong> once used are gone, but the character gains a new set upon achieving a new level.</p>
+<p><strong>Hero Dice</strong> may be added to an attack roll, ability check, or saving throw after the roll is made, but before the results are applied.</p>
+<p>Additionally, <strong>Hero Dice</strong> may be used to turn a failed Death Saving Throw into a success.</p>
+<p>The type of <strong>Hero Dice</strong> depends upon the level of the character, according to the following table:</p>
+<div class="table-wrapper"><table><thead><tr><th>Level Range</th><th>Hero Dice Type</th></tr></thead><tbody>
+<tr><td>5 - 10</td><td>d6</td></tr>
+<tr><td>11 - 15</td><td>d8</td></tr>
+<tr><td>16 - 18</td><td>d10</td></tr>
+<tr><td>19 - 20</td><td>d12</td></tr>
+</tbody></table>
+</div><div style="break-before: page; page-break-before: always;"></div><h1 id="races-1"><a class="header" href="#races-1">Races</a></h1>
+<p>Game statistics for the various races, summarized from the <a href="https://www.dndbeyond.com/sources/phb">Player's Handbook</a> and <a href="https://www.dndbeyond.com/sources/motm/fantastical-races">Mordenkainen's Monsters of the Multiverse</a>.</p>
+<div class="table-wrapper"><table><thead><tr><th>Race</th><th>Traits</th></tr></thead><tbody>
+<tr><td><a href="https://www.dndbeyond.com/races/1026377-aarakocra">Aarakocra</a></td><td></td></tr>
+<tr><td><a href="https://www.dndbeyond.com/races/1026378-aasimar">Aasimar</a></td><td></td></tr>
+<tr><td><a href="https://www.dndbeyond.com/races/1026380-bugbear">Bugbear</a></td><td></td></tr>
+<tr><td><a href="https://www.dndbeyond.com/races/1026381-centaur">Centaurs</a></td><td></td></tr>
+<tr><td><a href="https://www.dndbeyond.com/races/1026382-changeling">Changelings</a></td><td></td></tr>
+<tr><td><a href="https://www.dndbeyond.com/races/1026383-deep-gnome">Deep Gnomes</a></td><td></td></tr>
+<tr><td><a href="https://www.dndbeyond.com/races/1026384-duergar">Duergar</a></td><td></td></tr>
+<tr><td><a href="game/../background/dragon-born.html">Dragonborn</a></td><td>+2 Str, +1 Cha, Draconic Ancestry</td></tr>
+<tr><td><a href="game/../background/dwarves.html">Dwarf</a></td><td>+2 Str, +2 Con, Darkvision, Resistances: Poison and Magic, Proficiencies: Axe, Hammer, Artisan Tools</td></tr>
+<tr><td><a href="https://www.dndbeyond.com/races/1026386-eladrin">Eladrin</a></td><td></td></tr>
+<tr><td><a href="game/../background/elves.html">Elf</a>, Sky</td><td>+2 Dex, +1 Int, Gliding Wings, Extra Cantrip, Darkvision, Resistances: Acid, Charm/Sleep, Proficiencies: Bow, Swords</td></tr>
+<tr><td><a href="game/../background/elves.html">Elf</a>, Wood</td><td>+2 Dex, +1 Wis, Gliding Wings, Extra Cantrip, Darkvision, Resistances: Charm/Sleep, Poison, Proficiencies: Bow, Swords</td></tr>
+<tr><td><a href="https://www.dndbeyond.com/races/1026400-sea-elf">Elf, Sea</a></td><td>+2 Dex, +1 Con, Swimming Wings, Extra Cantrip, Water Breathing, Resistances: Cold, Charm/Sleep, Proficiencies: Net, Trident, Crossbow</td></tr>
+<tr><td><a href="game/../background/elves.html">Elf</a>, Dark</td><td>+2 Dex, +1 Cha, Web spell, Dancing Lights, Faeri Fire, Darkness, Superior Darkvision, Resistances: Charm/Sleep, Poison, Proficiencies: Rapiers, Shortswords, Hand Crossbows</td></tr>
+<tr><td><a href="https://www.dndbeyond.com/races/814913-fairy">Fairy</a></td><td></td></tr>
+<tr><td><a href="https://www.dndbeyond.com/races/1026387-firbolg">Firbolg</a></td><td></td></tr>
+<tr><td><a href="https://www.dndbeyond.com/races/1026391-goblin">Goblin</a></td><td></td></tr>
+<tr><td><a href="https://www.dndbeyond.com/races/1026392-goliath">Goliath</a></td><td></td></tr>
+<tr><td><a href="game/../background/gnomes.html">Gnome</a>, Rock</td><td>+2 Int, +1 Con, Darkvision, Artificers Lore, Tinker</td></tr>
+<tr><td><a href="game/../background/half-elves.html">Half-Elf</a></td><td>+2 Cha, +1 on two other abilities, Darkvision, Resistances: Charm/Sleep, Proficiences: Two of Choice</td></tr>
+<tr><td><a href="game/../background/half-orcs.html">Half-Orc</a></td><td>+2 Str, +1 Con, Darkvision, Menacing, Relentless Endurance, Savage Attacks</td></tr>
+<tr><td><a href="game/../background/halflings.html">Halfling</a>, Lightfoot</td><td>+2 Dex, +1 Cha, Lucky, Brave, Nimbleness, Stealth</td></tr>
+<tr><td><a href="https://www.dndbeyond.com/races/814914-harengon">Harengon</a></td><td></td></tr>
+<tr><td><a href="https://www.dndbeyond.com/races/1026393-hobgoblin">Hobgoblin</a></td><td></td></tr>
+<tr><td><a href="game/../background/humans.html">Human</a></td><td>+1 on four Abilities, Feats: One of Choice, Proficiencies: One of Choice</td></tr>
+<tr><td><a href="https://www.dndbeyond.com/races/1026394-kenku">Kenku</a></td><td></td></tr>
+<tr><td><a href="https://www.dndbeyond.com/races/1026396-lizardfolk">Lizardfolk</a></td><td></td></tr>
+<tr><td><a href="https://www.dndbeyond.com/races/1026397-minotaur">Minotaur</a></td><td></td></tr>
+<tr><td><a href="https://www.dndbeyond.com/races/1026398-orc">Orc</a></td><td></td></tr>
+<tr><td><a href="https://www.dndbeyond.com/races/1026399-satyr">Satyr</a></td><td></td></tr>
+<tr><td><a href="https://www.dndbeyond.com/races/1026401-shadar-kai">Shadar-Kai</a></td><td></td></tr>
+<tr><td><a href="https://www.dndbeyond.com/races/1026402-shifter">Shifter</a></td><td></td></tr>
+<tr><td><a href="https://www.dndbeyond.com/races/1026403-tabaxi">Tabaxi</a></td><td></td></tr>
+<tr><td><a href="game/../background/tiefling.html">Tiefling</a></td><td>+1 Int, +2 Cha, Darkvision, Resistances: Fire, Infernal legacy</td></tr>
+<tr><td><a href="https://www.dndbeyond.com/races/1026407-yuan-ti">Yuan-Ti</a></td><td></td></tr>
+</tbody></table>
+</div>
+<h2 id="feats"><a class="header" href="#feats">Feats</a></h2>
+<p>Some races have racially-specific <em>Feats</em>:</p>
+<ul>
+<li>
+<p><strong>Dragonborn</strong>: <a href="https://www.dndbeyond.com/feats/dragon-fear">Dragon Fear</a></p>
+</li>
+<li>
+<p><strong>Dwarf</strong>: <a href="https://www.dndbeyond.com/feats/dwarven-fortitude">Dwarven Fortitude</a></p>
+</li>
+<li>
+<p><strong>Dark Elf</strong>: <a href="https://www.dndbeyond.com/feats/drow-high-magic">Drow High Magic</a></p>
+</li>
+<li>
+<p><strong>Wood Elf</strong>: <a href="https://www.dndbeyond.com/feats/wood-elf-magic">Wood Elf Magic</a></p>
+</li>
+<li>
+<p><strong>Half-Orc</strong>: <a href="https://www.dndbeyond.com/feats/orcish-fury">Orcish Fury</a></p>
+</li>
+<li>
+<p><strong>Halfling</strong>: <a href="https://www.dndbeyond.com/feats/second-chance">Second Chance</a></p>
+</li>
+<li>
+<p><strong>Human</strong>: <a href="https://www.dndbeyond.com/feats/second-chance">Prodigy</a></p>
+</li>
+<li>
+<p><strong>Gnome</strong>: <a href="https://www.dndbeyond.com/feats/fade-away">Fade Away</a></p>
+</li>
+<li>
+<p><strong>Tiefling</strong>: <a href="https://www.dndbeyond.com/sources/xgte/character-options-racial-feats#InfernalConstitution">Infernal Constitution</a></p>
+</li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="classes-1"><a class="header" href="#classes-1">Classes</a></h1>
+<p>The available classes are:</p>
+<ul>
+<li><a href="game/artificer.html">Artificer</a></li>
+<li><a href="https://www.dndbeyond.com/classes/barbarian">Barbarian</a>
+<ul>
+<li>All Primal Paths</li>
+</ul>
+</li>
+<li><a href="https://www.dndbeyond.com/classes/bard">Bard</a>
+<ul>
+<li>All Bard Colleges</li>
+</ul>
+</li>
+<li><a href="https://www.dndbeyond.com/classes/cleric">Cleric</a>
+<ul>
+<li>Divine Domains of <a href="https://www.dndbeyond.com/classes/cleric#KnowledgeDomain">Knowledge</a>, <a href="https://www.dndbeyond.com/classes/cleric#LifeDomain">Life</a>, <a href="https://www.dndbeyond.com/classes/cleric#LightDomain">Light</a>, or <a href="https://www.dndbeyond.com/classes/cleric#PeaceDomain">Peace</a></li>
+</ul>
+</li>
+<li><a href="https://www.dndbeyond.com/classes/druid">Druid</a>
+<ul>
+<li>All Druid Circles</li>
+</ul>
+</li>
+<li><a href="https://www.dndbeyond.com/classes/fighter">Fighter</a>
+<ul>
+<li>All Martial Archetypes</li>
+</ul>
+</li>
+<li><a href="https://www.dndbeyond.com/classes/monk">Monk</a>
+<ul>
+<li>All Monastic Traditions</li>
+</ul>
+</li>
+<li><a href="https://www.dndbeyond.com/classes/paladin">Paladin</a>
+<ul>
+<li>All Oaths</li>
+</ul>
+</li>
+<li><a href="https://www.dndbeyond.com/classes/ranger">Ranger</a>
+<ul>
+<li>All Ranger Archetypes</li>
+</ul>
+</li>
+<li><a href="https://www.dndbeyond.com/classes/rogue">Rogue</a>
+<ul>
+<li>All Roguish Archetypes</li>
+</ul>
+</li>
+<li><a href="https://www.dndbeyond.com/classes/sorcerer">Sorcerer</a>
+<ul>
+<li>All Sorcerous Origins</li>
+</ul>
+</li>
+<li><a href="https://www.dndbeyond.com/classes/warlock">Warlock</a>
+<ul>
+<li>The Archfey or The Great Old One</li>
+</ul>
+</li>
+<li><a href="https://www.dndbeyond.com/classes/wizard">Wizard</a>
+<ul>
+<li>All Arcane Traditions</li>
+</ul>
+</li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="artificer"><a class="header" href="#artificer">Artificer</a></h1>
+<p><em>Artificers</em> are described in <a href="https://www.dndbeyond.com/sources/tcoe/artificer#Artificer">Tasha's Cauldron of Everything</a>.</p>
+<p>Most <em>Artificers</em> on <strong>Mundus</strong> belong to the <em>Artificers Guild</em>. Members of the <em>Artificers' Guild</em> speak to each other in a highly technical
+language that sounds like <em>Common</em> but is full of outlandish words with little meaning to outsiders. <em>Artificers' Guild</em> members can recognize
+each other via this <em>Artificers' Cant</em>.</p>
+<p>As <em>Artificers</em> are present in all centers of
+<a href="game/../background/civilization.html">Civilization</a>, they are highly valued and protected by the <em>Artificers' Guild</em> (as
+long as they are members of good standing). Naturally, the <em>Artificers' Guild</em> frowns upon non-Guild practicioners, but such folk are in demand
+and do quite well trading or living amongst the <a href="game/../background/barbaria.html">Barbaria</a>.</p>
+<h2 id="hit-points"><a class="header" href="#hit-points">Hit Points</a></h2>
+<p><em>Hit Dice</em>: 1d8 per Artificer level</p>
+<p><em>Hit Points at 1st Level</em>: 8 + Constitution modifier</p>
+<p><em>Hit Points at Higher Levels</em>: 1d8 (or 5) + Constitution modifier per level after 1st</p>
+<h2 id="proficiencies"><a class="header" href="#proficiencies">Proficiencies</a></h2>
+<p><em>Armor</em>: Light armor, medium armor, shields</p>
+<p><em>Weapons</em>: Simple weapons, <a href="game/firearms.html">Firearms</a></p>
+<p><em>Tools</em>: Thieves' Tools, Tinkers' Tools, one type of Artisans' Tools</p>
+<p><em>Saving Throws</em>: Intelligence, Constitution</p>
+<p><em>Skills</em>: Choose two from <em>Arcana</em>, <em>History</em>, <em>Investigation</em>, <em>Medicine</em>, <em>Nature</em>, <em>Perception</em>, <em>Sleight of Hand</em></p>
+<h2 id="spellcasting"><a class="header" href="#spellcasting">Spellcasting</a></h2>
+<p>Spells &quot;cast&quot; by an <em>Artificer</em> involve wonders and outlandish inventions, and either <em>Thieves' Tools</em> or <em>Artisans' Tools</em> are always
+required as a <em>Material</em> component to the spell. Once <a href="https://www.dndbeyond.com/sources/tcoe/artificer#InfuseItem">Infuse Item</a> is attained at 2nd level, any item bearing an <em>Infusion</em> may be used
+as a spellcasting focus.</p>
+<p>Intelligence is used as the <em>Artificers</em> spellcasting ability.</p>
+<h2 id="starting-equipment"><a class="header" href="#starting-equipment">Starting Equipment</a></h2>
+<ul>
+<li>Any 2 simple weapons</li>
+<li>1 <a href="game/firearms.html">Musket</a> or 2 <a href="game/firearms.html">Pistols</a> with 20 pieces of ammunition</li>
+<li><a href="https://www.dndbeyond.com/equipment/studded-leather">Studded Leather</a> armor or <a href="https://www.dndbeyond.com/equipment/scale-mail">Scale Mail</a></li>
+<li><a href="https://www.dndbeyond.com/equipment/tinkers-tools">Tinkers' Tools</a></li>
+<li><a href="https://www.dndbeyond.com/equipment/thieves-tools">Thieves' Tools</a></li>
+<li><a href="https://www.dndbeyond.com/equipment/dungeoneers-pack">Dungeoneers' Pack</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="playtest-materials"><a class="header" href="#playtest-materials">Playtest Materials</a></h1>
+<p><a href="game/images/UA-2023-DruidandPaladin.pdf">Druid and Paladin Playtest materials</a></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="equipment-1"><a class="header" href="#equipment-1">Equipment</a></h1>
+<p>In addition to the standard <a href="https://www.dndbeyond.com/sources/basic-rules/equipment">Equipment</a> list, a variety of exotic items are in common use on <strong>Mundus</strong>.</p>
+<ul>
+<li><a href="game/firearms.html">Firearms</a></li>
+<li><a href="game/conveyances.html">Conveyances</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="firearms"><a class="header" href="#firearms">Firearms</a></h1>
+<p><img src="game/images/nock-volley-gun.jpg" alt="Flintlock Pistol" />
+<em>Image Credit: Wikimedia Commons</em></p>
+<p>The most common firearms found on <strong>Mundus</strong> are <em>Muskets</em> and <em>Pistols</em>, but <a href="game/../background/artifacts.html">other types</a> have been discovered.</p>
+<p><a href="game/../background/elves.html">Elves</a> disdain the use of <em>Firearms</em>, but <a href="game/artificer.html">Artificers</a> in the <a href="game/../background/urbs.html">Urbs</a>
+and <a href="game/../background/mines.html">Mines</a> commonly manufacture them, with the <em>Protectors</em> and <em>Iron Guard</em> being notable users
+throughout their ranks.</p>
+<h2 id="common-types"><a class="header" href="#common-types">Common Types</a></h2>
+<div class="table-wrapper"><table><thead><tr><th>Type</th><th>Cost</th><th>Damage</th><th>Weight</th><th>Properties</th></tr></thead><tbody>
+<tr><td>Pistol</td><td>250 gp</td><td>2d8 piercing</td><td>3 lbs.</td><td>Ammunition (range 30/90), loading</td></tr>
+<tr><td>Quattour</td><td>1000 gp</td><td>2d6 piercing per barrel</td><td>5 lbs.</td><td>Ammunition (range 30/90), reload (4 shots)</td></tr>
+<tr><td>Musket</td><td>500 gp</td><td>2d10 piercing</td><td>7 lbs.</td><td>Ammunition (range 40/120), loading, two-handed</td></tr>
+<tr><td>Shotgun</td><td>750 gp</td><td>3d6 bludgeoning per barrel</td><td>10 lbs.</td><td>Ammunition (range 30/90), reload (2 shots), two-handed,</td></tr>
+<tr><td>Sept</td><td>1500 gp</td><td>2d8 piercing per barrel</td><td>13 lbs.</td><td>Ammunition (range 40/120), reload (7 shots), two-handed</td></tr>
+<tr><td>Bullets</td><td>3 gp</td><td>-</td><td>1 lb.</td><td>10 rounds + powder</td></tr>
+<tr><td>Shot</td><td>2 gp</td><td>-</td><td>1 lb.</td><td>10 shots + powder</td></tr>
+</tbody></table>
+</div>
+<h2 id="use"><a class="header" href="#use">Use</a></h2>
+<p>A <em>Pistol</em> or <em>Musket</em> discharges one lead ball per barrel.</p>
+<p>Shotguns discharge a number of pellets per barrel.</p>
+<p>The <em>Quattour</em> and <em>Sept</em> may discharge all barrels in a single round. In this instance, the firer receives <em>Disadvantage</em> unless they possess
+the <a href="https://www.dndbeyond.com/feats/gunner">Gunner Feat</a>. Success produces d4/d6 hits.</p>
+<h2 id="reloading"><a class="header" href="#reloading">Reloading</a></h2>
+<p>Firearms require 10 rounds to reload per barrel. A person with <em>Proficiency</em> in Firearms can reload a barrel in 5 rounds.
+Someone with the <a href="https://www.dndbeyond.com/feats/gunner">Gunner Feat</a> can reload a barrel as an <a href="https://www.dndbeyond.com/sources/basic-rules/combat#ActionsinCombat">Action</a> and fire as a Bonus Action.</p>
+<p>An <a href="game/artificer.html">Artificer</a> that <a href="https://www.dndbeyond.com/sources/tcoe/artificer#ArtificerInfusions">Infuses</a> a <em>Firearm</em> with <a href="https://www.dndbeyond.com/sources/tcoe/artificer#RepeatingShot">Repeating Shot</a> can reload and fire one barrel
+per round. The ammunition is assembled from components in the possession of the <a href="game/artificer.html">Artificer</a> (e.g. ball and powder).</p>
+<h2 id="armor-effects"><a class="header" href="#armor-effects">Armor Effects</a></h2>
+<p><a href="https://www.dndbeyond.com/sources/basic-rules/equipment#HeavyArmor">Heavy Armor</a> (or it's equivalent) provides <a href="https://www.dndbeyond.com/sources/basic-rules/combat#DamageResistanceandVulnerability">Damage Resistance</a> against <em>Firearms</em> listed in the table above.</p>
+<p><a href="https://www.dndbeyond.com/sources/basic-rules/equipment#MediumArmor">Medium Armor</a> (or it's equivalent) provides <a href="https://www.dndbeyond.com/sources/basic-rules/combat#DamageResistanceandVulnerability">Damage Resistance</a> against the <em>Shotgun</em> in the table above.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="conveyances"><a class="header" href="#conveyances">Conveyances</a></h1>
+<p>There are a variety of ways to get around, starting with animal-based:</p>
+<ul>
+<li><a href="https://www.dndbeyond.com/equipment/riding-horse">Horse</a></li>
+<li>Thunder Beast</li>
+<li><a href="https://www.dndbeyond.com/monsters/16924-hippogriff">Hippogriff</a></li>
+<li><a href="https://www.dndbeyond.com/monsters/16977-pegasus">Pegasus</a></li>
+<li>Manta Ray</li>
+</ul>
+<p>There is also techno-magical transportation:</p>
+<ul>
+<li>Horseless carriage</li>
+<li>Strider</li>
+<li>Crawler</li>
+<li><a href="https://www.dndbeyond.com/equipment/airship">Airship</a></li>
+<li>Submarine</li>
+</ul>
+<p>Magical portals, temporary or otherwise, are also known to exist.</p>
+<p>And of course, <a href="game/../background/urbs.html">Urbs</a> and <a href="game/../background/castelas.html">Castelas</a> are conveyances in their own right.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="spellcasting-1"><a class="header" href="#spellcasting-1">Spellcasting</a></h1>
+<p>To cast a spell, a character requires three things:</p>
+<h2 id="spell-knowledge-and-preparation"><a class="header" href="#spell-knowledge-and-preparation">Spell Knowledge and Preparation</a></h2>
+<p><a href="https://www.dndbeyond.com/classes/rogue#ArcaneTrickster">Arcane Tricksters</a>, <a href="game/artificer.html">Artificers</a>, <a href="https://www.dndbeyond.com/classes/bard">Bards</a>, <a href="https://www.dndbeyond.com/classes/fighter#EldritchKnight">Eldritch Knights</a>, <a href="https://www.dndbeyond.com/classes/ranger">Rangers</a>, <a href="https://www.dndbeyond.com/classes/sorcerer">Sorcerers</a>, <a href="https://www.dndbeyond.com/classes/warlock">Warlocks</a>, and <a href="https://www.dndbeyond.com/classes/wizard">Wizards</a> must know and/or prepare spell formula
+to cast spells.</p>
+<p>These formulae take different forms, depending upon the discipline of the spell-caster, and usually do not translate across classes.</p>
+<p><em>Example: the spell formula for Magic Missile written by <a href="https://www.dndbeyond.com/classes/wizard">Wizards</a> is different from the <a href="https://www.dndbeyond.com/classes/sorcerer">Sorcerers</a> Magic Missile.</em></p>
+<p>Some classes, like the <a href="game/artificer.html">Artificer</a>, can change known spells by tinkering with their spellcasting focus. Other classes, like <a href="https://www.dndbeyond.com/classes/wizard">Wizards</a>, write down formulae in their spellbooks. The number of known spells can exceed the number of prepared spells.</p>
+<p><a href="https://www.dndbeyond.com/classes/rogue#ArcaneTrickster">Arcane Tricksters</a> and <a href="https://www.dndbeyond.com/classes/wizard">Wizards</a> must prepare spells from their list of known spells. For all other classes, there is no distinction
+between known spells and prepared spells.</p>
+<p><strong>Only prepared spells can be cast.</strong></p>
+<p><a href="https://www.dndbeyond.com/classes/cleric">Clerics</a>, <a href="https://www.dndbeyond.com/classes/druid">Druids</a>, <a href="https://www.dndbeyond.com/classes/sorcerer">Sorcerers</a>, and <a href="https://www.dndbeyond.com/classes/wizard">Wizards</a> can prepare a number of spells equal to their Spellcasting Attribute bonus + class level.</p>
+<p><em>Example: A 5th-level Wizard with an Intelligence of 16 can prepare 8 spells.</em></p>
+<p><a href="game/artificer.html">Artificers</a> and <a href="https://www.dndbeyond.com/classes/paladin">Paladins</a> can prepare a number of spells equal to their Spellcasting Attribute bonus + half their class level, rounded down.</p>
+<p><em>Example: A 3rd-level Paladin with a Charisma of 17 can prepare 4 spells.</em></p>
+<p><a href="https://www.dndbeyond.com/classes/rogue#ArcaneTrickster">Arcane Tricksters</a>, <a href="https://www.dndbeyond.com/classes/bard">Bards</a>, <a href="https://www.dndbeyond.com/classes/fighter#EldritchKnight">Eldritch Knights</a>, <a href="https://www.dndbeyond.com/classes/ranger">Rangers</a>, and <a href="https://www.dndbeyond.com/classes/warlock">Warlocks</a> have a fixed number of prepared spells depending on their level.</p>
+<p><em>Example: A 5th-level Warlock can prepare 6 spells, regardless of Charisma.</em></p>
+<h2 id="spell-level"><a class="header" href="#spell-level">Spell Level</a></h2>
+<p><strong>Second, the character must be able to channel magical ability of that level.</strong></p>
+<p><em>Example: a 5th-level Wizard can channel up to 3rd-level spells.</em></p>
+<h2 id="mana"><a class="header" href="#mana">Mana</a></h2>
+<p><strong>Lastly, the character must have available <a href="game/mana.html">Mana</a>.</strong></p>
+<p>Using <a href="game/mana.html">Mana</a> often requires <em>Verbal</em>, <em>Somatic</em>, and/or <em>Material</em> components, which are consumed when <a href="game/mana.html">Mana</a> is expended.
+If these words, gestures, or materials are interrupted or interfered with, the spell fizzles and the <a href="game/mana.html">Mana</a> is lost.</p>
+<h2 id="environmental-effects"><a class="header" href="#environmental-effects">Environmental Effects</a></h2>
+<p>Spells which use an <a href="https://www.dndbeyond.com/sources/basic-rules/combat#AttackRolls">Attack Roll</a> normally generate <a href="https://www.dndbeyond.com/sources/basic-rules/combat#CriticalHits">Critical Hits</a> on a roll of 20.</p>
+<p><em>Example: Call Lightning does not trigger <a href="https://www.dndbeyond.com/sources/basic-rules/combat#CriticalHits">Critical Hits</a>, because it has a Saving Throw.</em></p>
+<p>Certain spells have enhanced effects in certain environments, as follows:</p>
+<p>A spell with a <a href="https://www.dndbeyond.com/sources/basic-rules/combat#DamageTypes">damage type</a> matching the environment generates a Critical Hit on a 19 or 20 <a href="https://www.dndbeyond.com/sources/basic-rules/combat#AttackRolls">Attack Roll</a>.
+Likewise, <a href="https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#SavingThrows">Saving Throws</a> are at Disadvantage.</p>
+<div class="table-wrapper"><table><thead><tr><th>Damage Type</th><th>Environment</th></tr></thead><tbody>
+<tr><td>Radiant</td><td><a href="game/../background/seasons.html">Summerday</a></td></tr>
+<tr><td>Necrotic</td><td><a href="game/../background/seasons.html">Winternight</a></td></tr>
+<tr><td>Acid</td><td>Acid Rain</td></tr>
+<tr><td>Cold</td><td>Blizzard</td></tr>
+<tr><td>Lightning</td><td>Thunderstorm</td></tr>
+<tr><td>Thunder</td><td>Thunderstorm</td></tr>
+<tr><td>Fire</td><td>Active volcano</td></tr>
+<tr><td>Force</td><td><em>The Arch</em> is visible</td></tr>
+</tbody></table>
+</div>
+<p><em>Example: A roll of 19 with a <a href="https://www.dndbeyond.com/magic-items/4667-javelin-of-lightning">Javelin of Lightning</a> during a Thunderstorm triggers a Critical Hit on the target for 2d6 Piercing + 8d6 Lightning.
+The creatures between the thrower and the target do not receive <a href="https://www.dndbeyond.com/sources/basic-rules/combat#CriticalHits">Critical Hits</a>, but they make a Dexterity Save for half damage at Disadvantage.</em></p>
+<p><a href="https://www.dndbeyond.com/classes/sorcerer#WildMagic">Wild Magic</a> <a href="https://www.dndbeyond.com/classes/sorcerer">Sorcerers</a> trigger a <a href="https://www.dndbeyond.com/classes/sorcerer#WildMagic">Wild Magic</a> Surge on a spellcasting <a href="https://www.dndbeyond.com/sources/basic-rules/combat#AttackRolls">Attack Roll</a> of 20.</p>
+<p><em>Example: A Wild Magic Sorcerer rolls a 20 to Critical Hit a target with a Ray of Enfeeblement during Winternight.
+He also triggers a Wild Magic Surge.</em></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="mana-1"><a class="header" href="#mana-1">Mana</a></h1>
+<p><em>Mana</em>, regardless of provenance, powers magic, and spellcasters use it to cast spells.</p>
+<p>To determine how much <em>Mana</em> is available, for each <em>Spell Slot</em> multiply by <em>Spell Level</em> and add up the total. This is summarized in the tables below.<sup class="footnote-reference"><a href="#1">1</a></sup></p>
+<p><em>Example: a 4th level Wizard has 10 Mana (4 1st-level slots x 1 + 3 2nd-level slots x 2 = 10).</em></p>
+<p>Spells cost <em>Mana</em> equal to their level, plus any modifiers to that level.</p>
+<p><em>Example: Fireball (a 3rd-level spell) cast at 5th-level with an additional 2d6 damage (10d6 total) costs 5 Mana.</em></p>
+<p><em>Cantrips</em> and other <em>At Will</em> abilities do not consume <em>Mana</em> directly, as they are innate to the <strong>Being</strong>.
+Certain classes also have spells that are <em>Always Prepared</em> and which do not count against Spell Slots.
+In this case, <em>Always Prepared</em> spells are added to both the <em>Known Spells</em> list and the <em>Prepared Spells</em> list,
+and their <em>Spell Levels</em> are added to the <em>Mana</em> for the character.</p>
+<p><em>Example: A 5th level Druid in the Circle of the Forest has 26 Mana. Barkskin, Spider Climb, Call Lightning, and Plant Growth are always
+prepared and may be cast if the Druid has sufficient Mana.</em></p>
+<p><a href="https://www.dndbeyond.com/sources/phb/customization-options#RitualCaster">Ritual Spells</a> require <em>Mana</em> equal to their level available to begin the ritual, but the spellcaster attunes the spell to the <em>Mana</em> of the environment.
+Thus, it does not deplete the spellcaster's <em>Mana</em> directly.</p>
+<p><em>Example: Identify requires, but does not use, 1 Mana to start the ritual.</em></p>
+<h2 id="bard-cleric-druid-sorcerer-wizard"><a class="header" href="#bard-cleric-druid-sorcerer-wizard">Bard, Cleric, Druid, Sorcerer, Wizard</a></h2>
+<div class="table-wrapper"><table><thead><tr><th>Level</th><th>Cantrips<sup class="footnote-reference"><a href="#2">2</a></sup></th><th>Max Spell Level</th><th>Mana<sup class="footnote-reference"><a href="#3">3</a></sup></th></tr></thead><tbody>
+<tr><td>1st</td><td>2</td><td>1st</td><td>2</td></tr>
+<tr><td>2nd</td><td>2</td><td>1st</td><td>3</td></tr>
+<tr><td>3rd</td><td>2</td><td>2nd</td><td>8</td></tr>
+<tr><td>4th</td><td>3</td><td>2nd</td><td>10</td></tr>
+<tr><td>5th</td><td>3</td><td>3rd</td><td>16</td></tr>
+<tr><td>6th</td><td>3</td><td>3rd</td><td>19</td></tr>
+<tr><td>7th</td><td>3</td><td>4th</td><td>23</td></tr>
+<tr><td>8th</td><td>3</td><td>4th</td><td>27</td></tr>
+<tr><td>9th</td><td>3</td><td>5th</td><td>36</td></tr>
+<tr><td>10th</td><td>4</td><td>5th</td><td>41</td></tr>
+<tr><td>11th</td><td>4</td><td>6th</td><td>47</td></tr>
+<tr><td>12th</td><td>4</td><td>6th</td><td>50</td></tr>
+<tr><td>13th</td><td>4</td><td>7th</td><td>54</td></tr>
+<tr><td>14th</td><td>4</td><td>7th</td><td>57</td></tr>
+<tr><td>15th</td><td>4</td><td>8th</td><td>62</td></tr>
+<tr><td>16th</td><td>4</td><td>8th</td><td>67</td></tr>
+<tr><td>17th</td><td>4</td><td>9th</td><td>71</td></tr>
+<tr><td>18th</td><td>4</td><td>9th</td><td>76</td></tr>
+<tr><td>19th</td><td>4</td><td>9th</td><td>82</td></tr>
+<tr><td>20th</td><td>4</td><td>9th</td><td>89</td></tr>
+</tbody></table>
+</div>
+<h2 id="artificer-paladin-ranger"><a class="header" href="#artificer-paladin-ranger">Artificer, Paladin, Ranger</a></h2>
+<div class="table-wrapper"><table><thead><tr><th>Level</th><th>Max Spell Level</th><th>Mana</th></tr></thead><tbody>
+<tr><td>1st</td><td>None<sup class="footnote-reference"><a href="#4">4</a></sup></td><td>0</td></tr>
+<tr><td>2nd</td><td>1st</td><td>2</td></tr>
+<tr><td>3rd</td><td>1st</td><td>3</td></tr>
+<tr><td>4th</td><td>1st</td><td>5</td></tr>
+<tr><td>5th</td><td>2nd</td><td>8</td></tr>
+<tr><td>6th</td><td>2nd</td><td>9</td></tr>
+<tr><td>7th</td><td>2nd</td><td>10</td></tr>
+<tr><td>8th</td><td>2nd</td><td>12</td></tr>
+<tr><td>9th</td><td>3rd</td><td>16</td></tr>
+<tr><td>10th</td><td>3rd</td><td>17</td></tr>
+<tr><td>11th</td><td>3rd</td><td>19</td></tr>
+<tr><td>12th</td><td>3rd</td><td>20</td></tr>
+<tr><td>13th</td><td>4th</td><td>23</td></tr>
+<tr><td>14th</td><td>4th</td><td>25</td></tr>
+<tr><td>15th</td><td>4th</td><td>27</td></tr>
+<tr><td>16th</td><td>4th</td><td>30</td></tr>
+<tr><td>17th</td><td>5th</td><td>36</td></tr>
+<tr><td>18th</td><td>5th</td><td>39</td></tr>
+<tr><td>19th</td><td>5th</td><td>41</td></tr>
+<tr><td>20th</td><td>5th</td><td>44</td></tr>
+</tbody></table>
+</div>
+<h2 id="warlock"><a class="header" href="#warlock">Warlock</a></h2>
+<div class="table-wrapper"><table><thead><tr><th>Level</th><th>Cantrips</th><th>Spells</th><th>Invocations</th><th>Max Spell Level</th><th>Mana</th></tr></thead><tbody>
+<tr><td>1st</td><td>2</td><td>2</td><td>None</td><td>1st</td><td>1</td></tr>
+<tr><td>2nd</td><td>2</td><td>3</td><td>2</td><td>1st</td><td>2</td></tr>
+<tr><td>3rd</td><td>2</td><td>4</td><td>2</td><td>2nd</td><td>4</td></tr>
+<tr><td>4th</td><td>3</td><td>5</td><td>2</td><td>2nd</td><td>5</td></tr>
+<tr><td>5th</td><td>3</td><td>6</td><td>3</td><td>3rd</td><td>6</td></tr>
+<tr><td>6th</td><td>3</td><td>7</td><td>3</td><td>3rd</td><td>7</td></tr>
+<tr><td>7th</td><td>3</td><td>8</td><td>4</td><td>4th</td><td>8</td></tr>
+<tr><td>8th</td><td>3</td><td>9</td><td>4</td><td>4th</td><td>9</td></tr>
+<tr><td>9th</td><td>3</td><td>10</td><td>5</td><td>5th</td><td>10</td></tr>
+<tr><td>10th</td><td>4</td><td>10</td><td>5</td><td>5th</td><td>15</td></tr>
+<tr><td>11th</td><td>4</td><td>11</td><td>5</td><td>6th<sup class="footnote-reference"><a href="#5">5</a></sup></td><td>21</td></tr>
+<tr><td>12th</td><td>4</td><td>11</td><td>6</td><td>6th</td><td>25</td></tr>
+<tr><td>13th</td><td>4</td><td>12</td><td>6</td><td>7th<sup class="footnote-reference"><a href="#5">5</a></sup></td><td>28</td></tr>
+<tr><td>14th</td><td>4</td><td>12</td><td>6</td><td>7th</td><td>30</td></tr>
+<tr><td>15th</td><td>4</td><td>13</td><td>7</td><td>8th<sup class="footnote-reference"><a href="#5">5</a></sup></td><td>36</td></tr>
+<tr><td>16th</td><td>4</td><td>13</td><td>7</td><td>8th</td><td>40</td></tr>
+<tr><td>17th</td><td>4</td><td>14</td><td>7</td><td>9th<sup class="footnote-reference"><a href="#5">5</a></sup></td><td>45</td></tr>
+<tr><td>18th</td><td>4</td><td>14</td><td>8</td><td>9th</td><td>46</td></tr>
+<tr><td>19th</td><td>4</td><td>15</td><td>8</td><td>9th</td><td>47</td></tr>
+<tr><td>20th</td><td>4</td><td>15</td><td>8</td><td>9th</td><td>48</td></tr>
+</tbody></table>
+</div>
+<h2 id="eldritch-knight-arcane-trickster"><a class="header" href="#eldritch-knight-arcane-trickster">Eldritch Knight, Arcane Trickster</a></h2>
+<div class="table-wrapper"><table><thead><tr><th>Level</th><th>Cantrips<sup class="footnote-reference"><a href="#6">6</a></sup></th><th>Spells</th><th>Max Spell Level</th><th>Mana</th></tr></thead><tbody>
+<tr><td>3rd</td><td>2</td><td>3</td><td>1st</td><td>2</td></tr>
+<tr><td>4th</td><td>2</td><td>4</td><td>2nd</td><td>3</td></tr>
+<tr><td>5th</td><td>2</td><td>4</td><td>2nd</td><td>4</td></tr>
+<tr><td>6th</td><td>2</td><td>4</td><td>2nd</td><td>5</td></tr>
+<tr><td>7th</td><td>2</td><td>5</td><td>2nd</td><td>6</td></tr>
+<tr><td>8th</td><td>2</td><td>6</td><td>2nd</td><td>7</td></tr>
+<tr><td>9th</td><td>2</td><td>6</td><td>2nd</td><td>8</td></tr>
+<tr><td>10th</td><td>3</td><td>7</td><td>2nd</td><td>10</td></tr>
+<tr><td>11th</td><td>3</td><td>8</td><td>2nd</td><td>11</td></tr>
+<tr><td>12th</td><td>3</td><td>8</td><td>2nd</td><td>12</td></tr>
+<tr><td>13th</td><td>3</td><td>9</td><td>3rd</td><td>16</td></tr>
+<tr><td>14th</td><td>3</td><td>10</td><td>3rd</td><td>17</td></tr>
+<tr><td>15th</td><td>3</td><td>10</td><td>3rd</td><td>18</td></tr>
+<tr><td>16th</td><td>3</td><td>11</td><td>3rd</td><td>19</td></tr>
+<tr><td>17th</td><td>3</td><td>11</td><td>3rd</td><td>20</td></tr>
+<tr><td>18th</td><td>3</td><td>11</td><td>3rd</td><td>21</td></tr>
+<tr><td>19th</td><td>3</td><td>12</td><td>4th</td><td>22</td></tr>
+<tr><td>20th</td><td>3</td><td>13</td><td>4th</td><td>23</td></tr>
+</tbody></table>
+</div>
+<div class="footnote-definition" id="1"><sup class="footnote-definition-label">1</sup>
+<p>The tables gives slightly more spell points than a straight conversion, to provide increasing Mana per level.</p>
+</div>
+<div class="footnote-definition" id="2"><sup class="footnote-definition-label">2</sup>
+<p><em>Clerics</em> and <em>Wizards</em> have +1 Cantrips, <em>Sorcerers</em> have +2 Cantrips.</p>
+</div>
+<div class="footnote-definition" id="3"><sup class="footnote-definition-label">3</sup>
+<p><em>Sorcerers</em> get <em>Metamagic Mana</em> equal to their level, which can be used for <a href="https://www.dndbeyond.com/sources/basic-rules/classes#Metamagic">Metamagic</a> or <em>Mana</em>.</p>
+</div>
+<div class="footnote-definition" id="4"><sup class="footnote-definition-label">4</sup>
+<p><em>Artificers</em> know Cantrips equal to <em>Druids</em>, and at 1st level know 1st level spells with 2 Mana.</p>
+</div>
+<div class="footnote-definition" id="5"><sup class="footnote-definition-label">5</sup>
+<p>From the <a href="https://www.dndbeyond.com/sources/basic-rules/classes#MysticArcanum">Mystic Arcanum</a></p>
+</div>
+<div class="footnote-definition" id="6"><sup class="footnote-definition-label">6</sup>
+<p><em>Arcane Trickster</em> has +1 Cantrips</p>
+</div>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="magic-items"><a class="header" href="#magic-items">Magic Items</a></h1>
+<h2 id="adamantium"><a class="header" href="#adamantium">Adamantium</a></h2>
+<p>Black and non-metallic, <em>Adamantium</em> is the hardest known substance on <strong>Mundus</strong>. <em>Adamantium</em> seems to drink in the light, and is non-reactive to both fire and acid.
+<em>Adamantium</em> is highly prized for it's lightness and durability, and can only be worked by <a href="game/artificer.html">Artificers</a>.</p>
+<p>Weapons made of <em>Adamantium</em> cause <a href="https://www.dndbeyond.com/sources/basic-rules/combat#CriticalHits">Critical Hits</a> on a roll of 19 or 20.</p>
+<p>Armor made of <em>Adamantium</em> is half the weight, and the wearer is immune to <a href="https://www.dndbeyond.com/sources/basic-rules/combat#CriticalHits">Critical Hits</a>.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="overview"><a class="header" href="#overview">Overview</a></h1>
+<p>The first adventuring group based out of <a href="journals/../background/urbs.html">Neverwinter</a>.</p>
+<p><a href="journals/first.html">First Session</a></p>
+<p><a href="journals/second.html">Second Session</a></p>
+<p><a href="journals/third.html">Third Session</a></p>
+<p><a href="journals/fourth.html">Fourth Session</a></p>
+<p><a href="journals/fifth.html">Fifth Session</a></p>
+<p><a href="journals/sixth.html">Sixth Session</a></p>
+<p><a href="journals/seventh.html">Seventh Session</a></p>
+<p><a href="journals/eighth.html">Eighth Session</a></p>
+<p><a href="journals/ninth.html">Ninth Session</a></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="first-session"><a class="header" href="#first-session">First Session</a></h1>
+<h2 id="goblins-on-the-triboar-trail"><a class="header" href="#goblins-on-the-triboar-trail">Goblins on the Triboar Trail</a></h2>
+<h3 id="springrise"><a class="header" href="#springrise">Springrise</a></h3>
+<h3 id="dramatis-personae"><a class="header" href="#dramatis-personae">Dramatis Personae</a></h3>
+<ul>
+<li>Benjamin, a 1st-level Elf Ranger</li>
+<li>CoralKing, a 1st-level Gnome Monk</li>
+<li>Geral Bryn, a 1st-level Human Fighter</li>
+<li>Orky, a 1st-level Half-Elf Paladin</li>
+<li>Steve, a 1st-level Halfling Rogue</li>
+<li>Tasbros, a 1st-level Elf Sorcerer</li>
+<li>Tysnera, a 1st-level Elf Wizard</li>
+<li>Wulrif, a 1st-level Human Warlock</li>
+</ul>
+<p><img src="journals/images/lmop2.jpg" alt="Sword Coast" /></p>
+<p>Spring rises over the <strong>Sword Coast</strong> as <a href="journals/../background/urbs.html">Neverwinter</a> makes its way along the <strong>High Road</strong> to spend Summerday at <strong>Biscayne Bay</strong>, awaiting the arrival of <strong>Waterdeep</strong>, the largest known Submersible Urb.</p>
+<p>The <em>Magisterium</em> declares <em>Springrise</em> as the majority of the inhabitants of <strong>Neverwinter</strong> exchange their musty and clamorous dwellings for the
+warmth of the surrounding lands. Gaily colored tents and trade booths dot the surrounding countryside, patrolled by the <em>Protectorate</em> astride their
+clanking beasts.</p>
+<blockquote>
+<p>A Dwarf named <em>Gundren Rockseeker</em> asks you to bring a wagonload of provisions to the Summerday settlement of <strong>Phandalin</strong>, 20 hours travel Southwest of your current location.
+<em>Gundren</em> was clearly excited and more than a little secretive about his reasons for the trip, saying only that he and his brothers had found &quot;something big&quot;, and that he'd pay you
+ten gold pieces each to escort his supplies to <strong>Barthen's Provisions</strong>, a trading post in <strong>Phandalin</strong>.
+He then set out ahead of you on horse, along with a warrior escort named <em>Sildar Hallwinter</em>, claiming he needed to arrive early to &quot;take care of business&quot;.
+You've spent the last 8 hours following the broad <strong>High Road</strong> South, and you've just recently veered east along the <strong>Triboar Trail</strong>. You've encountered no trouble so far, but the wilderness is always dangerous and full of predators.</p>
+</blockquote>
+<p>Character introductions were made.</p>
+<p>The party encountered two dead horses along the trail. Despite <em>Geral</em>'s warning, the party went to investigate and were ambushed by Goblins.</p>
+<p><em>Geral</em> leapt forward to save <em>CoralKing</em>, <em>Benjamin</em>, and <em>Wulrif</em> and <em>Orky</em>'s charge broke the back of Goblin resistance.</p>
+<p>The remainder disengaged and slunk back into the woods, firing desultory arrows at <em>Orky</em> to no effect.</p>
+<p><em>Benjamin</em> determined the Goblins to have numbered a dozen, and they dragged someone away. Empty satchels and a map case were found near the dead horses.</p>
+<h4 id="300-xps"><a class="header" href="#300-xps">300 XPs</a></h4>
+<p>A further 8 hours travel along the <strong>Triboar Trail</strong>, and <em>Benjamin</em> discovered a Goblin lair in a cave hidden in the woods a scant two bowshots from the trail.
+Concealed in natural surroundings, <em>Benjamin</em> observed the Goblins taking a bound human into the cave. From there, any other travelers along the <strong>Triboar Trail</strong> are sure to come under assault.</p>
+<p>The party crept to the cave entrance, leaving <em>Geral</em> and <em>Tysnera</em> to guard the oxen team and wagon full of the provisions they were hired to deliver.</p>
+<p>The party ambushed two guards at the cave entrance, and then slew three wolves just inside the cave in a filthy den.</p>
+<p>Before they could go further, <em>Tysnera</em> arrived bearing the news that the wagon caravan was under attack by a foul beast.</p>
+<p>Returning, the party encountered an Owlbear, which had dispatched <em>Geral</em> and was ravaging the remains of the oxen team.</p>
+<p>The Owlbear was defeated and <em>Geral</em> revived from near death. The remains of four oxen were scattered amongst the beast's feeding frenzy, and <em>Benjamin</em> eventually retrieved the remaining four.</p>
+<p>The party must decide what to do next.</p>
+<h4 id="500-xps"><a class="header" href="#500-xps">500 XPs</a></h4>
+<!-- markdownlint-disable MD033 -->
+<img src="journals/images/owlbear.png" width=50% height=50%>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="second-session"><a class="header" href="#second-session">Second Session</a></h1>
+<h2 id="goblins-and-zombies-and-wolves-oh-my"><a class="header" href="#goblins-and-zombies-and-wolves-oh-my">Goblins and Zombies and Wolves, Oh My!</a></h2>
+<h3 id="summerday-48-hours"><a class="header" href="#summerday-48-hours">Summerday +48 hours</a></h3>
+<h3 id="dramatis-personae-1"><a class="header" href="#dramatis-personae-1">Dramatis Personae</a></h3>
+<ul>
+<li>Actias Aureus, a 1st-level Tiefling Warlock</li>
+<li>Benjamin, a 2nd-level Elf Ranger</li>
+<li>Calmul Rhoqiroth, a 1st-level Dragonkin Bard</li>
+<li>CoralKing, a 2nd-level Gnome Monk</li>
+<li>Geral Bryn, a 2nd-level Human Fighter</li>
+<li>Orky, a 2nd-level Half-Elf Paladin</li>
+<li>Skolg, a 1st-level Tiefling Rogue</li>
+<li>Steve, a 2nd-level Halfling Rogue</li>
+<li>Wulrif, a 2nd-level Human Warlock</li>
+</ul>
+<p><img src="journals/images/goblin.png" alt="Goblins" /></p>
+<p>After determining that the Goblins in the cave were going to be a persistent threat until taken care of,
+the party decided to hide the wagon and oxen in a safe place and go back to the cave. <em>Benjamin</em> found
+a good location off the main trail for the oxen, and <em>Wulrif</em> cast an illusion over the wagon to hide it,
+with limited success.</p>
+<p>The group set off toward the caves, only to be met by a party of a dozen Goblins attempting to ambush them again.
+The team succeeded in defeating the Goblin raiding party, with a few Goblins escaping back into the woods.
+<em>CoralKing</em> detected and the party avoided two traps along the trail the Goblins had set, and the party found themselves
+back at the mouth of the cave.</p>
+<p>Proceeding cautiously, the party noted the chamber that had formerly held the wolves to contain little more than bloodstains.
+Careful investigation revealed a narrow chimney 20' or so up in the chamber, but the climb looked slick and difficult and
+no one risked it. Moving deeper into the cave, it again branched, going upwards into a large chamber with a wooden bridge 20'
+over the stream flowing down the left side of the main cave tunnel. A side branch also went upwards, but the ceiling was much
+lower. While the party was deciding what to do, a huge deluge of water came roaring down the main passage, washing away most of the party.
+A few desultory arrows came out of the darkness, but they had little effect.</p>
+<p>The group decided to explore instead the side passage, but this time they made use of the pickaxes and ropes that many of them had been
+carrying. CoralKing stealthily crept up the passage, finding another group of 6 Goblins arguing and abusing a tied up human.</p>
+<p>Turning the tides, the group blitzed into the room, taking down all of the Goblins except one, which they kept as a prisoner.</p>
+<p>The human prisoner turned out to be <em>Sildar Hallwinter</em>, a retired warrior and bodyguard of <em>Gundren Rockseeker</em>. He relayed that they
+were both ambushed by a large band of Goblins with a Bugbear leader, who took <em>Gundren</em> someplace else.</p>
+<p>The party turned to interrogate the captured Goblin, who revealed a number of items:</p>
+<ul>
+<li>The Bugbear's name is <em>Klarg</em>, and he's the leader of the band, which numbers more than two dozen. But <em>Yeemik</em> is second in command, and know's many things of interest to the group.</li>
+<li><em>Klarg</em> answers to <em>King Grol</em>, chief of the <em>Cragmaw tribe</em>, who dwells in <strong>Cragmaw Castle</strong>.</li>
+<li><em>Klarg</em> received a messenger from <em>King Grol</em> a few days ago. Somone named <em>The Black Spider</em> was paying the <em>Cragmaws</em> to watch for the dwarf
+<em>Gundren Rockseeker</em>, capture him, and send him and his effects (but most especially a map) back to <em>King Grol</em>.</li>
+<li><em>Klarg</em> took <em>Gundren</em> to <strong>Cragmaw Castle</strong>. <em>Yeemik</em> can lead the party there.</li>
+</ul>
+<p>At this point <em>Sildar</em> interrupts, saying he needs to get to <strong>Phandalin</strong> along with the supplies, because he needs to find out the whereabouts of
+his friend, <em>Iarno Glasstaff</em>, who went to <strong>Phandalin</strong> last Summerday to prepare the way. He offers an additional 50 gold pieces for safe escort to <strong>Phandalin</strong>.</p>
+<p>The party agrees that they need to get <em>Sildar</em> and the wagon of supplies to <strong>Phandalin</strong>, and then find <em>Gundren</em>.</p>
+<p>Turning south along the <strong>Triboar Trail</strong>, the party, along with <em>Sildar</em> and <em>Yeemik</em>, head towards <strong>Phandalin</strong>.</p>
+<p>They pass another wagon that has been torn apart, bodies littered everywhere. As they approach, the bodies rise with a groan and attack.</p>
+<p>These strange undead puff blinding clouds of ash when hit. Worse, they seem resistant to swords, arrows, and even <em>Calmul</em>'s breath weapon.
+They likewise take no notice of charms or enchantments, but <em>Orky</em> has success with her mace, <em>Coralking</em> with his headbutts, and <em>Geral</em> with a
+makeshift club. <em>Actias</em> and <em>Wulrif</em>'s spells likewise affect the monsters. <em>Benjamin</em>, <em>Steve</em>, and <em>Skolg</em>,
+equipped with only slashing and piercing weapons, guard <em>Yeemik</em> to ensure he doesn't run off in the confusion.
+<em>Silmar</em> yells out that these are &quot;Ash Zombies&quot;.</p>
+<p>The <em>Ash Zombies</em> go down very hard, but eventually they do go down.</p>
+<p>The party stops to rest and recuperate.</p>
+<h4 id="600-xps"><a class="header" href="#600-xps">600 XPs</a></h4>
+<p><img src="journals/images/triboar-trail.png" alt="Triboar trail" /></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="third-session"><a class="header" href="#third-session">Third Session</a></h1>
+<h2 id="wildlife-problems"><a class="header" href="#wildlife-problems">Wildlife Problems</a></h2>
+<h3 id="summerday-80-hours"><a class="header" href="#summerday-80-hours">Summerday +80 hours</a></h3>
+<h3 id="dramatis-personae-2"><a class="header" href="#dramatis-personae-2">Dramatis Personae</a></h3>
+<ul>
+<li>Actias Aureus, a 2nd-level Tiefling Warlock</li>
+<li>Benjamin, a 3rd-level Elf Ranger</li>
+<li>Calmul Rhoqiroth, a 2nd-level Dragonkin Bard</li>
+<li>CoralKing, a 3rd-level Gnome Monk</li>
+<li>Geral Bryn, a 3rd-level Human Fighter</li>
+<li>Orky, a 3rd-level Half-Elf Paladin</li>
+<li>Steve, a 3rd-level Halfling Rogue</li>
+<li>Tasbros, a 2nd-level Elf Sorcerer</li>
+<li>Tysnera, a 2nd-level Elf Wizard</li>
+<li>Viker, a 2nd-level Elf Druid</li>
+<li>Wulrif, a 3rd-level Human Warlock</li>
+</ul>
+<p>The party finally makes it to <strong>Phandalin</strong>. <em>Sildar</em> leads the group to the <strong>Stonehill Inn</strong>, where they set about procuring lodgings. <em>Sildar</em> pays the
+party the 50 gold pieces and sets off in search of his friend, <em>Iarno Glasstaff</em>.</p>
+<p>The group then drops off the supplies to <strong>Barthen's Provisions</strong>, where they get paid and briefly chat with <em>Barthen</em>.</p>
+<p><em>Yeemik</em> the Goblin is causing a bit of a stir, so they head to the <strong>Townmaster's Hall</strong> next, where they encounter <em>Harbin Wester</em> and his group of <em>Dwarven Mercenaries</em>.
+<em>Harbin</em> offers them the use of the jail in the basement, and after a few tense moments with the Dwarves <em>CoralKing</em> decides
+to stay with <em>Yeemik</em> to ensure no shenanigans.</p>
+<p><em>Harbin</em> offers a bounty of 100gp if the party will clear out the Orcs harrassing travelers on the <strong>Triboar Trail</strong> to the East.
+The group considers it. <em>Geral</em> asks where a healer might be found and <em>Harbin</em> replies that someone occasionally tends the <strong>Shrine of Luck</strong>.</p>
+<p>No one is at the <strong>Shrine of Luck</strong>, so <em>Tasbros</em> and <em>Tysnera</em> decide to do their meditations there while the rest of the party rests at the <strong>Stonehill Inn</strong>.</p>
+<p><em>Tysnera</em> and <em>Tasbros</em> encounter the returning <em>Sister Garaele</em>, injured and the worse for wear. <em>Sister Garaele</em> is looking for <em>Bojangle's Spellbook</em>,
+and the last entity that might know it's location is <em>Agatha the Banshee</em>, who haunts the ruins of <strong>Conyberry</strong>. She offers three potions of healing plus
+her services upon their return, and says that if <em>Agatha</em> is approached correctly, she may be amenable to answering questions.
+<em>Sister Garaele</em> offers a silver comb as a gift for <em>Agatha</em>.</p>
+<p>After conferring and restocking provisions, the group sets off on the <strong>Triboar Trail</strong>, intending to speak to <em>Agatha</em> and clear out the Orcs.</p>
+<p>Making camp, they are beset by a pack of 8 vicious Allosaurs!</p>
+<p><img src="journals/images/allosaurs.jpeg" alt="Allosaurus Attack!" /></p>
+<p>The Allosaurs blitz the party, jumping and shredding with claws and teeth. The party spellcasters scramble up trees for cover,
+and <em>Orky</em>, <em>Geral</em>, and <em>CoralKing</em> hold the center.  <em>Actias</em> and <em>Wulrif</em> cast potent curses and <em>Eldricth Blasts</em>, <em>Calmul</em> breathes
+poison and provides critical blessings to <em>Orky</em>, and <em>Geral</em> makes a couple of key saves with his shield as well as inspiring <em>Orky</em>
+to heroic feats with her now-flaming Great Sword. <em>Steve</em> and <em>Benjamin</em> shoot arrows and <em>Viker</em> saves the life of the unfortunate <em>Tysnera</em> who has
+been taken into the jaws of an Allosaur after she and <em>Tasbros</em> expended all of their potent combat spells.</p>
+<p>Triumphant after an epic battle, the party heals up and considers their next action.</p>
+<h4 id="700-xps"><a class="header" href="#700-xps">700 XPs</a></h4>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="fourth-session"><a class="header" href="#fourth-session">Fourth Session</a></h1>
+<h2 id="orcs-the-tower-of-endymion-and-a-mystery"><a class="header" href="#orcs-the-tower-of-endymion-and-a-mystery">Orcs, the Tower of Endymion, and a mystery</a></h2>
+<h3 id="summerday-128-hours"><a class="header" href="#summerday-128-hours">Summerday +128 hours</a></h3>
+<h3 id="dramatis-personae-3"><a class="header" href="#dramatis-personae-3">Dramatis Personae</a></h3>
+<ul>
+<li>Actias Aureus, a 3rd-level Tiefling Warlock</li>
+<li>Benjamin, a 3nd-level Elf Ranger</li>
+<li>Calmul Rhoqiroth, a 3rd-level Dragonkin Bard</li>
+<li>CoralKing, a 3rd-level Gnome Monk</li>
+<li>Geral Bryn, a 3rd-level Human Fighter</li>
+<li>Orky, a 3rd-level Half-Elf Paladin</li>
+<li>Steve, a 3rd-level Halfling Rogue</li>
+<li>Tasbros, a 3rd-level Elf Sorcerer</li>
+<li>Tysnera, a 3rd-level Elf Wizard</li>
+<li>Viker, a 3rd-level Elf Druid</li>
+<li>Wulrif, a 3rd-level Human Warlock</li>
+</ul>
+<p>In the aftermath of the battle with the pack of Allosaurs, the party camped between the tread marks of a passing <em>Urb</em> on the <strong>Triboar Trail</strong>, reasoning the deep indentations
+and broken ground would provide a more defensible camp site. While resting they saw a curious sight: strange, whirring clockwork automatons marching single file out of the
+forest over to the bodies of the Allosaurs. Ignoring the party entirely, the strange machines proceeded to render the bodies into small pieces.</p>
+<p><img src="journals/images/clockwork-horror.png" alt="Clockwork Horror" /></p>
+<p>The sights and sounds were unpleasant to say the least, so the party moved a bit further along the trail of the Urb. The rest period was otherwise uneventful, the light
+from the <em>Enclouding</em> giving a dreamlike quality while everyone meditated and healed.</p>
+<p>Midway through the next 8-hour march, the <em>Urban</em> trail turns North into the forest, a vast scar of sawn-down trees and torn-up earth rent between the giant Sequoias.</p>
+<p>The group continues East, reaching the ruins of <strong>Conyberry</strong>.</p>
+<blockquote>
+<p>The forest grows dark and still as the trail winds deeper into the trees. Heavy vines and thick layers of moss drape the branches,
+and the air is noticeably colder than it was in the ruined village. Rounding a bend in the trail, you see a screen made from the warped
+branches of trees standing close together, woven into a domelike shelter in the shadows. A low doorway leads inside.</p>
+</blockquote>
+<p>The adventurers enter.</p>
+<blockquote>
+<p>The air grows cold, and a powerful feeling of dread grips you. A cold, pale light flickers in the air, rapidly taking on the form of a
+female elf, her hair and robes waving in a spectral wind. She might have been beautiful once, but a hateful expression twists her features now.
+“Foolish mortals,” she snarls. “What do you want here? Do you not know it is death to seek me out?”</p>
+</blockquote>
+<blockquote>
+<p>&quot;We have brought you a gift,&quot; replies <em>Wulrif</em>. He offers her <em>Garaele's</em> <em>Silver Comb</em>.</p>
+</blockquote>
+<blockquote>
+<p>The ghostly figure smiles with cold amusement. “Very well,” she says. “I know that you seek many things. Ask me one question, and I will give you an answer.”</p>
+</blockquote>
+<blockquote>
+<p>&quot;Where is Bojangle's spellbook?&quot; asks <em>Wulrif</em>.</p>
+</blockquote>
+<blockquote>
+<p>&quot;I traded that to a Necromancer named <em>Tsernoth</em> from <strong>Iriaebor</strong>, let's see, more than a hundred years ago. I do not know what happened to it after that.&quot;</p>
+</blockquote>
+<p><em>Agatha</em> disappears.</p>
+<p>After some consultation, the party decides to head South to look at the <strong>Old Owl Well</strong>, a point of interest on the map. The ground gets steeper and the wind picks up.</p>
+<p>They encounter an old dwarf riding a horseless carriage.</p>
+<p><img src="journals/images/dwarf-horseless-carriage.png" alt="Dwarf and his horseless carriage" /></p>
+<blockquote>
+<p>&quot;Hallooooo!&quot; he yells, seemingly friendly.</p>
+</blockquote>
+<blockquote>
+<p>&quot;Hello&quot;, replies <em>Orky</em>.</p>
+</blockquote>
+<p>After establishing that he is a Miner around these parts, the party asks a few questions.</p>
+<p>On the strange mechanical scavengers:</p>
+<blockquote>
+<p>&quot;Oh, avoid the Clockwork Horrors if you can.&quot;</p>
+</blockquote>
+<blockquote>
+<p>&quot;But what do they want?&quot;</p>
+</blockquote>
+<blockquote>
+<p>&quot;No one knows, but best not to get in their way if you can help it.&quot;</p>
+</blockquote>
+<blockquote>
+<p>&quot;What's <strong>Old Owl Well</strong>?&quot;</p>
+</blockquote>
+<blockquote>
+<p>&quot;Oh, an ancient tower. Be careful, there's Undead been spotted around there.&quot;</p>
+</blockquote>
+<p>After a few more shouts the party continues, finally making camp on a hillside as the wind picks up.</p>
+<p>And that's when the Orc war-band attacks!</p>
+<p><img src="journals/images/orcs-attacking-downhill.png" alt="Orcs attack!" /></p>
+<p>The party isn't surprised, but the Orcs have the high ground and the wind makes archery difficult.</p>
+<p>There are ten Orcs, with a fearsome War-Chief and, as it becomes apparent, a Shaman. The Shaman casts buffs on the attacking group
+which rushes downhill at the party. <em>Geral</em>, <em>Orky</em>, and <em>CoralKing</em> move to block.</p>
+<p><em>Benjamin</em> and <em>Steve</em> shoot arrows with limited success. The unusual resistance of the Orcs to
+<em>Hexes</em> and such from <em>Wulrif</em> and <em>Actias</em> indicates that the Shaman has countered some of their spells. <em>Tasbros</em> and <em>Tysnera</em> get in some
+damaging spell strikes. But it is the center that is held by <em>Geral</em>, <em>Orky</em>, and <em>CoralKing</em>, who absorb the brunt of the warband's attacks.</p>
+<p><em>CoralKing</em> goes down no less than three times, revived by <em>Viker</em> and <em>Calmul</em> before finally falling. His stand gives
+<em>Orky</em> and <em>Geral</em> time to deal with the Shaman and the other Orcs, until only the War-Chief is left. The War-Chief's death strike is a mighty blow
+which nearly takes <em>Geral</em> with him.</p>
+<p><em>Viker</em> heals <em>CoralKing</em> just before he takes the long dirt nap to join his ancestors.</p>
+<p>Battered, the party rests, taking suitable trophies from the Orcs.</p>
+<p>Again, two Clockwork Horrors arrive and the party leaves them to their grisly task. During the Long Rest, <em>Benjamin</em>
+sees three leave.</p>
+<blockquote>
+<p>As you crest a low ridge, you spy the crumbling ruins of an old watchtower standing amid the rugged hills.
+The place is so old that the walls are only mounds of rubble enclosing a courtyard of sorts, adjacent to the broken stump of an old tower.
+A colorful tent has been set up in the middle of the courtyard, but no one is in sight.</p>
+</blockquote>
+<p><em>Actias</em> casts <em>Invisibility</em> on <em>Steve</em>, who stealthily reconnoiters.</p>
+<p>A few minutes later, a quite visible <em>Steve</em> walks stiffly back, in some sort of magical grip by a bald, tatooed, red-robed Mage. Twelve <em>Zombies</em>
+lurk nearby, but do not attack.</p>
+<blockquote>
+<p>&quot;What is the meaning of this?&quot; asks the Mage.</p>
+</blockquote>
+<p><em>Wulrif</em> seems to be the de-facto spokesperson of the group.</p>
+<blockquote>
+<p>&quot;We were looking for the <strong>Old Owl Well</strong>.&quot;</p>
+</blockquote>
+<blockquote>
+<p>&quot;Indeed, you have found it.&quot; An odd gleam in his eyes. &quot;Have you spoken to <em>Agatha</em>?&quot;</p>
+</blockquote>
+<blockquote>
+<p>&quot;Well, yes.&quot;</p>
+</blockquote>
+<blockquote>
+<p>&quot;I have a question of her I would bade you ask, and a gift to offer.&quot; A strange metal box floats over.</p>
+</blockquote>
+<blockquote>
+<p>&quot;What is inside the box?&quot;</p>
+</blockquote>
+<blockquote>
+<p>&quot;Probably best you don't know,&quot; says the Mage with a chilling smile. &quot;I can offer you this ring as a reward.&quot;</p>
+</blockquote>
+<p><em>Viker</em> goes into a brief trance, then nods and whispers:</p>
+<blockquote>
+<p><em>&quot;It's a Ring of Protection.&quot;</em></p>
+</blockquote>
+<p>The party consults briefly.</p>
+<blockquote>
+<p>&quot;We accept.&quot;</p>
+</blockquote>
+<p><em>Steve</em> the Halfling walks over of his own accord, unharmed.</p>
+<p>The party treks back down the foothills, surprisingly not encountering anything unusual. Another four hours travel brings them to <em>Agatha's</em> lair.</p>
+<p>A wave of cold, and <em>Agatha</em> looks at the party, curiously.</p>
+<blockquote>
+<p>&quot;We have a gift, and a question.&quot;</p>
+</blockquote>
+<p><em>Agatha</em> gestures and the curiously heavy metal box floats over, lid opening.</p>
+<blockquote>
+<p>&quot;Acceptable. What is your question?&quot;</p>
+</blockquote>
+<blockquote>
+<p>&quot;What is the name of the tower at <strong>Old Owl Well</strong>?</p>
+</blockquote>
+<blockquote>
+<p><em>Agatha</em> seems to think a moment. &quot;The <strong>Tower of Endymion</strong>.&quot; She vanishes.</p>
+</blockquote>
+<p>Back to <strong>Old Owl Well</strong>. The Mage receives the answer with interest, and delivers the ring.
+After consultation, the party decides that <em>CoralKing</em> shall be it's bearer.</p>
+<p>But the next rest period brings a strange clicking sound, and the appearance of three Clockwork Horrors. Ignoring the rest of the party, they make a beeline for <em>CoralKing</em>.</p>
+<p>The things have mechanical saws and pincers, and return fire with <em>Lightning Bolts</em> when <em>Benjamin</em> hits them, harmlessly, with
+his arrows. No weapon the party has seems to have the least effect on them. <em>CoralKing</em> struggles, but is astonishingly quickly subdued.
+They cut off the ring (and <em>CoralKing's</em> finger), then retreat back the way they came. <em>Actias</em> sends an <em>Eldritch Blast</em> at them, narrowly dodging
+return <em>Lightning Bolts</em>.</p>
+<p>The party looks at each other haplessly, then go to heal <em>CoralKing</em>.</p>
+<h4 id="1000-xps"><a class="header" href="#1000-xps">1000 XPs</a></h4>
+<p><img src="journals/images/old-owl-well.png" alt="Old Owl Well" /></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="fifth-session"><a class="header" href="#fifth-session">Fifth Session</a></h1>
+<h2 id="return-to-phandalin"><a class="header" href="#return-to-phandalin">Return to Phandalin</a></h2>
+<h3 id="summerday-210-hours"><a class="header" href="#summerday-210-hours">Summerday +210 hours</a></h3>
+<h3 id="dramatis-personae-4"><a class="header" href="#dramatis-personae-4">Dramatis Personae</a></h3>
+<ul>
+<li>Actias Aureus, a 4th-level Tiefling Warlock</li>
+<li>Benjamin, a 4th-level Elf Ranger</li>
+<li>Calmul Rhoqiroth, a 3rd-level Dragonkin Artificer</li>
+<li>CoralKing, a 4th-level Gnome Monk</li>
+<li>Geral Bryn, a 4th-level Human Fighter</li>
+<li>Orky, a 4th-level Half-Elf Paladin</li>
+<li>Steve, a 4th-level Halfling Rogue</li>
+<li>Tasbros, a 4th-level Elf Sorcerer</li>
+<li>Tysnera, a 4th-level Elf Wizard</li>
+<li>Viker, a 3rd-level Elf Druid</li>
+<li>Wulrif, a 4th-level Human Warlock</li>
+</ul>
+<p><em>Viker</em> revives <em>CoralKing</em>, who immediately wants to get his ring back (the <strong>Precious</strong>).</p>
+<p><em>Benjamin</em> uses <em>Primeval Awareness</em> to try to track the Clockwork Horrors, but they are something beyond his understanding.
+He does sense a Dragon flying North of the party just before it moves out of range.</p>
+<p><em>Tasbros</em> thinks the Clockwork Horrors are some kind of Construct, and <em>Calmul</em> agrees.</p>
+<p>The great tracks of the <em>Urb</em> once again provides shelter as the party marches for two rest periods back to <strong>Phandalin</strong>.
+They greet <em>Sister Garaele</em> at the <strong>Shrine of Luck</strong> and relay <em>Agatha's</em> answer.
+<em>Sister Garaele</em> is grateful and offers her healing and more potions.
+She can't regenerate <em>CoralKing's</em> finger, but <em>Qelline Alderleaf</em>, a local farmer, might know a Druid who can.</p>
+<p>The group heads back to the <strong>Townmaster's Hall</strong>, where they meet <em>Harbin Wester</em>, and retrieve the Goblin from the gaol.
+<em>Geral</em> makes the Goblin swear allegiance as his armor bearer, and names him <em>Snaga</em>. The party gives <em>Harbin</em> the Orc tusks, for which he pays 5gp per pair, 50gp total.
+<em>Calmul</em> and <em>Geral</em> spot the firearms carried by <em>Harbin's</em> Dwarven mercenaries, and note that they don't seem to protect anyone else in the town.
+Harbin talks about the <em>Redbrand Ruffians</em>, who recently arrived and began beating up and killing townfolk.</p>
+<h4 id="300-xps-1"><a class="header" href="#300-xps-1">300 XPs</a></h4>
+<p><img src="journals/images/phandalin.jpg" alt="Phandalin" /></p>
+<p>The party heads to the <strong>Phandalin Miner's Exchange</strong>, meeting the proprietor, <em>Halla Thorton</em>. A shrewd, sharp-looking human woman, she tells them more about the <em>Redbrands</em>,
+and offers 100gp for the death of their leader, an unknown Mage who recently arrived. <em>Wulfric</em> senses an ulterior motive, though.
+<em>Halla</em> notes that many <em>Redbrands</em> hang out at the <strong>Sleeping Giant Inn</strong>, and but their leader is almost always at <strong>Tresendar Manor</strong>. <em>Halla</em> thinks there might be two dozen <em>Redbrands</em>.</p>
+<p>The party carefully reconnoiters the manor, preparing to set a trap near the <strong>Sleeping Giant Inn</strong>. By chance, four <em>Redbrands</em> emerge from the <strong>Sleeping Giant Inn</strong>, triggering the ambush.</p>
+<p>It's any easy fight for the party, and the <em>Redbrands</em> are quickly overwhelmed. A <em>Redbrand</em> is captured and interrogated, and the party discovers that:</p>
+<ul>
+<li>The leader of the <em>Redbrands</em> is a Human Wizard known as <em>Glasstaff</em>. Arcana knowledge by <em>Tysnera</em> notes that is likely a <em>Staff of Defense</em>.</li>
+<li>Someone called the <em>Black Spider</em> hired the <em>Redbrands</em> to frighten off adventurers and intimidate the locals. The <em>Black Spider</em> sent Bugbears to reinforce the <em>Redbrands</em>.</li>
+<li>Underneath the manor lives a hideous &quot;eye monster&quot;, which the <em>Redbrands</em> avoid.</li>
+<li>The <em>Redbrands</em> have captive townsfolk &quot;near the old crypt&quot;, guarded by Skeletons.</li>
+</ul>
+<p>Benjamin uses <em>Primeval Awareness</em> again to discern that there is some sort of Aberration underneath the manor, as well as a large group of Undead.</p>
+<p>The party returns to the <strong>Phandalin Miner's Exchange</strong>, deciding to pass on assaulting <strong>Tresendar Manor</strong>. <em>Wulrif</em> discerns that <em>Halla</em> is interested in taking over the <em>Redbrands</em>.</p>
+<p>They encounter <em>Sindar Hallwinter</em>, who seems to be the new Townmaster.</p>
+<blockquote>
+<p>&quot;What happened to Harbin, you ask? As soon as he saw me, that fool scurried off with his guards back to his Bank. Good riddance, I say!
+He didn't have the fortitude to do what needs to be done around here. But how goes the search for <em>Gundren</em>? Have you found <strong>Cragmaw Castle</strong>?
+I'll pay you 500gp for the rescue of <em>Gundren Rockseeker</em>.</p>
+</blockquote>
+<p>The party finds this more appealing.</p>
+<p><em>Snaga</em> indeed knows some crafty pathways which, after a full 8 hours march, lead the party to <strong>Cragmaw Castle</strong> without notable encounters.</p>
+<p>The party scouts cautiously.</p>
+<p><em>Viker</em> shapeshifts into a field mouse and hops into <em>Steve's</em> pocket. <em>Actius</em> turns <em>Steve</em> (and <em>Viker</em>) invisible.
+<em>Benjamin</em> follows stealthily as the three of them take up station by the front entrance to the West.</p>
+<p>The rest of the party carefully moves to the Southern entrance, beneath the arrow slits.
+<em>Calmul</em> produces small, scurrying spider Constructs which <em>Infuse</em> <em>Orky's</em> Chain Mail and Greatsword with Magic.</p>
+<p><em>Actius</em> uses <em>Mold Earth</em> to collapse the South Wall, exposing the Goblins inside!</p>
+<h4 id="400-xps"><a class="header" href="#400-xps">400 XPs</a></h4>
+<p><img src="journals/images/cragmaw-castle.jpg" alt="Cragmaw Castle" /></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="sixth-session"><a class="header" href="#sixth-session">Sixth Session</a></h1>
+<h2 id="attack-on-cragmaw-castle"><a class="header" href="#attack-on-cragmaw-castle">Attack on Cragmaw Castle</a></h2>
+<h3 id="summerday-270-hours"><a class="header" href="#summerday-270-hours">Summerday +270 hours</a></h3>
+<h3 id="dramatis-personae-5"><a class="header" href="#dramatis-personae-5">Dramatis Personae</a></h3>
+<ul>
+<li>Actias Aureus, a 4th-level Tiefling Warlock</li>
+<li>Benjamin, a 4th-level Elf Ranger</li>
+<li>Calmul Rhoqiroth, a 3rd-level Dragonkin Artificer</li>
+<li>CoralKing, a 4th-level Gnome Monk</li>
+<li>Geral Bryn, a 4th-level Human Fighter</li>
+<li>Orky, a 4th-level Half-Elf Paladin</li>
+<li>Steve, a 4th-level Halfling Rogue</li>
+<li>Tasbros, a 4th-level Elf Sorcerer</li>
+<li>Tysnera, a 4th-level Elf Wizard</li>
+<li>Viker, a 3rd-level Elf Druid</li>
+<li>Wulrif, a 4th-level Human Warlock</li>
+</ul>
+<h4 id="from-the-journal-of-dame-orky"><a class="header" href="#from-the-journal-of-dame-orky">From the journal of Dame Orky</a></h4>
+<p>Thus begins the smiting of Evil:</p>
+<h4 id="initiatives--first-turn"><a class="header" href="#initiatives--first-turn">Initiatives &amp; First Turn</a></h4>
+<ol>
+<li><em>Benjamin</em> comes in the west-side door and opens a door to attack a pack of Goblins.</li>
+<li>Coral King attacks a Goblin and hella misses.</li>
+<li><em>Steve</em> shoots his Short bow, crits a Goblin and kills it.</li>
+<li><em>Calmul</em> blasts a Goblin with his musket for another kill.</li>
+<li><em>Tysnera</em> casts Firebolt on a Goblin but misses.</li>
+<li><em>Viker</em> casts Frost Bite on Goblin dealing 3 damage and Disadvantage on its next attack.</li>
+<li><em>Wulrif</em> Hexes and Edrich Blasts a Goblin, killing it.</li>
+<li>Actius Edrich Blasts a Goblin and downs it.</li>
+<li><em>Geral</em> swings on a Goblin and deals 6 damage.</li>
+<li><em>Tasbros</em> damages a Golbin with Mind Sliver.</li>
+<li>Goblins attack <em>Benjamin</em> and deal 8 points of damage, same on <em>CoralKing</em>, who Fades Away as a Reaction.</li>
+</ol>
+<h4 id="turn-2"><a class="header" href="#turn-2">Turn 2</a></h4>
+<ol>
+<li><em>Benjamin</em> gets hit by some sort of creature with tentacles, tail and lots of range, taking 19 damage. (I think it’s a Displacer beast-nope!)</li>
+<li><em>Benjamin</em> uses his Hunter's Sense to discover the creature is Resistant to Bludgeoning, Piercing, and Slashing with nonmagical weapons. A hit by the tentacles allows it to drag you into its area even though we still can’t see all of it.</li>
+<li><em>Benjamin</em> gets messed up and heals himself.</li>
+<li>Here we find out that it’s a Grick Alpha.</li>
+<li><em>CoralKing</em> attacks a damaged Goblin with a hit and kills it.</li>
+<li><em>Steve</em> ducks and comes in behind and kills a Goblin.</li>
+<li><em>Calmul</em> shoots at a Goblin and misses.</li>
+<li><em>Tysnera</em> casts Firebolt and misses.</li>
+<li><em>Viker</em> kills a Goblin.</li>
+<li><em>Wulrif</em> attacks the Hexed Goblin and kills it.</li>
+<li>Actius Eldritch Blasts, hits, and deals 9 damage to a Goblin, killing it.</li>
+<li><em>Geral</em> hits a Goblin and rocks him.</li>
+<li>I hit and kill the last Goblin, then move toward the Grick.</li>
+<li><em>Tasbros</em> moves toward the Grick.</li>
+<li>The Grick slithers along the walls and encounters us. It attacks <em>Steve</em> with tail and tentacles, missing.</li>
+</ol>
+<h4 id="turn-3"><a class="header" href="#turn-3">Turn 3</a></h4>
+<ol>
+<li>2 Goblins and 4 Hobgoblins come in behind the Grick with 8 more from the Front.</li>
+<li>A Goblin misses <em>Benjamin</em> and 2 Hobgoblins too.</li>
+<li><em>Tasbros</em> gets hits once and gets 7 points of damage.</li>
+<li><em>Benjamin</em> disengages and steps back.</li>
+<li><em>CoralKing</em> moves and attacks the Grick with his hands in a flurry and hits once. Damage is 3 points.</li>
+<li><em>Steve</em> disengages, hides behind me, and attacks a Goblin. He deals 16 damage and kills it.</li>
+<li><em>Calmul</em> shoots a goblin and kills it with a crit.</li>
+<li><em>Tysnera</em> casts Melf’s Acid Arrow against the Grick and misses. But still does 5 splash damage.</li>
+<li><em>Viker</em> kills a Goblin.</li>
+<li>Hobgoblin misses 2 attacks on <em>CoralKing</em>.</li>
+<li><em>Wulrif</em> casts Dissonant Whispers against the Grick, which fails its Wisdom save. It takes 21 damage and immediately slithers away.</li>
+<li>Actius Removes Earth under the Hobgoblin Leader's feet. It makes a saving throw and fails, falling prone. (He gets disadvantage, and everyone else gets advantage on him).</li>
+<li><em>Geral</em> misses an attack on something.</li>
+<li>I hit the Hobgoblin Leader for 15 damage and it looks hurt!</li>
+<li><em>Tasbros</em> casts Sleep on all of the remaining Goblins.</li>
+<li>The Grick moves forward again and attacks <em>Tasbros</em>. He has Mirror Image ready and the tentacles hit one of the duplicates. The tail hits another duplicate. If a tentacle would have hit, it would have taken a bite as well. Luckily, <em>Tasbros</em> did pretty well!</li>
+<li>The Hobgoblin attacks <em>Tasbros</em> and misses. It hits <em>Viker</em> and deals 7 points of damage. Another one deals another 7 points of damage. Another one misses <em>Tasbros</em> and <em>Steve</em>. Another one misses me.</li>
+<li>The Hobgoblin Leader gets up from prone.</li>
+<li>The Hobgoblin Leader attacks <em>CoralKing</em> and misses.</li>
+<li>A Hobgoblin tries to shove <em>CoralKing</em> and succeeds, knocking <em>CoralKing</em> prone.</li>
+</ol>
+<h4 id="turn-4"><a class="header" href="#turn-4">Turn 4</a></h4>
+<ol>
+<li><em>Benjamin</em> hits a Hobgoblin and deals 10 points of damage.</li>
+<li><em>CoralKing</em> gets up and then high kicks the Hobgoblin Leader for 8 damage.</li>
+<li><em>Calmul</em> shoots a Goblin and kills it</li>
+<li><em>Tysnera</em> casts Sleep on 3 goblins (lowest hit points first).</li>
+<li><em>Viker</em> throws an Ice Knife at the Grick and hits, doing 12 damage.</li>
+<li>The Hobgoblin Leader attacks <em>Geral</em> and hits twice, doing 23 damage.</li>
+<li><em>Wulrif</em> hits the Grick with an Eldritch Blast and does 13 damage.</li>
+<li>Actius misses.</li>
+<li><em>Geral</em> has advantage on the Captain and misses. He heals 14 HP.</li>
+<li>I channel a Vow of Enmity and hit the Hobgoblin Leader, doing 14 damage.</li>
+<li><em>Tasbros</em> casts Ray of Frost, doing 5 damage and reducing speed by 10 on the Hobgoblin.</li>
+<li>The Grick attacks <em>Tasbros</em> and misses with the tail. It hits with a tentacle and does 12 damage. Then it drags <em>Tasbros</em> in for a bite with the beak, doing another 11. <em>Tasbros</em> is not dead, but he's not doing well.</li>
+<li>2 Goblins attack <em>Viker</em> and both hit, for 8 damage.</li>
+<li>1 Hobgoblin attacks <em>CoralKing</em> and misses.</li>
+<li><em>Benjamin</em> attacks a Hobgoblin and makes a Critical Hit, doing 14 damage and killing it.</li>
+<li><em>CoralKing</em> attacks the Hobgoblin Leader with a headbutt. He misses.</li>
+<li><em>Steve</em> Sneak Attacks the Hobgoblin Leader, doing 14 damage. The Leader goes down!!!</li>
+<li><em>Calmul</em> shoots the Grick and hits! He does 12 damage and takes it down!!!</li>
+<li><em>Tasbros</em> is busy dying.</li>
+<li><em>Viker</em> heals <em>Tasbros</em> with Cure Wounds for 8 HP, saving him.</li>
+<li><em>Wulrif</em> Eldritch Blasts one of the Goblins but misses.</li>
+<li>Actius hits a Hobgoblin for 12 damage.</li>
+<li><em>Geral</em> moves to the remaining Hobgoblin and misses.</li>
+<li>I move to the Hobgoblin, swing, and miss.</li>
+<li>The Hobgoblin attacks <em>Geral</em> and misses.</li>
+</ol>
+<h4 id="turn-5"><a class="header" href="#turn-5">Turn 5</a></h4>
+<ol>
+<li><em>Benjamin</em> attacks a Goblin with his short sword and hits. It dies.</li>
+<li><em>CoralKing</em> misses a throw and loses his javelin.</li>
+<li><em>Steve</em> shoots a Hobgoblin with his Short Bow and kills it.</li>
+<li><em>Calmul</em> shoots a Goblin with his Musket and kills it.</li>
+<li><em>Tysnera</em> casts Ray of Frost and misses.</li>
+<li><em>Viker</em> misses with her scimitar.</li>
+<li><em>Wulrif</em> casts Eldritch Blast and misses.</li>
+<li>Actius attempts the same and finally hits! The last Goblin is toast!</li>
+</ol>
+<p>Magically the castle clears and we hear noises, so we move towards a back room to make a stand since it only has one entrance. <em>Benjamin</em> is able to tell us that a couple of monsters are coming.</p>
+<p><em>Tasbros</em> takes a Healing potion, as does <em>Viker</em>. Actius blows a hole in the back of the room so we can escape if we need to.</p>
+<h4 id="first-turn"><a class="header" href="#first-turn">First Turn</a></h4>
+<ol>
+<li><em>Benjamin</em> shoots his Longbow and misses.</li>
+<li><em>CoralKing</em> holds his action – meaning he waits until someone attacks him.</li>
+<li><em>Steve</em> stabs a Goblin with a dagger and kills it.</li>
+<li><em>Calmul</em> shoots a Goblin and misses.</li>
+<li><em>Tysnera</em> casts Firebolt on a Goblin and kills it.</li>
+<li><em>Viker</em> casts Frostbite on a goblin, who makes his Saving Throw.</li>
+<li><em>Wulrif</em> misses something.</li>
+<li><em>Geral</em> cheers everyone on, granting bonus Hit Points.</li>
+<li>I kill a Goblin.</li>
+<li><em>Tasbros</em> puts 2 Goblins to Sleep.</li>
+<li><em>CoralKing</em> uses his attack as he is approached and misses.</li>
+<li>Goblins miss <em>Steve</em> and me, who are at the front.</li>
+</ol>
+<h4 id="second-turn"><a class="header" href="#second-turn">Second Turn</a></h4>
+<ol>
+<li><em>Benjamin</em> shoots at a Goblin and misses.</li>
+<li><em>CoralKing</em> shin kicks a Goblin and deals 7 damage, killing it!</li>
+<li><em>Steve</em> misses something.</li>
+<li><em>Calmul</em> misses something else.</li>
+<li>A Wolf ridden by a Bugbear (later we find out this is &quot;King Grol&quot;) moves outside to attack us from behind. An unseen attacker hits Actius and knocks him unconscious. A crossbow bolt is seen in his back.</li>
+<li><em>Tysnera</em> casts Mage Armor on herself.</li>
+<li><em>Viker</em> casts something and misses.</li>
+<li><em>Wulrif</em> hides behind the outside tree and actively investigates the area, finding the Drow.</li>
+<li><em>Geral</em> is searching for the Drow outside and just misses with a 14 Perception check.</li>
+<li>The other Bugbear heads outside with the Wolf-rider around the side of the building. The Wolf breaths frost on <em>Geral</em>, who Saves, taking 8 HP (half) damage.</li>
+<li>An enemy Shaman Magic Missiles me for 12 damage.</li>
+<li>A Bugbear attacks <em>Geral</em> and misses.</li>
+<li>I Lay on Hands to Actius, healing him of the Poison, but he's still prone.</li>
+<li><em>Tasbros</em> uses Ray of Frost but only deals 2 damage.</li>
+<li><em>Steve</em> stabs a Goblin and kills it.</li>
+</ol>
+<h4 id="third-turn"><a class="header" href="#third-turn">Third Turn</a></h4>
+<ol>
+<li><em>Benjamin</em> shoots a Hobgoblin with his Longbow and does 10 damage.</li>
+<li><em>CoralKing</em> kicks a Goblin and misses.</li>
+<li><em>Steve</em> takes out a fresh Hobgoblin.</li>
+<li><em>Calmul</em> shoots the Drow and hits for 7 damage!</li>
+<li>The Wolf recharges its breath weapon and misses <em>Geral</em> by an inch. The Bugbear hits <em>Geral</em>, who only takes 4 damage. The Drow also misses.</li>
+<li><em>Tysnera</em> casts Hold Person on the Bugbear Chief, who Saves.</li>
+<li><em>Viker</em> heals <em>Geral</em>.</li>
+<li><em>Wulrif</em> Hexes the Drow but misses with Eldritch Blast.</li>
+<li>Actius gets up and casts Eldritch Blast but misses.</li>
+<li><em>Geral</em> uses Commander's Strike on me to hit the Bugbear Chief. I swing and do 21 damage! <em>Geral</em> uses Action Surge and hits, doing 5 more damage.</li>
+<li>A Bugbear attacks me and misses both swings. The Bugbear Chief riding the wolf swings at <em>Geral</em> and hits once, doing 12 damage.</li>
+<li>Orky hits the Bugbear Chief with Searing Smite and deals 21 damage.</li>
+<li>The Hobgoblins attack <em>Steve</em> and do 11 damage.</li>
+</ol>
+<h4 id="fourth-turn"><a class="header" href="#fourth-turn">Fourth Turn</a></h4>
+<ol>
+<li><em>Benjamin</em> shoots the Bugbear and deals 14 damage. Kills him? (He gets up again, healed by the Shaman as we find out later.)</li>
+<li><em>CoralKing</em> attacks a Goblin and hits. He does 6 damage and kills him.</li>
+<li><em>Steve</em> takes out a Hobgoblin.</li>
+<li><em>Calmul</em> shoots the Drow for 14 damage.</li>
+<li>The Wolf attacks me and hits, doing 15 damage, reduced by 3 because of my Heavy Armor Master feat.</li>
+<li><em>Tysnera</em> casts Melf’s Acid Arrow on the Wolf, doing 24 damage!</li>
+<li><em>Viker</em> heals <em>Geral</em> by 9 hit points and everyone else gets 3 from her Unicorn totem.</li>
+<li><em>Wulrif</em> hits the Drow with a spell, doing half damage of 10 hit points due to a successful saving throw.</li>
+<li>Actius hits the Drow and deals 10 damage.</li>
+<li><em>Geral</em> uses Commander's Strike on me and I hit the Wolf for 25 damage!</li>
+<li>The Hobgoblin Leader attacks Orky and deals 15 damage, minus 3. <em>CoralKing</em> takes 3 Magic Missiles to the face from the Shaman and gets 11 damage.</li>
+<li>I hit the Wolf again for 19 damage.</li>
+<li><em>Tasbros</em> Magic Missiles the Wolf for 18 damage. It finally goes down! We later find out it's a Winter Wolf.</li>
+<li>A Hobgoblin goes down on an attack of opportunity.</li>
+<li><em>Steve</em> takes out a Goblin on an attack of opportunity.</li>
+</ol>
+<h4 id="fifth-turn"><a class="header" href="#fifth-turn">Fifth Turn</a></h4>
+<ol>
+<li><em>Benjamin</em> does 15 damage on the remaining Bugbear Leader.</li>
+<li>Coral King attempts a hit.</li>
+<li><em>Calmul</em> shoots the Bugbear and deals 5 damage.</li>
+<li>The Drow disappears through a portal.</li>
+<li><em>Tysnera</em> casts Sleep on the forest where the Drow disappeared, but nothing happens.</li>
+<li><em>Viker</em> heals <em>Geral</em>.</li>
+<li>Actius tries to hit the Bugbear.</li>
+<li><em>Geral</em> uses Commander's Strike on me and I deal 25 damage to the Bugbear Leader.</li>
+<li>I do another 21 damage on the Bugbear leader with my Great Sword.</li>
+<li><em>Tasbros</em> casts Ray of Frost on a goblin for 4 damage.</li>
+<li>Goblins attack <em>Steve</em> and <em>CoralKing</em>, missing.</li>
+</ol>
+<h4 id="sixth-turn"><a class="header" href="#sixth-turn">Sixth Turn</a></h4>
+<ol>
+<li><em>Benjamin</em> drops the Bugbear leader with his Longbow!!!</li>
+<li><em>CoralKing</em> kicks the Goblin in front of him and does 13 damage, killing it.</li>
+<li><em>Steve</em> annihilates a Goblin.</li>
+<li><em>Calmul</em> misses a Hobgoblin.</li>
+<li><em>Tysnera</em> cast Sleep on 3 Goblins, downing them.</li>
+<li><em>Viker</em> uses Ice Knife on the Hobgoblin and deals 9 damage, killing our final foe!!!</li>
+</ol>
+<p><em>Benjamin</em> sends his Pterodactyl to scout and it senses a Monstrosity locked in an area. The Southeast tower is heavily barricaded with snuffling and growling inside. Even the door is barricaded by rocks.</p>
+<p>We finally find <em>Gundren Rockseeker</em>, tied up in the Southwest room. With him is his map, which shows the way to <strong>Wave Echo Cave</strong>, a place that makes magic items.</p>
+<h4 id="2600-xp"><a class="header" href="#2600-xp">2,600 XP</a></h4>
+<p><img src="journals/images/cragmaw-fight.png" alt="Cragmaw Fight" /></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="seventh-session"><a class="header" href="#seventh-session">Seventh Session</a></h1>
+<h2 id="return-of-the-automatons"><a class="header" href="#return-of-the-automatons">Return of the Automatons</a></h2>
+<h3 id="summerday-294-hours"><a class="header" href="#summerday-294-hours">Summerday +294 hours</a></h3>
+<h3 id="dramatis-personae-6"><a class="header" href="#dramatis-personae-6">Dramatis Personae</a></h3>
+<ul>
+<li>Benjamin, a 4th-level Elf Ranger</li>
+<li>CoralKing, a 4th-level Gnome Monk</li>
+<li>Orky, a 4th-level Half-Elf Paladin</li>
+<li>Steve, a 4th-level Halfling Rogue</li>
+<li>Viker, a 4th-level Elf Druid</li>
+</ul>
+<h4 id="from-the-journal-of-dame-orky-1"><a class="header" href="#from-the-journal-of-dame-orky-1">From the journal of Dame Orky</a></h4>
+<p><em>Gundren</em> is so happy to see us! He wants to return to <strong>Phandalin</strong> and then take us along to <strong>Wave Echo Cave</strong>.
+<em>Gundren</em> was in <em>King Grol’s</em> chamber and grabs his map. <em>Steve</em> finds 3 healing potions, 220 sp, and 160 electrum hidden under a filthy mattress.
+<em>King Grol</em> had black armor and a black sword, which Calmul says is made of <a href="journals/../game/magic-items.html#adamantium">Adamantium</a>.
+<em>Gundren</em> recognizes the sword and armor as Sildar’s, who he says will probably want it back. For the time being, I take the chain mail and <em>Viker</em> takes the sword.</p>
+<p>There is a large beast trapped in the castle. <em>Benjamin</em> wants to open the door. I do not!
+<em>Benjamin</em> starts digging and we see a paw digging from the other side! Its head comes out and we see that it’s an Owl Bear.
+Now it’s completely out, sees us, meanders over, and starts snacking on the remains of a Goblin. A few of us go to explore the room it came from.
+We move 30 ft toward a different corridor and attempt to go around the Owl Bear, which starts growling at us. <em>Steve</em> tries to sneak around the Owl Bear, but
+his Stealth roll fails. So, he uses Luck but fails again. He is forced to step carefully back and move through another corridor. The Owl Bear stops growling and turns back to it's Goblin.
+We follow <em>Steve</em>. We can still hear growling and shuffling but it gets fainter. <em>Viker</em>, who is waiting outside the castle, sees the Owl Bear run off.
+I stay back to keep distance, everyone else enters the room.</p>
+<p>The room is a silo that extends far up into darkness. <em>Benjamin</em> and <em>CoralKing</em> see a jagged ledge that used to be a second floor.
+Back from the ledge, nearly hidden, is a chest. <em>Benjamin</em> manages to get up to that ledge. <em>Steve</em> climbs up a rope that <em>Benjamin</em> throws down.
+<em>Steve</em> uses a crow bar to pry the chest open. It has coins, 2 scrolls, and a potion bottle.
+<em>Steve</em> takes the coins (120 gp and 90 electrum). He gives <em>Benjamin</em> a scroll and <em>Viker</em> the other scroll, along with the potion.
+<em>Viker</em> can identify the scrolls.</p>
+<p><em>Steve</em> takes a cursory look around and sees that there’s not much left in the rest of the castle. As we join <em>Viker</em> we hear a weird crashing sound in the forest.
+<em>Viker</em> identifies the potion as healing and the scrolls are Silence and Revivify. Since we found the 3 healing potions with <em>Gundren</em>, we now have 4.
+We also now hear a clicking sound like the ones the automatons made when they chop up a body.
+<em>Viker</em> and <em>Benjamin</em> go to investigate the sound. They find a clearing with 2 Stegosaurs, one on the ground.
+The automatons are trying to reach it, but the other Stegosaur is whipping around with its tail, defending it.
+We can also see a clutch of eggs by the fallen Stegosaur.</p>
+<p>Meanwhile, <em>Steve</em>, <em>CoralKing</em>, and I are hearing the noises. The automatons turn toward us like they might attack. So, well, we roll Initiative:</p>
+<p><img src="journals/images/clockwork-horror.png" alt="Clockwork Horrors" /></p>
+<h4 id="turn-1"><a class="header" href="#turn-1">Turn 1</a></h4>
+<ol>
+<li><em>Benjamin</em> uses Hunter’s Sense. They are Constructs, vulnerable to Acid. They are immune to Lightning, Poison, Cold, Fire, Radiant, and attacks from Piercing/Slashing non-magical weapons. We find all this out later, <em>Benjamin</em> only has time to shout out &quot;Use magical weapons!&quot;.</li>
+<li>I approach the closest Construct and swing my Infused Greatsword, missing.</li>
+<li><em>Viker</em> uses her new Longsword and hits, doing 5 damage.</li>
+<li><em>Steve</em> hides.</li>
+<li><em>CoralKing</em> attacks the other Construct with an unarmed strike and a bonus strike. He hits with one and deals 7 damage.</li>
+<li>A Construct attacks me and hits. It deals 9 points of damage after 3 attacks. A second one Lightning Bolts <em>CoralKing</em> with (luckily) 4 points of damage. The 3rd one attacks the Stegosaur and hits all 3, one critically. It deals a lot of damage. The Stegosaur staggers but attacks back. Because its tail spikes are mostly piercing, it deals little damage.</li>
+</ol>
+<h4 id="turn-2-1"><a class="header" href="#turn-2-1">Turn 2</a></h4>
+<ol>
+<li><em>Benjamin</em> tries to communicate to the Stegosaur that we are going to help them. He attacks a Construct with his Quarterstaff, missing.</li>
+<li>I attack again and do 8 damage. (18 to hit)</li>
+<li><em>Viker</em> uses her Spirit Totem (Bear) as a Bonus action, giving everyone 9 temporary hit points. She swings her sword and hits, dealing 8 damage.</li>
+<li><em>Steve</em> makes an unarmed strike and misses.</li>
+<li><em>CoralKing</em> makes an unarmed strike and crits, dealing double damage (7).</li>
+<li>I get messed up by the Constructs and do 20 damage in return. <em>Viker</em> gets hit once and takes 3 damage. The 3rd one attacks the Stegosaur.</li>
+</ol>
+<h4 id="turn-3-1"><a class="header" href="#turn-3-1">Turn 3</a></h4>
+<ol>
+<li><em>Benjamin</em> misses.</li>
+<li>I Disengage and moves behind the Construct to flank it with <em>Viker</em> and gain Advantage. Then, I cast Searing Smite as a Bonus action (extra 1d6 fire damage + my enemy must take a constitution save)</li>
+<li><em>Viker</em> misses her attacks.</li>
+<li><em>Steve</em> hits the Construct critically and does 3 damage.</li>
+<li><em>CoralKing</em> hits one headbutt and does 5 damage.</li>
+<li>The Constructs hit <em>CoralKing</em> 1/6 times with their flanked advantage on him, lucky! He gets 9 points of damage. I get bit for 7 points of damage. One of the Constructs shoots 2 bolts of Lightning at another damaged Construct and heals it 34 HP! The Stegosaur attacks and does 15 damage.</li>
+</ol>
+<h4 id="turn-4-1"><a class="header" href="#turn-4-1">Turn 4</a></h4>
+<ol>
+<li><em>Benjamin</em> moves and heals me for 9 HP while a Construct gets an Opportunity attack on him but misses.</li>
+<li>I hit and deal 22 damage! However, the extra flames don't seem to have an effect.</li>
+<li><em>Viker</em> disengages and moves to the 3rd Construct (it is the most damaged since it keeps getting hit by the Stegosaur) to cast a Shillelagh cantrip as a Bonus action which gives her wooden staff magical damage.</li>
+<li><em>Steve</em> hits a Construct with an Unarmed attack and does 2 points of damage.</li>
+<li><em>CoralKing</em> uses Step of the Wind (which disengages from the 2nd Construct as a Bonus action) to move and flank the 1st Construct with me and attack. He hits and does 8 damage.</li>
+<li>The 2nd Construct moves closer to me and attacks. They hit twice and deal 10 points of damage but only 4 stick. Remember that every hit is reduced by 3 because of my armor and feat!
+A critical hit is also done by the 1st Construct and does 22 points of damage, 19 sticks. The 3rd one attacks <em>Viker</em> and does 7 points of damage. The Stegosaur flanks and hits a Construct for double damage! That Construct is down!</li>
+</ol>
+<h4 id="turn-5-1"><a class="header" href="#turn-5-1">Turn 5</a></h4>
+<ol>
+<li><em>Benjamin</em> heals me for 9 points!</li>
+<li>I swing on the 1st Construct, do 14 damage, and it goes down! So, a fully healed Construct is still up.</li>
+<li><em>Viker</em> hits the 2nd construct (the one remaining) and deals 3 damage.</li>
+<li><em>Steve</em> hits the Construct and does 2 damage.</li>
+<li><em>CoralKing</em> moves closer to the remaining Construct using his Flurry of Blows and hits once. He does 5 damage.</li>
+<li>The 2nd Construct shoots bolts of lighting at its companions, healing the 1st one and reviving the 3rd one. They seem to act in perfect coordination. The Stegosaur knocks the 3rd one over again.</li>
+</ol>
+<h4 id="turn-6"><a class="header" href="#turn-6">Turn 6</a></h4>
+<ol>
+<li><em>Benjamin</em> heals the downed Stegosaur for 12 points.</li>
+<li>I hit with the Greatsword and do 14 damage to the 1st Construct.</li>
+<li><em>Viker</em> hits it so the Construct is back down.</li>
+<li><em>Steve</em> misses a dagger throw.</li>
+<li><em>CoralKing</em> does 11 damage to the remaining Construct with a flurry of blows!</li>
+<li>The Construct heals his friend 13 and the other 17. The Stegosaur hits with advantage and drops one. The other Stegosaurus gets up, moves, and misses a whack on the 1st Construct.</li>
+</ol>
+<h4 id="turn-7"><a class="header" href="#turn-7">Turn 7</a></h4>
+<ol>
+<li><em>Benjamin</em> misses but is now flanking the Construct.</li>
+<li>I hit the 17 HP Construct and do 15 damage.</li>
+<li><em>Viker</em> hits the damaged Construct and knocks it over again. She also hands <em>Steve</em> her Longsword while keeping her Shillelagh.</li>
+<li><em>Steve</em> swings on the 1st Construct with the Longsword and lands a critical hit for 19 damage! We should have given him the Longsword sooner!</li>
+<li><em>CoralKing</em> uses his Flurry of shinkicks with 1 hit and 1 crit for 15 damage.</li>
+<li>1 Construct gets 21 HP and the other one gets 14 HP. The Stegosaur hits the 21 for 15 damage. The other Stegosaur swings and misses.</li>
+</ol>
+<h4 id="turn-8"><a class="header" href="#turn-8">Turn 8</a></h4>
+<ol>
+<li><em>Benjamin</em> misses a swing with his staff.</li>
+<li>I knock the one on 5HP down.</li>
+<li><em>Viker</em> drops a Construct.</li>
+<li><em>Steve</em> moves to the Contruct with 14 HP and misses a swing.</li>
+<li><em>CoralKing</em> flanks the last Construct and uses his Flurry of attacks. He hits once, deals 7 damage, and it drops! As it falls apart, the magic ring and a black, decayed finger fall out of it!!!</li>
+</ol>
+<p>The Stegosaurs turn toward us, not knowing if they need to defend themselves against us. We back off, slowly. <em>Benjamin</em> and <em>Viker</em> speak soothingly. It turns out the female was the one up defending
+while her mate had taken a lot of Lightning bolts. We leave the Druid and the Ranger to communicate with them.</p>
+<p>The Constructs have a single large, jeweled eye in the center of their face, and are made of <a href="journals/../game/magic-items.html#adamantium">Adamantium</a>. As we remove the eyes we can see the life fade from them. We all gather up as much of their material as we can and stuff it into our backpacks. We go back to our group at the castle and take a long rest.</p>
+<h4 id="1520-xp"><a class="header" href="#1520-xp">1,520 XP</a></h4>
+<p><img src="journals/images/stegosaurs.png" alt="Stegosaurs" /></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="eighth-session"><a class="header" href="#eighth-session">Eighth Session</a></h1>
+<h2 id="unfinished-business"><a class="header" href="#unfinished-business">Unfinished Business</a></h2>
+<h3 id="summerday-318-hours"><a class="header" href="#summerday-318-hours">Summerday +318 hours</a></h3>
+<h3 id="dramatis-personae-7"><a class="header" href="#dramatis-personae-7">Dramatis Personae</a></h3>
+<ul>
+<li>Actias Aureus, a 5th-level Tiefling Warlock</li>
+<li>Benjamin, a 5th-level Elf Ranger</li>
+<li>Calmul Rhoqiroth, a 5th-level Dragonkin Artificer</li>
+<li>CoralKing, a 5th-level Gnome Monk</li>
+<li>Geral Bryn, a 5th-level Human Fighter</li>
+<li>Orky, a 5th-level Half-Elf Paladin</li>
+<li>Steve, a 5th-level Halfling Rogue</li>
+<li>Tasbros, a 5th-level Elf Sorcerer</li>
+<li>Tysnera, a 5th-level Elf Wizard</li>
+<li>Viker, a 5th-level Elf Druid</li>
+<li>Wulrif, a 5th-level Human Warlock</li>
+</ul>
+<h4 id="from-the-journal-of-dame-orky-2"><a class="header" href="#from-the-journal-of-dame-orky-2">From the journal of Dame Orky</a></h4>
+<p>The group decides to search the castle, starting with the Southwest corner. We find some Shortbow arrows and ragged bedrolls that stink. In a large room we find many weapons (Morningstars, Longswords), including a finely-wrought Quarterstaff.
+<em>Actius</em> picks it up and it's lighter than it looks. We determine that it’s a +1 Quarterstaff, so we give it to <em>Actius</em>.</p>
+<p>In the large main suite we find a property deed. It names <em>Magus Arnin</em> as the owner and seems to be written on brand new, faintly magical, parchment. The deed is registered in <strong>Neverwinter</strong>.
+<em>Geral</em> rolls it up and takes it with us.</p>
+<p><em>Wulrif</em> and others investigate the remaining rooms. In one, <em>Tasbros</em> finds an old brazier. <em>Steve</em> pokes at the pile of coal underneath it, and <em>Wulrif</em> uses Mage Hand to rummage through it. There's a bloody cloth wrapped around a golden statue
+of an elf with his wings outstretched. We detect Divination magic on it. <em>Wulrif</em> tells everyone else not to touch it, but <em>Actius</em> has already grabbed it.</p>
+<blockquote>
+<p>What is your question?</p>
+</blockquote>
+<p><em>Actius</em> hurriedly shoves the statuette into his backpack.</p>
+<p>We investigate the centermost Northern room.</p>
+<blockquote>
+<p>This chamber occupies the northern tower of the castle. A stone altar stands in the middle of the room, covered with bloodstained black cloth. Golden ritual implements—a chalice, a knife, and a censer—are carefully arranged on top of the altar.
+Two archways to the south are covered with heavy curtains.</p>
+</blockquote>
+<p><em>Wulrif</em> uses his Mage Hand to put them in his bag. I sense great evil in this room, but neither <em>Benjamin</em> nor I detect any Undead. <em>Wulrif</em> investigates the altar further and doesn’t find anything.
+<em>CoralKing</em> produces the surprising insight that the altar isn’t magic <em>per se</em>, but the traumatic events that took place there left an aura.</p>
+<h4 id="300-xp"><a class="header" href="#300-xp">300 XP</a></h4>
+<p>We all have a long rest.</p>
+<p>Our plan is to go back to <strong>Phandalin</strong> to return <em>Gundren</em>, maybe head to <strong>Tresendar Manor</strong>, and then proceed to <strong>Neverwinter</strong> to claim the ruined castle.</p>
+<p>On our way back, a young Green Dragon swoops down on us from behind, ambushing us with it's Poisonous breath weapon, doing 26 damage to everyone who succeeds their saving throws!
+For those who didn’t, <em>Actius</em> and I, we take 52 damage and get knocked down. The dragon swoops around for a second pass ...</p>
+<p><img src="journals/images/young-green-dragon-swooping.png" alt="Young Green Dragon Swooping" /></p>
+<h4 id="turn-1-1"><a class="header" href="#turn-1-1">Turn 1</a></h4>
+<p>We decide to scatter since we are in the middle of the plains between <strong>Neverwinter Wood</strong> and the <strong>Triboar Trail</strong>.</p>
+<ol>
+<li><em>Benjamin</em> runs away and shoots his Longbow, but misses. He hits with his second shot and does 10 damage.</li>
+<li><em>Steve</em> moves 25 feet in the opposite direction and shoots his Shortbow, hitting for 6 damage. He also hides, strategically. The dragon needs a 22 to spot him.</li>
+<li><em>CoralKing</em> runs towards <em>Benjamin</em> and holds his action until the Dragon is within range.</li>
+<li><em>Actius</em> critically fails his death saving throw.</li>
+<li>The Dragon swoops in and attacks <em>Tasbros</em>, luckily missing with a bite and claw attack, doing 9 HP damage with the other claw. It breathes in deeply ...</li>
+<li><em>Viker</em> summons her Unicorn spirit totem and casts Cure Wounds on <em>Actius</em>, bringing him back from the brink of death with 12 HP of healing; everyone else is healed 5 HP.</li>
+<li><em>Calmul</em> communicates with the Dragon in its native language:</li>
+</ol>
+<blockquote>
+<p>Please! I have so much to learn from you!</p>
+</blockquote>
+<blockquote>
+<p>Faugh! I'm merely snacking on a few elves ....</p>
+</blockquote>
+<ol start="8">
+<li>We have 4 Elves (<em>Viker</em>, <em>Tasbros</em>, <em>Tysnera</em>, <em>Benjamin</em>), and I'm half-elven. <em>Calmul</em> next attempts to be intimidating and fails.</li>
+<li>I'm prone, so I get up and use Misty Step (2 Mana) to teleport behind a tree.</li>
+<li><em>Wulrif</em> attempts to barter with the Dragon, but it's not interested.</li>
+<li><em>Geral</em> shoots the Dragon once and uses Commander's Strike on <em>Benjamin</em>. <em>Geral</em> hits and deals 4 damage. <em>Benjamin</em> also hits and deals 18 damage!</li>
+<li><em>Tysnera</em> casts Lightning Bolt (8d6 damage!!!) and deals 26 damage! I peek out from behind my tree and silently cheer!</li>
+<li><em>Tasbros</em> casts Chromatic Orb and deals the Dragon 13 damage.</li>
+</ol>
+<h4 id="turn-2-2"><a class="header" href="#turn-2-2">Turn 2</a></h4>
+<ol>
+<li><em>Benjamin</em> shoots his Longbow twice and hits for 18 damage. The Dragon is starting to get very mad at <em>Benjamin</em>.</li>
+<li><em>Steve</em> stealthily shoots the Dragon with his bow and rolls a critical hit on a Sneak Attack for 29 damage!</li>
+<li><em>CoralKing</em> throws his javelin at the Dragon and hits for 10 HP of damage.</li>
+<li><em>Actius</em> turns <em>Tysnera</em> invisible and runs away.</li>
+<li>The Dragon puts on a burst of speed and flies 160 ft away!!!</li>
+<li><em>Viker</em> heals me for 17 HP and everyone else 5.</li>
+<li><em>Calmul</em> is beside himself.</li>
+<li>I walk towards it and Command the Dragon to halt. It ignores me.</li>
+<li><em>Wulrif</em> pursues the Dragon, attempting to hit it with Eldritch Blast and failing.</li>
+<li><em>Geral</em> gives <em>Actius</em> 4 temporary hit points.</li>
+<li><em>Tysnera</em> stays invisible and recovers.</li>
+<li><em>Tasbros</em> chases the Dragon and casts Fireball. The Dragon just barely escapes the direct blast, taking 16 damage.</li>
+</ol>
+<h4 id="turn-3-2"><a class="header" href="#turn-3-2">Turn 3</a></h4>
+<ol>
+<li><em>Benjamin</em> pursues and shoots his bow, dealing 11 damage.</li>
+<li><em>Steve</em> shoots and misses.</li>
+<li><em>CoralKing</em> recoveres his javelin.</li>
+<li><em>Actius</em> pursues with Eldritch Blast and misses.</li>
+<li>The Dragon flies out of range, trailing smoke.</li>
+</ol>
+<h4 id="1000-xp"><a class="header" href="#1000-xp">1,000 XP</a></h4>
+<p>We all take a short rest.</p>
+<blockquote>
+<p>&quot;We have a problem,&quot; says Viker.</p>
+</blockquote>
+<p>We all look back and see that <em>Gundren</em> (and <em>Snaga</em>) are dead. <em>Gundren</em> was supposed to lead us to <strong>Wave Echo Cave</strong>. <em>Viker</em> has a Scroll of Revivify and asks if we want to use it on him. We all begrudgingly agree, so <em>Viker</em> works on that for 10 minutes.</p>
+<blockquote>
+<p><em>Gundren</em> wakes up. &quot;What happened?&quot;</p>
+</blockquote>
+<blockquote>
+<p>&quot;You lost&quot;, replies <em>Wulrif</em>.</p>
+</blockquote>
+<blockquote>
+<p>&quot;Thank you for saving my life, &quot; says Gundren, bowing. &quot;We Dwarves always repay our debts. When we find my brothers in <strong>Wave Echo Cave</strong> and restart <strong>Phandalever Mine</strong>, you shall have 10% of the proceeds.</p>
+</blockquote>
+<blockquote>
+<p>&quot;Sounds good to us&quot;, replies <em>Geral</em>.</p>
+</blockquote>
+<p><strong>Phandalin</strong> seems oddly deserted ...</p>
+<p>There are a couple of Dwaven mercenaries outside of the bank, but otherwise no one is in sight. <em>Gundren</em> wants to go to the <strong>Townmaster's Hall</strong> to greet <em>Sildar</em>.</p>
+<blockquote>
+<p>&quot;You have rescued my old friend&quot;, says <em>Sildar</em>. &quot;I will pay you the reward we agreed to.&quot;</p>
+</blockquote>
+<blockquote>
+<p>&quot;We also have your armor and sword&quot;, says <em>Geral</em>.</p>
+</blockquote>
+<blockquote>
+<p>&quot;Indeed? That is most welcome news! The sword is an heirloom of my family, but I think that a fellow Protector might make better use of the armor than I ...&quot;</p>
+</blockquote>
+<blockquote>
+<p>&quot;What happened to the townsfolk?&quot;, I ask.</p>
+</blockquote>
+<blockquote>
+<p>&quot;Ah, well, the <em>Redbrands</em> have been carrying off the folk to slavery, I fear. Held in the basement of <strong>Tresendar Manor</strong> until they conclude their foul business with the Hobgoblins and Bugbears.&quot;</p>
+</blockquote>
+<blockquote>
+<p>&quot;We should have dispatched this grave injustice when we were here last,&quot; I say. &quot;You have my solemn Oath that we will defeat these villains.&quot;</p>
+</blockquote>
+<blockquote>
+<p>&quot;Blessings upon you! I do not know how they swell their numbers, but you should find <em>Farmer Alderleaf</em>. She is both cunning and practical, and may know something to aid in your quest.&quot;</p>
+</blockquote>
+<p>The farm looks like it hasn’t been used in awhile, but the house looks strong. <em>Geral</em> knocks on the door, and <em>Qelline Alderleaf</em>, a Halfling, answers. She invites us in for a hearty feast. We are grateful and eat, but <em>CoralKing</em> remains hesitant and stands in the corner. She says her son, <em>Carp</em>, might know a secret way to get in the castle. Carp’s friend, <em>Reidoth</em>, is a Druid, and told her about the Undead in the Manor. He seems to have been lured away to <strong>Thundertree</strong> to deal with a Dragon. The Redbrands are well-equipped and led by a Wizard, <em>Glasstaff</em>.</p>
+<p>We travel with <em>Carp</em> toward the manor but he is concerned about the noise from our heavy armor. He says if we can just get to this tunnel, we should be good from there. We take off our clanking armor. The tunnel leads to a storeroom but <em>Carp</em> says
+there’s a big floating creature in there. <em>Wulrif</em> tries to get <em>Carp</em> to visualize it and then reads his mind, but Carp had fled before he'd gotten a good look at it.</p>
+<p><em>Wulrif</em> and <em>Actius</em> confer, saying it’s not a Death Tyrant. I think that's good news? We all discuss and decide it would be best to approach and attempt to negotiate with it, as opposed to coming in hot through the front door. The Redbrand we interrogated
+had said they avoid the Beholder, so it and the Redbrands may not have aligned agendas.</p>
+<p>We crawl through the tunnel, single file, which is skillfully constructed. We approach the Beholder, but it seems quite mad, rambling gibberish and strange tongues.</p>
+<p><img src="journals/images/beholder.png" alt="Beholder" /></p>
+<blockquote>
+<p>&quot;What are you doing here?&quot; it says, finally, in Common.</p>
+</blockquote>
+<blockquote>
+<p>&quot;We're just passing through to get to the Wizard,&quot; says <em>Geral</em>.</p>
+</blockquote>
+<blockquote>
+<p>&quot;I don't care but don't touch the Precious!&quot;</p>
+</blockquote>
+<blockquote>
+<p>&quot;What's the Precious?&quot;</p>
+</blockquote>
+<blockquote>
+<p>&quot;The thing I must guard since my summoning. But I don't want to guard it. I don't have to guard it if it's gone, so maybe you could take it and I could leave this place! Except then I'd have to kill you all. Will you take it?&quot; it asks eagerly.</p>
+</blockquote>
+<blockquote>
+<p>&quot;Can you give it to us?&quot;, asks <em>Wulrif</em>.</p>
+</blockquote>
+<blockquote>
+<p>&quot;I would if I could, but <strong>my</strong> Wizard won't let me.&quot;</p>
+</blockquote>
+<blockquote>
+<p>&quot;Maybe you're hungry?&quot; asks <em>Actius</em>.</p>
+</blockquote>
+<blockquote>
+<p>&quot;Oh, no, I make my own food. Are you hungry?&quot;</p>
+</blockquote>
+<p>Ten stuffed turkeys with all the fixings on plates materialize in front of us.</p>
+<blockquote>
+<p>&quot;That's not my kind of food ...&quot; It conjures a pile of something foul-smelling and wriggling, proceeding to slurp the things down with great gusto.</p>
+</blockquote>
+<p><em>Wulrif</em> studies it really intently. Suddenly, he gives a shriek as if his mind has suddenly grasped things never meant for Human understanding. <em>Wulrif</em> begins greedily grubbing down the same nauseous slush as the Beholder.</p>
+<blockquote>
+<p>&quot;Ah, now you understand something of what really nourishes us!&quot; It nods sagaciously.</p>
+</blockquote>
+<blockquote>
+<p>&quot;Ugh, <em>Wulrif</em>, what are you doing!?&quot; exclaims <em>Geral</em>. He manages to pull <em>Wulrif</em> away from his feast, the mad light fading from <em>Wulrif's</em> eyes.</p>
+</blockquote>
+<p><em>I think we lost Tysnera and Tasbros here.</em></p>
+<p>We are in a crevice which is unusually cold, and it’s a 20 foot climb into the basement of the manor. <em>Actius</em> casts Mold Earth to make a very convenient ramp for us to walk up.
+Topside, the crevice is spanned by two narrow wooden bridges. <em>Viker</em> transforms into a mouse and heads West, finding a room with 8 Redbrands.
+She goes into the room across the hall and sees 12 Redbrands, eating. One of them throws a dagger at her in disgust. <em>Viker</em> skitters away and reports back. We confer.</p>
+<p>I'm going to block the middle of the hallway to control how many can attack us at once. <em>Actius</em> makes the hallway behind us difficult terrain to hopefully slow the others down.
+<em>CoralKing</em> stays at the rear of the party to defend us from that direction.</p>
+<h4 id="first-turn-1"><a class="header" href="#first-turn-1">First Turn</a></h4>
+<ol>
+<li><em>Viker</em> casts Moonbeam (what is a Moon?) on the spot where the first Redbrand appears. Ghostly flames envelop him, screaming, as he takes 14 damage.</li>
+<li><em>Calmul's</em> Musket misfires and dumps black powder everywhere.</li>
+<li><em>Wulrif</em> Hexes and Eldritch Blasts the Redbrand. He goes down.</li>
+<li><em>CoralKing</em> holds his action.</li>
+<li><em>Geral</em> holds his attack.</li>
+<li>I hold my attack.</li>
+<li><em>Actius</em> holds.</li>
+<li>Another Redbrand runs out into the Moonbeam; he goes down. A very loud alarm rings throughout the whole manor. Another Redbrand comes out of the room, and I slice him in half. Yet another Redbrand gets flamed by <em>Viker's</em> Moonbeam.</li>
+<li>Half of the Redbrands start to come out the back hallway, so <em>CoralKing</em> moves to face them. A Redbrand shoots and hits him for 4 HP damage.</li>
+<li><em>Geral</em> shoots and crits the guy over my shoulder.</li>
+<li><em>Actius</em> backs up to come help <em>CoralKing</em>.</li>
+</ol>
+<h4 id="second-turn-1"><a class="header" href="#second-turn-1">Second Turn</a></h4>
+<ol>
+<li><em>Viker</em> maintains concentration on Moonbeam.</li>
+<li><em>Calmul</em> repairs his Musket.</li>
+<li><em>Wulrif</em> backs up to get a better view of both streams of Redbrands, over one of the bridges. It collapses and he falls down into the chasm, taking 4HP damage.</li>
+<li><em>CoralKing</em> moves back to get in a more strategic position and holds his action.</li>
+<li>A Fireball goes off! But everyone makes their saving throws, only taking 16 damage.</li>
+<li><em>Geral</em> holds his action.</li>
+<li>I hold my action.</li>
+<li><em>Actius</em> forks his Eldritch Blast. He lands both and does 20 damage! That Redbrand goes down, as does the one coming at <em>CoralKing</em>.</li>
+<li><em>CoralKing</em> hits the new approaching Redbrand in front of him, doing 6 damage.</li>
+</ol>
+<h4 id="third-turn-1"><a class="header" href="#third-turn-1">Third Turn</a></h4>
+<ol>
+<li><em>Viker</em> moves through the hallway to move her Moonbeam into the room with most of the Redbrands. One of them takes an opportunity attack as she moves by and crits her with 12 damage. She manages to maintain her Moonbeam.</li>
+<li><em>Calmul</em> shoots a Redbrand and deals 5 damage.</li>
+<li><em>Wulrif</em> seems to be talking again with the Beholder in the chasm.</li>
+<li><em>CoralKing</em> Flurries 3 hits, but they all miss. Then he and Actius make Wisdom saving throws, succeeding. Something was trying to paralyze them.</li>
+<li><em>Geral</em> moves up to protect <em>Viker</em> and hits a Redbrand for 8 damage. He uses an Action Surge and hits for another 8 HP.</li>
+<li>I move to protect <em>Viker</em> and hold my action.</li>
+<li><em>Actius</em> splits his Eldritch Blast to hit 2 Redbrands. He misses one but hits another for 7 damage, knocking him down. He retreats across the remaining bridge and finds a <strong>HUGE</strong> new group of Redbrands,
+including the Wizard, lurking just around the corner!</li>
+<li><em>Actius</em> immediately gets hit by 2 swords, taking 12 damage total. <em>CoralKing</em> takes 15 damage from a volley of arrows and Fades Away. <em>Calmul</em> takes more arrows for 13 HP. <em>Actius</em> does a quick Rebuke on one of the archers, doing 7 damage.</li>
+</ol>
+<h4 id="fourth-turn-1"><a class="header" href="#fourth-turn-1">Fourth Turn</a></h4>
+<ol>
+<li><em>Viker</em> moves her Moonbeam and kills a Redbrand. She uses a Bonus action to say a Healing Word on <em>Calmul</em> for 9 HP.</li>
+</ol>
+<p>The players have decided to take a pause here and take up the fight again next week.</p>
+<p><img src="journals/images/tresendar-fight.png" alt="Tresendar Fight" /></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="ninth-session"><a class="header" href="#ninth-session">Ninth Session</a></h1>
+<h2 id="finishing-business"><a class="header" href="#finishing-business">Finishing Business</a></h2>
+<h3 id="summerday-342-hours"><a class="header" href="#summerday-342-hours">Summerday +342 hours</a></h3>
+<h3 id="dramatis-personae-8"><a class="header" href="#dramatis-personae-8">Dramatis Personae</a></h3>
+<ul>
+<li>Benjamin, a 5th-level Elf Ranger</li>
+<li>Calmul Rhoqiroth, a 5th-level Dragonkin Artificer</li>
+<li>CoralKing, a 5th-level Gnome Monk</li>
+<li>Geral Bryn, a 5th-level Human Fighter</li>
+<li>Orky, a 5th-level Half-Elf Paladin</li>
+<li>Steve, a 5th-level Halfling Rogue</li>
+<li>Tasbros, a 5th-level Elf Sorcerer</li>
+<li>Tysnera, a 5th-level Elf Wizard</li>
+<li>Viker, a 5th-level Elf Druid</li>
+<li>Wulrif, a 5th-level Human Warlock</li>
+</ul>
+<h4 id="from-the-journal-of-dame-orky-3"><a class="header" href="#from-the-journal-of-dame-orky-3">From the journal of Dame Orky</a></h4>
+<h4 id="fourth-turn-continued"><a class="header" href="#fourth-turn-continued">Fourth turn, continued</a></h4>
+<ol start="2">
+<li>Benjamin shoots his bow twice at a soldier and hits! He does 12 damage.</li>
+<li>Calmul shoots at the archer that Benjamin just hit and misses.</li>
+<li>Tysnera found her way back to the group with Tasbros. They walk up the ramp from the tunnel to see the battle scene. She shoots a firebolt at the same archer and misses.</li>
+<li>Wulrif tries to spell magic and other stuff the group is not privy to</li>
+<li>CoralKing runs down the hallway near Viker and dashes to safety.</li>
+<li>Geral leaps inside the south room a few soldiers are in and screams “for the irregulars!!! Orky, that’s what I call us now!” and hits one soldier for 13 damage.</li>
+<li>Orky holds her action.</li>
+<li>Wulrif makes a sword-in-a-stone situation in front of him.</li>
+<li>Tasbros gets out of the pit and tries to deal chromatic orb on a leather-clad man east of the fight, at the mouth of a hallway. He decides poison damage and misses his attack. He then makes everyone within 30 ft of him invisible, somehow. If anyone invisible makes an attack, the spell dissolves on that attacker.</li>
+<li>The bad guys go now…
+<ul>
+<li>A bizarre spell is cast and everyone is visible again.</li>
+<li>b. Geral gets attacked by 4 people in that room. 3 Hits for 15 damage total.</li>
+<li>The southern enemies move west toward our group and the north enemies move east.</li>
+<li>Benjamin gets hit once for 8 HP.</li>
+<li>Steve gets hit for 8 HP.</li>
+<li>Benjamin is hit twice for 8 HP.</li>
+<li>Steve gets hit again for 14 HP.</li>
+<li>Tasbros gets hit by a sword twice for 15 HP.</li>
+<li>Wulrif gets hit for 8 HP, even though he’s in the pit hanging out with the Beholder.</li>
+<li>Tysnera gets hit for 11 HP.</li>
+<li>Tasbros dodges a hit and leans right into another one for 8 HP.</li>
+</ul>
+</li>
+<li>Steve hits the injured archer for 12 damage and kills him.</li>
+</ol>
+<h4 id="fifth-turn-1"><a class="header" href="#fifth-turn-1">Fifth Turn</a></h4>
+<ol>
+<li>Benjamin hits an archer for 13 damage.</li>
+<li>Viker moves her moonbeam to the southern bridge, which was repaired previously. As a bonus action, she uses her unicorn totem (30 ft radius). Her moonbeam, which she dropped on a poor fool, takes 12 damage and dies.</li>
+<li>Calmul hits someone and does some damage?</li>
+<li>Tysnera casts a lightning bolt (100 ft long 5 ft wide) for 33 damage on every person hit. So, death.</li>
+<li>Wulrif hears the screaming from the pit. He casts misty step to rejoin the team. He uses his bonus action to place a hex mark on someone.</li>
+<li>CoralKing holds his action</li>
+<li>Tysnera gets his with magic missiles and takes 10 HP damage.</li>
+<li>Geral swings in his room again and kills the guy closest to him. He screams “CoralKing, I could use some help in here!” and gives him 3 temporary HP</li>
+<li>CoralKing moves into the south room to help Geral. He attacks twice and once misses. He deals 8 HP damage.</li>
+<li>Orky uses vow of enmity and moves to the last guy in the large room and kills him. She turns down the north hallway with the rough terrain and kills the first guy she sees too.</li>
+<li>Tasbros casts a fireball and the enemy wizard reacts and casts a counter spell. He fails, so Tasbros kills scores of men, unfortunately leaving the wizard.</li>
+<li>The enemies’ turn:
+<ul>
+<li>CoralKing skillfully bobs and weaves to take no damage on a few attacks.</li>
+<li>Geral misses some attacks but catches one for 11 damage.</li>
+<li>Tasbros gets hit once for 6 damage. He also gets hit again for 4 damage. The enemies are kind of pissed he roasted their friends.</li>
+</ul>
+</li>
+<li>Steve shoots his bow and takes out a guy on the south bridge.</li>
+</ol>
+<h4 id="sixth-turn-1"><a class="header" href="#sixth-turn-1">Sixth Turn</a></h4>
+<ol>
+<li>Viker is going to heal Tasbros for 13 damage and everyone gets 5 HP of healing. She takes a guy out.</li>
+<li>Benjamin shoots an archer for a critical hit and kills him. He takes aim and misses a shot at another guy.</li>
+<li>Calmul shoots at the remining 3 guys by the central pit and misses.</li>
+<li>Tysnera casts magic missile on those 3 guys and hits them for 8 damage.</li>
+<li>Wulrif eldritch blasts one of the guys and kills him.</li>
+<li>CoralKing uses 3 attacks on a guy and hits all 3 for 32 damage. So, he pulverized him in front of his friends.</li>
+<li>The wizard disappears!!!</li>
+<li>Geral says “well done your highness, go again!” to allow CoralKing to attack again. CoralKing hits one critical and another hit to kill the guy. Geral does some damage on a guy.</li>
+<li>Orky dashes to the south room with Geral and CoralKing</li>
+<li>Tasbros moves to the edge of the pit and poison sprays one of the guys there. He does 9 damage.</li>
+<li>The guy standing in front of Orky exclaims “I surrender M’lady!” and throws his hands up. We take him prisoner. The other guys retreated in haste.</li>
+</ol>
+<h4 id="1200-xps"><a class="header" href="#1200-xps">1200 XPs</a></h4>
+<ul>
+<li>Viker heals CoralKing 15 HP and everyone else 5 HP.</li>
+<li>Benjamin uses healing spirit for everyone to walk through. 6 people can walk through it for 1d6 HP healing.</li>
+<li>Benjamin stands guard in case the magician comes back.</li>
+<li>Wulrif joins the group and turns on detect thoughts.</li>
+<li>The group decides what to do with our newfound prisoner and the rest of the castle.</li>
+<li>Orky asks the prisoner: “who else is in the castle?” He responds “no one else, our leader ran off and you slain the rest of us.” Geral said “What about the undead?” He responds: “12 skeletons”. “What about the creature in the pit?” They stay away from the creature in the pit. Tasbros: “Who is your leader?” He responds “Iarno Glassstaff, you are much stronger than him.” Tasbros asks “Where is he going now?” He said “Probably the black spider.” Wulrif detects thoughts and it resembles a drow.</li>
+<li>Orky wants to turn the soldier in to the authorities but allows input from the group. She reaches for her rope to tie him up and he interjects “I’ll turn myself in to the authorities!” and she nods in agreement. He gets up and leads us to the secret door.</li>
+<li>We move to the north secret door, leading to room 7, a storeroom. We see a door opposite the secret door and one to the south. We go through the one closest to us and find an armory. Viker detects magic back toward the pit. Geral finds brand new scalemail and grabs it. No platemail is detected. Viker and Steve grab crossbows. Viker grabs a longsword.</li>
+<li>We revisit the sword-in-the-stone and Viker casts detect magic. She sees an outline of armor buried in the dirt by the sword and an outline of the hilt of the sword. Actius unearths the sword and underneath it is a crypt. There is a sarcophagus in there. This is the burial place of lord Tresendar.</li>
+<li>Wulrif speaks to the beholder kin in his native language. He said he wants to be free after he kills all of us. We decide to leave him alone for now.</li>
+<li>We head to room 4, another series of crypts. There are 12 skeletons that rise up to face us.</li>
+</ul>
+<h4 id="turn-1-2"><a class="header" href="#turn-1-2">Turn 1</a></h4>
+<ol>
+<li>Benjamin hits the bow-wielding skeleton (AC 13) and hits, killing it. He attacks a second one and kills another one.</li>
+<li>Orky kills two</li>
+<li>Tysnera uses ray of frost and does 5 damage.</li>
+<li>Viker uses ice knife, kills one, and kills another 5 within a 10 ft radius.</li>
+<li>CoralKing moves between 2 skeletons and attacks them both at the same time. They are particularly vulnerable to blunt damage (open-handed attacks) so they get dealt double damage. He hits one for 10 damage. He uses a bonus attack to deal another 14 damage, killing it.</li>
+<li>Tasbros uses firebolt for 19 damage, killing it.</li>
+<li>Geral attacks the last one for 6 damage.</li>
+<li>Steve kills the last one!</li>
+</ol>
+<ul>
+<li>We see the room was a crypt full of skeletons. The crypts are empty now, obviously. We see another single door, which is where the townsfolk are being held. Wulrif uses a cantrip to clean everyone up. Geral says “we assume you know how to get home?” they say “oh, yes!” he said “ok, just don’t bother the monster in the basement on your way out.”</li>
+<li>The double doors are a long hallway and Steve detects a pit trap full of spikes. We go to investigate another room Steve finds, that leads us to the wizard’s workshop. Calmul gets excited seeing a bunch of alchemy equipment (Mercury, dragonbile, and nightshade). A dwarvish book is available, Wulrif takes it, and it’s a journal about the history of Phandalin. A secret door is ajar that looks like the way the wizard escaped. A letter has been left, written in common, with a black spider seal on it. A chest is found at the foot of the bed, Viker detects magic within it. Steve uses his crowbar to wedge it open and nearly dodges the poison needle. There are 2 scrolls (fireball and charm person) and Tysnera takes them both. There are a couple of gems (ruby, 5 carnelians, paradots) 180 silver and 130 gold pieces. Those are most of the rooms other than the crevasse.</li>
+<li>The group decides to return to Phandalin, turns the prisoner in, and Sildar asks where Iarno is. We said he fled. We show him the letter and he figures out that Iarno betrayed him. Wulrif asks “Who is the black spider?” and Sildar said he doesn’t know. Iarno used to be a battle mage with Sildar. He was helping Sildar and Gundren to set up the mine in Phandalin. Viker asks if there was a love interest that went sour and Sildar said he doesn’t know of any.</li>
+<li>We take a long rest while Wulrif reads the letter. He finds a forge of spells that describes a magic sword “magic bringer” for Lord Tresendar. He asks about the beholder and finds that it’s a type of guardian that is bound by a ritual. When a beholder is slain, and is rebuilt, this creature is what is created.</li>
+<li>Gundren wants to go to Wave Echo Cave and we agree. Wulrif hands over the journal and recognizes it. We said we found the lord’s crypt. He said his daughter (Aliah - a wizard) probably conjured the beholder. Gundren said the sword (lightbearer) and armor is very valuable and rare.</li>
+<li>We hear a voice along our journey “what are you doing here?” and we look up and see a very large man (30 ft tall) on a cloud staring at us. We state our purpose to travel to Wave Echo Cave. He said if we can activate the spell forge, come back to him and he has a task for us. Geral asks him his name and he responds “Zeus”. We agree and move on.</li>
+</ul>
+<p><img src="journals/images/cloud-giant.png" alt="Cloud Giant" /></p>
+<ul>
+<li>We hear a booming echo and we see a cave entrance and hear the ocean. Gundren sees a dwarf body and Gundren gasps and runs toward it. He screams “Thardon!” He turns the body over and sees tiny arrow bolts. Wulrif starts looking at the bolts and they are silvery but crumble in the sunlight. Viker detects magic boots on Thardon’s body. She attempts to pry off the boots and he said “what are you doing? That’s my brother!” She said “…is he using them?” Gundren is taken aback and looks away in hesitant approval. The boots suddenly resize (boots of striding and springing) to her feet.</li>
+<li>We drop down further into the cave and cannot see very far. The spell forge is a place where magic weapons are made. We are looking for that here.</li>
+<li>We decide to head west and it starts becoming a maze of twisty little passages with 6’ high ceilings and several collapsed passageways. We decide to head north. We see a pool with dark water to the west, the shore is full of broken shells and odor. Steps head to the east. Viker detects magic and she sees an outline of something in the pool at the bottom, something small and about 20’ down. Viker turns into an octopus and dives down. She sees a skeleton and grabs a wand of magic missiles off the body. She generously gives it to Tasbros.</li>
+<li>We head forward on the path and encounter a barricaded door. Viker decides to turn into a centipede and try to find what’s on the other side. She sees 10 bugbears on the other side.</li>
+<li>We decide to backtrack down the path and send Steve down the northeastern hallway with Viker on his back. They see a normal, narrow passageway and as we all follow behind, the whole floor and walls start to wrap around and swallow us. We figure out it’s an ogre jelly. It’s basically on a jellyfish’s back. Everyone is surprised except for Benjamin, Viker, and Tysnera. They all get attacked.</li>
+</ul>
+<h4 id="first-turn-2"><a class="header" href="#first-turn-2">First Turn</a></h4>
+<ol>
+<li>Acid damage of 12 for Geral, 8 for Wulrif, 13 for Orky, 16 for CoralKing, 10 damage to Tasbros, 8 to Steve, and Calmul was spared.</li>
+<li>Tysnera casts firebolt</li>
+<li>Benjamin attempts to find its weaknesses and discovers that it’s resistant to acid, immune to slashing, piercing, and lightening. It has no weaknesses.</li>
+<li>Viker uses shalaylay and hits for 10 damage.</li>
+</ol>
+<p>Now all those who were surprised can act.</p>
+<h4 id="second-turn-2"><a class="header" href="#second-turn-2">Second Turn</a></h4>
+<ol>
+<li>Tysnera uses ray of frost (AC 8) and does 7 damage.</li>
+<li>Benjamin hits it with his quarterstaff and does 3 damage.</li>
+<li>CoralKing headbutts it, with his feet stuck to deal 20 damage.</li>
+<li>Viker hits it for 13 damage.</li>
+<li>The jelly goes now and hits everyone with 9 points damage. Tysnera gets hit again for 20 HP. 13 damage to someone and 7 to Benjamin. Calmul gets 13 points of damage.</li>
+<li>Tasbros uses chromatic orb for 28 damage.</li>
+<li>Geral commands CoralKing to hit it again. He deals 21 damage.</li>
+<li>Wulrif kills it!</li>
+</ol>
+<h4 id="800-xp"><a class="header" href="#800-xp">800 XP</a></h4>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+        <script>
+        window.addEventListener('load', function() {
+            window.setTimeout(window.print, 100);
+        });
+        </script>
+
+    </div>
+    </body>
+</html>
