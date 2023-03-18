@@ -57,3 +57,4 @@
   - [Seventh Session](journals/seventh.md)
   - [Eighth Session](journals/eighth.md)
   - [Ninth Session](journals/ninth.md)
+  - [Tenth Session](journals/tenth.md)

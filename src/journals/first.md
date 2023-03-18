@@ -6,14 +6,14 @@
 
 ### Dramatis Personae
 
-- Benjamin, a 1st-level Elf Ranger
-- CoralKing, a 1st-level Gnome Monk
-- Geral Bryn, a 1st-level Human Fighter
-- Orky, a 1st-level Half-Elf Paladin
-- Steve, a 1st-level Halfling Rogue
-- Tasbros, a 1st-level Elf Sorcerer
-- Tysnera, a 1st-level Elf Wizard
-- Wulrif, a 1st-level Human Warlock
+- *Benjamin*, a 1st-level Elf Ranger
+- *CoralKing*, a 1st-level Gnome Monk
+- *Geral Bryn*, a 1st-level Human Fighter
+- *Orky*, a 1st-level Half-Elf Paladin
+- *Steve*, a 1st-level Halfling Rogue
+- *Tasbros*, a 1st-level Elf Sorcerer
+- *Tysnera*, a 1st-level Elf Wizard
+- *Wulrif*, a 1st-level Human Warlock
 
 ![Sword Coast](images/lmop2.jpg)
 

@@ -6,17 +6,17 @@
 
 ### Dramatis Personae
 
-- Actias Aureus, a 4th-level Tiefling Warlock
-- Benjamin, a 4th-level Elf Ranger
-- Calmul Rhoqiroth, a 3rd-level Dragonkin Artificer
-- CoralKing, a 4th-level Gnome Monk
-- Geral Bryn, a 4th-level Human Fighter
-- Orky, a 4th-level Half-Elf Paladin
-- Steve, a 4th-level Halfling Rogue
-- Tasbros, a 4th-level Elf Sorcerer
-- Tysnera, a 4th-level Elf Wizard
-- Viker, a 3rd-level Elf Druid
-- Wulrif, a 4th-level Human Warlock
+- *Actias Aureus*, a 4th-level Tiefling Warlock
+- *Benjamin*, a 4th-level Elf Ranger
+- *Calmul Rhoqiroth*, a 3rd-level Dragonkin Artificer
+- *CoralKing*, a 4th-level Gnome Monk
+- *Geral Bryn*, a 4th-level Human Fighter
+- *Orky*, a 4th-level Half-Elf Paladin
+- *Steve*, a 4th-level Halfling Rogue
+- *Tasbros*, a 4th-level Elf Sorcerer
+- *Tysnera*, a 4th-level Elf Wizard
+- *Viker*, a 3rd-level Elf Druid
+- *Wulrif*, a 4th-level Human Warlock
 
 *Viker* revives *CoralKing*, who immediately wants to get his ring back (the **Precious**).
 
@@ -52,7 +52,7 @@ It's any easy fight for the party, and the *Redbrands* are quickly overwhelmed. 
 - Underneath the manor lives a hideous "eye monster", which the *Redbrands* avoid.
 - The *Redbrands* have captive townsfolk "near the old crypt", guarded by Skeletons.
 
-Benjamin uses *Primeval Awareness* again to discern that there is some sort of Aberration underneath the manor, as well as a large group of Undead.
+*Benjamin* uses *Primeval Awareness* again to discern that there is some sort of Aberration underneath the manor, as well as a large group of Undead.
 
 The party returns to the **Phandalin Miner's Exchange**, deciding to pass on assaulting **Tresendar Manor**. *Wulrif* discerns that *Halla* is interested in taking over the *Redbrands*.
 

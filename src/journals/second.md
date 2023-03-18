@@ -6,15 +6,15 @@
 
 ### Dramatis Personae
 
-- Actias Aureus, a 1st-level Tiefling Warlock
-- Benjamin, a 2nd-level Elf Ranger
-- Calmul Rhoqiroth, a 1st-level Dragonkin Bard
-- CoralKing, a 2nd-level Gnome Monk
-- Geral Bryn, a 2nd-level Human Fighter
-- Orky, a 2nd-level Half-Elf Paladin
+- *Actias Aureus*, a 1st-level Tiefling Warlock
+- *Benjamin*, a 2nd-level Elf Ranger
+- *Calmul Rhoqiroth*, a 1st-level Dragonkin Bard
+- *CoralKing*, a 2nd-level Gnome Monk
+- *Geral Bryn*, a 2nd-level Human Fighter
+- *Orky*, a 2nd-level Half-Elf Paladin
 - Skolg, a 1st-level Tiefling Rogue
-- Steve, a 2nd-level Halfling Rogue
-- Wulrif, a 2nd-level Human Warlock
+- *Steve*, a 2nd-level Halfling Rogue
+- *Wulrif*, a 2nd-level Human Warlock
 
 ![Goblins](images/goblin.png)
 

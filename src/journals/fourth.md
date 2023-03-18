@@ -6,17 +6,17 @@
 
 ### Dramatis Personae
 
-- Actias Aureus, a 3rd-level Tiefling Warlock
-- Benjamin, a 3nd-level Elf Ranger
-- Calmul Rhoqiroth, a 3rd-level Dragonkin Bard
-- CoralKing, a 3rd-level Gnome Monk
-- Geral Bryn, a 3rd-level Human Fighter
-- Orky, a 3rd-level Half-Elf Paladin
-- Steve, a 3rd-level Halfling Rogue
-- Tasbros, a 3rd-level Elf Sorcerer
-- Tysnera, a 3rd-level Elf Wizard
-- Viker, a 3rd-level Elf Druid
-- Wulrif, a 3rd-level Human Warlock
+- *Actias Aureus*, a 3rd-level Tiefling Warlock
+- *Benjamin*, a 3nd-level Elf Ranger
+- *Calmul Rhoqiroth*, a 3rd-level Dragonkin Bard
+- *CoralKing*, a 3rd-level Gnome Monk
+- *Geral Bryn*, a 3rd-level Human Fighter
+- *Orky*, a 3rd-level Half-Elf Paladin
+- *Steve*, a 3rd-level Halfling Rogue
+- *Tasbros*, a 3rd-level Elf Sorcerer
+- *Tysnera*, a 3rd-level Elf Wizard
+- *Viker*, a 3rd-level Elf Druid
+- *Wulrif*, a 3rd-level Human Warlock
 
 In the aftermath of the battle with the pack of Allosaurs, the party camped between the tread marks of a passing *Urb* on the **Triboar Trail**, reasoning the deep indentations
 and broken ground would provide a more defensible camp site. While resting they saw a curious sight: strange, whirring clockwork automatons marching single file out of the

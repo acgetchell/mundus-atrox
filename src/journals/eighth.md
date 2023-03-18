@@ -6,17 +6,17 @@
 
 ### Dramatis Personae
 
-- Actias Aureus, a 5th-level Tiefling Warlock
-- Benjamin, a 5th-level Elf Ranger
-- Calmul Rhoqiroth, a 5th-level Dragonkin Artificer
-- CoralKing, a 5th-level Gnome Monk
-- Geral Bryn, a 5th-level Human Fighter
-- Orky, a 5th-level Half-Elf Paladin
-- Steve, a 5th-level Halfling Rogue
-- Tasbros, a 5th-level Elf Sorcerer
-- Tysnera, a 5th-level Elf Wizard
-- Viker, a 5th-level Elf Druid
-- Wulrif, a 5th-level Human Warlock
+- *Actias Aureus*, a 5th-level Tiefling Warlock
+- *Benjamin*, a 5th-level Elf Ranger
+- *Calmul Rhoqiroth*, a 5th-level Dragonkin Artificer
+- *CoralKing*, a 5th-level Gnome Monk
+- *Geral Bryn*, a 5th-level Human Fighter
+- *Orky*, a 5th-level Half-Elf Paladin
+- *Steve*, a 5th-level Halfling Rogue
+- *Tasbros*, a 5th-level Elf Sorcerer
+- *Tysnera*, a 5th-level Elf Wizard
+- *Viker*, a 5th-level Elf Druid
+- *Wulrif*, a 5th-level Human Warlock
 
 #### From the journal of Dame Orky
 
@@ -52,7 +52,7 @@ For those who didn’t, *Actius* and I, we take 52 damage and get knocked down. 
 
 ![Young Green Dragon Swooping](images/young-green-dragon-swooping.png)
 
-#### Turn 1
+#### Round 1
 
 We decide to scatter since we are in the middle of the plains between **Neverwinter Wood** and the **Triboar Trail**.
 
@@ -76,7 +76,7 @@ We decide to scatter since we are in the middle of the plains between **Neverwin
 12. *Tysnera* casts Lightning Bolt (8d6 damage!!!) and deals 26 damage! I peek out from behind my tree and silently cheer!
 13. *Tasbros* casts Chromatic Orb and deals the Dragon 13 damage.
 
-#### Turn 2
+#### Round 2
 
 1. *Benjamin* shoots his Longbow twice and hits for 18 damage. The Dragon is starting to get very mad at *Benjamin*.
 2. *Steve* stealthily shoots the Dragon with his bow and rolls a critical hit on a Sneak Attack for 29 damage!
@@ -91,7 +91,7 @@ We decide to scatter since we are in the middle of the plains between **Neverwin
 11. *Tysnera* stays invisible and recovers.
 12. *Tasbros* chases the Dragon and casts Fireball. The Dragon just barely escapes the direct blast, taking 16 damage.
 
-#### Turn 3
+#### Round 3
 
 1. *Benjamin* pursues and shoots his bow, dealing 11 damage.
 2. *Steve* shoots and misses.
@@ -182,7 +182,7 @@ She goes into the room across the hall and sees 12 Redbrands, eating. One of the
 I'm going to block the middle of the hallway to control how many can attack us at once. *Actius* makes the hallway behind us difficult terrain to hopefully slow the others down.
 *CoralKing* stays at the rear of the party to defend us from that direction.
 
-#### First Turn
+#### First Round
 
 1. *Viker* casts Moonbeam (what is a Moon?) on the spot where the first Redbrand appears. Ghostly flames envelop him, screaming, as he takes 14 damage.
 2. *Calmul's* Musket misfires and dumps black powder everywhere.
@@ -196,7 +196,7 @@ I'm going to block the middle of the hallway to control how many can attack us a
 10. *Geral* shoots and crits the guy over my shoulder.
 11. *Actius* backs up to come help *CoralKing*.
 
-#### Second Turn
+#### Second Round
 
 1. *Viker* maintains concentration on Moonbeam.
 2. *Calmul* repairs his Musket.
@@ -208,7 +208,7 @@ I'm going to block the middle of the hallway to control how many can attack us a
 8. *Actius* forks his Eldritch Blast. He lands both and does 20 damage! That Redbrand goes down, as does the one coming at *CoralKing*.
 9. *CoralKing* hits the new approaching Redbrand in front of him, doing 6 damage.
 
-#### Third Turn
+#### Third Round
 
 1. *Viker* moves through the hallway to move her Moonbeam into the room with most of the Redbrands. One of them takes an opportunity attack as she moves by and crits her with 12 damage. She manages to maintain her Moonbeam.
 2. *Calmul* shoots a Redbrand and deals 5 damage.
@@ -220,7 +220,7 @@ I'm going to block the middle of the hallway to control how many can attack us a
    including the Wizard, lurking just around the corner!
 8. *Actius* immediately gets hit by 2 swords, taking 12 damage total. *CoralKing* takes 15 damage from a volley of arrows and Fades Away. *Calmul* takes more arrows for 13 HP. *Actius* does a quick Rebuke on one of the archers, doing 7 damage.
 
-#### Fourth Turn
+#### Fourth Round
 
 1. *Viker* moves her Moonbeam and kills a Redbrand. She uses a Bonus action to say a Healing Word on *Calmul* for 9 HP.
 

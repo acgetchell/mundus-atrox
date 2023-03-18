@@ -6,23 +6,23 @@
 
 ### Dramatis Personae
 
-- Actias Aureus, a 4th-level Tiefling Warlock
-- Benjamin, a 4th-level Elf Ranger
-- Calmul Rhoqiroth, a 3rd-level Dragonkin Artificer
-- CoralKing, a 4th-level Gnome Monk
-- Geral Bryn, a 4th-level Human Fighter
-- Orky, a 4th-level Half-Elf Paladin
-- Steve, a 4th-level Halfling Rogue
-- Tasbros, a 4th-level Elf Sorcerer
-- Tysnera, a 4th-level Elf Wizard
-- Viker, a 3rd-level Elf Druid
-- Wulrif, a 4th-level Human Warlock
+- *Actias Aureus*, a 4th-level Tiefling Warlock
+- *Benjamin*, a 4th-level Elf Ranger
+- *Calmul Rhoqiroth*, a 3rd-level Dragonkin Artificer
+- *CoralKing*, a 4th-level Gnome Monk
+- *Geral Bryn*, a 4th-level Human Fighter
+- *Orky*, a 4th-level Half-Elf Paladin
+- *Steve*, a 4th-level Halfling Rogue
+- *Tasbros*, a 4th-level Elf Sorcerer
+- *Tysnera*, a 4th-level Elf Wizard
+- *Viker*, a 3rd-level Elf Druid
+- *Wulrif*, a 4th-level Human Warlock
 
 #### From the journal of Dame Orky
 
 Thus begins the smiting of Evil:
 
-#### Initiatives & First Turn
+#### Initiatives & First Round
 
 1. *Benjamin* comes in the west-side door and opens a door to attack a pack of Goblins.
 2. Coral King attacks a Goblin and hella misses.
@@ -36,7 +36,7 @@ Thus begins the smiting of Evil:
 10. *Tasbros* damages a Golbin with Mind Sliver.
 11. Goblins attack *Benjamin* and deal 8 points of damage, same on *CoralKing*, who Fades Away as a Reaction.
 
-#### Turn 2
+#### Round 2
 
 1. *Benjamin* gets hit by some sort of creature with tentacles, tail and lots of range, taking 19 damage. (I think it’s a Displacer beast-nope!)
 2. *Benjamin* uses his Hunter's Sense to discover the creature is Resistant to Bludgeoning, Piercing, and Slashing with nonmagical weapons. A hit by the tentacles allows it to drag you into its area even though we still can’t see all of it.
@@ -54,7 +54,7 @@ Thus begins the smiting of Evil:
 14. *Tasbros* moves toward the Grick.
 15. The Grick slithers along the walls and encounters us. It attacks *Steve* with tail and tentacles, missing.
 
-#### Turn 3
+#### Round 3
 
 1. 2 Goblins and 4 Hobgoblins come in behind the Grick with 8 more from the Front.
 2. A Goblin misses *Benjamin* and 2 Hobgoblins too.
@@ -77,7 +77,7 @@ Thus begins the smiting of Evil:
 19. The Hobgoblin Leader attacks *CoralKing* and misses.
 20. A Hobgoblin tries to shove *CoralKing* and succeeds, knocking *CoralKing* prone.
 
-#### Turn 4
+#### Round 4
 
 1. *Benjamin* hits a Hobgoblin and deals 10 points of damage.
 2. *CoralKing* gets up and then high kicks the Hobgoblin Leader for 8 damage.
@@ -105,7 +105,7 @@ Thus begins the smiting of Evil:
 24. I move to the Hobgoblin, swing, and miss.
 25. The Hobgoblin attacks *Geral* and misses.
 
-#### Turn 5
+#### Round 5
 
 1. *Benjamin* attacks a Goblin with his short sword and hits. It dies.
 2. *CoralKing* misses a throw and loses his javelin.
@@ -120,7 +120,7 @@ Magically the castle clears and we hear noises, so we move towards a back room t
 
 *Tasbros* takes a Healing potion, as does *Viker*. Actius blows a hole in the back of the room so we can escape if we need to.
 
-#### First Turn
+#### First Round
 
 1. *Benjamin* shoots his Longbow and misses.
 2. *CoralKing* holds his action – meaning he waits until someone attacks him.
@@ -135,7 +135,7 @@ Magically the castle clears and we hear noises, so we move towards a back room t
 11. *CoralKing* uses his attack as he is approached and misses.
 12. Goblins miss *Steve* and me, who are at the front.
 
-#### Second Turn
+#### Second Round
 
 1. *Benjamin* shoots at a Goblin and misses.
 2. *CoralKing* shin kicks a Goblin and deals 7 damage, killing it!
@@ -153,7 +153,7 @@ Magically the castle clears and we hear noises, so we move towards a back room t
 14. *Tasbros* uses Ray of Frost but only deals 2 damage.
 15. *Steve* stabs a Goblin and kills it.
 
-#### Third Turn
+#### Third Round
 
 1. *Benjamin* shoots a Hobgoblin with his Longbow and does 10 damage.
 2. *CoralKing* kicks a Goblin and misses.
@@ -169,7 +169,7 @@ Magically the castle clears and we hear noises, so we move towards a back room t
 12. Orky hits the Bugbear Chief with Searing Smite and deals 21 damage.
 13. The Hobgoblins attack *Steve* and do 11 damage.
 
-#### Fourth Turn
+#### Fourth Round
 
 1. *Benjamin* shoots the Bugbear and deals 14 damage. Kills him? (He gets up again, healed by the Shaman as we find out later.)
 2. *CoralKing* attacks a Goblin and hits. He does 6 damage and kills him.
@@ -187,7 +187,7 @@ Magically the castle clears and we hear noises, so we move towards a back room t
 14. A Hobgoblin goes down on an attack of opportunity.
 15. *Steve* takes out a Goblin on an attack of opportunity.
 
-#### Fifth Turn
+#### Fifth Round
 
 1. *Benjamin* does 15 damage on the remaining Bugbear Leader.
 2. Coral King attempts a hit.
@@ -201,7 +201,7 @@ Magically the castle clears and we hear noises, so we move towards a back room t
 10. *Tasbros* casts Ray of Frost on a goblin for 4 damage.
 11. Goblins attack *Steve* and *CoralKing*, missing.
 
-#### Sixth Turn
+#### Sixth Round
 
 1. *Benjamin* drops the Bugbear leader with his Longbow!!!
 2. *CoralKing* kicks the Goblin in front of him and does 13 damage, killing it.
