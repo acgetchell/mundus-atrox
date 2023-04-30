@@ -60,7 +60,7 @@ Turning south along the **Triboar Trail**, the party, along with *Sildar* and *Y
 
 They pass another wagon that has been torn apart, bodies littered everywhere. As they approach, the bodies rise with a groan and attack.
 
-These strange undead puff blinding clouds of ash when hit. Worse, they seem resistant to swords, arrows, and even *Calmul*'s breath weapon.
+These strange Undead puff blinding clouds of ash when hit. Worse, they seem resistant to swords, arrows, and even *Calmul*'s breath weapon.
 They likewise take no notice of charms or enchantments, but *Orky* has success with her mace, *Coralking* with his headbutts, and *Geral* with a
 makeshift club. *Actias* and *Wulrif*'s spells likewise affect the monsters. *Benjamin*, *Steve*, and *Skolg*,
 equipped with only slashing and piercing weapons, guard *Yeemik* to ensure he doesn't run off in the confusion.

@@ -31,7 +31,7 @@ Thus begins the smiting of Evil:
 5. *Tysnera* casts Firebolt on a Goblin but misses.
 6. *Viker* casts Frost Bite on Goblin dealing 3 damage and Disadvantage on its next attack.
 7. *Wulrif* Hexes and Edrich Blasts a Goblin, killing it.
-8. Actius Edrich Blasts a Goblin and downs it.
+8. *Actias* Edrich Blasts a Goblin and downs it.
 9. *Geral* swings on a Goblin and deals 6 damage.
 10. *Tasbros* damages a Golbin with Mind Sliver.
 11. Goblins attack *Benjamin* and deal 8 points of damage, same on *CoralKing*, who Fades Away as a Reaction.
@@ -48,7 +48,7 @@ Thus begins the smiting of Evil:
 8. *Tysnera* casts Firebolt and misses.
 9. *Viker* kills a Goblin.
 10. *Wulrif* attacks the Hexed Goblin and kills it.
-11. Actius Eldritch Blasts, hits, and deals 9 damage to a Goblin, killing it.
+11. *Actias* Eldritch Blasts, hits, and deals 9 damage to a Goblin, killing it.
 12. *Geral* hits a Goblin and rocks him.
 13. I hit and kill the last Goblin, then move toward the Grick.
 14. *Tasbros* moves toward the Grick.
@@ -67,7 +67,7 @@ Thus begins the smiting of Evil:
 9. *Viker* kills a Goblin.
 10. Hobgoblin misses 2 attacks on *CoralKing*.
 11. *Wulrif* casts Dissonant Whispers against the Grick, which fails its Wisdom save. It takes 21 damage and immediately slithers away.
-12. Actius Removes Earth under the Hobgoblin Leader's feet. It makes a saving throw and fails, falling prone. (He gets disadvantage, and everyone else gets advantage on him).
+12. *Actias* Removes Earth under the Hobgoblin Leader's feet. It makes a saving throw and fails, falling prone. (He gets disadvantage, and everyone else gets advantage on him).
 13. *Geral* misses an attack on something.
 14. I hit the Hobgoblin Leader for 15 damage and it looks hurt!
 15. *Tasbros* casts Sleep on all of the remaining Goblins.
@@ -86,7 +86,7 @@ Thus begins the smiting of Evil:
 5. *Viker* throws an Ice Knife at the Grick and hits, doing 12 damage.
 6. The Hobgoblin Leader attacks *Geral* and hits twice, doing 23 damage.
 7. *Wulrif* hits the Grick with an Eldritch Blast and does 13 damage.
-8. Actius misses.
+8. *Actias* misses.
 9. *Geral* has advantage on the Captain and misses. He heals 14 HP.
 10. I channel a Vow of Enmity and hit the Hobgoblin Leader, doing 14 damage.
 11. *Tasbros* casts Ray of Frost, doing 5 damage and reducing speed by 10 on the Hobgoblin.
@@ -100,7 +100,7 @@ Thus begins the smiting of Evil:
 19. *Tasbros* is busy dying.
 20. *Viker* heals *Tasbros* with Cure Wounds for 8 HP, saving him.
 21. *Wulrif* Eldritch Blasts one of the Goblins but misses.
-22. Actius hits a Hobgoblin for 12 damage.
+22. *Actias* hits a Hobgoblin for 12 damage.
 23. *Geral* moves to the remaining Hobgoblin and misses.
 24. I move to the Hobgoblin, swing, and miss.
 25. The Hobgoblin attacks *Geral* and misses.
@@ -114,11 +114,11 @@ Thus begins the smiting of Evil:
 5. *Tysnera* casts Ray of Frost and misses.
 6. *Viker* misses with her scimitar.
 7. *Wulrif* casts Eldritch Blast and misses.
-8. Actius attempts the same and finally hits! The last Goblin is toast!
+8. *Actias* attempts the same and finally hits! The last Goblin is toast!
 
 Magically the castle clears and we hear noises, so we move towards a back room to make a stand since it only has one entrance. *Benjamin* is able to tell us that a couple of monsters are coming.
 
-*Tasbros* takes a Healing potion, as does *Viker*. Actius blows a hole in the back of the room so we can escape if we need to.
+*Tasbros* takes a Healing potion, as does *Viker*. *Actias* blows a hole in the back of the room so we can escape if we need to.
 
 #### First Round
 
@@ -141,7 +141,7 @@ Magically the castle clears and we hear noises, so we move towards a back room t
 2. *CoralKing* shin kicks a Goblin and deals 7 damage, killing it!
 3. *Steve* misses something.
 4. *Calmul* misses something else.
-5. A Wolf ridden by a Bugbear (later we find out this is "King Grol") moves outside to attack us from behind. An unseen attacker hits Actius and knocks him unconscious. A crossbow bolt is seen in his back.
+5. A Wolf ridden by a Bugbear (later we find out this is "King Grol") moves outside to attack us from behind. An unseen attacker hits *Actias* and knocks him unconscious. A crossbow bolt is seen in his back.
 6. *Tysnera* casts Mage Armor on herself.
 7. *Viker* casts something and misses.
 8. *Wulrif* hides behind the outside tree and actively investigates the area, finding the Drow.
@@ -149,7 +149,7 @@ Magically the castle clears and we hear noises, so we move towards a back room t
 10. The other Bugbear heads outside with the Wolf-rider around the side of the building. The Wolf breaths frost on *Geral*, who Saves, taking 8 HP (half) damage.
 11. An enemy Shaman Magic Missiles me for 12 damage.
 12. A Bugbear attacks *Geral* and misses.
-13. I Lay on Hands to Actius, healing him of the Poison, but he's still prone.
+13. I Lay on Hands to *Actias*, healing him of the Poison, but he's still prone.
 14. *Tasbros* uses Ray of Frost but only deals 2 damage.
 15. *Steve* stabs a Goblin and kills it.
 
@@ -163,7 +163,7 @@ Magically the castle clears and we hear noises, so we move towards a back room t
 6. *Tysnera* casts Hold Person on the Bugbear Chief, who Saves.
 7. *Viker* heals *Geral*.
 8. *Wulrif* Hexes the Drow but misses with Eldritch Blast.
-9. Actius gets up and casts Eldritch Blast but misses.
+9. *Actias* gets up and casts Eldritch Blast but misses.
 10. *Geral* uses Commander's Strike on me to hit the Bugbear Chief. I swing and do 21 damage! *Geral* uses Action Surge and hits, doing 5 more damage.
 11. A Bugbear attacks me and misses both swings. The Bugbear Chief riding the wolf swings at *Geral* and hits once, doing 12 damage.
 12. Orky hits the Bugbear Chief with Searing Smite and deals 21 damage.
@@ -179,7 +179,7 @@ Magically the castle clears and we hear noises, so we move towards a back room t
 6. *Tysnera* casts Melf’s Acid Arrow on the Wolf, doing 24 damage!
 7. *Viker* heals *Geral* by 9 hit points and everyone else gets 3 from her Unicorn totem.
 8. *Wulrif* hits the Drow with a spell, doing half damage of 10 hit points due to a successful saving throw.
-9. Actius hits the Drow and deals 10 damage.
+9. *Actias* hits the Drow and deals 10 damage.
 10. *Geral* uses Commander's Strike on me and I hit the Wolf for 25 damage!
 11. The Hobgoblin Leader attacks Orky and deals 15 damage, minus 3. *CoralKing* takes 3 Magic Missiles to the face from the Shaman and gets 11 damage.
 12. I hit the Wolf again for 19 damage.
@@ -195,7 +195,7 @@ Magically the castle clears and we hear noises, so we move towards a back room t
 4. The Drow disappears through a portal.
 5. *Tysnera* casts Sleep on the forest where the Drow disappeared, but nothing happens.
 6. *Viker* heals *Geral*.
-7. Actius tries to hit the Bugbear.
+7. *Actias* tries to hit the Bugbear.
 8. *Geral* uses Commander's Strike on me and I deal 25 damage to the Bugbear Leader.
 9. I do another 21 damage on the Bugbear leader with my Great Sword.
 10. *Tasbros* casts Ray of Frost on a goblin for 4 damage.

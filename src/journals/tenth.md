@@ -56,7 +56,7 @@ d. We all have to make a constitution saving throw. Orky got poisoned, which giv
 5. *CoralKing* hits a ghoul and uses three unarmed attacks and one hit for 6 damage.
 6. *Geral* hits the damaged ghoul for 22 damage, killing it.
 7. *Viker* casts ice knife and hits a ghoul for 10? Damage.
-8. Now the undead fight back:
+8. Now the Undead fight back:
 a. They all surround Orky and hit her twice for 20 damage.
 9. *Tasbros* casts firebolt on a ghast and does 7 damage to it.
 10. *Benjamin* moves forward to attack the ghast and does 19 damage, killing it!

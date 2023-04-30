@@ -68,13 +68,13 @@ The party finds this more appealing.
 
 The party scouts cautiously.
 
-*Viker* shapeshifts into a field mouse and hops into *Steve's* pocket. *Actius* turns *Steve* (and *Viker*) invisible.
+*Viker* shapeshifts into a field mouse and hops into *Steve's* pocket. *Actias* turns *Steve* (and *Viker*) invisible.
 *Benjamin* follows stealthily as the three of them take up station by the front entrance to the West.
 
 The rest of the party carefully moves to the Southern entrance, beneath the arrow slits.
 *Calmul* produces small, scurrying spider Constructs which *Infuse* *Orky's* Chain Mail and Greatsword with Magic.
 
-*Actius* uses *Mold Earth* to collapse the South Wall, exposing the Goblins inside!
+*Actias* uses *Mold Earth* to collapse the South Wall, exposing the Goblins inside!
 
 #### 400 XPs
 
