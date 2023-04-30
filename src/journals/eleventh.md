@@ -152,12 +152,12 @@ Benjamin casts Healing Spirit and
 
 *Tysnera* learns that the **Spell Forge** can bind the following spells to weapons permanently:
 
-- Alarm
-- Branding Smite
-- Continual Flame
-- Magic Weapon
-- Thunder Wave
-- True Strike
+- [Alarm]
+- [Branding Smite]
+- [Continual Flame]
+- [Magic Weapon]
+- [Thunder Wave]
+- [True Strike]
 
 *Geral* is singled out and asked to bring this mine back into operation and protect the mine. He is asking to be replaced for a short period of time. *Geral* said he needs to arrange a small militia to do that and agrees.
 
@@ -166,3 +166,11 @@ Steve found some magic guantlets on the corpse of a Dwarf, which *Tysnera* ident
 #### 5,000 XP
 
 ![Wave Echo Cave](images/wave-echo-cave.jpg)
+
+
+[Alarm]: https://www.dndbeyond.com/spells/alarm
+[Branding Smite]: https://www.dndbeyond.com/sources/basic-rules/spells#BrandingSmite
+[Continual Flame]: https://www.dndbeyond.com/sources/basic-rules/spells#ContinualFlame
+[Magic Weapon]: https://www.dndbeyond.com/sources/basic-rules/spells#MagicWeapon
+[Thunder Wave]: https://www.dndbeyond.com/sources/basic-rules/spells#Thunderwave
+[True Strike]: https://www.dndbeyond.com/sources/basic-rules/spells#TrueStrike

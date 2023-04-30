@@ -1,6 +1,6 @@
 # Overview
 
-The first adventuring group based out of [Neverwinter](../background/urbs.md).
+**The Irregulars** based out of [Neverwinter](../background/urbs.md) and [Phandalin].
 
 [First Session](first.md)
 
@@ -21,3 +21,10 @@ The first adventuring group based out of [Neverwinter](../background/urbs.md).
 [Ninth Session](ninth.md)
 
 [Tenth Session](tenth.md)
+
+[Eleventh Session](eleventh.md)
+
+[Twelfth Session](twelfth.md)
+
+
+[Phandalin]: https://www.dndbeyond.com/sources/lmop/phandalin#Part2Phandalin
