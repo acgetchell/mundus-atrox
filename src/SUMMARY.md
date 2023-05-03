@@ -60,3 +60,4 @@
   - [Tenth Session](journals/tenth.md)
   - [Eleventh Session](journals/eleventh.md)
   - [Twelfth Session](journals/twelfth.md)
+  - [Thirteenth Session](journals/thirteenth.md)

@@ -15,7 +15,7 @@
 - *Steve*, a 3rd-level Halfling Rogue
 - *Tasbros*, a 3rd-level Elf Sorcerer
 - *Tysnera*, a 3rd-level Elf Wizard
-- *Viker*, a 3rd-level Elf Druid
+- *Viker*, a 3rd-level Eladrin Druid
 - *Wulrif*, a 3rd-level Human Warlock
 
 In the aftermath of the battle with the pack of Allosaurs, the party camped between the tread marks of a passing *Urb* on the **Triboar Trail**, reasoning the deep indentations

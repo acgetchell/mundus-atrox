@@ -15,7 +15,7 @@
 - *Steve*, a 4th-level Halfling Rogue
 - *Tasbros*, a 4th-level Elf Sorcerer
 - *Tysnera*, a 4th-level Elf Wizard
-- *Viker*, a 3rd-level Elf Druid
+- *Viker*, a 3rd-level Eladrin Druid
 - *Wulrif*, a 4th-level Human Warlock
 
 #### From the journal of Dame Orky

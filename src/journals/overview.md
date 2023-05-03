@@ -26,5 +26,6 @@
 
 [Twelfth Session](twelfth.md)
 
+[Thirteenth Session](thirteenth.md)
 
 [Phandalin]: https://www.dndbeyond.com/sources/lmop/phandalin#Part2Phandalin

@@ -15,7 +15,7 @@
 - *Steve*, a 3rd-level Halfling Rogue
 - *Tasbros*, a 2nd-level Elf Sorcerer
 - *Tysnera*, a 2nd-level Elf Wizard
-- *Viker*, a 2nd-level Elf Druid
+- *Viker*, a 2nd-level Eladrin Druid
 - *Wulrif*, a 3rd-level Human Warlock
 
 The party finally makes it to **Phandalin**. *Sildar* leads the group to the **Stonehill Inn**, where they set about procuring lodgings. *Sildar* pays the

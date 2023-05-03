@@ -13,7 +13,7 @@
 - *Steve*, a 6th-level Halfling Rogue
 - *Tasbros*, a 6th-level Elf Sorcerer
 - *Tysnera*, a 6th-level Elf Wizard
-- *Viker*, a 6th-level Elf Druid
+- *Viker*, a 6th-level Eladrin Druid
 
 > The Naga stares unblinking with piercing golden eyes.
 >

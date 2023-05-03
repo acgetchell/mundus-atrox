@@ -10,7 +10,7 @@
 - *CoralKing*, a 4th-level Gnome Monk
 - *Orky*, a 4th-level Half-Elf Paladin
 - *Steve*, a 4th-level Halfling Rogue
-- *Viker*, a 4th-level Elf Druid
+- *Viker*, a 4th-level Eladrin Druid
 
 #### From the journal of Dame Orky
 
