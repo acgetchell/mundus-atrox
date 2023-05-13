@@ -20,6 +20,34 @@
 
 We start by searching the grounds and the cathedral. We find a gift box containing 1200 gp, 13 gems (1000 gp each). We split them evenly and offer the Oni and her Ork mate 2 gems for their help. We also find a staff, sword, a book, and a rod. Tysnera identifies the book as a tome of understanding and we give that to Viker. The rod is a rod of absorption and we hand it to Tasbros. The staff of striking goes to CoralKing. The dancing Shortsword goes to Actius. The orks mentioned killing a bunch of vampires. We dispose of the remnants.
 
+> Chiyo gestures towards Geral, her deep red eyes contemplative and searching.
+>
+> She negligently waves her hand, and a curtain of darkness surrounds her and Geral.
+>
+> The rest of the group startles a bit. Ganudash laughs uproariously.
+>
+> "Had my wife wished to snack upon his marrow," he declaims, "She would have done it shortly after our fight with the demons."
+>
+> He winks.
+>
+> "She gets hungry after working magic."
+>
+> "He's okay," says Wulrif, concentrating a bit from his litter. The group relaxes, still a bit unsettled in the company of so many Orcs and Ogres.
+>
+> Steve discreetly slips a dagger back into its sheathe. Calmul's Steel Guardian relaxes from the taut vibrancy of a coiled steel spring, resuming a watchful aspect.
+>
+> "Mortals words are worthless, Thane Brynn" says Chiyo, seemingly oblivious to the clamor around her.
+"You have offered my husband assurances of shelter and loot, but how am I to believe your bond to him will hold once we are amongst your kind?"
+"You have something in mind,"  replies Geral.
+Chiyo smiles her unsettling tusked grin, her red eyes gleaming. She holds up a six-inch needle, tiny in her hands.
+>
+> "My people tattoo mutual bonds upon their flesh. If you are true to its inscription, it guards your life. If not ..."
+>
+> "What inscription?"
+>
+> "You tell me." Chiyo smiles appraisingly.
+
+
 We need to get the ward stone into our wagon. We decide to use Tasbros’ telekinesis to lift it into our wagon. As we do this, we see a bird circling, it lands and turns into this little masked person. His mask is half happy and half sad. He starts giving us shit about how fucked up the ward stone is. We use detect magic and see he’s magic. He asks us if we know how ward stones work. Actius asks what his intentions are and he just laughs. Wulrif tries to read his mind and it’s strangely missing. Viker invites him to join us on our journey back to Phandalin and calls him old, which pisses him off. He grows and starts rearing up at us. We ask what we can do to keep him happy. He said we will amuse him, he snaps his fingers and the skies start to darken. He snaps his fingers again and we feel the ground start to shake. Then, this massive toothed worm breaks out of the ground behind the group.
 
 Turn 1

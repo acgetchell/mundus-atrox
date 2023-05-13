@@ -43,7 +43,31 @@ Turn 1
 10. Tasbros moves back a little, uses his crossbow to shoot it ,and misses.
 11. Actius creates a magical crossbow and shoots it, killing it.
 
-The spectator dissipates and a tiny one appears, attracted to his magic. Wulrif grabs it and puts it in his bag and begins feeding it. Orky makes a max saving throw and recovers her movement.
+The spectator dissipates and a tiny one appears, attracted to *Wulrif's* magic.
+
+> A questing tendril of thought caresses Wulrif’s mind. He allows it to develop.
+>
+> You are powerful?
+>
+> Yes, he replies.
+>
+> You will become more powerful?
+>
+> Yes.
+>
+> You seek the truth of my home?
+>
+> Yes.
+>
+> You will take care of me?
+>
+> Yes.
+>
+> Then I will serve, provided all those conditions remain true.
+>
+> A wobble in his vision, and now he sees a huge cloaked figure below him, gazing up at him with two tiny, sharp eyes. He floats downwards, closer, as a strange appendage ending in five tentacles produces a morsel. He looks into his own smiling face ….
+
+Wulrif grabs it and puts it in his bag and begins feeding it. Orky makes a max saving throw and recovers her movement.
 
 Tasbros uses move earth to dig, and we see a life-size statue. He detects magic and sees the sword hilt is magic and the tomb. He uses mage hand to lift the sword and it can’t do anything. Orky and Geral climb up to the statue and she feels a question in her mind, is she trustworthy? She said yes and the sword drops and she grabs it. It’s like a lightsaber. It’s called a sun blade and she humbly passes it to Actius to use. Tasbros uses knock to open the tomb. He sees a body covered in dwarven-made armor. Orky takes it.
 
