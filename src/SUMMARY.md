@@ -61,3 +61,7 @@
   - [Eleventh Session](journals/eleventh.md)
   - [Twelfth Session](journals/twelfth.md)
   - [Thirteenth Session](journals/thirteenth.md)
+  - [Fourteenth Session](journals/fourteenth.md)
+  - [Fifteenth Session](journals/fifteenth.md)
+  - [Sixteenth Session](journals/sixteenth.md)
+  - [Seventeenth Session](journals/seventeenth.md)

@@ -28,4 +28,10 @@
 
 [Thirteenth Session](thirteenth.md)
 
+[Fourteenth Session](fourteenth.md)
+
+[Fifteenth Session](fifteenth.md)
+
+[Sixteenth Session](sixteenth.md)
+
 [Phandalin]: https://www.dndbeyond.com/sources/lmop/phandalin#Part2Phandalin
