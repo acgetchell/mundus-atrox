@@ -125,6 +125,8 @@ Some of your fellow prisoners do not accept this fate. A stubborn Dwarf refuses 
 
 The last Dwarf in your wretch band of captives is taken up into the smaller of the three Stalagmites, doorways leading to unguessable chambers. A piercing scream, and black mist tinged with red flows out of doorway and various orifices of what is now, clearly, a vile temple of some kind.
 
+![Velkynvelve](images/Velkynvelve.png)
+
 * * *
 
 > "Thane *Geral*!," greets *Sildar*, as *Geral* enters the Townmaster's Hall.
@@ -381,5 +383,7 @@ Not stopping for long, the Irregulars race into the darkness, the Drow pursuit b
 > "She seemed pretty upset before," replies *Geral*.
 >
 > "Yeah, well, I took back our stuff, what belonged to us, y' know? But I *stole* her Hand Crossbow and Tentacle Rod," says *Steve* proudly.
+
+![Ilvarra](images/Ilvarra.png)
 
 #### 5,000 XP
