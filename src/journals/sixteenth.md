@@ -47,7 +47,6 @@ Chiyo smiles her unsettling tusked grin, her red eyes gleaming. She holds up a s
 >
 > "You tell me." Chiyo smiles appraisingly.
 
-
 We need to get the ward stone into our wagon. We decide to use Tasbros’ telekinesis to lift it into our wagon. As we do this, we see a bird circling, it lands and turns into this little masked person. His mask is half happy and half sad. He starts giving us shit about how fucked up the ward stone is. We use detect magic and see he’s magic. He asks us if we know how ward stones work. Actius asks what his intentions are and he just laughs. Wulrif tries to read his mind and it’s strangely missing. Viker invites him to join us on our journey back to Phandalin and calls him old, which pisses him off. He grows and starts rearing up at us. We ask what we can do to keep him happy. He said we will amuse him, he snaps his fingers and the skies start to darken. He snaps his fingers again and we feel the ground start to shake. Then, this massive toothed worm breaks out of the ground behind the group.
 
 Turn 1
