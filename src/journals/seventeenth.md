@@ -35,7 +35,7 @@ A feeling he ought to be thinking of something.
 >
 > "What has happened?"
 
-Gruumsh points to a wide pit in front of the ruined Cathedral gate.
+*Gruumsh* points to a wide pit in front of the ruined Cathedral gate.
 
 > "A Giant flew in as a little bird and taunted your companions. When they insulted it back, it summoned a Purple Worm from the Underdark and attacked.
 > Your wizard banished the Worm, but by the time we could reach them, it had flung them down the Purple Wormhole and fled."
@@ -87,12 +87,12 @@ The Drow Elite Guard shuffle, all weapons pointing unerringly at her.
 Finally, she nods.
 
 They take her weapons and place magic shackles on her, but know better than to push it further. The huge spider-centaurs
-come forward and, as Orky watches, subdued, her companions are webbed to their broad backs.
+come forward and, as *Orky* watches, subdued, her companions are webbed to their broad backs.
 
 * * *
 
 The Clan women and children march in the center of a hollow square of Ogres, who bear huge loads upon their backs, in a surprisingly disciplined formation. Two shamans break the trail and one follows, some sort of
-magic making the passage of the large group both quieter and less discernible. The remaining Orcs range out widely from the group. Two of them, riding Velociraptors, pull up abruptly to Gruumsh and Chiyo, talking
+magic making the passage of the large group both quieter and less discernible. The remaining Orcs range out widely from the group. Two of them, riding Velociraptors, pull up abruptly to *Gruumsh* and *Chiyo*, talking
 excitedly while their mounts snarl and drool in anticipation. *Gruumsh* abruptly jumps up onto a raptor as its rider smoothly dismounts. *Chiyo* blurs and takes to the sky as a large black Raven. The group
 comes to a halt as the Orcs run, following their leader. The dismounted Orc rider glares sullenly at *Geral*.
 
@@ -123,7 +123,7 @@ Captured by the Drow! You wouldn’t wish this fate upon anyone, yet here you ar
 
 Some of your fellow prisoners do not accept this fate. A stubborn Dwarf refuses to do the pointless work your captors assign, and is summarily thrown over the edge of the platform. He falls a hundred feet into a web and quickly beset upon by Giant Spiders, some blinking into and out of existence.
 
-The last Dwarf in your wretch band of captives is taken up into the smaller of the three Stalagmites, doorways leading to unguessable chambers. A piercing scream, and black mist tinged with red flows out of doorway and various orifices of what is now, clearly, a vile temple of some kind.
+The last Dwarf in your wretched band of captives is taken up into the smaller of the three Stalagmites, doorways leading to unguessable chambers. A piercing scream, and black mist tinged with red flows out of doorway and various orifices of what is now, clearly, a vile temple of some kind.
 
 ![Velkynvelve](images/Velkynvelve.png)
 
@@ -138,7 +138,7 @@ The two clasp forearms in the Protector's greeting of fellow soldiers.
 *Sister Garaele* and *Reidoth*, a big hulking Druid and friend of *Qelline Alderleaf* and her son *Carp* who led the party through the back way into **Tresendar Manor**, stare
 impassively at *Chiyo*. *Sildar* looks back and forth between the Oni and her husband, a wary expression on his face.
 
-> "We have the Ward Stone," says Gruumsh in surprisingly unaccented Common. "We took it from the vampires we slew at the Cathedral."
+> "We have the Ward Stone," says *Gruumsh* in surprisingly unaccented Common. "We took it from the Vampires we slew at the Cathedral."
 
 *Sildar* looks at *Sister Garaele*, who nods minutely. *Reidoth's* scowl fades.
 
@@ -162,11 +162,11 @@ impassively at *Chiyo*. *Sildar* looks back and forth between the Oni and her hu
 >
 > "Hmmm." *Sildar* looks thoughtful. "That could work."
 >
-> "My people can provide for themselves, but we want to be able to buy the things we cannot make for ourselves from you," rumbles *Gruumsh*.
+> "My people can provide for themselves, but we want to be able to buy the things we cannot make for ourselves, from you," rumbles *Gruumsh*.
 >
 > "That's fair," notes *Geral*.
 >
-> "The Phandalin Miner's Exchange," says *Sildar*, stroking his chin, "the folk there are more rugged and tolerant."
+> "The **Phandalin Miner's Exchange**," says *Sildar*, stroking his chin, "the folk there are more rugged and tolerant."
 >
 > "I will send only my most level-headed warriors," says *Gruumsh*, "but they will not tolerate disrespect whatever I tell them."
 >
@@ -179,7 +179,7 @@ impassively at *Chiyo*. *Sildar* looks back and forth between the Oni and her hu
 **Velkynvelve** is three large stalagmites hanging from the roof of a vast cavern. Above, endless skitterings and shriekings announce the presence of huge flocks of flying creatures that somehow nest
 in the unseen roof above. Below, endless spiderwebs and the spinners thereof.
 
-In between, the prisoners huddle on a large platform made of some strange-grained wood hung between the inverse towers of Velkynvelve. The larger upside-down tower seems to be where *Mistress Ilvara*
+In between, the prisoners huddle on a large platform made of some strange-grained wood hung between the inverse towers of **Velkynvelve**. The larger upside-down tower seems to be where *Mistress Ilvara*
 and her ilk dwell. The mid-sized one appears to be barracks for the Drow soldiers, who number perhaps a score. The smallest one is the accursed temple.
 
 White-furred and savage, Quaggoths move freely amongst the prisoners, feral eyes and teeth gleaming as they appear to consider which of the prisoners would make the tastiest meal. They climb freely around
@@ -235,8 +235,8 @@ Speaking in hushed whispers with the other prisioners, in moments snatched from 
 >
 > "I was afraid a' you'd say thaet."
 
-Two cycles later, the Dwarves have dug a 6'x6' shaft straight through the remains of the Fungal Overlord and into the porous rock. It ends on a shelf of rock on the
-lip of a vast crevice stretching unimaginably deep into the rock.
+Two cycles later, the Dwarves have dug a 6'x6' shaft straight through the remains of the Fungal Overlord and into the porous rock. It ends on a shelf of granite on the
+lip of a vast crevice stretching unimaginably deep.
 
 > "Here goes nothing," says *Calmul*, tossing his finely-wrought, seven-hundred foot length of rope ladder over the edge.
 
