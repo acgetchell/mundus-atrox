@@ -38,7 +38,7 @@ The group continues East, reaching the ruins of **Conyberry**.
 The adventurers enter.
 
 > The air grows cold, and a powerful feeling of dread grips you. A cold, pale light flickers in the air, rapidly taking on the form of a
-> female elf, her hair and robes waving in a spectral wind. She might have been beautiful once, but a hateful expression twists her features now.
+> female Elf, her hair and robes waving in a spectral wind. She might have been beautiful once, but a hateful expression twists her features now.
 > “Foolish mortals,” she snarls. “What do you want here? Do you not know it is death to seek me out?”
 
 > "We have brought you a gift," replies *Wulrif*. He offers her *Garaele's* *Silver Comb*.

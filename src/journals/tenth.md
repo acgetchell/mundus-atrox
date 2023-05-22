@@ -24,7 +24,7 @@ We are still in the cave. *Steve* saw there were some things embedded in the ooz
 - His vision blurs for a bit (rolls a 2) and cannot see any traps.
 - *Wulrif* investigates the stairs. The stairs seem solid and well-designed.
 - *Steve* uses Luck
-- *Tysnera* doesn’t find anything other than the stairs seem to be made for dwarves
+- *Tysnera* doesn’t find anything other than the stairs seem to be made for Dwarves
 
 We head down the stairs and find ourselves in a large cavern with some ledges, tables, and dozens of warrior skeletons. It looks like a battle occurred here a long time ago, but they smell. Some gray ghoulish creatures start to rise and approach us. They don’t lurch, but move quicker.
 
@@ -44,7 +44,7 @@ c. They critically hit *CoralKing* and *Geral* claims protection. They miss!
 d. We all have to make a constitution saving throw. Orky got poisoned, which gives her disadvantage on her attacks.
 9. *Tysnera* casts fireball and hits every creature with 36 HP damage. They are all killed!
 
-*CoralKing* picks up all of his darts while we move through the room, east into the next room. There are more skeletons, but nothing moving. *Geral* decides, after a heated debate between *Tasbros* and *Tysnera*, to backtrack and enter the room south of here. This room is full of bunks and there are bones of orks and dwarves, that are being gnawed on by ghasts and ghouls. When they see us enter, they attack.
+*CoralKing* picks up all of his darts while we move through the room, east into the next room. There are more skeletons, but nothing moving. *Geral* decides, after a heated debate between *Tasbros* and *Tysnera*, to backtrack and enter the room south of here. This room is full of bunks and there are bones of orks and Dwarves, that are being gnawed on by ghasts and ghouls. When they see us enter, they attack.
 
 <!-- markdownlint-disable MD024 -->
 #### Round 1
@@ -91,7 +91,7 @@ a. They all surround Orky and hit her twice for 20 damage.
 1. *Steve* misses an attack
 2. *Benjamin* shoots at the leader and missed the first. He tries again and hits, doing 12 damage, killing it.
 
-Now we hear a voice say “oh, that’s a shame. I guess I have to deal with you now.” *Wulrif* detects thoughts and gets nothing. We hear: “what brings you here anyway?” *Wulrif* responds “We are here for some treasure.” And it responds “Well, you should find another place for that. You’ll find nothing but death here. I know what I’m looking for, do you?” We say “What are you looking for?” No response. “We’re here for Gundren’s brother.” The voice says “We have him.”
+Now we hear a voice say “oh, that’s a shame. I guess I have to deal with you now.” *Wulrif* detects thoughts and gets nothing. We hear: “what brings you here anyway?” *Wulrif* responds “We are here for some treasure.” And it responds “Well, you should find another place for that. You’ll find nothing but death here. I know what I’m looking for, do you?” We say “What are you looking for?” No response. “We’re here for *Gundren*’s brother.” The voice says “We have him.”
 
 We all make saving throws + DEX. We need a 16 to make it. A fireball detonated in the middle of the room. *Geral*, *Viker*, Orky,  and *Tysnera* failed, taking 34 damage. Next, we are in the middle of a yellow-green fog. We all have to use a constitution saving throw. Those who roll 15, make it. *Geral* and *Wulrif* failed.
 
@@ -126,7 +126,7 @@ Everyone in the room has to make a saving throw + CON on the start of their turn
 9. *Calmul* heals *Steve* for 10 HP.
 We decide to take some time to heal up. *Viker* heals *Steve* for 20 HP. *Benjamin* heals a lot of people. *Viker* heals Orky and *CoralKing* for 7 and 10 HP. And so on…
 
-We ask *Steve* to sneak around the corner where we saw someone run away. He peaks around and doesn’t see anyone. We follow him in pursuit. We end up following the source of magic and *Tysnera* notices footsteps. We end up at fully-sealed double doors that we cannot see a way to penetrate. *Tasbros* remembers that he can cast “Knock” and we blow the door open. We see a drow and a wizard, Glassstaff.
+We ask *Steve* to sneak around the corner where we saw someone run away. He peaks around and doesn’t see anyone. We follow him in pursuit. We end up following the source of magic and *Tysnera* notices footsteps. We end up at fully-sealed double doors that we cannot see a way to penetrate. *Tasbros* remembers that he can cast “Knock” and we blow the door open. We see a Drow and a wizard, Glassstaff.
 
 ![Nezznar the Black Spider](images/Nezznar.png)
 
@@ -136,21 +136,21 @@ We ask *Steve* to sneak around the corner where we saw someone run away. He peak
 a. *Wulrif* uses a counter spell and is disintegrates them.
 b. He dashes to the wizard.
 2. The rest of us make DEX saving throws and those who make it, take 14 damage. We all used various methods to make the throws.
-3. *Steve* hits a drow?
-4. A drow sends a flame and *CoralKing* makes a saving throw and fails. He takes 9 damage.
+3. *Steve* hits a Drow?
+4. A Drow sends a flame and *CoralKing* makes a saving throw and fails. He takes 9 damage.
 5. *Tasbros* casts chromatic orb on the wizard for 31 damage, killing him.
-6. *Wulrif* eldritch blasts the drow onto the star space, doing 19 damage.
+6. *Wulrif* eldritch blasts the Drow onto the star space, doing 19 damage.
 7. *Tysnera* uses magic missile and they get absorbed into a special spot.
-8. *Viker* casts moonbeam and the drow uses a counterspell to block it.
-9. Orky casts Hold Person and the drow succeeds on it’s wisdom saving throw.
+8. *Viker* casts moonbeam and the Drow uses a counterspell to block it.
+9. Orky casts Hold Person and the Drow succeeds on it’s wisdom saving throw.
 10. *Benjamin* tries to shoot and misses.
 11. *Calmul* shoots at it and misses.
-12. *Geral* moves in 30 ft and tells *Benjamin* to shoot. He shoots the drow for 21 damage. Geral uses his action surge and hits it for 3 damage.
+12. *Geral* moves in 30 ft and tells *Benjamin* to shoot. He shoots the Drow for 21 damage. Geral uses his action surge and hits it for 3 damage.
 
 #### Round 2
 
 1. *CoralKing* hits twice for 13 damage.
-2. The drow tries to go invisible and *Wulrif* counters his spell, so he remains visible.
+2. The Drow tries to go invisible and *Wulrif* counters his spell, so he remains visible.
 3. *Steve* hits him and does 20 damage and knocks him down.
 4. We pause the gameplay here.
 

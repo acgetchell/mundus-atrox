@@ -368,8 +368,6 @@ By the time the Drow have recovered and Dispelled Daylight and Synaptic Static, 
 
 Not stopping for long, the Irregulars race into the darkness, the Drow pursuit behind.
 
-* * *
-
 > "I think we lost them," says *Tysnera*, breathlessly.
 >
 > "We should keep going," replies *CoralKing* with no trace of exertion in his voice.

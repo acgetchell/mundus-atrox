@@ -27,7 +27,7 @@ In the large main suite we find a property deed. It names *Magus Arnin* as the o
 *Geral* rolls it up and takes it with us.
 
 *Wulrif* and others investigate the remaining rooms. In one, *Tasbros* finds an old brazier. *Steve* pokes at the pile of coal underneath it, and *Wulrif* uses Mage Hand to rummage through it. There's a bloody cloth wrapped around a golden statue
-of an elf with his wings outstretched. We detect Divination magic on it. *Wulrif* tells everyone else not to touch it, but *Actias* has already grabbed it.
+of an Elf with his wings outstretched. We detect Divination magic on it. *Wulrif* tells everyone else not to touch it, but *Actias* has already grabbed it.
 
 > What is your question?
 
@@ -66,10 +66,10 @@ We decide to scatter since we are in the middle of the plains between **Neverwin
 
 > Please! I have so much to learn from you!
 
-> Faugh! I'm merely snacking on a few elves ....
+> Faugh! I'm merely snacking on a few Half ....
 
 
-8. We have 4 Elves (*Viker*, *Tasbros*, *Tysnera*, *Benjamin*), and I'm half-elven. *Calmul* next attempts to be intimidating and fails.
+8. We have 4 Elves (*Viker*, *Tasbros*, *Tysnera*, *Benjamin*), and I'm HalfElven. *Calmul* next attempts to be intimidating and fails.
 9. I'm prone, so I get up and use Misty Step (2 Mana) to teleport behind a tree.
 10. *Wulrif* attempts to barter with the Dragon, but it's not interested.
 11. *Geral* shoots the Dragon once and uses Commander's Strike on *Benjamin*. *Geral* hits and deals 4 damage. *Benjamin* also hits and deals 18 damage!

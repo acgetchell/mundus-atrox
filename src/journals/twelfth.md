@@ -74,7 +74,7 @@ A shadowy form rises from the floor. It speaks in grave whispers.
 >
 > "Well then, we shall dispatch that as well. What would you have us do with your treasures?"
 >
-> "I care not for the coinage, only that the flute remain undisturbed. I see you have a Wizard amongst you. 
+> "I care not for the coinage, only that the flute remain undisturbed. I see you have a Wizard amongst you.
 > I learned mighty spells in life but no longer have need for my accoutrements of learning.
 > You may take these things in exchange for a token of your success against the Unnamed."
 >

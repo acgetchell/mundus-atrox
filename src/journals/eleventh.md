@@ -41,7 +41,7 @@ We march on through the bugbear room we cleared earlier…
 
 > A blast furnace and a mechanical bellows powered by a waterwheel dominate this large chamber. The furnace is cold and dark, but heaps of coal are piled nearby, along with carts full of unrefined ore. The waterwheel sits in a ten-foot-wide channel cut into the floor of the room, but the channel is dry. Passages exit to the west, south, and east. The empty channel exits to the north and east.
 >
-> More than a dozen withered corpses are scattered around the room. These slain dwarves and orcs are still wearing the remnants of their armor. Floating above them is a skull engulfed in green flame. A rotting eyeball creature rises to attack, as do the fallen warriors.
+> More than a dozen withered corpses are scattered around the room. These slain Dwarves and orcs are still wearing the remnants of their armor. Floating above them is a skull engulfed in green flame. A rotting eyeball creature rises to attack, as do the fallen warriors.
 
 ![Flameskull](images/flameskull.png)
 <!-- markdownlint-disable MD033 -->
