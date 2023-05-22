@@ -22,13 +22,13 @@
 
 Turn 5 – I get 4 HP
 
-1. *Wulrif* critically hit the emerging creature using eldritch blast which pushes him back 10 ft and deals 10 hp damage. The shamans also slink backward. The creature rushes out the front gate at *Wulrif*. Calmul does 6 damage on something?
+1. *Wulrif* critically hit the emerging creature using eldritch blast which pushes him back 10 ft and deals 10 hp damage. The shamans also slink backward. The creature rushes out the front gate at *Wulrif*. *Calmul* does 6 damage on something?
 2. *Steve* shoots at the creature with his crossbow but misses.
 3. *Geral* hits the orge that’s in front of him. He does 6 HP damage.
 4. Some magic spears now start circling around *Wulrif* and he dodges all of them.
 5. I hit the frog creature for 27 damage.
 6. *Tasbros* uses ray of frost on the frog and does 5 damage.
-7. Calmul shoots the creature and it appears to do no damage.
+7. *Calmul* shoots the creature and it appears to do no damage.
 8. *CoralKing* actively dodges
 9. The Ogre in close proximity misses an attack. 2 others move in on *CoralKing*. 6 Ogres run into the chapel. A bunch of others run out the front gate. They hit *Geral* for 15 HP damage.
 10. *Viker* uses her ray of disruption on the frog creature. She then teleports out.
@@ -46,7 +46,7 @@ Turn 6 – I get 4 HP
 5. *Wulrif* gets hit by 2 of the magic spears.
 6. I do 60 HP damage on the fiend and it disappears.
 7. *Tasbros* uses ray of frost on the Ogre and does 18 damage.
-8. Calmul hits a crit on the Ogre and does 28 damage. He is knocked prone.
+8. *Calmul* hits a crit on the Ogre and does 28 damage. He is knocked prone.
 9. *CoralKing* strikes the Ogre in front of him for 20 HP damage.
 10. The Ogres attack our friends and I hit one for 17 damage on an opportunity of attack. *Wulrif* cracks one of the Ogres for 6 HP damage too. One of them attacks me for 9 HP damage.
 11. *Viker* hits an Ogre for 18 damage and teleports away
@@ -62,7 +62,7 @@ Turn 7 – I get 4 HP
 4. 4 spears attack *Wulrif* for 22 HP damage.
 5. I take out the 2 other Ogres in front of the gate.
 6. *Tasbros* casts a level 3 fireball and it fails.
-7. Calmul moves
+7. *Calmul* moves
 8. *CoralKing* attacks the Ogre in front of him and does 19 HP damage.
 9. The Ogres in front of the boys attack both of them and hits Gerl for 25 and *CoralKing* for 13 HP damage.
 10. *Viker* uses cure wounds to heal *Wulrif* for 25 HP.
@@ -91,7 +91,7 @@ Turn 1
 6. I cast Thunderous Smite and hits the giant bug twice for 40 HP of damage.
 7. *CoralKing* hits it for 22 HP damage and uses stunning strike and fails.
 8. *Geral* has *CoralKing* hit the creature again and he misses.
-9. Calmul casts heroism on me and uses Arc Angel to shoot something, dealing 5 HP damage.
+9. *Calmul* casts heroism on me and uses Arc Angel to shoot something, dealing 5 HP damage.
 10. *Tasbros* uses ray of frost on the bug and does double damage, killing it!
 11. Everyone in the front: *CoralKing*, *Geral*, *Benjamin*, *Viker*, and I makes saving throws. Everyone made it!
 12. *Viker* casts moonbeam on the frog creature and it blinks away. It still takes half damage, 8 HP.
@@ -120,12 +120,12 @@ Turn 2 – I get 4 HP
 2. *CoralKing* shoots 2 darts at the fat winged creature and he does 5 HP damage.
 3. The shamans are fighting with the oni and ork and I need to make a saving throw. I make it and am no longer stunned.
 4. *Geral* tells the oni to hit the lobster goat creature. She hits and does 19 HP damage. Then, *Geral* shoots his bow at it and misses.
-5. Calmul stabs the fat winged creature and does 9 HP damage.
+5. *Calmul* stabs the fat winged creature and does 9 HP damage.
 6. Tasbros is running away, frightened. He casts milf’s meteors on the fat winged creature, doing 3 HP damage.
 7. The oni does 34 HP damage on her first hit and 19 HP on the second one. The ork attacks the shaman with his greataxe, twice. *Viker*’s moonbeam does 17 HP damage. The lobster goat creature does 8 HP damage to the oni.
 8. *Viker* attempts to hit the fat winged creature but fails.
 9. *Benjamin* shoots at the lobster goat creature and misses.
-10. *Tysnera* casts lightning bolt. Calmul gets hit twice for 33 HP damage.
+10. *Tysnera* casts lightning bolt. *Calmul* gets hit twice for 33 HP damage.
 
 Turn 3 – I get 4 HP
 
@@ -134,7 +134,7 @@ Turn 3 – I get 4 HP
 3. The shamans hit the ork but he's OK.
 4. I move, teleports to the lobster goat, and hits it twice for 48 HP damage.
 5. *Geral* moves up and does 7 HP damage, I do 18 damage, exactly knocking it down.
-6. Calmul moves forward.
+6. *Calmul* moves forward.
 7. Tasbros moves forward and holds his action
 
 The oni yells “wait!” and seems to heal herself. The ork seems to imply the shamans are his friends and instructs the other orks to halt and not attack.

@@ -19,7 +19,7 @@
 
 #### From the journal of Dame Orky
 
-We ride back in the crawler with a hundred Dwarves. They thank us and want to throw a big feast in our honor. There’s an award ceremony where they make *Benjamin* a Scout and is given a quiver with magic arrows. *CoralKing* is made a Mystic. Calmul is made an honorary Smith. *Geral* is awarded the title of Thane. I am named a Champion. *Steve* is made a Spy. *Tysnera* and *Tasbros* are made War Mages. *Viker* is made a Guardian. *Wulrif* and *Actias* are made Mystics. We are all given a +1 Cloak of Protection with the Rockseeker Clan symbols.
+We ride back in the crawler with a hundred Dwarves. They thank us and want to throw a big feast in our honor. There’s an award ceremony where they make *Benjamin* a Scout and is given a quiver with magic arrows. *CoralKing* is made a Mystic. *Calmul* is made an honorary Smith. *Geral* is awarded the title of Thane. I am named a Champion. *Steve* is made a Spy. *Tysnera* and *Tasbros* are made War Mages. *Viker* is made a Guardian. *Wulrif* and *Actias* are made Mystics. We are all given a +1 Cloak of Protection with the Rockseeker Clan symbols.
 
 We are headed to Phandalin to deliver Iarno Glassstaff to Sildar and deal with the demi-beholder again. As we walk along the path, 2 dinosaurs jump out as us and they look hungry. *Benjamin* speaks with the dinosaurs. He convinced them to go eat the brontosaurus instead. We finally make it to Phandalin.
 
@@ -33,7 +33,7 @@ Turn 1
 
 1. *Benjamin* investigates to learn the creature’s weaknesses. He returns to report that it has no weaknesses and it floats 20 ft above the ground. So, outside of melee range. It cannot be knocked prone.
 2. *Steve* hides
-3. Calmul enhances my weapon. It deals an extra 1d4 poison damage for an extra minute. He casts heroism on me too which gives me temporary hp every round.
+3. *Calmul* enhances my weapon. It deals an extra 1d4 poison damage for an extra minute. He casts heroism on me too which gives me temporary hp every round.
 4. *CoralKing* moves behind the creature and holds his action but uses patient defense.
 5. The creature psychically attacks *CoralKing* but he resists it. I get paralyzed. *Geral* survives the attack as well. *Tasbros* takes 16 hp of damage.
 6. *Geral* orders *Steve* to shoot his bow. For his second attack, *Geral* hits?
@@ -86,7 +86,7 @@ Turn 1
 3. *Geral* asks *Steve* to hit again and does 27 HP of damage.
 4. I cast Thunderous Smite and attack the Ork with my greatsword. I hit and does 25 HP damage.
 5. *Tasbros* casts meteor swarm around the gatetower and hits the Ork for 11 and the Ogre for 11 HP damage.
-6. Calmul casts heroism on me, giving 4 temporary HP each turn and Immunity to being frightened.
+6. *Calmul* casts heroism on me, giving 4 temporary HP each turn and Immunity to being frightened.
 7. *CoralKing* attacks the Ork for 7 damage, taking it down.
 8. The Ogre grabs the Ork and runs into the Cathedral. The creatures on the grounds start to move in toward the gate.
 9. *Viker* uses call lightning on an Ogre she can see, doing 18 damage.
@@ -101,9 +101,9 @@ Turn 2 – I get 4 temporary HP
 2. *Geral* shoots his bow at something, but misses.
 3. I take a Vow of Enmity, moves toward a hole in the wall and holds my action, waiting for an opportunity of attack.
 4. *Tasbros* moves a little closer and casts a web on the creatures in the northwestern guard tower.
-5. Calmul shoots the orks in the northeastern tower and does 9 HP damage.
+5. *Calmul* shoots the orks in the northeastern tower and does 9 HP damage.
 6. *CoralKing* moves near me and holds his action
-7. The Ogres are not affected by the sickening radiance. 2 move to attack me and *CoralKing*, within range and provoke attacks of opportunity. *CoralKing* gets hit for 9 damage. Others start to move out of the gate and meet *Actias*, Calmul’s companion, and the shadowspawn. I attack and hit twice doing 35 damage.
+7. The Ogres are not affected by the sickening radiance. 2 move to attack me and *CoralKing*, within range and provoke attacks of opportunity. *CoralKing* gets hit for 9 damage. Others start to move out of the gate and meet *Actias*, *Calmul*’s companion, and the shadowspawn. I attack and hit twice doing 35 damage.
 8. *Viker* casts lightning bolts and hits doing 27 HP damage, wiping out the Ogre in front of me.
 9. *Tysnera* uses her wand of magic missiles on the 3 Ogres at the front of the gate. She does 7 HP damage. Her shadowspawn hits an Ogre and does 7 HP damage.
 10. *Benjamin* hits twice and does 16 damage and 15 damage, taking out 2 orks.
@@ -117,7 +117,7 @@ Turn 3 – I get 4 temporary HP
 3. *Geral* asks me to hit the Ogre in front of me, and I does 21 damage.
 4. I hit the Ogre again on my turn and drop it.
 5. *Tasbros* uses magic missiles on the 3 gate Ogres, doing 15 HP damage. Then, chromatic orb (fire damage) doing 48 damage, killing him. He narrowly avoids being turned into a sheep by chaotic magic.
-6. Calmul shoots at an ork on the northwest guard tower doing 25 damage, killing it.
+6. *Calmul* shoots at an ork on the northwest guard tower doing 25 damage, killing it.
 7. *CoralKing* works his way through this blown out wall and attacks an ork, killing it.
 8. One Ogre is killed from the sickening radiance.
 9. *Viker* does 16 hp damage to an Ogre.
@@ -133,7 +133,7 @@ Turn 4 – I get 4 temporary HP
 3. *Geral* dashes and action surges behind *CoralKing*, attacking an ork, killing it.
 4. I move forward and hold my action.
 5. *Tasbros* uses a meteor splash and kills 2 or 3 orks. He uses a second level firey chromatic orb and hits an ork and Ogre. He does 19 damage. The ork is killed.
-6. Calmul shoots the remaining ork in the guard tower, doing 22 damage, killing it!
+6. *Calmul* shoots the remaining ork in the guard tower, doing 22 damage, killing it!
 7. *CoralKing* hits the ork to his right and kills it with ease. He moves back through the hole in the wall to join me. He also uses Patient Defense.
 8. The Ogres see the green cloud of radiation and run back around the back of the grounds and try to come around the other side.
 9. *Viker* heals *CoralKing* for 16 HP. She moves up and holds her action until a creature comes into view.

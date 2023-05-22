@@ -34,7 +34,7 @@ We start by searching the grounds and the cathedral. We find a gift box containi
 >
 > "He's okay," says *Wulrif*, concentrating a bit from his litter. The group relaxes, still a bit unsettled in the company of so many Orcs and Ogres.
 >
-> *Steve* discreetly slips a dagger back into its sheathe. Calmul's Steel Guardian relaxes from the taut vibrancy of a coiled steel spring, resuming a watchful aspect.
+> *Steve* discreetly slips a dagger back into its sheathe. *Calmul*'s Steel Guardian relaxes from the taut vibrancy of a coiled steel spring, resuming a watchful aspect.
 >
 > "Mortals words are worthless, Thane Brynn" says Chiyo, seemingly oblivious to the clamor around her.
 "You have offered my husband assurances of shelter and loot, but how am I to believe your bond to him will hold once we are amongst your kind?"
