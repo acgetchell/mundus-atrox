@@ -128,7 +128,7 @@ Benjamin casts Healing Spirit and
 >
 > Gundren steps forward. "We have the deed to Phandelver Mine." He presents an ornately written scroll from the **Neverwinter Archives**.
 >
-> "I care not for such things, only that the hearts of those who would wield the power of the Spell Forge are true." Its head sways from side to side as it examines the party in minute detail. "You must leave at once," it says to *Wulrif*.
+> "I care not for such things, only that the hearts of those who would wield the power of the **Spell Forge** are true." Its head sways from side to side as it examines the party in minute detail. "You must leave at once," it says to *Wulrif*.
 >
 > Wulrif doesn't argue.
 >
@@ -136,7 +136,7 @@ Benjamin casts Healing Spirit and
 >
 > "We have," replies *Geral*.
 >
-> "Those that use the Spell Forge, I must lay a Geas upon them. On their heads be it if a weapon made in the Spell Forge is used for evil purposes."
+> "Those that use the **Spell Forge**, I must lay a Geas upon them. On their heads be it if a weapon made in the **Spell Forge** is used for evil purposes."
 >
 > "I accept," says Tysnera.
 >
@@ -146,7 +146,7 @@ Benjamin casts Healing Spirit and
 >
 > "Then you must also leave," replies the Guardian.
 >
-> "Now," it says once *Calmul* has gone, "let me teach you the secrets of the Spell Forge. I have but a few centuries."
+> "Now," it says once *Calmul* has gone, "let me teach you the secrets of the **Spell Forge**. I have but a few centuries."
 >
 > Tysnera and the Guardian confer at length while the rest of the party takes a long rest.
 
@@ -166,7 +166,6 @@ Steve found some magic guantlets on the corpse of a Dwarf, which *Tysnera* ident
 #### 5,000 XP
 
 ![Wave Echo Cave](images/wave-echo-cave.jpg)
-
 
 [Alarm]: https://www.dndbeyond.com/spells/alarm
 [Branding Smite]: https://www.dndbeyond.com/sources/basic-rules/spells#BrandingSmite
