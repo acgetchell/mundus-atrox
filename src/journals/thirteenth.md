@@ -23,13 +23,13 @@
 
 We decide to contract some Dwarves to plug up any underdark holes we find. We collect our treasure from the Wraith to hire a militia. We got 150 gp per person. 1 gp per day is a ton of money for a solider is a lot of money. *Geral* is considering paying them 1 sp per day.
 
-*Gundren* pulls *Geral* aside and shows him an Elven airship (~150 ft long) that has landed and the crew is approaching us. They seem friendly. *Tasbros* talks to them and they said they notice we activated the spell forge and he wants to trade so they can access items of power. *Geral* asks *Gundren* who built the forge. He said he thinks 3,000 years. The Elves and Dwarves had an agreement previously to use it. *Geral* asks the Elf how he knew we cleared it. He said it sang to them as soon as it was cleared. He said his name was Varbation Starsight and the elendile is his community. *Geral* introduces himself and shows interest in creating a trade agreement. He is offering 5% of the value of the items they make. *Geral* mentions the Drow we captured to Varbation. Varbation  offers to take it to the high courts for judgement. Some soldier walks over to the Drow and puts some sort of magical item on the Drow, as if magically binding him. *Geral* talks to *Gundren* about what happened with the Wraith. He agreed that we should find some way to let him pass on. *Gundren* seems suspicious that this creature is a Wraith, he thinks it could be a Ghost.
+*Gundren* pulls *Geral* aside and shows him an Elven airship (~150 ft long) that has landed and the crew is approaching us. They seem friendly. *Tasbros* talks to them and they said they notice we activated the **Spell Forge** and he wants to trade so they can access items of power. *Geral* asks *Gundren* who built the forge. He doesn't know, but thinks the Elves and Dwarves had an agreement previously to use it. *Geral* asks the Elf how he knew we cleared it. He said it sang to them as soon as it was cleared. He said his name was Varbation Starsight and the **Elendil** is his Airship. *Geral* introduces himself and shows interest in creating a trade agreement. He is offering 5% of the value of the items they make. *Geral* mentions the Drow we captured to Varbation, who offers to take it to the **High Courts of Judgement**. Some soldier walks over to the Drow and puts some sort of magical cuffs on the Drow, preventing spellcasting. *Geral* talks to *Gundren* about what happened with the Wraith. He agreed that we should find some way to let him pass on. *Gundren* seems suspicious that this creature is a Wraith, he thinks it could be a Ghost.
 
 ![Aeraval](images/aeraval.png)
 
 *Gundren* says his clan is under attack by Giants. He will give us 15% if we save his family. We wholeheartedly agree and jump on the airship to find them. We ascend very quickly and set off!
 
-We see a very large Dwarven Mining Crawler vehicle that is being pounded on by very large creatures. We are all handed a feather by Varbation and told not to lose it and just jump off the edge of the ship. We count 11 Giants and 12 Ogres with various equipment on them. 10 Giants are massive but 1 is super jacked, he is a Fire Giant. Ogres are on the front trying to jam the door open. *Geral* decides we should land in front of the door and protect that first. The magic folk should land on top of the Dwarven Mining Crawler.
+We see a very large Dwarven Mining Crawler that is being pounded on by very large humanoids. We are all handed a Quaal's Feather Token by Varbation and told not to lose it and just jump off the edge of the Airship. We count 11 Giants and 12 Ogres with various equipment on them. 10 Giants are massive but 1 is super jacked, a Fire Giant. Ogres are on the front trying to jam the door open. *Geral* decides we should land in front of the door and protect that first. The magic folk should land on top of the Dwarven Mining Crawler.
 
 ![Crawler](images/Sandcrawler.png)
 
@@ -48,7 +48,7 @@ Turn 1
 11. Calmul lands on top of the vehicle, moves toward the front, and shoots at the Fire Giant but misses.
 12. The battering rams keep attacking the doors and the bolt launchers hit *Steve* for 6 HP damage. They miss at *Wulrif*.
 13. *Wulrif* hexes the Fire Giant and eldritch blasts him for 15 HP and moves back 10 ft.
-14. *Steve* shoots
+14. *Steve* shoots.
 15. The Goblins shoot at us on the ground and hits me twice for 16 damage (so 10). They fire at *CoralKing*, he grabs the bolt out of midair, threw it back and kills the Goblin.
 
 Turn 2
