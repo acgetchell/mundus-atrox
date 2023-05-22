@@ -37,7 +37,7 @@ A feeling he ought to be thinking of something.
 
 *Gruumsh* points to a wide pit in front of the ruined Cathedral gate.
 
-> "A Giant flew in as a little bird and taunted your companions. When they insulted it back, it summoned a Purple Worm from the Underdark and attacked.
+> "A Giant flew in as a little bird and taunted your companions. When they insulted it back, it summoned a Purple Worm from the **Underdark** and attacked.
 > Your wizard banished the Worm, but by the time we could reach them, it had flung them down the Purple Wormhole and fled."
 >
 > "A Fire Giant?", asks *Geral*, thinking of their last enemy commanding the forces attacking the Dwarven Mining Crawler.
@@ -64,7 +64,7 @@ Still looking, *Geral* nods. Command places a heavy burden.
 
 Except for *Benjamin*, they never saw it coming.
 
-One moment they were trudging along single file in the weird luminous gloom of the Underdark, then darkness cut off that vision.
+One moment they were trudging along single file in the weird luminous gloom of the **Underdark**, then darkness cut off that vision.
 
 *Benjamin* starts, avoiding 3 darts before taking 5 more. *Orky* feel the pricks of bolts and hears her companions slumping into unconsciousness around her.
 
@@ -219,7 +219,7 @@ Speaking in hushed whispers with the other prisioners, in moments snatched from 
 
 > "You want to go where?" asks *Gundren*, disbelievingly.
 >
-> "The Underdark," replies *Geral*.
+> "The **Underdark**," replies *Geral*.
 >
 > "I thought that's what you said, but I didnae imagine yer had a death wish."
 >
@@ -229,7 +229,7 @@ Speaking in hushed whispers with the other prisioners, in moments snatched from 
 >
 > "Well, first I'd like you to dig a tunnel."
 >
-> "That seems mad, but I know yer want to find yer companions and all. Seems a' hopeless task, dinnae yer ken how big the Underdark is?"
+> "That seems mad, but I know yer want to find yer companions and all. Seems a' hopeless task, dinnae yer ken how big the **Underdark** is?"
 >
 > "Trust me," replies *Geral*.
 >
@@ -248,7 +248,7 @@ Disheveled as the rest of the group, but somehow escaping the unwanted attention
 
 * * *
 
-The cavern is covered with florescent green lichen, and even *Geral* and *Wulrif*'s eyes can appreciate the strange splendor of the Underdark as they march its trackless depths.
+The cavern is covered with florescent green lichen, and even *Geral* and *Wulrif*'s eyes can appreciate the strange splendor of the **Underdark** as they march its trackless depths.
 
 > "Hmmm ... it appears that Divination and Alteration magic do not work in this place," says *Wulrif* musingly.
 >

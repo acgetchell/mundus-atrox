@@ -19,7 +19,7 @@
 
 #### From the journal of Dame Orky
 
-*Benjamin* thinks the oozes came from the Underdark, but we can't find any large passages.
+*Benjamin* thinks the Oozes came from the **Underdark**, but we can't find any large passages.
 
 We decide to contract some Dwarves to plug up any underdark holes we find. We collect our treasure from the Wraith to hire a militia. We got 150 gp per person. 1 gp per day is a ton of money for a solider is a lot of money. *Geral* is considering paying them 1 sp per day.
 
