@@ -37,13 +37,13 @@ Turn 1
 
 1. *Benjamin* – Misses landing on the Dwarven Mining Crawler and attacks the Ogres next to him, running. They get opportunities of attack and one hits him. It does 14 HP damage. He puts Hunter’s Mark on the big Fire Giant.
 2. *Steve* lands on top of the vehicle and hides. He shoots his crossbow at some stuff?
-3. *Geral* lands in front of the Fire Giant, moves toward it, and asks *Benjamin* to hit it. He misses. *Geral* swings and hits 11 HP damage.
-4. *CoralKing* lands in front of the Fire Giant, moves toward it, and uses 2 unarmed attacks. He makes one a stunning strike which fails. He deals another 17 damage on the 2nd attack.
+3. *Geral* lands in front of the Fire Giant, moves toward it, and uses Commander's Strike on *Benjamin* to hit it, missing. *Geral* swings and hits 11 HP damage.
+4. *CoralKing* lands in front of the Fire Giant, moves toward it, and uses 2 unarmed attacks. He makes one a Stunning Strike which fails. He deals another 17 damage on the 2nd attack.
 5. The Fire Giant swings at the 2 of them and *Geral* gives protection to *CoralKing*. The Giant does 27 damage. He misses on *CoralKing*.
 6. *Viker* lands on top of the vehicle and uses polymorph on the Fire Giant and it succeeds on its wisdom save.
 7. The Ogres move in on our team. One of them attacks *Geral* and misses. They attack *CoralKing* and miss. They attack me and make a critical hit. They deal 26 points of damage (23 with her 3 point reduction).
 8. *Tasbros* lands on top of the vehicle and casts confusion around the big Giants. The Fire Giant is confused now and 1 other Giant.
-9. I land in front of the Fire Giant but is too far away to hit him. I casts thunderous smite, hits one of the Giants and does 24 damage. I also manages to push him 10 ft and knock him prone.
+9. I land in front of the Fire Giant but I'm too far away to hit him. I cast Thunderous Smite, hitting one of the Giants for 24 damage. I also manage to push him 10 feet back, knocking him prone.
 10. *Tysnera* lands on top of the vehicle, uses fireball on the Giants she can see, and does 31 damage on them all. (1/3 of their hit points)
 11. *Calmul* lands on top of the vehicle, moves toward the front, and shoots at the Fire Giant but misses.
 12. The battering rams keep attacking the doors and the bolt launchers hit *Steve* for 6 HP damage. They miss at *Wulrif*.

@@ -89,7 +89,7 @@ Turn 1
 4. *Wulrif* is unconscious
 5. Now the glabrezu charges forward toward *Geral* and misses an attack. Now the shamans attack *Geral* with magic spears and do 11 HP damage.
 6. I cast Thunderous Smite and hits the giant bug twice for 40 HP of damage.
-7. *CoralKing* hits it for 22 HP damage and uses stunning strike and fails.
+7. *CoralKing* hits it for 22 HP damage and uses Stunning Strike and fails.
 8. *Geral* has *CoralKing* hit the creature again and he misses.
 9. *Calmul* casts heroism on me and uses Arc Angel to shoot something, dealing 5 HP damage.
 10. *Tasbros* uses ray of frost on the bug and does double damage, killing it!

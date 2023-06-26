@@ -19,11 +19,11 @@
 
 #### From the journal of Dame Orky
 
-*Wulrif* dies when he reverts back to his normal form. I use Lay On Hands to give him 50 HP back and bring him back to consciousness. Then, we all take a long rest.
+*Wulrif* dies when he reverts back to his normal form. I use Lay On Hands to give him 50 HP and bring him back to consciousness. Then, we all take a long rest.
 
-We discovered an island with mushrooms on it. It seems steep, maybe the top of a stalagmite. We all take a long rest. I look around to see if we’re safe. I notice some strange, but small things rustling around in the mushrooms. The mushrooms are around 60 ft high.
+We discovered an island with mushrooms on it. It seems steep, maybe the top of a stalagmite. We all take a long rest. I look around to see if we’re safe. I notice some strange but small things rustling around in the mushrooms. The mushrooms are around 60 ft high.
 
-We begin to hear the sound of a lute and singing in a hauntingly beautiful soprano. We see an inverted mushroom cap and a Half-Elven woman holding a lute and playing. *Geral* approaches her.
+We begin to hear music and singing in a hauntingly beautiful soprano. We see an inverted mushroom cap and a Half-Elven woman holding a lute and playing. *Geral* approaches her.
 
 > "Hello, do we know you?"
 >
