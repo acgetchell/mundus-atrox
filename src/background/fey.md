@@ -4,7 +4,7 @@
 
 The *Fey* are a group of ancient, powerful, other-worldly **Beings** that left their mark upon the world and races of **Mundus**. Much speculation but little fact surrounds them. Some [Barbaria](barbaria.md) worship them.
 
-Some *Fey* live upon **Mundus**, entering and leaving during *Springrise*.
+Some *Fey* live upon **Mundus**, entering and leaving during *Springrise*, when the **Feywild** is accessible.
 
 - [Centaurs]
 - [Changelings]
@@ -19,4 +19,3 @@ Some *Fey* live upon **Mundus**, entering and leaving during *Springrise*.
 [Fairy]: https://www.dndbeyond.com/races/814913-fairy
 [Harengon]: https://www.dndbeyond.com/races/814914-harengon
 [Satyr]: https://www.dndbeyond.com/races/1026399-satyr
-

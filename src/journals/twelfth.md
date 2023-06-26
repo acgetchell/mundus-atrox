@@ -8,7 +8,7 @@
 
 - *Actias Aureus*, a 5th-level Tiefling Warlock
 - *Benjamin*, a 6th-level Elf Ranger
-- *Calmul Rhoqiroth*, a 6th-level Dragonkin Artificer
+- *Calmul Rhoqiroth*, a 6th-level Dragonborn Artificer
 - *Geral Bryn*, a 6th-level Human Fighter
 - *Steve*, a 6th-level Halfling Rogue
 - *Tasbros*, a 6th-level Elf Sorcerer

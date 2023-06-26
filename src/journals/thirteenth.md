@@ -7,7 +7,7 @@
 ### Dramatis Personae
 
 - *Benjamin*, a 7th-level Elf Ranger
-- *Calmul Rhoqiroth*, a 7th-level Dragonkin Artificer
+- *Calmul Rhoqiroth*, a 7th-level Dragonborn Artificer
 - *CoralKing*, a 6th-level Gnome Monk
 - *Geral Bryn*, a 7th-level Human Fighter
 - *Orky*, a 6th-level Half-Elf Paladin

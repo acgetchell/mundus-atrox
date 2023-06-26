@@ -8,7 +8,7 @@
 
 - *Actias Aureus*, a 1st-level Tiefling Warlock
 - *Benjamin*, a 2nd-level Elf Ranger
-- *Calmul Rhoqiroth*, a 1st-level Dragonkin Bard
+- *Calmul Rhoqiroth*, a 1st-level Dragonborn Bard
 - *CoralKing*, a 2nd-level Gnome Monk
 - *Geral Bryn*, a 2nd-level Human Fighter
 - *Orky*, a 2nd-level Half-Elf Paladin

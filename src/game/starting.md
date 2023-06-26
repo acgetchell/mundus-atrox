@@ -6,7 +6,7 @@ Here is some information to help you create a character for play in **Mundus**.
 
 Generate *4* Ability Goups, choose your favorite. [DnDBeyond](https://www.dndbeyond.com) can do this electronically.
 
-There are two additional Ability Scores, [Honor] and [Sanity]. They are based off of [Charisma] and [Wisdom] respectively, and thereafter are independent.
+There are two additional Ability Scores, [Honor] and [Sanity]. They are based off of [Charisma] and [Wisdom] respectively, and are thereafter independent.
 
 ### Ability Groups
 
@@ -23,9 +23,11 @@ Roll 4d6 for each characteristic, take best 3 dice, arrange scores as desired.
   
 ## Hero Dice
 
-At 5th level, characters gain **Hero Dice** equal to half their level. **Hero Dice** once used are gone, but the character gains a new set upon achieving a new level.
+Characters have **Hero Dice** equal to their level.
 
-**Hero Dice** may be added to an attack roll, ability check, or saving throw after the roll is made, but before the results are applied.
+**Hero Dice** once used are gone, but the character gains a new set upon reaching a new level.
+
+**Hero Dice** may be added to an attack roll, ability check, or saving throw by the character after the roll is made, but before the results are applied.
 
 Additionally, **Hero Dice** may be used to turn a failed Death Saving Throw into a success.
 
@@ -33,6 +35,7 @@ The type of **Hero Dice** depends upon the level of the character, according to 
 
 | Level Range | Hero Dice Type |
 | ----------- | -------------- |
+|  1 -  4     |  d4            |
 |  5 - 10     |  d6            |
 | 11 - 15     |  d8            |
 | 16 - 18     |  d10           |
@@ -55,10 +58,11 @@ A rather large list of playable races are available, generally grouped into Barb
 
 ## Timekeeping
 
-Daytime and nighttime are about 60 cycles each, and as they correspond with the seasons are called *Summerday* and *Winternight* respectively.
+Daytime and nighttime are about 60 cycles, each of 24 hours. This corresponds with the seasons which are called *Summerday* and *Winternight* respectively.
+In between *Summerday* and *Winternight* is the *Autumnset* cycle; in between *Winternight* and *Summerday* is the *Springrise* cycle.
 
-- Each cycle is 24 hours
 - 1 Long Rest per cycle
+  - Missing a long rest during a cycle causes [Exhaustion]
 - 2 Short Rests per cycle
 
 [Honor]: https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#HonorScore
@@ -67,3 +71,4 @@ Daytime and nighttime are about 60 cycles each, and as they correspond with the 
 [Charisma]: https://www.dndbeyond.com/sources/phb/using-ability-scores#Charisma
 [classes]: classes.md
 [spellcasting]: spellcasting.md
+[Exhaustion]: https://www.dndbeyond.com/sources/basic-rules/appendix-a-conditions#Exhaustion

@@ -5,7 +5,7 @@
 ### Dramatis Personae
 
 - *Benjamin*, a 9th-level Elf Ranger
-- *Calmul Rhoqiroth*, a 9th-level Dragonkin Artificer
+- *Calmul Rhoqiroth*, a 9th-level Dragonborn Artificer
 - *CoralKing*, a 9th-level Gnome Monk
 - *Geral Bryn*, a 9th-level Human Fighter
 - *Orky*, a 9th-level Half-Elf Paladin

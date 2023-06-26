@@ -2,7 +2,7 @@
 
 The Elves are a long-lived race that consider themselves the masters of **Mundus**. There are several species of Elves and they seem to be highly adapted to life wherever they find themselves.
 
-- The *Sky Elves* commune with the [Fey](fey.md) and live in the [Castelas](castelas.md). Their great Capital sits aloft over the continent of *Aphrodite*.
+- The *Sky Elves* commune with the [Fey](fey.md) and live in the [Castelas](castelas.md). Their great Capital sits aloft over the continent of **Aphrodite**.
 They have foldable bat-wings from wrist to ankle with which they can glide great distances, and are resistant to Acid.
 
 - The *Wood Elves* live in communities made from the gigantic Sequoias of **Ishtar**. They guard their forests jealously, and like their Sky Elf cousins, posses gliding membranes. They appear to have lost their resistance to Acid,
