@@ -2,21 +2,21 @@
 
 A great variety of Artifacts can be found on **Mundus**. The most well-known include:
 
-- [Stonehenge](stonehenge.md)
-- The Eye of Sol
-- The Sky Tower of Ovda
-- The Maxwell Forge
-- The Marianus Submersible
-- The Smiting Hammer
-- The Oracle Stones
-- The Sword of Mourning
+- Arclight
 - Baba Yaga's Hut
-- The Orbs of Dragonkind
-- The Chaos Blade
+- Book of Exalted Deeds
+- Book of Vile Deeds
+- Chaos Edge
+- Maxwell's Forge
+- NeverWinter
+- Oracle Stones
+- Orbs of Dragonkind
+- Sky Tower of Ovda
+- Smiting Hammer
 - Spellbreaker
-- The Arc Armor
-- The Vortex feather
-- The Book of Exalted Deeds
-- The Book of Vile Deeds
+- [Stonehenge](stonehenge.md)
+- Mournblade
+- Vortex Cube
+- WaterDeep
 
 Less-famous artifacts abound and are in use by the heroes, villains, and leaders in the various societies.

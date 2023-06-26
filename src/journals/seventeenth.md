@@ -343,14 +343,14 @@ She's nearly at the end of her shapechange time, but something familiar is ahead
 
 Their reunion is joyful, if muted. Reaching nearly the end of her endurance, *Calmul*, *Geral*, *Viker*, and *Wulrif* devise an escape plan.
 
-*Viker* scuttles back as fast as she can to convey the joyful news.
+*Viker* scuttles back as fast as she can to convey the news.
 
 * * *
 
 The plan starts with the greatest larceny in *Steve's* career.
 
-Supremely sneaky, *Steve* climbs unseen into the largest stalagmite, somehow avoiding the sharp eyes of the Drow. He melts into the shadows of the garrison, gone for a few intense
-minutes, before reappearing with a spiderweb satchel of weapons. Somehow he climbs back down without a clink of metal or cry of alarm.
+Supremely sneaky, *Steve* climbs unseen into the largest stalagmite, somehow avoiding the sharp eyes of the Drow. He melts into the shadows of the garrison, gone for a few minutes, everyone intensely not-watching,
+before reappearing with a spiderweb satchel of weapons. Somehow he climbs back down without a clink of metal or cry of alarm.
 
 Then he does it again. And again. And again. And again.
 
@@ -364,7 +364,7 @@ The party races down twin tightropes, a thousand feet between them and safety, e
 
 *Tasbros* bobbles and sways dangerously at one point, but somehow regains his balance.
 
-By the time the Drow have recovered and Dispelled Daylight and Synaptic Static, the party has reunited joyfully on their end of the cavern.
+By the time the Drow have recovered and Dispelled Daylight and Synaptic Static, the party has reunited on their end of the cavern.
 
 Not stopping for long, the Irregulars race into the darkness, the Drow pursuit behind.
 

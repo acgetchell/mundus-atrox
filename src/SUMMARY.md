@@ -2,6 +2,7 @@
 
 [Introduction](README.md)
 
+<!-- markdownlint-disable MD025 -->
 # Background
 
 - [Sky and Seasons](background/seasons.md)
@@ -34,16 +35,16 @@
 # Game Information
 
 - [Starting](game/starting.md)
-  - [Races](game/races.md)
   - [Classes](game/classes.md)
     - [Artificer](game/artificer.md)
     - [Playtest Materials](game/playtest.md)
   - [Equipment](game/equipment.md)
     - [Firearms](game/firearms.md)
     - [Conveyances](game/conveyances.md)
+  - [Magic Items](game/magic-items.md)
   - [Spellcasting](game/spellcasting.md)
     - [Mana](game/mana.md)
-  - [Magic Items](game/magic-items.md)
+  - [Races](game/races.md)
 
 # Journals
 
@@ -65,3 +66,6 @@
   - [Fifteenth Session](journals/fifteenth.md)
   - [Sixteenth Session](journals/sixteenth.md)
   - [Seventeenth Session](journals/seventeenth.md)
+  - [Eighteenth Session](journals/eighteenth.md)
+  - [Nineteenth Session](journals/nineteenth.md)
+  - [Twentieth Session](journals/twentieth.md)

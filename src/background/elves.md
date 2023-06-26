@@ -5,7 +5,7 @@ The Elves are a long-lived race that consider themselves the masters of **Mundus
 - The *Sky Elves* commune with the [Fey](fey.md) and live in the [Castelas](castelas.md). Their great Capital sits aloft over the continent of *Aphrodite*.
 They have foldable bat-wings from wrist to ankle with which they can glide great distances, and are resistant to Acid.
 
-- The *Wood Elves* live in communities made from the gigantic Sequoias of *Ishtar*. They guard their forests jealously, and like their High Elf cousins, posses gliding membranes. They appear to have lost their resistance to Acid,
+- The *Wood Elves* live in communities made from the gigantic Sequoias of **Ishtar**. They guard their forests jealously, and like their Sky Elf cousins, posses gliding membranes. They appear to have lost their resistance to Acid,
 but are instead resistant to a great many natural toxins.
 
 - The [Sea Elves] live in [Oceanus](ocean.md) and can breathe underwater. Their wings are thicker and allow them to swim effortlessly. They are resistant to Cold.
