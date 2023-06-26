@@ -264,7 +264,7 @@ The cavern is covered with florescent green lichen, and even *Geral* and *Wulrif
 >
 > *I am aware of a group taken captive by the Drow*, the mental voice replies. *Mostly Elves, but two smaller folk among them.*
 >
-> "Did they look like this?" asks *Geral*, firmly fixing his memories of *Actius*, *Orky*, *CoralKing*, *Benjamin*, *Steve*, *Tasbros*, *Tysnera*, and *Viker* in his mind.
+> "Did they look like this?" asks *Geral*, firmly fixing his memories of *Actias*, *Orky*, *CoralKing*, *Benjamin*, *Steve*, *Tasbros*, *Tysnera*, and *Viker* in his mind.
 >
 > *Ah yes, those are unusually sharp impressions. I believe that was indeed the group taken.*
 >

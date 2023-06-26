@@ -18,7 +18,7 @@
 
 #### From the journal of Dame Orky
 
-We start by searching the grounds and the cathedral. We find a gift box containing 1200 gp, 13 gems (1000 gp each). We split them evenly and offer the Oni and her Ork mate 2 gems for their help. We also find a staff, sword, a book, and a rod. *Tysnera* identifies the book as a tome of understanding and we give that to *Viker*. The rod is a rod of absorption and we hand it to *Tasbros*. The staff of striking goes to *CoralKing*. The dancing Shortsword goes to *Actias*. The orks mentioned killing a bunch of vampires. We dispose of the remnants.
+We start by searching the grounds and the cathedral. We find a gift box containing 1200 gp, 13 gems (1000 gp each). We split them evenly and offer *Chiyo* and *Gruumsh, Clanleader of the Icebreakers* 2 gems for their help. We also find a staff, sword, a book, and a rod. *Tysnera* identifies the book as a tome of understanding and we give that to *Viker*. The rod is a rod of absorption and we hand it to *Tasbros*. The staff of striking goes to *CoralKing*. The dancing Shortsword goes to *Actias*. The orks mentioned killing a bunch of vampires. We dispose of the remnants.
 
 > Chiyo gestures towards *Geral*, her deep red eyes contemplative and searching.
 >

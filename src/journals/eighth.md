@@ -213,7 +213,7 @@ I'm going to block the middle of the hallway to control how many can attack us a
 1. *Viker* moves through the hallway to move her Moonbeam into the room with most of the Redbrands. One of them takes an opportunity attack as she moves by and crits her with 12 damage. She manages to maintain her Moonbeam.
 2. *Calmul* shoots a Redbrand and deals 5 damage.
 3. *Wulrif* seems to be talking again with the Beholder in the chasm.
-4. *CoralKing* Flurries 3 hits, but they all miss. Then he and Actius make Wisdom saving throws, succeeding. Something was trying to paralyze them.
+4. *CoralKing* Flurries 3 hits, but they all miss. Then he and *Actias* make Wisdom saving throws, succeeding. Something was trying to paralyze them.
 5. *Geral* moves up to protect *Viker* and hits a Redbrand for 8 damage. He uses an Action Surge and hits for another 8 HP.
 6. I move to protect *Viker* and hold my action.
 7. *Actias* splits his Eldritch Blast to hit 2 Redbrands. He misses one but hits another for 7 damage, knocking him down. He retreats across the remaining bridge and finds a **HUGE** new group of Redbrands,

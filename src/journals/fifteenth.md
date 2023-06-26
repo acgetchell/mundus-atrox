@@ -33,7 +33,7 @@ Turn 5 – I get 4 HP
 9. The Ogre in close proximity misses an attack. 2 others move in on *CoralKing*. 6 Ogres run into the chapel. A bunch of others run out the front gate. They hit *Geral* for 15 HP damage.
 10. *Viker* uses her ray of disruption on the frog creature. She then teleports out.
 11. *Tysnera* uses her fireball in a pile of creatures inside the northwest center of the courtyard. She hit 5 Ogres that made their saves and get hit 15 HP each. It takes out
-12. *Benjamin* finds the creature is a fiend and is resistant to magic, Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks; and immune to poison.
+12. *Benjamin* finds the creature is a Fiend and is resistant to magic, Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks; and immune to poison.
 13. *Actias* attacks the frog creature twice and does 17 + 16 radiant damage.
 14. All of the orks sprint into the cathedral, except the ones in the turrets.
 
@@ -44,7 +44,7 @@ Turn 6 – I get 4 HP
 3. The creature attacks *Wulrif* for 16 HP.
 4. *Geral* uses his sword to attack the Ogre in front of him. He does 18 damage and kills it!
 5. *Wulrif* gets hit by 2 of the magic spears.
-6. I do 60 HP damage on the fiend and it disappears.
+6. I do 60 HP damage on the Fiend and it disappears.
 7. *Tasbros* uses ray of frost on the Ogre and does 18 damage.
 8. *Calmul* hits a crit on the Ogre and does 28 damage. He is knocked prone.
 9. *CoralKing* strikes the Ogre in front of him for 20 HP damage.
@@ -73,11 +73,11 @@ Turn 7 – I get 4 HP
 
 We spend the shadowspawn into the cathedral and it dissipates. *Actias* uses arcana to see if he can discern anything about the darkness. He doesn’t do well and sees that its magical darkness. The darkness seems to bulge out of the cathedral and a voice says “congrats, you got rid of some of my servants.” We say we are only there for the rock. He said “well, we have uses for that rock. However, there are other magic things you can earn.” This cathedral doesn’t seem to be consecrated and that’s the opposite of how a cathedral should be. It’s not keeping undead away and etc.
 
-I use divine sense and I can sense that there were 4 fiends, and now there are 5. Clearly the ward stone has been reversed and is useless to us in its current state. So, we ask about the swords and the voice tells us 1 is a rod and is in an ancient dwarven fortress overrun by undead. Another sword is in a burial mound. A woodland staff in the shape of a tree is in the depths of the forest. A pair of gloves is in the bowels of Neverwinter.
+I use divine sense and I can sense that there were 4 Fiends, and now there are 5. Clearly the ward stone has been reversed and is useless to us in its current state. So, we ask about the swords and the voice tells us 1 is a rod and is in an ancient dwarven fortress overrun by undead. Another sword is in a burial mound. A woodland staff in the shape of a tree is in the depths of the forest. A pair of gloves is in the bowels of Neverwinter.
 
 #### 15,000 XP
 
-We see a little girl with black hair and she asks us “so, are you going to take the offer from the demon?” We say no, she tells us the weapons are probably cursed.  She tells us her people are trapped in there with her. Her name is Chiyo and said her people were misled by promises and told lies. She tells us they are summoning more creatures every day, there are 5 in there currently. There are shadow demons, glabrezu which is the main one talking to us. 2 beasts (hezrus), 2 cazmaias, and 4 shadow demons, and 4 corrupted shamans. She said if we go in to attack them, her people will attack them from behind. Her mate is the leader, the one we talked to first. He is being coerced by the shamans. She estimates we are outnumbered. We learn that glabrezu emits darkness at will. *Wulrif* attempts to read her mind and fails. She shows us her true form, as an Oni, which are lawful. The ward stone is under the altar, using an active gate to call their own kind, fiends.
+We see a little girl with black hair and she asks us “so, are you going to take the offer from the demon?” We say no, she tells us the weapons are probably cursed.  She tells us her people are trapped in there with her. Her name is Chiyo and said her people were misled by promises and told lies. She tells us they are summoning more creatures every day, there are 5 in there currently. There are shadow demons, glabrezu which is the main one talking to us. 2 beasts (hezrus), 2 cazmaias, and 4 shadow demons, and 4 corrupted shamans. She said if we go in to attack them, her people will attack them from behind. Her mate is the leader, the one we talked to first. He is being coerced by the shamans. She estimates we are outnumbered. We learn that glabrezu emits darkness at will. *Wulrif* attempts to read her mind and fails. She shows us her true form, as an Oni, which are lawful. The ward stone is under the altar, using an active gate to call their own kind, Fiends.
 
 *Actias* is lighting up his sun blade, we take formation and move into the courtyard. We don’t see anything yet.
 
@@ -104,10 +104,10 @@ Turn 1 – I get 4 HP
 1. *Steve*
 2. *CoralKing* does 20 HP damage
 3. We hear scuffles in the darkness.
-4. I use Vow of Emnity and attack the fat winged fiend once for 20 HP.
+4. I use Vow of Emnity and attack the fat winged Fiend once for 20 HP.
 5. *Geral* asks me to hit it again and I does 32 damage.
 6. *Tasbros* uses confusion and it fails
-7. The oni, which brought the bird fiend down, finally delivers the killing blow to it.
+7. The oni, which brought the bird Fiend down, finally delivers the killing blow to it.
 8. I am is stunned.
 9. *Viker* uses lightning bolt for 30 HP damage. She casts daylight, 60 ft radius. Now, she enters the cathedral and sees the 4 shamans, the fat winged creature, the lobster goat creature, and the oni and ork who are fighting things in the back room. She moves her moonbeam onto the lobster goat creature and does 14 HP damage.
 10. *Benjamin* moves into the cathedral and shoots hail of thorns, which fails, doing 12 HP damage. Then, he shoots the fat winged creature and does 14 HP damage.

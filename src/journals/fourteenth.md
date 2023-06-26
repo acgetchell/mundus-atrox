@@ -19,7 +19,7 @@
 
 #### From the journal of Dame Orky
 
-We ride back in the crawler with a hundred Dwarves. They thank us and want to throw a big feast in our honor. There’s an award ceremony where they make *Benjamin* a Scout and is given a quiver with magic arrows. *CoralKing* is made a Mystic. *Calmul* is made an honorary Smith. *Geral* is awarded the title of Thane. I am named a Champion. *Steve* is made a Spy. *Tysnera* and *Tasbros* are made War Mages. *Viker* is made a Guardian. *Wulrif* and *Actias* are made Mystics. We are all given a +1 Cloak of Protection with the Rockseeker Clan symbols.
+We ride back in the crawler with a hundred Dwarves. They thank us and want to throw a big feast in our honor. There’s an award ceremony where they make *Benjamin* a Scout and is given a quiver with magic arrows. *CoralKing* is made a Mystic. *Calmul* is made an honorary Smith. *Geral* is awarded the title of Thane. I am named a Champion. *Steve* is made a Spy. *Tysnera* and *Tasbros* are made War Mages. *Viker* is made a Guardian. *Wulrif* and *Actias* are made Mystics. We are all given a +1 Cloak of Protection with the *Rockseeker Clan* symbols.
 
 We are headed to Phandalin to deliver Iarno Glassstaff to Sildar and deal with the demi-beholder again. As we walk along the path, 2 dinosaurs jump out as us and they look hungry. *Benjamin* speaks with the dinosaurs. He convinced them to go eat the brontosaurus instead. We finally make it to Phandalin.
 
@@ -27,7 +27,7 @@ We head to the Townmaster’s Hall first to deliver Iarno. Sildar throws him in 
 
 Sildar also reminds us that there are a ton of dragons that have been flying around lately. A dragon-laying sword can be found nearby where a famous hero slayed a dragon.
 
-We decide to head to Tresendar Manor to recover the magic armor in the basement, then get the dragon-slaying sword. We walk into the basement and see the spectator.
+We decide to head to **Tresendar Manorl** to recover the magic armor in the basement, then get the dragon-slaying sword. We walk into the basement and see the spectator.
 
 Turn 1
 
