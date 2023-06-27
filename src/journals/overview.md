@@ -6,7 +6,7 @@ They are a group of adventurers who have been tasked with finding the [Lost Mine
 
 Members of the party have included:
 
-- *Actias*, a [Tiefling] [Warlock] and Mystic of the *Rockseeker Clan*. **Current XP Total**: 54,700
+- *Actias Aureus*, a [Tiefling] [Warlock] and Mystic of the *Rockseeker Clan*. **Current XP Total**: 54,700
 - *Avren Varan*, a [Half-Elven] [Bard]. **Current XP Total**: 51,000
 - *Benjamin*, a Wood [Elf] [Ranger] and Scout of the *Rockseeker Clan*. **Current XP Total**: 81,420
 - *Calmul Rhoqiroth*, a [Dragonborn] [Artificer] and Master Smith of the *Rockseeker Clan*. **Current XP Total**: 70,800
