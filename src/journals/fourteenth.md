@@ -97,7 +97,7 @@ Round 1
 9. *Viker* uses call lightning on an Ogre she can see, doing 18 damage.
 10. *Tysnera* uses summon shadowspawn and holds her action?
 11. *Benjamin* shoots at the guard towers and hits one of the Orcs. He does 16 damage, dropping it. He then drops another one!
-12. *Actias* moves forward toward the castle and casts Armor of Agathus.
+12. *Actias* moves forward toward the castle and casts Armor of Agathys.
 13. The creatures move in toward the gate again.
 
 Round 2 – I get 4 temporary HP

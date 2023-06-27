@@ -97,7 +97,7 @@ Sometime later, *Viker* smells prey, tainted with Fiendish overtones. Suddenly, 
 >
 > "What are the big Uglies?" *Geral* asks.
 >
-> "Merrow! Servants of the *Dark Father*!" *Avren* replies.
+> "Merrow! Servants of the *Deep Father*!" *Avren* replies.
 
 ![Darklake Raft Battle](images/darklake-raft-battle.png)
 
