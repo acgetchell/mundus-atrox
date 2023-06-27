@@ -44,10 +44,10 @@ Turn 1
 7. The Ogres move in on our team. One of them attacks *Geral* and misses. They attack *CoralKing* and miss. They attack me and make a critical hit. They deal 26 points of damage (23 with her 3 point reduction).
 8. *Tasbros* lands on top of the vehicle and casts confusion around the big Giants. The Fire Giant is confused now and 1 other Giant.
 9. I land in front of the Fire Giant but I'm too far away to hit him. I cast Thunderous Smite, hitting one of the Giants for 24 damage. I also manage to push him 10 feet back, knocking him prone.
-10. *Tysnera* lands on top of the vehicle, uses fireball on the Giants she can see, and does 31 damage on them all. (1/3 of their hit points)
+10. *Tysnera* lands on top of the vehicle, uses Fireball on the Giants she can see, and does 31 damage on them all. (1/3 of their hit points)
 11. *Calmul* lands on top of the vehicle, moves toward the front, and shoots at the Fire Giant but misses.
 12. The battering rams keep attacking the doors and the bolt launchers hit *Steve* for 6 HP damage. They miss at *Wulrif*.
-13. *Wulrif* hexes the Fire Giant and eldritch blasts him for 15 HP and moves back 10 ft.
+13. *Wulrif* Hexes the Fire Giant and eldritch blasts him for 15 HP and moves back 10 ft.
 14. *Steve* shoots.
 15. The Goblins shoot at us on the ground and hits me twice for 16 damage (so 10). They fire at *CoralKing*, he grabs the arrow out of midair, throws it back and kills the Goblin.
 
@@ -60,9 +60,9 @@ Turn 2
 5. *Viker* uses healing word, giving me 17 HP, and ice knife on the Fire Giant doing 18 HP damage?
 6. The Giant that I knocked over gets back up, attacks *Benjamin*, and misses.
 7. The other Giants attack and miss.
-8. *Tasbros* casts fireball and it hits 3 hill Giants and 4 Ogres? for 23 damage each.
+8. *Tasbros* casts Fireball and it hits 3 hill Giants and 4 Ogres? for 23 damage each.
 9. I Channel Divinity: Vow of Enmity on the Fire Giant and swings (Gains advantage on attack rolls), doing 31 hp damage over 2 attacks.
-10. *Tysnera* casts fireball, doing 27 damage on some enemies.
+10. *Tysnera* casts Fireball, doing 27 damage on some enemies.
 11. *Calmul* misses on hit shots.
 12. The battering rams are still wailing on the door and it’s starting to bend. The archers shoot at *Tysnera* and do 19 damage.
 13. *Wulrif* shoots the Fire Giant twice, doing 24 damage, and knocks it down.
@@ -75,9 +75,9 @@ Turn 3
 2. *Geral* hits the Giant next to him and asks me to hits the other one. I do 33 damage, knocking it down. *Geral* does 8 damage on his?
 3. *CoralKing* moves to flank a Giant with *Geral* and hits 3 times for 20 damage each.
 4. *Viker* casts call lightning and does 11 damage on the battering rams?
-5. *Tasbros* uses chromatic orb, level 3, and does 31 damage to like 6 Giants/Ogres. The archer goes down and 3 others.
+5. *Tasbros* uses Chromatic Orb, level 3, and does 31 damage to like 6 Giants/Ogres. The archer goes down and 3 others.
 6. I hit the Giant nearest me for 26 HP and kill it.
-7. *Tysnera* casts fireball for 31 HP, taking out all of the battering rams.
+7. *Tysnera* casts Fireball for 31 HP, taking out all of the battering rams.
 8. *Calmul* shoots the wounded Hill Giant for 11 damage, taking it out.
 9. The remaining bolt launcher shoots at the spellcasters and misses.
 10. *Wulrif* shoots one of them twice for some damage
@@ -91,9 +91,9 @@ Turn 4 – everyone would get 4 HP, but *Calmul* is down.
 3. *CoralKing* hits the Giant for 14 damage.
 4. *Viker* uses cure wounds for 23 HP and moves her lightning storm to the damaged Giant and takes him out.
 5. The confused Giant remains confused.
-6. *Tasbros* casts chromatic orb, first level, on the bolt shooter who is near death. He does 11 damage, taking him out.
+6. *Tasbros* casts Chromatic Orb, first level, on the bolt shooter who is near death. He does 11 damage, taking him out.
 7. I hit and crit a Giant, taking him out.
-8. *Tysnera* uses fireball level 4, doing 25 HP damage each on 5 enemies.
+8. *Tysnera* uses Fireball level 4, doing 25 HP damage each on 5 enemies.
 9. *Calmul* hits a bolt launcher and 14 damage. He does 13 damage on the second hit.
 10. The bolt launcher shoots back at *Calmul* for 14 HP damage. The other bolt launcher misses an attack on *Tysnera*.
 11. *Wulrif* goes invisible.
@@ -107,7 +107,7 @@ Turn 5
 3. *CoralKing* attacks a Hill Giant and misses.
 4. *Viker* uses her spirit totem, giving everyone 7 HP and *Calmul* 21.
 5. *Tasbros* casts a spell on the remaining bolt launcher for 18 damage.
-6. I teleports 30 ft, moves 30 ft, then attack the Hill Giant twice. I do 33 damage.
+6. I Teleport 30 ft, moves 30 ft, then attack the Hill Giant twice. I do 33 damage.
 7. *Tysnera* uses magic missile on 3 enemies and does 5 damage.
 8. *Calmul* gives heroism back to me (4 Temporary HP)
 9. *Wulrif* is invisible.
@@ -120,7 +120,7 @@ Turn 6 – Everyone gets 4 HP
 2. *Geral* uses rally and gives *CoralKing* 4 temporary HP, moves to the Giants and hits him twice. He misses both times.
 3. *CoralKing* uses his unarmed strikes and one hits for 6 HP. He uses patient defense.
 4. *Viker* heals me for 18 HP.
-5. *Tasbros* casts fireball to hit 3 enemies. He hits *CoralKing* and me for 15 HP too. One of the enemies goes down.
+5. *Tasbros* casts Fireball to hit 3 enemies. He hits *CoralKing* and me for 15 HP too. One of the enemies goes down.
 6. I hits a guy for 41 damage.
 7. *Tysnera* uses a wand of magic missiles, 4 darts on the same bolt launcher. She does 14 damage, taking it out. So, just Hill Giants and Goblins left.
 8. *Calmul* shoots a Hill Giant and misses the first one. The second one does 18 damage.
@@ -133,7 +133,7 @@ Turn 7 – I get 4 HP
 2. *Geral* steps toward one of the Hill Giants and hits it for 7 damage. He uses his second wind to heal himself a little.
 3. *CoralKing* hits the same Giant with an unarmed attack for 6 damage. He also uses patient defense.
 4. *Viker* heals me for 19 HP and everyone else gets 7.
-5. *Tasbros* casts chromatic orb and rolls a 1, triggering some wild magic stuff. He rolls a 60 and regains his lowest-level spell slot.
+5. *Tasbros* casts Chromatic Orb and rolls a 1, triggering some wild magic stuff. He rolls a 60 and regains his lowest-level spell slot.
 6. I take out a Hill Giant, so there’s only one left.
 7. *Tysnera* uses milf’s acid arrow to attack the last Giant and does 8 damage.
 8. *Calmul* shoots at the Giant and missed.

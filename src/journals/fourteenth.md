@@ -37,8 +37,8 @@ Turn 1
 4. *CoralKing* moves behind the creature and holds his action but uses patient defense.
 5. The creature psychically attacks *CoralKing* but he resists it. I get paralyzed. *Geral* survives the attack as well. *Tasbros* takes 16 hp of damage.
 6. *Geral* orders *Steve* to shoot his bow. For his second attack, *Geral* hits?
-7. *Wulrif* hexes it and it rebounds, hexing *Wulrif*. His 2 eldritch blasts miss, rebound, and miss *Wulrif*.
-8. *Viker* goes up to it and uses her boots of spring to jump up and hit it with her mace, then teleports before she lands. She does 4 HP damage.
+7. *Wulrif* Hexes it and it rebounds, hexing *Wulrif*. His 2 eldritch blasts miss, rebound, and miss *Wulrif*.
+8. *Viker* goes up to it and uses her boots of spring to jump up and hit it with her mace, then Teleports before she lands. She does 4 HP damage.
 9. *Tysnera* throws a dagger at it and does 4 HP damage.
 10. *Tasbros* moves back a little, uses his crossbow to shoot it ,and misses.
 11. *Actias* creates a magical crossbow and shoots it, killing it.
@@ -81,7 +81,7 @@ Once *CoralKing* hears about this, he snaps his fingers and we immediately head 
 
 Turn 1
 
-1. *Wulrif* deals 21 damage using eldritch blast to the Ork that was speaking to *CoralKing*
+1. *Wulrif* deals 21 damage using Eldritch Blast to the Ork that was speaking to *CoralKing*
 2. *Steve* uses a sneak attack with his crossbow and misses.
 3. *Geral* asks *Steve* to hit again and does 27 HP of damage.
 4. I cast Thunderous Smite and attack the Ork with my greatsword. I hit and does 25 HP damage.
@@ -116,14 +116,14 @@ Turn 3 – I get 4 temporary HP
 2. *Steve* sneak attacks and hits an Ogre for 20 damage. He hides again.
 3. *Geral* asks me to hit the Ogre in front of me, and I does 21 damage.
 4. I hit the Ogre again on my turn and drop it.
-5. *Tasbros* uses magic missiles on the 3 gate Ogres, doing 15 HP damage. Then, chromatic orb (fire damage) doing 48 damage, killing him. He narrowly avoids being turned into a sheep by chaotic magic.
+5. *Tasbros* uses magic missiles on the 3 gate Ogres, doing 15 HP damage. Then, Chromatic Orb (fire damage) doing 48 damage, killing him. He narrowly avoids being turned into a sheep by chaotic magic.
 6. *Calmul* shoots at an ork on the northwest guard tower doing 25 damage, killing it.
 7. *CoralKing* works his way through this blown out wall and attacks an ork, killing it.
 8. One Ogre is killed from the sickening radiance.
 9. *Viker* does 16 hp damage to an Ogre.
 10. *Tysnera* uses magic missile on the remaining Ogre at the gate, doing 6 hp damage.
 11. *Benjamin* hits 2 orks in the guard tower.
-12. *Actias* attacks the gate ork with his sunblade, doing 26 hp damage.
+12. *Actias* attacks the gate ork with his Sunblade, doing 26 hp damage.
 13. The rest of the orks and Ogres dash forward. 3 flank and attack *CoralKing*, doing 26 damage.
 
 Turn 4 – I get 4 temporary HP
@@ -132,7 +132,7 @@ Turn 4 – I get 4 temporary HP
 2. *Steve* hits the ork in front of the gate. He does 26 damage.
 3. *Geral* dashes and action surges behind *CoralKing*, attacking an ork, killing it.
 4. I move forward and hold my action.
-5. *Tasbros* uses a meteor splash and kills 2 or 3 orks. He uses a second level firey chromatic orb and hits an ork and Ogre. He does 19 damage. The ork is killed.
+5. *Tasbros* uses a meteor splash and kills 2 or 3 orks. He uses a second level firey Chromatic Orb and hits an ork and Ogre. He does 19 damage. The ork is killed.
 6. *Calmul* shoots the remaining ork in the guard tower, doing 22 damage, killing it!
 7. *CoralKing* hits the ork to his right and kills it with ease. He moves back through the hole in the wall to join me. He also uses Patient Defense.
 8. The Ogres see the green cloud of radiation and run back around the back of the grounds and try to come around the other side.

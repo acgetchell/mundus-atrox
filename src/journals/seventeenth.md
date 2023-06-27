@@ -86,7 +86,7 @@ The Drow Elite Guard shuffle, all weapons pointing unerringly at her.
 
 Finally, she nods.
 
-They take her weapons and place magic shackles on her, but know better than to push it further. The huge spider-centaurs
+They take her weapons and place magic shackles on her, but know better than to push it further. The huge Spider-centaurs
 come forward and, as *Orky* watches, subdued, her companions are webbed to their broad backs.
 
 * * *

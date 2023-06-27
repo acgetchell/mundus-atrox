@@ -22,7 +22,7 @@
 
 Turn 5 – I get 4 HP
 
-1. *Wulrif* critically hit the emerging creature using eldritch blast which pushes him back 10 ft and deals 10 hp damage. The shamans also slink backward. The creature rushes out the front gate at *Wulrif*. *Calmul* does 6 damage on something?
+1. *Wulrif* critically hit the emerging creature using Eldritch Blast which pushes him back 10 ft and deals 10 hp damage. The shamans also slink backward. The creature rushes out the front gate at *Wulrif*. *Calmul* does 6 damage on something?
 2. *Steve* shoots at the creature with his crossbow but misses.
 3. *Geral* hits the orge that’s in front of him. He does 6 HP damage.
 4. Some magic spears now start circling around *Wulrif* and he dodges all of them.
@@ -31,8 +31,8 @@ Turn 5 – I get 4 HP
 7. *Calmul* shoots the creature and it appears to do no damage.
 8. *CoralKing* actively dodges
 9. The Ogre in close proximity misses an attack. 2 others move in on *CoralKing*. 6 Ogres run into the chapel. A bunch of others run out the front gate. They hit *Geral* for 15 HP damage.
-10. *Viker* uses her ray of disruption on the frog creature. She then teleports out.
-11. *Tysnera* uses her fireball in a pile of creatures inside the northwest center of the courtyard. She hit 5 Ogres that made their saves and get hit 15 HP each. It takes out
+10. *Viker* uses her ray of disruption on the frog creature. She then Teleports out.
+11. *Tysnera* uses her Fireball in a pile of creatures inside the northwest center of the courtyard. She hit 5 Ogres that made their saves and get hit 15 HP each. It takes out
 12. *Benjamin* finds the creature is a Fiend and is resistant to magic, Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks; and immune to poison.
 13. *Actias* attacks the frog creature twice and does 17 + 16 radiant damage.
 14. All of the orks sprint into the cathedral, except the ones in the turrets.
@@ -49,7 +49,7 @@ Turn 6 – I get 4 HP
 8. *Calmul* hits a crit on the Ogre and does 28 damage. He is knocked prone.
 9. *CoralKing* strikes the Ogre in front of him for 20 HP damage.
 10. The Ogres attack our friends and I hit one for 17 damage on an opportunity of attack. *Wulrif* cracks one of the Ogres for 6 HP damage too. One of them attacks me for 9 HP damage.
-11. *Viker* hits an Ogre for 18 damage and teleports away
+11. *Viker* hits an Ogre for 18 damage and Teleports away
 12. *Tysnera* uses her magic missile wand on the 3 Ogres in front of her and the boys. She does 8 HP damage each.
 13. *Benjamin* takes out one of the Ogres and does 12 HP damage on another one.
 14. *Actias* hits one of the Ogres for 31 HP damage total.
@@ -61,14 +61,14 @@ Turn 7 – I get 4 HP
 3. *Geral* hits the Ogre in front of him again for 11 HP damage.
 4. 4 spears attack *Wulrif* for 22 HP damage.
 5. I take out the 2 other Ogres in front of the gate.
-6. *Tasbros* casts a level 3 fireball and it fails.
+6. *Tasbros* casts a level 3 Fireball and it fails.
 7. *Calmul* moves
 8. *CoralKing* attacks the Ogre in front of him and does 19 HP damage.
 9. The Ogres in front of the boys attack both of them and hits Gerl for 25 and *CoralKing* for 13 HP damage.
 10. *Viker* uses cure wounds to heal *Wulrif* for 25 HP.
 11. *Tysnera* does 12 damage to one Ogre and takes it down.
 12. *Benjamin* is going to use hail of thorns on an Ogre by the boys. He does 21HP damage?
-13. *Actias*  moves closer to the wall and hits for 7 HP damage using an eldritch blast.
+13. *Actias*  moves closer to the wall and hits for 7 HP damage using an Eldritch Blast.
 14. The 2 remaining Ogres turn to run into the cathedral. *CoralKing* hits one for 6 HP on their way. As the last one disappeared, the spears attacking *Wulrif* disappeared too.
 
 We spend the shadowspawn into the cathedral and it dissipates. *Actias* uses arcana to see if he can discern anything about the darkness. He doesn’t do well and sees that its magical darkness. The darkness seems to bulge out of the cathedral and a voice says “congrats, you got rid of some of my servants.” We say we are only there for the rock. He said “well, we have uses for that rock. However, there are other magic things you can earn.” This cathedral doesn’t seem to be consecrated and that’s the opposite of how a cathedral should be. It’s not keeping undead away and etc.
@@ -132,7 +132,7 @@ Turn 3 – I get 4 HP
 1. *Steve* does 23 HP damage on the fat winged creature, taking it out!
 2. *CoralKing* runs closer to the lobster goat creature and dodges.
 3. The shamans hit the ork but he's OK.
-4. I move, teleports to the lobster goat, and hits it twice for 48 HP damage.
+4. I move, Teleport to the lobster goat, and hits it twice for 48 HP damage.
 5. *Geral* moves up and does 7 HP damage, I do 18 damage, exactly knocking it down.
 6. *Calmul* moves forward.
 7. Tasbros moves forward and holds his action

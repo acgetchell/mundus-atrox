@@ -121,7 +121,7 @@ Turn 2
 10. All the creatures we seemed to damage, just got healed by another Kuo-Toa Archpriest?!?
 11. *Avren* casts Thunder Wave and hits 3 Kuo-Toa, doing 18 damage to them and driving them away.
 12. A Kuo-Toa attempts to net *Tysnera*, but *Geral* hamstrings it with an attack of opportunity as it tries to get past him, sticking it in place. Yay!
-13. *Tysnera* casts fireball and does 37 HP damage to a Merrow and bunch of Kuo-Toa. Yay!
+13. *Tysnera* casts Fireball and does 37 HP damage to a Merrow and bunch of Kuo-Toa. Yay!
 14. The Kuo-Toa with *Tasbros* stuck in it's polearm pulls him underwater. Boo!
 
 Turn 3
@@ -182,4 +182,5 @@ We keep going along and we see more Kuo-Toa. They begin to start swimming parall
 > "We will not give up our weapons."
 >
 > "They will not care. They believe the *Deep Father* is irresistable. They will not expect you to fight back."
+
 #### 3,000 XP Each

@@ -70,7 +70,7 @@ We decide to scatter since we are in the middle of the plains between **Neverwin
 
 
 8. We have 4 Elves (*Viker*, *Tasbros*, *Tysnera*, *Benjamin*), and I'm HalfElven. *Calmul* next attempts to be intimidating and fails.
-9. I'm prone, so I get up and use Misty Step (2 Mana) to teleport behind a tree.
+9. I'm prone, so I get up and use Misty Step (2 Mana) to Teleport behind a tree.
 10. *Wulrif* attempts to barter with the Dragon, but it's not interested.
 11. *Geral* shoots the Dragon once and uses Commander's Strike on *Benjamin*. *Geral* hits and deals 4 damage. *Benjamin* also hits and deals 18 damage!
 12. *Tysnera* casts Lightning Bolt (8d6 damage!!!) and deals 26 damage! I peek out from behind my tree and silently cheer!

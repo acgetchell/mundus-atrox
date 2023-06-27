@@ -18,7 +18,7 @@
 
 #### From the journal of Dame Orky
 
-We're beside an underground lake of unknown size. Those of us with armor will sink and drown if we end up into the water. The raft is not big enough for all of us. It’s big enough for 3 people and has some sort of mechanism on the back of it that *Calmul* decides is a Motor. We decide to just walk along the shore to the right. Eventually we are stopped by a wall and the water runs underneath it. So, we turn around and hit a wall over time too. *Viker* decides to transform into a bat and fly ahead to scout a way out. She flies for an hour and finds nothing. She turns left and loops around. Somehow she flies into something and gets stuck and can feel the substance moving. She transforms into a spider and sees a spider moving down toward her. Then, she realizes it’s trying to mate with her. She accepts the packet it offers her and it scurries away. Now she has a moment to herself and senses an entire web-way in this cavern. She transforms back into a bat and reports to the shore.
+We're beside an underground lake of unknown size. Those of us with armor will sink and drown if we end up into the water. The raft is not big enough for all of us. It’s big enough for 3 people and has some sort of mechanism on the back of it that *Calmul* decides is a Motor. We decide to just walk along the shore to the right. Eventually we are stopped by a wall and the water runs underneath it. So, we turn around and hit a wall over time too. *Viker* decides to transform into a Bat and fly ahead to scout a way out. She flies for an hour and finds nothing. She turns left and loops around. Somehow she flies into something and gets stuck and can feel the substance moving. She transforms into a Spider and sees a Spider moving down toward her. Then, she realizes it’s trying to mate with her. She accepts the packet it offers her and it scurries away. Now she has a moment to herself and senses an entire web-way in this cavern. She transforms back into a Bat and reports to the shore.
 
 Meanwhile, *Wulrif* inspects the land and finds a bunch of mushrooms 30-40 ft tall that are kind of like wood. He figures out that these are what the raft is made out of.
 
@@ -30,7 +30,7 @@ We tell *Viker* about the woody mushrooms and all agree to build a bigger raft. 
 
 So, we set out on our new raft and Motor.
 
-Half a cycle of traveling much faster than we can row, everyone except *Calmul* sees 6 large fins circle us. They are move around languidly until they are approximately 10 feet away.
+Half a cycle of traveling much faster than we can row, everyone except *Calmul* sees 6 large fins circle us. They move around languidly until they are approximately 10 feet away.
 
 Turn 1
 
@@ -50,7 +50,7 @@ Turn 2
 2. *Wulrif* forks his Witch Bolt and kills the injured fin, also hitting a second one. Then he jumps off the raft and turns into a Giant Shark.
 3. I take a Vow of Enmity, cast Wrathful Smite, and swing at the fin closest to me, doing a total of 35 HP damage. It is also frightened of me.
 4. *Steve* tries not to look like a Halfling snack.
-5. *Viker* teleports back onto the raft and uses Call Lightning on another Giant Shark.
+5. *Viker* Teleports back onto the raft and uses Call Lightning on another Giant Shark.
 6. *Benjamin* finds their weaknesses are nonexistent. They are not resistant or immune to anything either. They are Beasts.
 7. *Actias* uses Thunder Step to transport out of the water and back onto the raft.
 8. *Tysnera* is prone and casts Banishment on 2 of the sharks who haven’t been damaged. She succeeds!

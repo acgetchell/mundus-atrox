@@ -50,7 +50,7 @@ We march on through the bugbear room we cleared earlier…
 Turn 1
 
 1. *Benjamin* shoots the skull with his bow. He damages it.
-2. The flaming skull shoots a fireball but *Wulrif* uses Counterspell and stops it.
+2. The flaming skull shoots a Fireball but *Wulrif* uses Counterspell and stops it.
 3. *Geral* tells our Ranger to shoot the fire skull again and does 18 points of damage.
 4. *Tysnera* uses magic missile on the flaming skill. Unusually, the magic missiles bounce off.
 5. A Fireball comes out and we all make Saving Throws, 19 HP damage on success. So, *Tasbros* fails and takes 35 HP damage.

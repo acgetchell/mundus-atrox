@@ -18,7 +18,7 @@
 
 #### From the journal of Dame Orky
 
-We start by searching the grounds and the cathedral. We find a gift box containing 1200 gp, 13 gems (1000 gp each). We split them evenly and offer *Chiyo* and *Gruumsh, Clanleader of the Icebreakers* 2 gems for their help. We also find a staff, sword, a book, and a rod. *Tysnera* identifies the book as a tome of understanding and we give that to *Viker*. The rod is a rod of absorption and we hand it to *Tasbros*. The staff of striking goes to *CoralKing*. The dancing Shortsword goes to *Actias*. The orks mentioned killing a bunch of vampires. We dispose of the remnants.
+We start by searching the grounds and the cathedral. We find a gift box containing 1200 gp, 13 gems (1000 gp each). We split them evenly and offer *Chiyo* and *Gruumsh, Clanleader of the Icebreakers* 2 gems for their help. We also find a staff, sword, a book, and a rod. *Tysnera* identifies the book as a tome of understanding and we give that to *Viker*. The rod is a rod of absorption and we hand it to *Tasbros*. The Staff of Striking goes to *CoralKing*. The dancing Shortsword goes to *Actias*. The orks mentioned killing a bunch of vampires. We dispose of the remnants.
 
 > Chiyo gestures towards *Geral*, her deep red eyes contemplative and searching.
 >
@@ -78,12 +78,12 @@ Turn 3
 1. *Benjamin* flanks the guy and casts hunter’s mark
 2. *Steve* attacks the guy and does 32 HP damage.
 3. *Actias* casts booming blade and does 27 HP damage.
-4. *CoralKing* uses flurry of blows and his staff of striking, doing 36 HP damage
+4. *CoralKing* uses flurry of blows and his Staff of Striking, doing 36 HP damage
 5. *Tysnera* is still falling, but keeping her concentration
-6. *Viker* metamorphs into a bat and starts to fly out of the girth hole
-7. The guy turns into a flying animal, teleports 60 ft up, and flies 180 ft straight up. He hits *Benjamin* and does 22 HP damage.
+6. *Viker* metamorphs into a Bat and starts to fly out of the girth hole
+7. The guy turns into a flying animal, Teleports 60 ft up, and flies 180 ft straight up. He hits *Benjamin* and does 22 HP damage.
 8. I dash into the girth hole
-9. *Tasbros* uses his spider web staff to create a hammock and catch us.
+9. *Tasbros* uses his Spider web staff to create a hammock and catch us.
 
 Turn 4
 
@@ -100,9 +100,9 @@ Turn 1
 
 1. *CoralKing* shoots 2 darts at the gold creature, doing 12 HP damage.
 2. *Benjamin* tries to detect their weaknesses. They have 2 heads so they have great vision, but no weaknesses.
-3. *Tysnera* casts fireball and hits 6 of these creatures for 31 HP each.
+3. *Tysnera* casts Fireball and hits 6 of these creatures for 31 HP each.
 4. *Steve* hides and attacks the copper creature for 16 HP?
-5. *Tasbros* uses wall of fire, level 4, on all of the creatures.  He does 17 HP damage each.
+5. *Tasbros* uses Wall of Fire, level 4, on all of the creatures.  He does 17 HP damage each.
 6. I casts Thunderous Smite and hit 2 creatures, killing the most damaged one.
 7. *Viker* casts scorpions on the creatures and activates her sheyleighlay.
 8. The creatures attack us and the scorpions. This provokes an opportunity of attack from *Viker*, and she absolutely abliterates it. I get hit for 7 HP damage.
@@ -111,9 +111,9 @@ Turn 2
 
 1. *CoralKing* moves forward and attacks the yellow creature for 24 HP, killing it!
 2. *Benjamin* shoots his bow and does 17 HP damage
-3. *Tysnera* shoots a fireball and does 31 HP damage to each of them.
+3. *Tysnera* shoots a Fireball and does 31 HP damage to each of them.
 4. *Steve* shoots some creatures, sneakily doing 19 damage to a damaged one.
-5. *Tasbros* uses chromatic orb, fire damage, doing 24 HP damage to a creature.
+5. *Tasbros* uses Chromatic Orb, fire damage, doing 24 HP damage to a creature.
 6. I use Vow of Enmity and hit 2 of the creatures, killing one.
 7. *Viker* casts Moonbeam, doing 17 HP damage. She uses Shileighleigh? Her scorpeen hit on the claws, doing 14 HP on a creature, killing it.
 8. The creatures hit *Viker*’s Giant Scorpion twice, doing 28 HP damage to it. The other 2 attack me for 26 HP damage.
@@ -124,7 +124,7 @@ Turn 3
 2. *Benjamin* shoots the creatures and does 11 damage.
 3. *Tysnera* uses magic missile and does 13 damage to one of the 2 remaining creatures.
 4. *Steve* hits one of them using a normal attack, doing 7 damage.
-5. *Tasbros* uses chromatic orb, fire, on the creature attacking me.
+5. *Tasbros* uses Chromatic Orb, fire, on the creature attacking me.
 6. I delivers the final 2 blows on the creature in front of me.
 7. *Viker* casts moonbeam on the last creature, doing 28 HP damage. Her Giant Scorpion takes out the final one!
 
