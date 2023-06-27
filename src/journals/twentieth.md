@@ -165,15 +165,15 @@ We keep going along and we see more Kuo-toa. They begin to start swimming parall
 >
 > "That was not us! Those were blasphemers who follow the *Deep Father*!" says the Kuo-toa.
 >
-> "Who are you" asks *CoralKing*.
+> "Who are you?" asks *CoralKing*.
 >
-> "I am *Ploopploopeen*, Archpriest of *Blibdoolpoolp*. We are the true followers of the *Sea Mother* and we will reward you if you help us fight these blasphemers. You look like you are trying to get up to the surface. We can help you get there. We know where the headquarters of the *Deep Father* is."
+> "I am *Ploopploopeen*, Archpriest of *Blibdoolpoolp*. We are the true followers of the *Sea Mother* and we will reward you if you help us fight these blasphemers. You look like you are trying to get up to the surface. We can help you get there."
 >
 > "Ask them why they want our help," says *Viker*.
 >
 > "We are the defenders of our faith," replies *Ploopploopeen*. "Long have the inhabitants of **Sloobludop** lived in harmonious service to the will of the *Sea Mother*. But recently, my own daughter *Bloppblippodd* experienced a powerful vision of
 > *Leemooggoogoon* the *Deep Father*, proclaiming him our new god. Her power has increased greatly, and many of our people have been swayed to her cause. We are split in two, fighting among ourselves. The followers of the *Deep Father* have been
-> making an increasing number of offerings on his alter -- killing blood sacrifices and then casting bloody chum into the waters of the Darklake, where it is consumed by ... something."
+> making an increasing number of offerings on his Altar -- killing blood sacrifices and then casting bloody chum into the waters of the Darklake, where it is consumed by ... something."
 
 *CoralKing* gets the sense that they are telling the truth, but he can’t be sure.
 
@@ -181,9 +181,9 @@ We keep going along and we see more Kuo-toa. They begin to start swimming parall
 >
 > "We can show you the way to **Gracklstugh** by safe paths."
 >
-> "What is the plan?"
+> "What is your plan?"
 >
-> "We will pretend to offer you to the followers of the *Deep Father* as a sacrifice, to mend our breach. Then, when you are at their altar, we will attack."
+> "We will pretend to offer you to the followers of the *Deep Father* as a sacrifice, to mend our breach. Then, when you are at their Altar, we will attack."
 >
 > "We will not give up our weapons."
 >
