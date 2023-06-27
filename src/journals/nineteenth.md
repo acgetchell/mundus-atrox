@@ -34,6 +34,8 @@ So, we set out on our new raft and Motor.
 
 Half a cycle of traveling much faster than we can row, everyone except *Calmul* sees 6 large fins circle us. They move around languidly until they are approximately 10 feet away.
 
+![Giant Sharks](images/giant-sharks-darklake.png)
+
 Turn 1
 
 1. *CoralKing* uses Patient Defense to Dodge, then holds his action.

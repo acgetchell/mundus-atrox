@@ -17,6 +17,8 @@
 
 ### Summerday +852 hours
 
+![Mushroom Island](images/mushroom-island-darklake.png)
+
 #### From the journal of Dame Orky
 
 *Wulrif* dies when he reverts back to his normal form. I use Lay On Hands to give him 50 HP and bring him back to consciousness. Then, we all take a long rest.
