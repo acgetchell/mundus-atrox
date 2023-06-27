@@ -45,7 +45,7 @@ We march on through the bugbear room we cleared earlier…
 
 ![Flameskull](images/flameskull.png)
 <!-- markdownlint-disable MD033 -->
-<img src="images/beholder-zombie.jpg" width=50% height=50%>
+<img src="images/beholder-zombie.png" width=50% height=50%>
 
 Round 1
 

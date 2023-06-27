@@ -117,6 +117,8 @@ As the group marches toward **Phandalin**, *Geral* can see the unmistakable form
 
 * * *
 
+![Ilvarra](images/Ilvarra.png)
+
 Captured by the Drow! You wouldn’t wish this fate upon anyone, yet here you are — on a platform suspended by spiderwebs above a seemingly endless abyss, the cold, heavy weight of metal tight around your throat and wrists. You are not alone. Other prisoners are trapped in here with you, in an underground outpost far from the light of the sun. Your captors include a cruel Drow Priestess who calls herself *Mistress Ilvara* of **House Mizzrym**. Over the past several cycles, you’ve met her several times, robed in silken garments and flanked by two male Drow, one of whom has a mass of scars along one side of his face and neck. *Mistress Ilvara* likes to impress her will with scourge in hand and remind you that your life now belongs to her.
 
 > “Welcome to **Velkynvelve**! Accept your fate, learn to obey, and you may survive.” Her words echo in your memory, even as you plot your escape.
@@ -382,6 +384,6 @@ Not stopping for long, the Irregulars race into the darkness, the Drow pursuit b
 >
 > "Yeah, well, I took back our stuff, what belonged to us, y' know? But I *stole* her Hand Crossbow and Tentacle Rod," says *Steve* proudly.
 
-![Ilvarra](images/Ilvarra.png)
+![Underdark](images/underdark-2.png)
 
 #### 5,000 XP

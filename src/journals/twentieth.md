@@ -65,7 +65,7 @@ We begin to hear music and singing in a hauntingly beautiful soprano. We see an 
 >
 > "How do you find your way?"
 >
-> "Oh, sometimes you can be friendly with the Kuo-Toa, as long as you don't look like an easy victim. They are a bit mad, but they can be friendly in their own way, and they enjoy my music. They are the ones who live in **Sloobludop**, and worship the Sea Mother."
+> "Oh, sometimes you can be friendly with the Kuo-toa, as long as you don't look like an easy victim. They are a bit mad, but they can be friendly in their own way, and they enjoy my music. They are the ones who live in **Sloobludop**, and worship the Sea Mother."
 
 *Avren* is full of useful information about the mushrooms around us and telling us which ones make water, wine, food, and other things.
 
@@ -93,6 +93,8 @@ Sometime later, *Viker* smells prey, tainted with Fiendish overtones. Suddenly, 
 >
 > "Merrow! Servants of the *Dark Father*!" *Avren* replies.
 
+![Darklake Raft Battle](images/darklake-raft-battle.png)
+
 Round 1
 
 1. *Benjamin* decides to find out the weaknesses of the Merrow. They are Monstrosities tainted by Fiends, and have no weaknesses. Worse, they are immune to being Charmed or Frightened.
@@ -101,9 +103,9 @@ Round 1
 4. I move toward the damaged Merrow casting Thunderous Smite, and strike twice doing 50 HP damage on my first strike and 13 on my second one, for 63 HP total damage.
 5. *Geral* attacks a Kuo-toa, hitting it for 10 damage. He uses Commander's Strike to allow me to hit the same one for 16 HP more.
 6. *Steve* attacks using his Hand Crossbow, and misses.
-7. *Calmul* stabs a Merrow with his rapier, and commands his Steel Defender to attack one of the Kuo-Toa. They do 19 HP damage.
-8. *Viker* eats one of the Kuo-Toa as it was casting a spell, doing 21 HP damage.
-9. A Kuo-Toa throws a net over *Geral* and *Tysnera* uses Protective Wings as a reaction to cause the net to miss. Another throws a net over Calmul’s Steel Defender and misses. The last one nets *Avren* and she is now restrained. I get attacked by a Hold Person spell and become paralyzed.
+7. *Calmul* stabs a Merrow with his rapier, and commands his Steel Defender to attack one of the Kuo-toa. They do 19 HP damage.
+8. *Viker* eats one of the Kuo-toa as it was casting a spell, doing 21 HP damage.
+9. A Kuo-toa throws a net over *Geral* and *Tysnera* uses Protective Wings as a reaction to cause the net to miss. Another throws a net over Calmul’s Steel Defender and misses. The last one nets *Avren* and she is now restrained. I get attacked by a Hold Person spell and become paralyzed.
 10. *Avren* throws the net off of her.
 11. *Tasbros* gets attacked by a Kuo-toa with a Mancatcher and is grappled.
 12. *Tysnera* casts Banishment on 2 of the Merrow and they disappear.
@@ -111,55 +113,57 @@ Round 1
 
 Round 2
 
-1. *Benjamin* uses his Longbow to shoot some of the Kuo-Toa. He does 23 HP damage.
+1. *Benjamin* uses his Longbow to shoot some of the Kuo-toa. He does 23 HP damage.
 2. *Tasbros* casts Blindness and Deafness on a Merrow but it fails.
 3. *CoralKing* uses his Staff of Striking to hit for 20 HP damage.
 4. I take a Vow of Enmity and hit the Merrow in front of me twice, doing a total damage of 38 HP damage.
-5. *Geral* hits a Kuo-Toa, doing 21 HP damage.
+5. *Geral* hits a Kuo-toa, doing 21 HP damage.
 6. *Steve* attacks the Merrow in front of him and does a ton of damage.
 7. *Calmul* shoots the Merrow with his musket.
-8. *Viker* is still grappled, but does 20 HP damage to the Kuo-Toa Archpriest she's chewing on.
-9. *Calmul* is netted by a Kuo-Toa.
-10. All the creatures we seemed to damage, just got healed by another Kuo-Toa Archpriest?!?
-11. *Avren* casts Thunder Wave and hits 3 Kuo-Toa, doing 18 damage to them and driving them away.
-12. A Kuo-Toa attempts to net *Tysnera*, but *Geral* hamstrings it with an attack of opportunity as it tries to get past him, sticking it in place. Yay!
-13. *Tysnera* casts Fireball and does 37 HP damage to a Merrow and bunch of Kuo-Toa. Yay!
-14. The Kuo-Toa with *Tasbros* stuck in it's polearm pulls him underwater. Boo!
+8. *Viker* is still grappled, but does 20 HP damage to the Kuo-toa Archpriest she's chewing on.
+9. *Calmul* is netted by a Kuo-toa.
+10. All the creatures we seemed to damage, just got healed by another Kuo-toa Archpriest?!?
+11. *Avren* casts Thunder Wave and hits 3 Kuo-toa, doing 18 damage to them and driving them away.
+12. A Kuo-toa attempts to net *Tysnera*, but *Geral* hamstrings it with an attack of opportunity as it tries to get past him, sticking it in place. Yay!
+13. *Tysnera* casts Fireball and does 37 HP damage to a Merrow and bunch of Kuo-toa. Yay!
+14. The Kuo-toa with *Tasbros* stuck in it's polearm pulls him underwater. Boo!
 
 Round 3
 
 1. *Benjamin* shoots the Merrow in the head and does 22 HP damage.
 2. *Tasbros* doesn't escape and is running out of breath.
 3. *CoralKing* moves to the back of the raft and attacks one of the Merrow with his Staff of Striking, doing 25 HP damage. He also uses Flurry of Blows for 8 HP more damage.
-4. I move to the nearest Kuo-Toa with a Mancatcher and attack it twice, doing 33 HP damage, killing it.
-5. *Geral* kills a Kuo-Toa near him and *Tysnera*.
+4. I move to the nearest Kuo-toa with a Mancatcher and attack it twice, doing 33 HP damage, killing it.
+5. *Geral* kills a Kuo-toa near him and *Tysnera*.
 6. *Steve* Sneak Attacks a Merrow, doing a ton of damage to it.
-7. *Calmul* shoots the Merrow again, doing 17 HP damage. His Steel Defender does an extra 6 HP damage to the Kuo-Toa near him.
+7. *Calmul* shoots the Merrow again, doing 17 HP damage. His Steel Defender does an extra 6 HP damage to the Kuo-toa near him.
 8. *Viker* wriggles out of the Merrow's harpoon and does some more damage chewing on the Archpriest.
-9. *CoralKing* gets tangled in a net. Another Kuo-Toa swims toward *Avren* and attacks her.
+9. *CoralKing* gets tangled in a net. Another Kuo-toa swims toward *Avren* and attacks her.
 10. *Avren() stabs it with her rapier for 17 HP damage.
 11. *Tysnera* casts magic missile at the Merrow, doing 12 damage. That kills it!
 
 Round 4
 
-1. *Benjamin* shoots the Kuo-Toa Archpriest and does some damage.
-2. *Tasbros* is still being held underwater by the Kuo-Toa with the Mancatcher pole-arm and drowning.
-3. *CoralKing* attacks a Kuo-Toa with some unarmed strikes and does 14 damage.
-4. I cast Haste on *CoralKing* and he attacks the Kuo-Toa again, doing 11 HP damage, killing it!
-5. *Geral* hits the Kuo-Toa in front of him doing 10 HP damage.
-6. *Steve* Sneak Attacks the Kuo-Toa in front of *Geral*, doing 56 HP damage, obliterating it!
-7. *Calmul* shoots the 2 Kuo-Toa attacking *Avren*, doing 7 HP damage on one and 13 on the Archpriest.
-8. *Viker* is no longer entangled and spits out the Archpriest to attack the Kuo-Toa holding *Tasbros* underwater. BIG CHOMP! And *Tasbros* is saved!
+1. *Benjamin* shoots the Kuo-toa Archpriest and does some damage.
+2. *Tasbros* is still being held underwater by the Kuo-toa with the Mancatcher pole-arm and drowning.
+3. *CoralKing* attacks a Kuo-toa with some unarmed strikes and does 14 damage.
+4. I cast Haste on *CoralKing* and he attacks the Kuo-toa again, doing 11 HP damage, killing it!
+5. *Geral* hits the Kuo-toa in front of him doing 10 HP damage.
+6. *Steve* Sneak Attacks the Kuo-toa in front of *Geral*, doing 56 HP damage, obliterating it!
+7. *Calmul* shoots the 2 Kuo-toa attacking *Avren*, doing 7 HP damage on one and 13 on the Archpriest.
+8. *Viker* is no longer entangled and spits out the Archpriest to attack the Kuo-toa holding *Tasbros* underwater. BIG CHOMP! And *Tasbros* is saved!
 9. The Archpriests that *Viker* was chewing on and attacking *Avren* decide to skedaddle.
 10. *Avren* holds her action.
 11. *Tysnera* holds her action.
-12. *Tasbros* bursts to the surface, *Viker* eats the Kuo-Toa and comes back to the surface to tow us away quickly before the banished Merrow pop back. This gives us enough time to take a short rest.
+12. *Tasbros* bursts to the surface, *Viker* eats the Kuo-toa and comes back to the surface to tow us away quickly before the banished Merrow pop back. This gives us enough time to take a short rest.
 
-We keep going along and we see more Kuo-Toa. They begin to start swimming parallel to us. They start talking in Undercommon, which *CoralKing* and *Avren* understand.
+We keep going along and we see more Kuo-toa. They begin to start swimming parallel to us. They start talking in Undercommon, which *CoralKing* and *Avren* understand.
+
+![Kuo-toa](images/kuo-toa.png)
 
 > "Why did your people attack us?" asks *CoralKing*.
 >
-> "That was not us! Those were blasphemers who follow the *Deep Father*!" says the Kuo-Toa.
+> "That was not us! Those were blasphemers who follow the *Deep Father*!" says the Kuo-toa.
 >
 > "Who are you" asks *CoralKing*.
 >
