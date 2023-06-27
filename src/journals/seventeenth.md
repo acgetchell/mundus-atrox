@@ -294,7 +294,7 @@ The cavern is covered with florescent green lichen, and even *Geral* and *Wulrif
 >
 > "What do you ask of us in return?"
 >
-> *Only that you convey any information you may gain from the Drow to the **Society of Brilliance**.*
+> *Only that you convey any information you may gain from the Drow to the Society of Brilliance.*
 >
 > "That we will do," says *Geral*.
 >
