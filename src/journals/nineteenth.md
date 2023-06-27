@@ -16,6 +16,8 @@
 
 ### Summerday +780 hours
 
+![Darklake](images/darklake-2.png)
+
 #### From the journal of Dame Orky
 
 We're beside an underground lake of unknown size. Those of us with armor will sink and drown if we end up into the water. The raft is not big enough for all of us. It’s big enough for 3 people and has some sort of mechanism on the back of it that *Calmul* decides is a Motor. We decide to just walk along the shore to the right. Eventually we are stopped by a wall and the water runs underneath it. So, we turn around and hit a wall over time too. *Viker* decides to transform into a Bat and fly ahead to scout a way out. She flies for an hour and finds nothing. She turns left and loops around. Somehow she flies into something and gets stuck and can feel the substance moving. She transforms into a Spider and sees a Spider moving down toward her. Then, she realizes it’s trying to mate with her. She accepts the packet it offers her and it scurries away. Now she has a moment to herself and senses an entire web-way in this cavern. She transforms back into a Bat and reports to the shore.

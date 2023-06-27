@@ -18,6 +18,8 @@
 
 ### Summerday +756 hours
 
+![Underdark](images/underdark.png)
+
 #### From the journal of Dame Orky
 
 The Tentacle Rod was given to *Wulrif*.  *Benjamin* told us there are Fiends near by, within a mile. We continue in a random direction, because we have no idea where we are going. I stumble forward into a cavern of 7 giant Gricks and 10 small ones.
@@ -57,6 +59,8 @@ A Pearl of Power is also found and given to *Tysnera*. A Rod of the Pact Keeper 
 #### 7,000 XP
 
 We continue along this cavern and discover 4 exit tunnels. *Viker* turns into a Bat and explores all 4 holes. One of the tunnels she discovers a trail worn with boots and lined with mushrooms. The other 3 look used by animals only and she almost flies into a spiderweb in one! Our tracker investigates the tracks in the trail tunnel and sees they were used by Duergar recently because he finds the bodies. *CoralKing* grabs their clothing and we follow their trail toward their origin. We decide to go down the trail-looking tunnel after *Benjamin*. *Wulrif* puts a Minor Illusion on us so we look like Duergar. A dim light from the mushrooms lights our path until we finally hear water and see a large black lake. *Wulrif* sees a raft on the shore. All of a sudden, we are attacked by invisible things.
+
+![Barlgura](images/barlgura.png)
 
 Turn 1
 
@@ -114,3 +118,5 @@ Turn 4
 We draw our attention back to the strange raft by the lake. We notice it has some kind of device on it's side that trails into the water.
 
 #### 1,500 XP
+
+![Darklake](images/darklake.png)
