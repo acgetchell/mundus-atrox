@@ -94,7 +94,7 @@ Round 4
 3. *Actias* jumps down the girth hole
 4. *CoralKing* jumps down the girth hole
 
-*Tasbros* makes a web at the bottom of this girth hole. We land on the web on the bottom of this girth hole. We are in a cavern with fungus. Welcome to the Underdark, bitches.
+*Tasbros* makes a web at the bottom of this girth hole. We land on the web on the bottom of this girth hole. We are in a cavern with fungus. Welcome to the **Underdark**, bitches.
 
 *Tasbros* contracts short-term madness and falls unconscious for 7 minutes. He seems fine, but has a sort of twitch to him now. *Tysnera* detects a fiendish magic everywhere around us. We walk for 2 days and find a stream. I fill up my water skin and stand watch while everyone else drinks water. I finally see 9 fat, 2-headed, knuckle-dragging figures approaching. *Viker* says “hello friend” in Ork. They respond “small food, let’s get em boys!” and attack.
 
