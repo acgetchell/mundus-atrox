@@ -131,7 +131,7 @@ The last Dwarf in your wretched band of captives is taken up into the smaller of
 
 > "Thane *Geral*!," greets *Sildar*, as *Geral* enters the Townmaster's Hall.
 
-The two clasp forearms in the Protector's greeting of fellow soldiers.
+The two clasp forearms in the Crusader's greeting of fellow soldiers.
 
 > "I have procured the militia to protect **Phandelver Mine**, and this town," says *Geral* with a winning smile. "But you're going to have to trust me."
 

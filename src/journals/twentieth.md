@@ -55,15 +55,15 @@ We begin to hear music and singing in a hauntingly beautiful soprano. We see an 
 >
 > "Who lives in **Gracklstugh**?"
 >
-> "Deep Gnomes, Duergar, and Dwarves. Stay away from *Themberchaud* and those who serve him."
+> "Deep Gnomes, Duergar, and Mountain Dwarves. Stay away from *Themberchaud's* Lair and the Keepers of the Flame."
 >
 > "*Themberchaud*?"
 >
-> "The Wyrmsmith of **Gracklstugh**. An ancient Red Dragon of unlimited appetite, though those serving him know how to satiate him," *Avren* says darkly.
+> "The Wyrmsmith of **Gracklstugh**. An ancient Red Dragon of unlimited appetite, though the Keepers of the Flame know how to satiate him," *Avren* says darkly.
 >
 > "How do you find your way?"
 >
-> "Oh, sometimes you can be friendly with the Kuo-Toa, as long as you don't look like an easy victim. They are a bit mad, but they can be friendly, and they enjoy my music. They are the ones who live in **Sloobludop**, and worship the Sea Mother."
+> "Oh, sometimes you can be friendly with the Kuo-Toa, as long as you don't look like an easy victim. They are a bit mad, but they can be friendly in their own way, and they enjoy my music. They are the ones who live in **Sloobludop**, and worship the Sea Mother."
 
 *Avren* is full of useful information about the mushrooms around us and telling us which ones make water, wine, food, and other things.
 

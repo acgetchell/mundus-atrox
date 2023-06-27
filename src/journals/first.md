@@ -20,7 +20,7 @@
 *Springrise* casts its rays over the **Sword Coast** as [Neverwinter](../background/urbs.md) makes its way along the **High Road** to spend *Summerday* at **Biscayne Bay**, awaiting the arrival of **Waterdeep**, the largest known Submersible Urb.
 
 The *Magisterium* declares *Springrise* as the majority of the inhabitants of **Neverwinter** exchange their musty and clamorous dwellings for the
-warmth of the surrounding lands. Gaily colored tents and trade booths dot the surrounding countryside, patrolled by the *Protectorate* astride their
+warmth of the surrounding lands. Gaily colored tents and trade booths dot the surrounding countryside, patrolled by the *Crusaders* astride their
 clanking beasts.
 
 > A Dwarf named *Gundren Rockseeker* asks you to bring a wagonload of provisions to the Summerday settlement of **Phandalin**, 20 hours travel Southwest of your current location.

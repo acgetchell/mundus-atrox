@@ -123,7 +123,7 @@ There are a couple of Dwaven mercenaries outside of the bank, but otherwise no o
 
 > "We also have your armor and sword", says *Geral*.
 
-> "Indeed? That is most welcome news! The sword is an heirloom of my family, but I think that a fellow Protector might make better use of the armor than I ..."
+> "Indeed? That is most welcome news! The sword is an heirloom of my family, but I think that a fellow Crusader might make better use of the armor than I ..."
 
 > "What happened to the townsfolk?", I ask.
 

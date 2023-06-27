@@ -6,7 +6,7 @@
 The most common firearms found on **Mundus** are *Muskets* and *Pistols*, but [other types](../background/artifacts.md) have been discovered.
 
 [Elves](../background/elves.md) disdain the use of *Firearms*, but [Artificers](artificer.md) in the [Urbs](../background/urbs.md)
-and [Mines](../background/mines.md) commonly manufacture them, with the *Protectors* and *Iron Guard* being notable users
+and [Mines](../background/mines.md) commonly manufacture them, with the *Crusaders* and *Steel Guard* being notable users
 throughout their ranks.
 
 ## Common Types
