@@ -89,7 +89,7 @@ Sometime later, *Viker* smells prey, tainted with Fiendish overtones. Suddenly, 
 
 > "Kuo-toa, not the friendly kind!" *Avren* shouts.
 >
-> "What are the big uglies?" *Geral* asks.
+> "What are the big Uglies?" *Geral* asks.
 >
 > "Merrow! Servants of the *Dark Father*!" *Avren* replies.
 
@@ -107,7 +107,7 @@ Round 1
 8. *Viker* eats one of the Kuo-toa as it was casting a spell, doing 21 HP damage.
 9. A Kuo-toa throws a net over *Geral* and *Tysnera* uses Protective Wings as a reaction to cause the net to miss. Another throws a net over Calmul’s Steel Defender and misses. The last one nets *Avren* and she is now restrained. I get attacked by a Hold Person spell and become paralyzed.
 10. *Avren* throws the net off of her.
-11. *Tasbros* gets attacked by a Kuo-toa with a Mancatcher and is grappled.
+11. *Tasbros* gets attacked by a Kuo-toa with a Mancatcher polearm and is grappled.
 12. *Tysnera* casts Banishment on 2 of the Merrow and they disappear.
 13. A Merrow spears *Viker* with it's Harpoon and does 14 HP damage. Then, it starts reeling her in.
 
@@ -187,6 +187,6 @@ We keep going along and we see more Kuo-toa. They begin to start swimming parall
 >
 > "We will not give up our weapons."
 >
-> "They will not care. They believe the *Deep Father* is irresistable. They will not expect you to fight back."
+> "They will not care. They believe the *Deep Father* is irresistible. They will not expect you to fight back."
 
 #### 3,000 XP Each
