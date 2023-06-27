@@ -11,7 +11,7 @@ Members of the party have included:
 - Benjamin, a Wood [Elf] [Ranger] and Scout of the *Rockseeker Clan*. **Current XP Total**: 81,420
 - Calmul, a [Dragonborn] [Artificer] and Master Smith of the *Rockseeker Clan*. **Current XP Total**: 70,800
 - CoralKing, a [Gnome] [Monk] and Mystic of the *Rockseeker Clan*. **Current XP Total**: 75,420
-- Geral Bryne, a [Human] [Fighter] from [Neverwinter], Thane of the *Rockseeker Clan* and Raidleader of the *Icebreaker Clan*. **Current XP Total**: 71,600
+- Geral Bryn, a [Human] [Fighter] from [Neverwinter], Thane of the *Rockseeker Clan* and Raidleader of the *Icebreaker Clan*. **Current XP Total**: 71,600
 - Orky, a [Half-Elven] [Paladin] and Champion of the *Rockseeker Clan*. **Current XP Total**: 75,420
 - Steve, a [Halfling] [Rogue] and Scout of the *Rockseeker Clan*. **Current XP Total**: 81,420
 - Tasbros, a Sky [Elf] [Sorcerer] and War Mage of the *Rockseeker Clan*. **Current XP Total**: 79,300
@@ -23,6 +23,7 @@ Members of the party have included:
 
 - *Chiyo*, [Oni] mate of *Gruumsh Icebreaker*.
 - The Dwarven *Rockseeker Clan* of the [Lost Mine of Phandelver].
+- *Grazillaxx*, a [Mind Flayer] and member of the *Society of Brilliance*.
 - *Gruumsh Icebreaker*, an [Orc] [Barbarian] and Clanleader of the *Icebreaker Clan*.
 - *Gundren Rockseeker*, a [Dwarf] [Fighter] and Chief of the *Rockseeker Clan*.
 - The Orc/Ogre *Icebreaker Clan*, now of [Phandalin].
@@ -40,7 +41,7 @@ Members of the party have included:
 - The [Hobgoblins] of **Cragmaw**.
 - *Iarno Glasstaff*, a [Human] [Wizard] and member of the *Zhentarim*.
 - *Icewing*, a White Dragon.
-- *Mistress Ilvara* of the [Drow] *House Mizzrym*.
+- *Mistress Ilvarra* of the [Drow] *House Mizzrym*.
 - *Nezznar the Black Spider*, a [Drow] [Wizard] and member of the *Zhentarim*.
 - A nameless Smiling One.
 - *Venomfang*, a Green Dragon.
@@ -75,3 +76,4 @@ Members of the party have included:
 [Barbarian]: ../game/classes.md#barbarian
 [Airship]: https://www.dndbeyond.com/equipment/airship
 [Hobgoblins]: https://www.dndbeyond.com/races/1026393-hobgoblin
+[Mind Flayer]: https://www.dndbeyond.com/monsters/17104-mind-flayer

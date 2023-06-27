@@ -20,7 +20,7 @@
 
 #### From the journal of Dame Orky
 
-The group decides to search the castle, starting with the Southwest corner. We find some Shortbow arrows and ragged bedrolls that stink. In a large room we find many weapons (Morningstars, Longswords), including a finely-wrought Quarterstaff.
+The group decides to search the castle, starting with the Southwest corner. We find some Shortbow arrows and ragged bedrolls that stink. In a large room we find many weapons (Morning stars, Long swords), including a finely-wrought Quarterstaff.
 *Actias* picks it up and it's lighter than it looks. We determine that it’s a +1 Quarterstaff, so we give it to *Actias*.
 
 In the large main suite we find a property deed. It names *Magus Arnin* as the owner and seems to be written on brand new, faintly magical, parchment. The deed is registered in **Neverwinter**.
@@ -33,7 +33,7 @@ of an Elf with his wings outstretched. We detect Divination magic on it. *Wulrif
 
 *Actias* hurriedly shoves the statuette into his backpack.
 
-We investigate the centermost Northern room.
+We investigate the center most Northern room.
 
 > This chamber occupies the northern tower of the castle. A stone altar stands in the middle of the room, covered with bloodstained black cloth. Golden ritual implements—a chalice, a knife, and a censer—are carefully arranged on top of the altar.
 > Two archways to the south are covered with heavy curtains.
@@ -95,7 +95,7 @@ Round 3
 
 1. *Benjamin* pursues and shoots his bow, dealing 11 damage.
 2. *Steve* shoots and misses.
-3. *CoralKing* recoveres his javelin.
+3. *CoralKing* recovers his javelin.
 4. *Actias* pursues with Eldritch Blast and misses.
 5. The Dragon flies out of range, trailing smoke.
 
@@ -111,13 +111,13 @@ We all look back and see that *Gundren* (and *Snaga*) are dead. *Gundren* was su
 >
 > "You lost", replies *Wulrif*.
 >
-> "Thank you for saving my life, " says Gundren, bowing. "We Dwarves always repay our debts. When we find my brothers in **Wave Echo Cave** and restart **Phandalever Mine**, you shall have 10% of the proceeds.
+> "Thank you for saving my life, " says *Gundren*, bowing. "We Dwarves always repay our debts. When we find my brothers in **Wave Echo Cave** and restart **Phandelver Mine**, you shall have 10% of the proceeds.
 >
 > "Sounds good to us", replies *Geral*.
 
 **Phandalin** seems oddly deserted ...
 
-There are a couple of Dwaven mercenaries outside of the bank, but otherwise no one is in sight. *Gundren* wants to go to the **Townmaster's Hall** to greet *Sildar*.
+There are a couple of Dwarven mercenaries outside of the bank, but otherwise no one is in sight. *Gundren* wants to go to the **Townmaster's Hall** to greet *Sildar*.
 
 > "You have rescued my old friend", says *Sildar*. "I will pay you the reward we agreed to."
 >

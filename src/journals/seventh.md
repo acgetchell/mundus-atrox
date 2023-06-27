@@ -105,7 +105,7 @@ Round 7
 2. I hit the 17 HP Construct and do 15 damage.
 3. *Viker* hits the damaged Construct and knocks it over again. She also hands *Steve* her Longsword while keeping her Shillelagh.
 4. *Steve* swings on the 1st Construct with the Longsword and lands a critical hit for 19 damage! We should have given him the Longsword sooner!
-5. *CoralKing* uses his Flurry of shinkicks with 1 hit and 1 crit for 15 damage.
+5. *CoralKing* uses his Flurry of Shin-kicks with 1 hit and 1 crit for 15 damage.
 6. 1 Construct gets 21 HP and the other one gets 14 HP. The Stegosaur hits the 21 for 15 damage. The other Stegosaur swings and misses.
 
 Round 8
@@ -113,7 +113,7 @@ Round 8
 1. *Benjamin* misses a swing with his staff.
 2. I knock the one on 5HP down.
 3. *Viker* drops a Construct.
-4. *Steve* moves to the Contruct with 14 HP and misses a swing.
+4. *Steve* moves to the Construct with 14 HP and misses a swing.
 5. *CoralKing* flanks the last Construct and uses his Flurry of attacks. He hits once, deals 7 damage, and it drops! As it falls apart, the magic ring and a black, decayed finger fall out of it!!!
 
 The Stegosaurs turn toward us, not knowing if they need to defend themselves against us. We back off, slowly. *Benjamin* and *Viker* speak soothingly. It turns out the female was the one up defending

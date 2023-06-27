@@ -28,7 +28,7 @@ Also, *Tasbros* electrifies the water and a cooked fish flies out. Then, a bunch
 
 *Viker* inspects the opposite side of the lake and finds more water, an hour out. She can’t even detect the ceiling. She catches bugs and doesn’t recognize them. They are very tasty though. She finds a plant on a stalactite and brings it back to *Wulrif* to investigate.
 
-We tell *Viker* about the woody mushrooms and all agree to build a bigger raft. So, *Actias* uses his sunsword to start chopping them down. We all fashion the cuttings to the smaller raft and *Calmul* thinks he can use the Motor to propel the whole raft.
+We tell *Viker* about the woody mushrooms and all agree to build a bigger raft. So, *Actias* uses his Sunsword to start chopping them down. We all fashion the cuttings to the smaller raft and *Calmul* thinks he can use the Motor to propel the whole raft.
 
 So, we set out on our new raft and Motor.
 
@@ -81,7 +81,7 @@ Round 4
 4. *Viker* uses Call Lightning and kills it!
 5. *Benjamin* cures Sharkeisha for a few HP.
 
-We decide to keep travelling forward to get away from the banished Sharks eventual return. We encounter an island with some fungi and take a long rest!
+We decide to keep traveling forward to get away from the banished Sharks eventual return. We encounter an island with some fungi and take a long rest!
 
 *Wulrif* Detects Thoughts on the island and finds nothing. *Tysnera* tries Detect Magic and gets nothing, too.
 

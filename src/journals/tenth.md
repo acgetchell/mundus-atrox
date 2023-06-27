@@ -31,40 +31,40 @@ We head down the stairs and find ourselves in a large cavern with some ledges, t
 Round 1
 
 1. *Wulrif* Hexes the first creature and does 13 damage (AC 13)
-2. *Benjamin* detect their weaknesses. They are immune to poison & charm. Resistance to necrotic damage. Resistance to being turned. Tougher ones are ghasts and easier ones are ghouls.
-3. *Tasbros* casts scorching ray (2nd level) on 3 fresh ghasts and uses meta magic. He hits them each for 13 damage.
-4. *Geral* tells *Benjamin* to fire his bow! He hits a damaged ghast that *Wulrif* hit for 15 damage. *Geral* hits it again with his bow and does 8 damage, killing it!
+2. *Benjamin* detect their weaknesses. They are immune to poison & charm. Resistance to necrotic damage. Resistance to being turned. Tougher ones are Ghasts and easier ones are Ghouls.
+3. *Tasbros* casts scorching ray (2nd level) on 3 fresh Ghasts and uses meta magic. He hits them each for 13 damage.
+4. *Geral* tells *Benjamin* to fire his bow! He hits a damaged Ghast that *Wulrif* hit for 15 damage. *Geral* hits it again with his bow and does 8 damage, killing it!
 5. *CoralKing* is at the back of the pack. He moves forward through us and throws 2 darts for 15 damage.
 6. *Viker* uses frostbite and does 5 damage.
-7. *Calmul* moves into the room to shoot and hits a critical shot! That means 16 damage to a damaged ghast. That one is killed.
-8. The ghasts attack now:
-a. The ghasts move forward to attack *Calmul*, Orky, *Geral*, and *CoralKing*.
+7. *Calmul* moves into the room to shoot and hits a critical shot! That means 16 damage to a damaged Ghast. That one is killed.
+8. The Ghasts attack now:
+a. The Ghasts move forward to attack *Calmul*, Orky, *Geral*, and *CoralKing*.
 b. They miss *Calmul*, Orky, and *Geral*.
 c. They critically hit *CoralKing* and *Geral* claims protection. They miss!
 d. We all have to make a constitution saving throw. Orky got poisoned, which gives her disadvantage on her attacks.
 9. *Tysnera* casts Fireball and hits every creature with 36 HP damage. They are all killed!
 
-*CoralKing* picks up all of his darts while we move through the room, east into the next room. There are more skeletons, but nothing moving. *Geral* decides, after a heated debate between *Tasbros* and *Tysnera*, to backtrack and enter the room south of here. This room is full of bunks and there are bones of orks and Dwarves, that are being gnawed on by ghasts and ghouls. When they see us enter, they attack.
+*CoralKing* picks up all of his darts while we move through the room, east into the next room. There are more skeletons, but nothing moving. *Geral* decides, after a heated debate between *Tasbros* and *Tysnera*, to backtrack and enter the room south of here. This room is full of bunks and there are bones of Orcs and Dwarves, that are being gnawed on by Ghasts and Ghouls. When they see us enter, they attack.
 
 Round 1
 
 1. *Tysnera* holds her action
-2. *Calmul* hits a ghast for 19 damage.
-3. *Steve* hides behind someone and sneak attacks the damaged ghast, killing it.
-4. Orky moves and attacks a ghast twice, killing it.
-5. *CoralKing* hits a ghoul and uses three unarmed attacks and one hit for 6 damage.
-6. *Geral* hits the damaged ghoul for 22 damage, killing it.
-7. *Viker* casts ice knife and hits a ghoul for 10? Damage.
+2. *Calmul* hits a Ghast for 19 damage.
+3. *Steve* hides behind someone and sneak attacks the damaged Ghast, killing it.
+4. Orky moves and attacks a Ghast twice, killing it.
+5. *CoralKing* hits a Ghoul and uses three unarmed attacks and one hit for 6 damage.
+6. *Geral* hits the damaged Ghoul for 22 damage, killing it.
+7. *Viker* casts ice knife and hits a Ghoul for 10? Damage.
 8. Now the Undead fight back:
 a. They all surround Orky and hit her twice for 20 damage.
-9. *Tasbros* casts Firebolt on a ghast and does 7 damage to it.
-10. *Benjamin* moves forward to attack the ghast and does 19 damage, killing it!
-11. *Wulrif* shoots one ghoul and kills it.
+9. *Tasbros* casts Firebolt on a Ghast and does 7 damage to it.
+10. *Benjamin* moves forward to attack the Ghast and does 19 damage, killing it!
+11. *Wulrif* shoots one Ghoul and kills it.
 12. *Tysnera* finally feel prepared to act and hits it for 12 damage.
 
 Round 2
 
-1. *Calmul* shoots the remaining ghoul and does 13 damage.
+1. *Calmul* shoots the remaining Ghoul and does 13 damage.
 2. *Steve* uses a sneak attack and kills it!
 
 *Tysnera* detects all kinds of magic in this cave. We all take a short rest and decide to take the southern hallway to move east into a room where we find a storeroom full of kegs. We realize it’s a dead end. So, we move west toward the large room we know is full of bugbears.
@@ -125,7 +125,7 @@ Round 4
 9. *Calmul* heals *Steve* for 10 HP.
 We decide to take some time to heal up. *Viker* heals *Steve* for 20 HP. *Benjamin* heals a lot of people. *Viker* heals Orky and *CoralKing* for 7 and 10 HP. And so on…
 
-We ask *Steve* to sneak around the corner where we saw someone run away. He peaks around and doesn’t see anyone. We follow him in pursuit. We end up following the source of magic and *Tysnera* notices footsteps. We end up at fully-sealed double doors that we cannot see a way to penetrate. *Tasbros* remembers that he can cast “Knock” and we blow the door open. We see a Drow and a wizard, Glassstaff.
+We ask *Steve* to sneak around the corner where we saw someone run away. He peaks around and doesn’t see anyone. We follow him in pursuit. We end up following the source of magic and *Tysnera* notices footsteps. We end up at fully-sealed double doors that we cannot see a way to penetrate. *Tasbros* remembers that he can cast “Knock” and we blow the door open. We see a Drow and a wizard, *Glasstaff*.
 
 ![Nezznar the Black Spider](images/Nezznar.png)
 
@@ -140,7 +140,7 @@ b. He dashes to the wizard.
 5. *Tasbros* casts Chromatic Orb on the wizard for 31 damage, killing him.
 6. *Wulrif* eldritch blasts the Drow onto the star space, doing 19 damage.
 7. *Tysnera* uses magic missile and they get absorbed into a special spot.
-8. *Viker* casts moonbeam and the Drow uses a counterspell to block it.
+8. *Viker* casts moonbeam and the Drow uses a Counterspell to block it.
 9. Orky casts Hold Person and the Drow succeeds on it’s wisdom saving throw.
 10. *Benjamin* tries to shoot and misses.
 11. *Calmul* shoots at it and misses.

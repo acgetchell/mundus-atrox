@@ -40,7 +40,7 @@ Harbin talks about the *Redbrand Ruffians*, who recently arrived and began beati
 ![Phandalin](images/phandalin.jpg)
 
 The party heads to the **Phandalin Miner's Exchange**, meeting the proprietor, *Halla Thorton*. A shrewd, sharp-looking human woman, she tells them more about the *Redbrands*,
-and offers 100gp for the death of their leader, an unknown Mage who recently arrived. *Wulfric* senses an ulterior motive, though.
+and offers 100gp for the death of their leader, an unknown Mage who recently arrived. *Wulrif* senses an ulterior motive, though.
 *Halla* notes that many *Redbrands* hang out at the **Sleeping Giant Inn**, and but their leader is almost always at **Tresendar Manor**. *Halla* thinks there might be two dozen *Redbrands*.
 
 The party carefully reconnoiters the manor, preparing to set a trap near the **Sleeping Giant Inn**. By chance, four *Redbrands* emerge from the **Sleeping Giant Inn**, triggering the ambush.
@@ -56,7 +56,7 @@ It's any easy fight for the party, and the *Redbrands* are quickly overwhelmed. 
 
 The party returns to the **Phandalin Miner's Exchange**, deciding to pass on assaulting **Tresendar Manor**. *Wulrif* discerns that *Halla* is interested in taking over the *Redbrands*.
 
-They encounter *Sindar Hallwinter*, who seems to be the new Townmaster.
+They encounter *Sildar Hallwinter*, who seems to be the new Townmaster.
 
 > "What happened to Harbin, you ask? As soon as he saw me, that fool scurried off with his guards back to his Bank. Good riddance, I say!
 > He didn't have the fortitude to do what needs to be done around here. But how goes the search for *Gundren*? Have you found **Cragmaw Castle**?

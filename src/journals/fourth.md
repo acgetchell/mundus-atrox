@@ -40,13 +40,13 @@ The adventurers enter.
 > The air grows cold, and a powerful feeling of dread grips you. A cold, pale light flickers in the air, rapidly taking on the form of a
 > female Elf, her hair and robes waving in a spectral wind. She might have been beautiful once, but a hateful expression twists her features now.
 > “Foolish mortals,” she snarls. “What do you want here? Do you not know it is death to seek me out?”
-
+>
 > "We have brought you a gift," replies *Wulrif*. He offers her *Garaele's* *Silver Comb*.
-
+>
 > The ghostly figure smiles with cold amusement. “Very well,” she says. “I know that you seek many things. Ask me one question, and I will give you an answer.”
-
+>
 > "Where is Bojangle's spellbook?" asks *Wulrif*.
-
+>
 > "I traded that to a Necromancer named *Tsernoth* from **Iriaebor**, let's see, more than a hundred years ago. I do not know what happened to it after that."
 
 *Agatha* disappears.
@@ -58,7 +58,7 @@ They encounter an old dwarf riding a horseless carriage.
 ![Dwarf and his horseless carriage](images/dwarf-horseless-carriage.png)
 
 > "Hallooooo!" he yells, seemingly friendly.
-
+>
 > "Hello", replies *Orky*.
 
 After establishing that he is a Miner around these parts, the party asks a few questions.
@@ -66,13 +66,13 @@ After establishing that he is a Miner around these parts, the party asks a few q
 On the strange mechanical scavengers:
 
 > "Oh, avoid the Clockwork Horrors if you can."
-
+>
 > "But what do they want?"
-
+>
 > "No one knows, but best not to get in their way if you can help it."
-
+>
 > "What's **Old Owl Well**?"
-
+>
 > "Oh, an ancient tower. Be careful, there's Undead been spotted around there."
 
 After a few more shouts the party continues, finally making camp on a hillside as the wind picks up.
@@ -107,7 +107,7 @@ sees three leave.
 
 *Actias* casts *Invisibility* on *Steve*, who stealthily reconnoiters.
 
-A few minutes later, a quite visible *Steve* walks stiffly back, in some sort of magical grip by a bald, tatooed, red-robed Mage. Twelve *Zombies*
+A few minutes later, a quite visible *Steve* walks stiffly back, in some sort of magical grip by a bald, tattooed, red-robed Mage. Twelve *Zombies*
 lurk nearby, but do not attack.
 
 > "What is the meaning of this?" asks the Mage.
@@ -115,15 +115,15 @@ lurk nearby, but do not attack.
 *Wulrif* seems to be the de-facto spokesperson of the group.
 
 > "We were looking for the **Old Owl Well**."
-
+>
 > "Indeed, you have found it." An odd gleam in his eyes. "Have you spoken to *Agatha*?"
-
+>
 > "Well, yes."
-
+>
 > "I have a question of her I would bade you ask, and a gift to offer." A strange metal box floats over.
-
+>
 > "What is inside the box?"
-
+>
 > "Probably best you don't know," says the Mage with a chilling smile. "I can offer you this ring as a reward."
 
 *Viker* goes into a brief trance, then nods and whispers:
@@ -145,9 +145,9 @@ A wave of cold, and *Agatha* looks at the party, curiously.
 *Agatha* gestures and the curiously heavy metal box floats over, lid opening.
 
 > "Acceptable. What is your question?"
-
+>
 > "What is the name of the tower at **Old Owl Well**?
-
+>
 > *Agatha* seems to think a moment. "The **Tower of Endymion**." She vanishes.
 
 Back to **Old Owl Well**. The Mage receives the answer with interest, and delivers the ring.

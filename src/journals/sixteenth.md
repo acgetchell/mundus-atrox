@@ -18,7 +18,7 @@
 
 #### From the journal of Dame Orky
 
-We start by searching the grounds and the cathedral. We find a gift box containing 1200 gp, 13 gems (1000 gp each). We split them evenly and offer *Chiyo* and *Gruumsh, Clanleader of the Icebreakers* 2 gems for their help. We also find a staff, sword, a book, and a rod. *Tysnera* identifies the book as a tome of understanding and we give that to *Viker*. The rod is a rod of absorption and we hand it to *Tasbros*. The Staff of Striking goes to *CoralKing*. The dancing Shortsword goes to *Actias*. The orks mentioned killing a bunch of vampires. We dispose of the remnants.
+We start by searching the grounds and the cathedral. We find a gift box containing 1200 gp, 13 gems (1000 gp each). We split them evenly and offer *Chiyo* and *Gruumsh, Clanleader of the Icebreakers* 2 gems for their help. We also find a staff, sword, a book, and a rod. *Tysnera* identifies the book as a tome of understanding and we give that to *Viker*. The rod is a rod of absorption and we hand it to *Tasbros*. The Staff of Striking goes to *CoralKing*. The dancing Shortsword goes to *Actias*. The Orcs mentioned killing a bunch of vampires. We dispose of the remnants.
 
 > Chiyo gestures towards *Geral*, her deep red eyes contemplative and searching.
 >
@@ -36,16 +36,16 @@ We start by searching the grounds and the cathedral. We find a gift box containi
 >
 > *Steve* discreetly slips a dagger back into its sheathe. *Calmul*'s Steel Guardian relaxes from the taut vibrancy of a coiled steel spring, resuming a watchful aspect.
 >
-> "Mortals words are worthless, Thane Brynn" says Chiyo, seemingly oblivious to the clamor around her.
+> "Mortals words are worthless, *Thane Bryn*" says *Chiyo*, seemingly oblivious to the clamor around her.
 "You have offered my husband assurances of shelter and loot, but how am I to believe your bond to him will hold once we are amongst your kind?"
 "You have something in mind,"  replies *Geral*.
-Chiyo smiles her unsettling tusked grin, her red eyes gleaming. She holds up a six-inch needle, tiny in her hands.
+*Chiyo* smiles her unsettling tusked grin, her red eyes gleaming. She holds up a six-inch needle, tiny in her hands.
 >
 > "My people tattoo mutual bonds upon their flesh. If you are true to its inscription, it guards your life. If not ..."
 >
 > "What inscription?"
 >
-> "You tell me." Chiyo smiles appraisingly.
+> "You tell me." *Chiyo* smiles appraisingly.
 
 We need to get the ward stone into our wagon. We decide to use *Tasbros*’ telekinesis to lift it into our wagon. As we do this, we see a bird circling, it lands and turns into this little masked person. His mask is half happy and half sad. He starts giving us shit about how fucked up the ward stone is. We use detect magic and see he’s magic. He asks us if we know how ward stones work. *Actias* asks what his intentions are and he just laughs. *Wulrif* tries to read his mind and it’s strangely missing. *Viker* invites him to join us on our journey back to Phandalin and calls him old, which pisses him off. He grows and starts rearing up at us. We ask what we can do to keep him happy. He said we will amuse him, he snaps his fingers and the skies start to darken. He snaps his fingers again and we feel the ground start to shake. Then, this massive toothed worm breaks out of the ground behind the group.
 
@@ -53,7 +53,7 @@ We need to get the ward stone into our wagon. We decide to use *Tasbros*’ tele
 
 Round 1
 
-1. *Benjamin* tries to find its weaknesses. He finds out it’s a purple worm and it has no weaknesses.
+1. *Benjamin* tries to find its weaknesses. He finds out it’s a Purple Worm and it has no weaknesses.
 2. *Steve* throws daggers in the girth worm’s mouth, doing 11 HP damage.
 3. *Actias* casts bane and hits (it has low charisma)
 4. *CoralKing* uses shadow step to move behind the person thing. He hits it for 6 HP damage.
@@ -70,7 +70,7 @@ Round 2
 3. *Actias* moves away from the group and casts thunder step, doing 16 HP damage.
 4. *CoralKing* uses 1 unarmed strike and does 10 HP damage.
 5. *Tysnera* uses a feather fall token. She can see a greenish glow growing closer.
-6. *Viker* uses Shileighlay on something?
+6. *Viker* uses Shillelagh on something?
 7. The guy is no longer confused, kits *Tasbros* with the telekinetic force, doing 20 HP damage. He is now following *Tysnera* down the girth hole. Then, he attacks *Viker*, doing 21 HP damage, throwing her down the girth hole too.
 8. I moves toward him, cast Thunderous Smite and hit the guy twice, doing 35HP damage.
 9. *Tasbros* grabs onto *Tysnera* and sees the green glow.
@@ -82,7 +82,7 @@ Round 3
 3. *Actias* casts booming blade and does 27 HP damage.
 4. *CoralKing* uses flurry of blows and his Staff of Striking, doing 36 HP damage
 5. *Tysnera* is still falling, but keeping her concentration
-6. *Viker* metamorphs into a Bat and starts to fly out of the girth hole
+6. *Viker* shapechanges into a Bat and starts to fly out of the girth hole
 7. The guy turns into a flying animal, Teleports 60 ft up, and flies 180 ft straight up. He hits *Benjamin* and does 22 HP damage.
 8. I dash into the girth hole
 9. *Tasbros* uses his Spider web staff to create a hammock and catch us.
@@ -108,8 +108,8 @@ Round 1
 4. *Steve* hides and attacks the copper creature for 16 HP?
 5. *Tasbros* uses Wall of Fire, level 4, on all of the creatures.  He does 17 HP damage each.
 6. I casts Thunderous Smite and hit 2 creatures, killing the most damaged one.
-7. *Viker* casts scorpions on the creatures and activates her sheyleighlay.
-8. The creatures attack us and the scorpions. This provokes an opportunity of attack from *Viker*, and she absolutely abliterates it. I get hit for 7 HP damage.
+7. *Viker* casts scorpions on the creatures and activates her Shillelagh.
+8. The creatures attack us and the scorpions. This provokes an opportunity of attack from *Viker*, and she absolutely obliterates it. I get hit for 7 HP damage.
 
 Round 2
 
@@ -119,7 +119,7 @@ Round 2
 4. *Steve* shoots some creatures, sneakily doing 19 damage to a damaged one.
 5. *Tasbros* uses Chromatic Orb, fire damage, doing 24 HP damage to a creature.
 6. I use Vow of Enmity and hit 2 of the creatures, killing one.
-7. *Viker* casts Moonbeam, doing 17 HP damage. She uses Shileighleigh? Her scorpeen hit on the claws, doing 14 HP on a creature, killing it.
+7. *Viker* casts Moonbeam, doing 17 HP damage. She uses Shillelagh? Her Scorpion hit on the claws, doing 14 HP on a creature, killing it.
 8. The creatures hit *Viker*’s Giant Scorpion twice, doing 28 HP damage to it. The other 2 attack me for 26 HP damage.
 
 Round 3

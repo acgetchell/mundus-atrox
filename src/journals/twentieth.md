@@ -23,9 +23,9 @@
 
 *Wulrif* dies when he reverts back to his normal form. I use Lay On Hands to give him 50 HP and bring him back to consciousness. Then, we all take a long rest.
 
-We discovered an island with mushrooms on it. It seems steep, maybe the top of a stalagmite. We all take a long rest. I look around to see if we’re safe. I notice some strange but small things rustling around in the mushrooms. The mushrooms are around 60 ft high.
+We discovered an island with mushrooms on it. It seems steep, maybe the top of a stalagmite. I look around to see if we’re safe. I notice some strange but small things rustling around in the mushrooms. The mushrooms are around 60 ft high.
 
-We begin to hear music and singing in a hauntingly beautiful soprano. We see an inverted mushroom cap and a Half-Elven woman holding a lute and playing. *Geral* approaches her.
+We hear music and singing in a hauntingly beautiful soprano. We see an inverted mushroom cap and a Half-Elven woman holding a lute and playing. *Geral* goes to the shore nearest her craft.
 
 > "Hello, do we know you?"
 >
@@ -33,19 +33,25 @@ We begin to hear music and singing in a hauntingly beautiful soprano. We see an 
 >
 > "Do you know where we are?”
 >
-> "In Dark Lake, eastern shore, probably near **Sloobludop**, though the currents make it hard to tell”.
+> "In Darklake, eastern shore, probably near **Sloobludop**, though the currents make it hard to tell”.
 >
-> "What is all that rustling?"
+> "Do you hear that rustling?"
 >
-> "Could be bats, Stirges, hopefully not Ixitxachitl."
+> "Could be bats, Stirges -- hopefully not Ixitxachitl."
 >
+> "What are -- what you just said?"
+>
+> "Fiendish little bloodsuckers, look like small manta rays with fangs and poison-barbed tails." *Avren* shudders.
+
+*Calmul* looks around wildly for something to hide under. Seeing nothing of use, a cloud of his clockwork machines begin constructing a tent.
+
 > "Can you guide us out of here?"
 >
 > "Sure."
 >
 > "I am *Geral* and this is *Orky*."
 >
-> "I am *Avren*, a Bard by avocation. I collect lore and knowledge from the Underdark. You look lost."
+> "Pleased to make your acquaintance! I am *Avren*, a Bard by avocation." She makes an elaborate, graceful bow without falling out of her craft. "I collect lore and knowledge from the Underdark. You look lost."
 >
 > "We are indeed, and seeking a way out of here. How did you get here?"
 >
@@ -65,11 +71,11 @@ We begin to hear music and singing in a hauntingly beautiful soprano. We see an 
 >
 > "How do you find your way?"
 >
-> "Oh, sometimes you can be friendly with the Kuo-toa, as long as you don't look like an easy victim. They are a bit mad, but they can be friendly in their own way, and they enjoy my music. They are the ones who live in **Sloobludop**, and worship the Sea Mother."
+> "Oh, sometimes you can be friendly with the Kuo-toa, as long as you don't look like an easy victim. They are a bit mad, but they can be friendly in their own way, and they enjoy my music. They live in **Sloobludop**, and worship the Sea Mother."
 
-*Avren* is full of useful information about the mushrooms around us and telling us which ones make water, wine, food, and other things.
+*Avren* is full of useful information about the mushrooms of the Underdark, telling us which ones make water, wine, food, and other things.
 
-We remember that we are here to hunt Fiends for the Society of Brilliance and find out why they are here. We decide to take a day and fashion some more secure rafts. That day goes well! The team makes food and water from the mushrooms. Avren points out some mushrooms with orange and red stripes and says they are called “The Devil’s Mushrooms”, making a really strong red liquor that the deep gnomes like. That can be made in a still. *Calmul* busts out a still in a cloud of small, whirring, magical devices. No one is brave enough to drink it. We end up with 2 wine skins of the stuff, which *Avren* says will be worth a lot in **Gracklstugh**.
+We remember that we are here to hunt Fiends for the **Society of Brilliance** and find out why they are here. We decide to take a day and fashion some more secure rafts. That day goes well! The team makes food and water from the mushrooms. Avren points out some mushrooms with orange and red stripes and says they are called “The Devil’s Mushrooms”, making a really strong red liquor that the deep gnomes like. That can be made in a still. *Calmul* busts out a still in a cloud of small, whirring, magical devices. No one is brave enough to drink it. We end up with 2 wine skins of the stuff, which *Avren* says will be worth a lot in **Gracklstugh**.
 
 *Benjamin* decides to explore and finds 3 octopodes in the tops of the tree-like mushrooms *Avren* calls Zurkhwood. One of them floats off ... in fear? Another is chewing on a Stirge. I like that one. *Steve* attempts to catch it and but somehow it detects ultra-sneaky *Steve* and escapes. Now, all 3 are gone.
 

@@ -27,7 +27,7 @@ The group then drops off the supplies to **Barthen's Provisions**, where they ge
 *Harbin* offers them the use of the jail in the basement, and after a few tense moments with the Dwarves *CoralKing* decides
 to stay with *Yeemik* to ensure no shenanigans.
 
-*Harbin* offers a bounty of 100gp if the party will clear out the Orcs harrassing travelers on the **Triboar Trail** to the East.
+*Harbin* offers a bounty of 100gp if the party will clear out the Orcs harassing travelers on the **Triboar Trail** to the East.
 The group considers it. *Geral* asks where a healer might be found and *Harbin* replies that someone occasionally tends the **Shrine of Luck**.
 
 No one is at the **Shrine of Luck**, so *Tasbros* and *Tysnera* decide to do their meditations there while the rest of the party rests at the **Stonehill Inn**.
@@ -41,10 +41,10 @@ After conferring and restocking provisions, the group sets off on the **Triboar 
 
 Making camp, they are beset by a pack of 8 vicious Allosaurs!
 
-![Allosaurus Attack!](images/allosaurs.jpeg)
+![Allosaurs Attack!](images/allosaurs.jpeg)
 
 The Allosaurs blitz the party, jumping and shredding with claws and teeth. The party spellcasters scramble up trees for cover,
-and *Orky*, *Geral*, and *CoralKing* hold the center.  *Actias* and *Wulrif* cast potent curses and *Eldricth Blasts*, *Calmul* breathes
+and *Orky*, *Geral*, and *CoralKing* hold the center.  *Actias* and *Wulrif* cast potent curses and *Eldritch Blasts*, *Calmul* breathes
 poison and provides critical blessings to *Orky*, and *Geral* makes a couple of key saves with his shield as well as inspiring *Orky*
 to heroic feats with her now-flaming Great Sword. *Steve* and *Benjamin* shoot arrows and *Viker* saves the life of the unfortunate *Tysnera* who has
 been taken into the jaws of an Allosaur after she and *Tasbros* expended all of their potent combat spells.

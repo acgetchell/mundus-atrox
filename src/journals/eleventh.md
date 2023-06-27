@@ -20,7 +20,7 @@
 
 #### From the journal of Dame Orky
 
-> Six cracked marble pillars line the walls of this hall, at the north end of which stands a nine-foot-tall statue of a dwarf seated on a throne, a mighty stone warhammer across his lap. Large emeralds gleam in the statue’s eyes.
+> Six cracked marble pillars line the walls of this hall, at the north end of which stands a nine-foot-tall statue of a dwarf seated on a throne, a mighty stone Warhammer across his lap. Large emeralds gleam in the statue’s eyes.
 
 We have tied and gagged the Wizard and the Drow. *Gundren* brings in a shield for us that has an eye on it, which turns out to be a Shield of Alertness.
 *Geral* takes it.
@@ -161,7 +161,7 @@ Benjamin casts Healing Spirit and
 
 *Geral* is singled out and asked to bring this mine back into operation and protect the mine. He is asking to be replaced for a short period of time. *Geral* said he needs to arrange a small militia to do that and agrees.
 
-Steve found some magic guantlets on the corpse of a Dwarf, which *Tysnera* identifies as Gauntlets of Ogre Power. *Geral* takes them.
+Steve found some magic gauntlets on the corpse of a Dwarf, which *Tysnera* identifies as Gauntlets of Ogre Power. *Geral* takes them.
 
 #### 5,000 XP
 

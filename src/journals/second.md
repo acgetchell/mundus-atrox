@@ -1,5 +1,6 @@
 # Second Session
 
+<!-- markdownlint-disable MD026 -->
 ## Goblins and Zombies and Wolves, Oh My!
 
 ### Summerday +48 hours
@@ -47,7 +48,7 @@ The party turned to interrogate the captured Goblin, who revealed a number of it
 
 - The Bugbear's name is *Klarg*, and he's the leader of the band, which numbers more than two dozen. But *Yeemik* is second in command, and know's many things of interest to the group.
 - *Klarg* answers to *King Grol*, chief of the *Cragmaw tribe*, who dwells in **Cragmaw Castle**.
-- *Klarg* received a messenger from *King Grol* a few days ago. Somone named *The Black Spider* was paying the *Cragmaws* to watch for the dwarf
+- *Klarg* received a messenger from *King Grol* a few days ago. Someone named *The Black Spider* was paying the *Cragmaws* to watch for the dwarf
 *Gundren Rockseeker*, capture him, and send him and his effects (but most especially a map) back to *King Grol*.
 - *Klarg* took *Gundren* to **Cragmaw Castle**. *Yeemik* can lead the party there.
 
@@ -61,12 +62,12 @@ Turning south along the **Triboar Trail**, the party, along with *Sildar* and *Y
 They pass another wagon that has been torn apart, bodies littered everywhere. As they approach, the bodies rise with a groan and attack.
 
 These strange Undead puff blinding clouds of ash when hit. Worse, they seem resistant to swords, arrows, and even *Calmul*'s breath weapon.
-They likewise take no notice of charms or enchantments, but *Orky* has success with her mace, *Coralking* with his headbutts, and *Geral* with a
+They likewise take no notice of charms or enchantments, but *Orky* has success with her mace, *CoralKing* with his headbutts, and *Geral* with a
 makeshift club. *Actias* and *Wulrif*'s spells likewise affect the monsters. *Benjamin*, *Steve*, and *Skolg*,
 equipped with only slashing and piercing weapons, guard *Yeemik* to ensure he doesn't run off in the confusion.
-*Silmar* yells out that these are "Ash Zombies".
+*Sildar* yells out that these are "Ash Zombies".
 
-The *Ash Zombies* go down very hard, but eventually they do go down.
+The Ash Zombies go down very hard, but eventually they do go down.
 
 The party stops to rest and recuperate.
 

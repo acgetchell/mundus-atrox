@@ -30,16 +30,16 @@ Round 1
 4. *Calmul* blasts a Goblin with his musket for another kill.
 5. *Tysnera* casts Firebolt on a Goblin but misses.
 6. *Viker* casts Frost Bite on Goblin dealing 3 damage and Disadvantage on its next attack.
-7. *Wulrif* Hexes and Edrich Blasts a Goblin, killing it.
-8. *Actias* Edrich Blasts a Goblin and downs it.
+7. *Wulrif* Hexes and Eldritch Blasts a Goblin, killing it.
+8. *Actias* Eldritch Blasts a Goblin and downs it.
 9. *Geral* swings on a Goblin and deals 6 damage.
-10. *Tasbros* damages a Golbin with Mind Sliver.
+10. *Tasbros* damages a Goblin with Mind Sliver.
 11. Goblins attack *Benjamin* and deal 8 points of damage, same on *CoralKing*, who Fades Away as a Reaction.
 
 Round 2
 
 1. *Benjamin* gets hit by some sort of creature with tentacles, tail and lots of range, taking 19 damage. (I think it’s a Displacer beast-nope!)
-2. *Benjamin* uses his Hunter's Sense to discover the creature is Resistant to Bludgeoning, Piercing, and Slashing with nonmagical weapons. A hit by the tentacles allows it to drag you into its area even though we still can’t see all of it.
+2. *Benjamin* uses his Hunter's Sense to discover the creature is Resistant to Bludgeoning, Piercing, and Slashing with non-magical weapons. A hit by the tentacles allows it to drag you into its area even though we still can’t see all of it.
 3. *Benjamin* gets messed up and heals himself.
 4. Here we find out that it’s a Grick Alpha.
 5. *CoralKing* attacks a damaged Goblin with a hit and kills it.

@@ -25,7 +25,7 @@
 
 A pattern takes shape, fantastic figures depicting battle against infernal forces.
 
-![Geral Tatoo](images/geral-tatoo.png)
+![Geral Tattoo](images/geral-tattoo.png)
 
 *Geral* wakes with a start to a droning, buzzing sound. *Calmul* is snoring, his Steel Guardian marching resolute circles around the pair.
 
@@ -119,7 +119,7 @@ As the group marches toward **Phandalin**, *Geral* can see the unmistakable form
 
 ![Ilvarra](images/Ilvarra.png)
 
-Captured by the Drow! You wouldn’t wish this fate upon anyone, yet here you are — on a platform suspended by spiderwebs above a seemingly endless abyss, the cold, heavy weight of metal tight around your throat and wrists. You are not alone. Other prisoners are trapped in here with you, in an underground outpost far from the light of the sun. Your captors include a cruel Drow Priestess who calls herself *Mistress Ilvara* of **House Mizzrym**. Over the past several cycles, you’ve met her several times, robed in silken garments and flanked by two male Drow, one of whom has a mass of scars along one side of his face and neck. *Mistress Ilvara* likes to impress her will with scourge in hand and remind you that your life now belongs to her.
+Captured by the Drow! You wouldn’t wish this fate upon anyone, yet here you are — on a platform suspended by spiderwebs above a seemingly endless abyss, the cold, heavy weight of metal tight around your throat and wrists. You are not alone. Other prisoners are trapped in here with you, in an underground outpost far from the light of the sun. Your captors include a cruel Drow Priestess who calls herself *Mistress Ilvarra* of **House Mizzrym**. Over the past several cycles, you’ve met her several times, robed in silken garments and flanked by two male Drow, one of whom has a mass of scars along one side of his face and neck. *Mistress Ilvarra* likes to impress her will with scourge in hand and remind you that your life now belongs to her.
 
 > “Welcome to **Velkynvelve**! Accept your fate, learn to obey, and you may survive.” Her words echo in your memory, even as you plot your escape.
 
@@ -181,7 +181,7 @@ impassively at *Chiyo*. *Sildar* looks back and forth between the Oni and her hu
 **Velkynvelve** is three large stalagmites hanging from the roof of a vast cavern. Above, endless skitterings and shriekings announce the presence of huge flocks of flying creatures that somehow nest
 in the unseen roof above. Below, endless spiderwebs and the spinners thereof.
 
-In between, the prisoners huddle on a large platform made of some strange-grained wood hung between the inverse towers of **Velkynvelve**. The larger upside-down tower seems to be where *Mistress Ilvara*
+In between, the prisoners huddle on a large platform made of some strange-grained wood hung between the inverse towers of **Velkynvelve**. The larger upside-down tower seems to be where *Mistress Ilvarra*
 and her ilk dwell. The mid-sized one appears to be barracks for the Drow soldiers, who number perhaps a score. The smallest one is the accursed temple.
 
 White-furred and savage, Quaggoths move freely amongst the prisoners, feral eyes and teeth gleaming as they appear to consider which of the prisoners would make the tastiest meal. They climb freely around
@@ -208,11 +208,11 @@ After fifteen minutes or so, *Gundren* finally runs out of curses.
 
 The party has been stripped of all of their gear, and are dressed only in rags.
 
-Speaking in hushed whispers with the other prisioners, in moments snatched from under the watchful glare of the Drow, the party learns the following:
+Speaking in hushed whispers with the other prisoners, in moments snatched from under the watchful glare of the Drow, the party learns the following:
 
-- There are slightly more than two dozen Drow in **Velkynvelve**, including *Ilvara*, another Priestess *Asha*, and their lovers *Shoor* and *Jorlan*, who are Sorcerors.
+- There are slightly more than two dozen Drow in **Velkynvelve**, including *Ilvarra*, another Priestess *Asha*, and their lovers *Shoor* and *Jorlan*, who are Sorcerers.
 - The inverted towers each have 3 guards on duty at all times
-- The main tower has an anti-magic effect, and seems to be where prisioners are processed before being thrown onto the platform
+- The main tower has an anti-magic effect, and seems to be where prisoners are processed before being thrown onto the platform
 - The smaller tower seems to be the barracks for the guards
 - No prisoner has ever returned from the smallest tower
 - It might be a matter of cycles before a contingent from **Menzoberranzan** arrives to take the remaining prisoners
@@ -329,7 +329,7 @@ A snuffling grunt in reply, then a large scaly reptillian arm points down a part
 
 The mini-Beholder emits a series of grunts and clicks, then dives into *Wulrif's* cloak.
 
-*Geral*, *Calmul*, and *Wulrif* trudge forward in the darkness, leaning into the swirling wind. A waterfall can be heard somehwere off in the distance, though no water can be seen.
+*Geral*, *Calmul*, and *Wulrif* trudge forward in the darkness, leaning into the swirling wind. A waterfall can be heard somewhere off in the distance, though no water can be seen.
 
 After awhile, dim lighting can be seen ringing what appear to be three inverted towers. Something in the darkness sways.
 
@@ -360,7 +360,7 @@ When *Steve* is finished, the party has recovered their precious magic items and
 
 Stage two starts off with the simultaneous explosion of *Viker's* Daylight spell and *Wulrif's* Synaptic Static, both encompassing the guard positions of the middle tower.
 
-As the Drow reel from the twin hammering of light and pychic energy, the party leaps over the edge and onto the non-sticky threads that *Viker* spun while in Spider form.
+As the Drow reel from the twin hammering of light and psychic energy, the party leaps over the edge and onto the non-sticky threads that *Viker* spun while in Spider form.
 
 The party races down twin tightropes, a thousand feet between them and safety, endless dark below if they fall.
 
