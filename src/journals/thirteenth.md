@@ -33,7 +33,7 @@ We see a very large Dwarven Mining Crawler that is being pounded on by very larg
 
 ![Crawler](images/Sandcrawler.png)
 
-Turn 1
+Round 1
 
 1. *Benjamin* – Misses landing on the Dwarven Mining Crawler and attacks the Ogres next to him, running. They get opportunities of attack and one hits him. It does 14 HP damage. He puts Hunter’s Mark on the big Fire Giant.
 2. *Steve* lands on top of the vehicle and hides. He shoots his crossbow at some stuff?
@@ -51,7 +51,7 @@ Turn 1
 14. *Steve* shoots.
 15. The Goblins shoot at us on the ground and hits me twice for 16 damage (so 10). They fire at *CoralKing*, he grabs the arrow out of midair, throws it back and kills the Goblin.
 
-Turn 2
+Round 2
 
 1. *Benjamin* hits the Fire Giant and does 23 damage.
 2. *Geral* makes me swing on him and I do 27 damage.
@@ -69,7 +69,7 @@ Turn 2
 14. *Steve* shoots at a Giant and does 23 damage.
 15. The Goblins shoot at *CoralKing*, who uses deflect missiles. They hit me for 4 damage (so, 1). The Hill Giants retreat a little bit and shoot at *Wulrif*, doing 21 damage.
 
-Turn 3
+Round 3
 
 1. *Benjamin* chooses a Goblin to kill and succeeds.
 2. *Geral* hits the Giant next to him and asks me to hits the other one. I do 33 damage, knocking it down. *Geral* does 8 damage on his?
@@ -84,7 +84,7 @@ Turn 3
 11. *Steve* shoots a bolt launcher for 21 damage.
 12. Goblins attack - I get hit for 10 damage in 2 hits, so ends up with 4. *Geral* gets hit for 13 damage. *CoralKing* misses his shots. The Hill Giants start throwing rocks at people on the vehicle. *Calmul* gets hit for 54 hp damage, knocking him down. *Tasbros* gets hit for 19 points of damage.
 
-Turn 4 – everyone would get 4 HP, but *Calmul* is down.
+Round 4 – everyone would get 4 HP, but *Calmul* is down.
 
 1. *Benjamin* shoots a Goblin and does 8 HP, so knocks him down.
 2. *Geral* hits a Giant for 11 damage. He requests *CoralKing* hit the same one and he does 10 damage.
@@ -100,7 +100,7 @@ Turn 4 – everyone would get 4 HP, but *Calmul* is down.
 12. *Steve* hits a bolt launcher, doing 24 damage on the hurt bolt launcher, knocking it down.
 13. The Goblins hit me for 5 HP (2) and 6 HP (3) *Benjamin* get hit for 6 points.
 
-Turn 5
+Round 5
 
 1. *Benjamin* shoots a Goblin, knocking it down. He also killed the other one.
 2. *Geral* moves to the confused Giant, attacking 3 times. He does 27 damage total, knocking it down.
@@ -114,7 +114,7 @@ Turn 5
 10. *Steve* hits the bolt launcher for 29 damage.
 11. The Hill Giants attack me and miss. They move closer and attack her again for 26 HP. One attacks *CoralKing* for 51 damage, but he had 9 temporary HP, so he’s not down. Another attacks me for 25 damage (22) and 19 damage (16).
 
-Turn 6 – Everyone gets 4 HP
+Round 6 – Everyone gets 4 HP
 
 1. *Benjamin* moves toward the action and shoots a Giant for 2 hits. He does 20 damage.
 2. *Geral* uses rally and gives *CoralKing* 4 temporary HP, moves to the Giants and hits him twice. He misses both times.
@@ -127,7 +127,7 @@ Turn 6 – Everyone gets 4 HP
 9. *Steve* hits a Hill Giant for 23 HP, it goes down.
 10. The Goblins dash away 60 ft and hide! The Hill Giants are still hungry. They miss me twice and *Geral* invokes disadvantage on *CoralKing* so he escapes alive.
 
-Turn 7 – I get 4 HP
+Round 7 – I get 4 HP
 
 1. *Benjamin* hits both of the Hill Giants. One for 18 HP damage and the other one, 14.
 2. *Geral* steps toward one of the Hill Giants and hits it for 7 damage. He uses his second wind to heal himself a little.

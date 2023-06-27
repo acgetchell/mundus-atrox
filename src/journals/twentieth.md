@@ -93,7 +93,7 @@ Sometime later, *Viker* smells prey, tainted with Fiendish overtones. Suddenly, 
 >
 > "Merrow! Servants of the *Dark Father*!" *Avren* replies.
 
-Turn 1
+Round 1
 
 1. *Benjamin* decides to find out the weaknesses of the Merrow. They are Monstrosities tainted by Fiends, and have no weaknesses. Worse, they are immune to being Charmed or Frightened.
 2. *Tasbros* casts Lightning Bolt, blasting the Merrow in front of us.
@@ -109,7 +109,7 @@ Turn 1
 12. *Tysnera* casts Banishment on 2 of the Merrow and they disappear.
 13. A Merrow spears *Viker* with it's Harpoon and does 14 HP damage. Then, it starts reeling her in.
 
-Turn 2
+Round 2
 
 1. *Benjamin* uses his Longbow to shoot some of the Kuo-Toa. He does 23 HP damage.
 2. *Tasbros* casts Blindness and Deafness on a Merrow but it fails.
@@ -126,7 +126,7 @@ Turn 2
 13. *Tysnera* casts Fireball and does 37 HP damage to a Merrow and bunch of Kuo-Toa. Yay!
 14. The Kuo-Toa with *Tasbros* stuck in it's polearm pulls him underwater. Boo!
 
-Turn 3
+Round 3
 
 1. *Benjamin* shoots the Merrow in the head and does 22 HP damage.
 2. *Tasbros* doesn't escape and is running out of breath.
@@ -140,7 +140,7 @@ Turn 3
 10. *Avren() stabs it with her rapier for 17 HP damage.
 11. *Tysnera* casts magic missile at the Merrow, doing 12 damage. That kills it!
 
-Turn 4
+Round 4
 
 1. *Benjamin* shoots the Kuo-Toa Archpriest and does some damage.
 2. *Tasbros* is still being held underwater by the Kuo-Toa with the Mancatcher pole-arm and drowning.

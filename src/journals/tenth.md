@@ -28,7 +28,7 @@ We are still in the cave. *Steve* saw there were some things embedded in the ooz
 
 We head down the stairs and find ourselves in a large cavern with some ledges, tables, and dozens of warrior skeletons. It looks like a battle occurred here a long time ago, but they smell. Some gray ghoulish creatures start to rise and approach us. They don’t lurch, but move quicker.
 
-#### Round 1
+Round 1
 
 1. *Wulrif* Hexes the first creature and does 13 damage (AC 13)
 2. *Benjamin* detect their weaknesses. They are immune to poison & charm. Resistance to necrotic damage. Resistance to being turned. Tougher ones are ghasts and easier ones are ghouls.
@@ -46,8 +46,7 @@ d. We all have to make a constitution saving throw. Orky got poisoned, which giv
 
 *CoralKing* picks up all of his darts while we move through the room, east into the next room. There are more skeletons, but nothing moving. *Geral* decides, after a heated debate between *Tasbros* and *Tysnera*, to backtrack and enter the room south of here. This room is full of bunks and there are bones of orks and Dwarves, that are being gnawed on by ghasts and ghouls. When they see us enter, they attack.
 
-<!-- markdownlint-disable MD024 -->
-#### Round 1
+Round 1
 
 1. *Tysnera* holds her action
 2. *Calmul* hits a ghast for 19 damage.
@@ -63,7 +62,7 @@ a. They all surround Orky and hit her twice for 20 damage.
 11. *Wulrif* shoots one ghoul and kills it.
 12. *Tysnera* finally feel prepared to act and hits it for 12 damage.
 
-#### Round 2
+Round 2
 
 1. *Calmul* shoots the remaining ghoul and does 13 damage.
 2. *Steve* uses a sneak attack and kills it!
@@ -72,7 +71,7 @@ a. They all surround Orky and hit her twice for 20 damage.
 
 *Wulrif* uses mage hand and gust to open the door, but it doesn’t open because it’s barricaded. *Benjamin* gives it a super hard kick and manages to barely kick it in. We see 10 bugbears and a very large one in the back.
 
-#### Round 1 - Surprise
+Round 1 - Surprise
 
 1. *Steve* hits the first bugbear and does 14 damage.
 2. *Benjamin* hits the same one twice and does 29 damage, bringing it down.
@@ -86,7 +85,7 @@ a. They all surround Orky and hit her twice for 20 damage.
 10. *Calmul* shoots at the bugbear and misses.
 11. Orky Teleports to the leader, and attacks him twice for 16 total damage.
 
-#### Round 2
+Round 2
 
 1. *Steve* misses an attack
 2. *Benjamin* shoots at the leader and missed the first. He tries again and hits, doing 12 damage, killing it.
@@ -97,7 +96,7 @@ We all make saving throws + DEX. We need a 16 to make it. A Fireball detonated i
 
 We see a Drow and a human run out of room and 4 spiders run into the room. Orky gets an opportunity of attack and delivered 15 damage.
 
-#### Round 1
+Round 3
 
 1. *Steve* makes a death saving throw and misses.
 2. *Benjamin* uses hunter’s mark on the damaged Spider and shoots twice and kills it.
@@ -113,7 +112,7 @@ Everyone in the room has to make a saving throw + CON on the start of their turn
 10. *Calmul* ?
 11. Orky kills the most damaged Spider.
 
-#### Round 2
+Round 4
 
 1. *Benjamin* uses healing spirit on *Viker* for 8 HP.
 2. *Viker* uses a potion of healing in her backpack, she drinks it and gains HP.
@@ -130,10 +129,10 @@ We ask *Steve* to sneak around the corner where we saw someone run away. He peak
 
 ![Nezznar the Black Spider](images/Nezznar.png)
 
-#### Round 1
+Round 1
 
 1. *CoralKing* attempts to enter the room and a bunch of tentacles spring up from the floor.
-a. *Wulrif* uses a counter spell and is disintegrates them.
+a. *Wulrif* uses a Counter spell and disintegrates them.
 b. He dashes to the wizard.
 2. The rest of us make DEX saving throws and those who make it, take 14 damage. We all used various methods to make the throws.
 3. *Steve* hits a Drow?
@@ -147,7 +146,7 @@ b. He dashes to the wizard.
 11. *Calmul* shoots at it and misses.
 12. *Geral* moves in 30 ft and tells *Benjamin* to shoot. He shoots the Drow for 21 damage. Geral uses his action surge and hits it for 3 damage.
 
-#### Round 2
+Round 2
 
 1. *CoralKing* hits twice for 13 damage.
 2. The Drow tries to go invisible and *Wulrif* counters his spell, so he remains visible.

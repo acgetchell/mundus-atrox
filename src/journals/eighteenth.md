@@ -24,7 +24,7 @@
 
 The Tentacle Rod was given to *Wulrif*.  *Benjamin* told us there are Fiends near by, within a mile. We continue in a random direction, because we have no idea where we are going. I stumble forward into a cavern of 7 giant Gricks and 10 small ones.
 
-Turn 1
+Round 1
 
 1. *CoralKing* moves up and uses his Staff of Striking and an unarmed strike on the closest small Grick, doing 53 HP damage, slaughtering it!
 2. *Actias* uses his Sunblade twice and his Dancing Sword once.
@@ -39,7 +39,7 @@ Turn 1
 *Wulrif* Hexes and hits a Grick with an Eldritch Blast, doing 37 damage, killing it.
 11. I get my clumsy ass up and cast Thunderous Smite. I attempt to swing my blade, but I'm too dizzy from a mild concussion and miss.
 
-Turn 2
+Round 2
 
 1. *CoralKing* uses 3 unarmed strikes, doing 12 HP damage.
 2. *Actias* hits one for 6 HP damage.
@@ -62,7 +62,7 @@ We continue along this cavern and discover 4 exit tunnels. *Viker* turns into a 
 
 ![Barlgura](images/barlgura.png)
 
-Turn 1
+Round 1
 
 1. *Benjamin* swings randomly around him in a panic and doesn’t hit anything.
 2. *Steve* holds his action.
@@ -78,7 +78,7 @@ Turn 1
 12. Viker Summons a Scorpion to fight for us.
 13. *Tysnera* Summons a Shadowspawn to fight for us.
 
-Turn 2
+Round 2
 
 1. *Benjamin* wants to know their weakness.
 2. *Steve* uses his crossbow to hit one of the monkey-Fiends.
@@ -93,7 +93,7 @@ Turn 2
 11. I cast Thunderous Smite and hit a Troll for 23 HP damage.
 12. *Tysnera* casts Evard's Black Tentacles that entangles all of the Trolls for damage.
 
-Turn 3
+Round 3
 
 1. *Benjamin* does 16 HP damage.
 2. *Steve* hits the monkey-Fiend *Wulrif* was fighting for 8 HP damage.
@@ -110,7 +110,7 @@ Turn 3
 13. I hit one of the trolls for some 27 HP damage.
 14. *Tysnera* holds her action
 
-Turn 4
+Round 4
 
 1. *Benjamin* moves his Bane onto another Troll and shoots it.
 2. *Actias* hits one for 22 HP damage, killing it!

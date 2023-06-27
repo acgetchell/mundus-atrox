@@ -52,7 +52,7 @@ For those who didn’t, *Actias* and I, we take 52 damage and get knocked down. 
 
 ![Young Green Dragon Swooping](images/young-green-dragon-swooping.png)
 
-#### Round 1
+Round 1
 
 We decide to scatter since we are in the middle of the plains between **Neverwinter Wood** and the **Triboar Trail**.
 
@@ -64,10 +64,10 @@ We decide to scatter since we are in the middle of the plains between **Neverwin
 6. *Viker* summons her Unicorn spirit totem and casts Cure Wounds on *Actias*, bringing him back from the brink of death with 12 HP of healing; everyone else is healed 5 HP.
 7. *Calmul* communicates with the Dragon in its native language:
 
+<!-- markdownlint-disable MD029 -->
 > Please! I have so much to learn from you!
-
+>
 > Faugh! I'm merely snacking on a few Half ....
-
 
 8. We have 4 Elves (*Viker*, *Tasbros*, *Tysnera*, *Benjamin*), and I'm HalfElven. *Calmul* next attempts to be intimidating and fails.
 9. I'm prone, so I get up and use Misty Step (2 Mana) to Teleport behind a tree.
@@ -76,7 +76,7 @@ We decide to scatter since we are in the middle of the plains between **Neverwin
 12. *Tysnera* casts Lightning Bolt (8d6 damage!!!) and deals 26 damage! I peek out from behind my tree and silently cheer!
 13. *Tasbros* casts Chromatic Orb and deals the Dragon 13 damage.
 
-#### Round 2
+Round 2
 
 1. *Benjamin* shoots his Longbow twice and hits for 18 damage. The Dragon is starting to get very mad at *Benjamin*.
 2. *Steve* stealthily shoots the Dragon with his bow and rolls a critical hit on a Sneak Attack for 29 damage!
@@ -91,7 +91,7 @@ We decide to scatter since we are in the middle of the plains between **Neverwin
 11. *Tysnera* stays invisible and recovers.
 12. *Tasbros* chases the Dragon and casts Fireball. The Dragon just barely escapes the direct blast, taking 16 damage.
 
-#### Round 3
+Round 3
 
 1. *Benjamin* pursues and shoots his bow, dealing 11 damage.
 2. *Steve* shoots and misses.
@@ -108,11 +108,11 @@ We all take a short rest.
 We all look back and see that *Gundren* (and *Snaga*) are dead. *Gundren* was supposed to lead us to **Wave Echo Cave**. *Viker* has a Scroll of Revivify and asks if we want to use it on him. We all begrudgingly agree, so *Viker* works on that for 10 minutes.
 
 > *Gundren* wakes up. "What happened?"
-
+>
 > "You lost", replies *Wulrif*.
-
+>
 > "Thank you for saving my life, " says Gundren, bowing. "We Dwarves always repay our debts. When we find my brothers in **Wave Echo Cave** and restart **Phandalever Mine**, you shall have 10% of the proceeds.
-
+>
 > "Sounds good to us", replies *Geral*.
 
 **Phandalin** seems oddly deserted ...
@@ -120,17 +120,17 @@ We all look back and see that *Gundren* (and *Snaga*) are dead. *Gundren* was su
 There are a couple of Dwaven mercenaries outside of the bank, but otherwise no one is in sight. *Gundren* wants to go to the **Townmaster's Hall** to greet *Sildar*.
 
 > "You have rescued my old friend", says *Sildar*. "I will pay you the reward we agreed to."
-
+>
 > "We also have your armor and sword", says *Geral*.
-
+>
 > "Indeed? That is most welcome news! The sword is an heirloom of my family, but I think that a fellow Crusader might make better use of the armor than I ..."
-
+>
 > "What happened to the townsfolk?", I ask.
-
+>
 > "Ah, well, the *Redbrands* have been carrying off the folk to slavery, I fear. Held in the basement of **Tresendar Manor** until they conclude their foul business with the Hobgoblins and Bugbears."
-
+>
 > "We should have dispatched this grave injustice when we were here last," I say. "You have my solemn Oath that we will defeat these villains."
-
+>
 > "Blessings upon you! I do not know how they swell their numbers, but you should find *Farmer Alderleaf*. She is both cunning and practical, and may know something to aid in your quest."
 
 The farm looks like it hasn’t been used in awhile, but the house looks strong. *Geral* knocks on the door, and *Qelline Alderleaf*, a Halfling, answers. She invites us in for a hearty feast. We are grateful and eat, but *CoralKing* remains hesitant and stands in the corner. She says her son, *Carp*, might know a secret way to get in the castle. Carp’s friend, *Reidoth*, is a Druid, and told her about the Undead in the Manor. He seems to have been lured away to **Thundertree** to deal with a Dragon. The Redbrands are well-equipped and led by a Wizard, *Glasstaff*.
@@ -143,24 +143,24 @@ had said they avoid the Beholder, so it and the Redbrands may not have aligned a
 
 We crawl through the tunnel, single file, which is skillfully constructed. We approach the Beholder, but it seems quite mad, rambling gibberish and strange tongues.
 
-![Beholder](images/beholder.png)
+![Beholder](images/spectator.png)
 
 > "What are you doing here?" it says, finally, in Common.
-
+>
 > "We're just passing through to get to the Wizard," says *Geral*.
-
+>
 > "I don't care but don't touch the Precious!"
-
+>
 > "What's the Precious?"
-
+>
 > "The thing I must guard since my summoning. But I don't want to guard it. I don't have to guard it if it's gone, so maybe you could take it and I could leave this place! Except then I'd have to kill you all. Will you take it?" it asks eagerly.
-
+>
 > "Can you give it to us?", asks *Wulrif*.
-
+>
 > "I would if I could, but **my** Wizard won't let me."
-
+>
 > "Maybe you're hungry?" asks *Actias*.
-
+>
 > "Oh, no, I make my own food. Are you hungry?"
 
 Ten stuffed turkeys with all the fixings on plates materialize in front of us.
@@ -170,7 +170,7 @@ Ten stuffed turkeys with all the fixings on plates materialize in front of us.
 *Wulrif* studies it really intently. Suddenly, he gives a shriek as if his mind has suddenly grasped things never meant for Human understanding. *Wulrif* begins greedily grubbing down the same nauseous slush as the Beholder.
 
 > "Ah, now you understand something of what really nourishes us!" It nods sagaciously.
-
+>
 > "Ugh, *Wulrif*, what are you doing!?" exclaims *Geral*. He manages to pull *Wulrif* away from his feast, the mad light fading from *Wulrif's* eyes.
 
 *I think we lost Tysnera and Tasbros here.*
@@ -182,7 +182,7 @@ She goes into the room across the hall and sees 12 Redbrands, eating. One of the
 I'm going to block the middle of the hallway to control how many can attack us at once. *Actias* makes the hallway behind us difficult terrain to hopefully slow the others down.
 *CoralKing* stays at the rear of the party to defend us from that direction.
 
-#### First Round
+Round 1
 
 1. *Viker* casts Moonbeam (what is a Moon?) on the spot where the first Redbrand appears. Ghostly flames envelop him, screaming, as he takes 14 damage.
 2. *Calmul's* Musket misfires and dumps black powder everywhere.
@@ -196,7 +196,7 @@ I'm going to block the middle of the hallway to control how many can attack us a
 10. *Geral* shoots and crits the guy over my shoulder.
 11. *Actias* backs up to come help *CoralKing*.
 
-#### Second Round
+Round 2
 
 1. *Viker* maintains concentration on Moonbeam.
 2. *Calmul* repairs his Musket.
@@ -208,7 +208,7 @@ I'm going to block the middle of the hallway to control how many can attack us a
 8. *Actias* forks his Eldritch Blast. He lands both and does 20 damage! That Redbrand goes down, as does the one coming at *CoralKing*.
 9. *CoralKing* hits the new approaching Redbrand in front of him, doing 6 damage.
 
-#### Third Round
+Round 3
 
 1. *Viker* moves through the hallway to move her Moonbeam into the room with most of the Redbrands. One of them takes an opportunity attack as she moves by and crits her with 12 damage. She manages to maintain her Moonbeam.
 2. *Calmul* shoots a Redbrand and deals 5 damage.
@@ -220,7 +220,7 @@ I'm going to block the middle of the hallway to control how many can attack us a
    including the Wizard, lurking just around the corner!
 8. *Actias* immediately gets hit by 2 swords, taking 12 damage total. *CoralKing* takes 15 damage from a volley of arrows and Fades Away. *Calmul* takes more arrows for 13 HP. *Actias* does a quick Rebuke on one of the archers, doing 7 damage.
 
-#### Fourth Round
+Round 4
 
 1. *Viker* moves her Moonbeam and kills a Redbrand. She uses a Bonus action to say a Healing Word on *Calmul* for 9 HP.
 

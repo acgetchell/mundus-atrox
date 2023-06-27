@@ -31,7 +31,7 @@ We have tied and gagged the Wizard and the Drow. *Gundren* brings in a shield fo
 
 *Gundren* starts walking towards the second door that seems to be locked. “Does anyone have a key?” *Wulrif* exclaims that he found a key just now and walks over to unlock the door but hesitates as we need to explore the room further.
 
-*Wulrif* decides to interrogate Iarno about *Gundren*’s brother. *Wulrif* tells him to speak or we will cut his hand off. He finally concedes that his brother is in the other room. *Viker* turns into a fly to investigate. She sees a bound dwarf in there with some other stuff. She returns and relays the information to us.
+*Wulrif* decides to interrogate *Iarno* about *Gundren*’s brother. *Wulrif* tells him to speak or we will cut his hand off. He finally concedes that his brother is in the other room. *Viker* turns into a fly to investigate. She sees a bound dwarf in there with some other stuff. She returns and relays the information to us.
 
 I, *Tasbros*, and *Tysnera* go clear the rest of the room. We find maps of the cave and vague directions of where the spell forge is. We find a bunch of treasure and a mug. We give the treasure to *Gundren* to hold onto until we get back.
 
@@ -47,7 +47,7 @@ We march on through the bugbear room we cleared earlier…
 <!-- markdownlint-disable MD033 -->
 <img src="images/beholder-zombie.jpg" width=50% height=50%>
 
-Turn 1
+Round 1
 
 1. *Benjamin* shoots the skull with his bow. He damages it.
 2. The flaming skull shoots a Fireball but *Wulrif* uses Counterspell and stops it.
@@ -65,7 +65,7 @@ Turn 1
 14. The Beholder can see me, but I make my Saving Throw against Paralysis.
 15. Calmul shoots at the damaged Undead and does enough damage to drop it! His Steel Defender attacks now and bites one of the Undead.
 
-Turn 2
+Round 2
 
 1. *Benjamin* shot the beholder thing for 20+ damage.
 2. *Geral* asks *Benjamin* to hit the beholder thing again for 15 damage and it goes down!
@@ -81,7 +81,7 @@ Turn 2
 12. I hit one for 19 and drop it. Then I smite the one in front of me and do 35 to drop it.
 13. Calmul's musket misfires.
 
-Turn 3
+Round 3
 
 1. *Benjamin* shoots for 17 HP.
 2. *Geral* steps forward and attacks an Undead twice and shamelessly fails. He’s tired.
@@ -96,7 +96,7 @@ Turn 3
 11. I hit one Undead for 19 damage.
 12. Calmul shoots one and does 8 damage, shoots again for 6 damage.
 
-Turn 4
+Round 4
 
 1. *Benjamin* does 24 damage on the most damaged Undead.
 2. *Geral* shoots the damaged one again and does 20 damage, dropping it! *Geral* uses a bonus action to heal himself.
@@ -111,7 +111,7 @@ Turn 4
 11. I hit the remaining Undead for 19 damage.
 12. Calmul shoots at the last one and misses.
 
-Turn 5
+Round 5
 
 1. *Benjamin* shoots at the last one twice and hits it for 27 damage, killing it!
 

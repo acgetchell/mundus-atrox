@@ -36,7 +36,7 @@ Half a cycle of traveling much faster than we can row, everyone except *Calmul* 
 
 ![Giant Sharks](images/giant-sharks-darklake.png)
 
-Turn 1
+Round 1
 
 1. *CoralKing* uses Patient Defense to Dodge, then holds his action.
 2. *Wulrif* Quickens his Witch Bolt and casts Eldritch Blast to hit one of the creatures, doing 54 HP damage. It twitches and the other fins get really excited.
@@ -48,7 +48,7 @@ Turn 1
 8. *Tysnera* holds her action.
 9. The first fin approaches and knocks the raft over. Me, *Benjamin*, *Steve*, and *CoralKing* are the only ones who remained on the raft. *Tasbros* is swimming and the second fin misses him while the third one bites him, doing 22 HP damage. *Wulrif* is attacked by the fourth fin and it hits him for 31 HP damage. *Actias* gets bitten and uses Hellish Rebuke, doing 13 HP damage. *Tasbros* uses Haste on *Wulrif*. *Tysnera* is sinking ...
 
-Turn 2
+Round 2
 
 1. *CoralKing* pulls *Tysnera* back into the raft.
 2. *Wulrif* forks his Witch Bolt and kills the injured fin, also hitting a second one. Then he jumps off the raft and turns into a Giant Shark.
@@ -61,7 +61,7 @@ Turn 2
 9. The frightened Shark attacks *Tasbros* for 24 HP damage. 2 Sharks hit *Wulrif* (Sharkeisha) and do 50 HP damage!
 10. *Tasbros* uses Lightning Lure.
 
-Turn 3
+Round 3
 
 1. *CoralKing* pulls *Tasbros* onto the raft, prone.
 2. Sharkeisha attacks the Sharks in front of him and does 24 HP damage.
@@ -73,7 +73,7 @@ Turn 3
 8. A Shark attacks Sharkeisha for 13 damage.
 9. *Tasbros* uses Lightning Lure and does 25 HP damage.
 
-Turn 4
+Round 4
 
 1. *CoralKing* uses Walk on Water, does 20 damage to a Shark, then Teleports back.
 2. Sharkeisha does 30 ish HP damage.

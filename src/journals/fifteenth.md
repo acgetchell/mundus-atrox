@@ -18,9 +18,11 @@
 
 ### Summerday +492 hours
 
+![Hezrou](images/hezrou.png)
+
 #### From the journal of Dame Orky
 
-Turn 5 – I get 4 HP
+Round 5 – I get 4 HP
 
 1. *Wulrif* critically hit the emerging creature using Eldritch Blast which pushes him back 10 ft and deals 10 hp damage. The shamans also slink backward. The creature rushes out the front gate at *Wulrif*. *Calmul* does 6 damage on something?
 2. *Steve* shoots at the creature with his crossbow but misses.
@@ -37,7 +39,7 @@ Turn 5 – I get 4 HP
 13. *Actias* attacks the frog creature twice and does 17 + 16 radiant damage.
 14. All of the orks sprint into the cathedral, except the ones in the turrets.
 
-Turn 6 – I get 4 HP
+Round 6 – I get 4 HP
 
 1. *Wulrif* makes his saving throw for poisoning. He hits the frog creature for 6 HP damage.
 2. *Steve* is not hidden from the frog creature, unknowingly. He shoots at the Ogre behind me and does 22 damage.
@@ -54,7 +56,7 @@ Turn 6 – I get 4 HP
 13. *Benjamin* takes out one of the Ogres and does 12 HP damage on another one.
 14. *Actias* hits one of the Ogres for 31 HP damage total.
 
-Turn 7 – I get 4 HP
+Round 7 – I get 4 HP
 
 1. *Wulrif* disengages and holds his action.
 2. *Steve* hits one of the Ogres for 20 HP damage.
@@ -75,17 +77,23 @@ We spend the shadowspawn into the cathedral and it dissipates. *Actias* uses arc
 
 I use divine sense and I can sense that there were 4 Fiends, and now there are 5. Clearly the ward stone has been reversed and is useless to us in its current state. So, we ask about the swords and the voice tells us 1 is a rod and is in an ancient dwarven fortress overrun by undead. Another sword is in a burial mound. A woodland staff in the shape of a tree is in the depths of the forest. A pair of gloves is in the bowels of Neverwinter.
 
+![Glabrezu](images/glabrezu.png)
+
 #### 15,000 XP
 
 We see a little girl with black hair and she asks us “so, are you going to take the offer from the demon?” We say no, she tells us the weapons are probably cursed.  She tells us her people are trapped in there with her. Her name is Chiyo and said her people were misled by promises and told lies. She tells us they are summoning more creatures every day, there are 5 in there currently. There are shadow demons, glabrezu which is the main one talking to us. 2 beasts (hezrus), 2 cazmaias, and 4 shadow demons, and 4 corrupted shamans. She said if we go in to attack them, her people will attack them from behind. Her mate is the leader, the one we talked to first. He is being coerced by the shamans. She estimates we are outnumbered. We learn that glabrezu emits darkness at will. *Wulrif* attempts to read her mind and fails. She shows us her true form, as an Oni, which are lawful. The ward stone is under the altar, using an active gate to call their own kind, Fiends.
 
 *Actias* is lighting up his sun blade, we take formation and move into the courtyard. We don’t see anything yet.
 
-Turn 1
+Round 1
 
 1. *Steve* hides and holds his action
 2. *CoralKing* holds his action
 3. This giant, deafeningly loud, bug flies toward us and *Actias* and *Wulrif* both fall unconscious. The proboscis enters *Actias* and he drops the sun blade. He loses 30 HP and decreases his maximum HP by 30. It’s draining his blood. They are both unconscious for 10 minutes.
+
+![Chasme](images/chasme.png)
+
+<!-- markdownlint-disable MD029 -->
 4. *Wulrif* is unconscious
 5. Now the glabrezu charges forward toward *Geral* and misses an attack. Now the shamans attack *Geral* with magic spears and do 11 HP damage.
 6. I cast Thunderous Smite and hits the giant bug twice for 40 HP of damage.
@@ -99,7 +107,7 @@ Turn 1
 14. *Tysnera* casts banishment and the creature disappears!
 15. We all make our wisdom saving throws! But it attacks us 3 times, hitting me with 20 HP.
 
-Turn 1 – I get 4 HP
+Round 2 – I get 4 HP
 
 1. *Steve*
 2. *CoralKing* does 20 HP damage
@@ -107,38 +115,38 @@ Turn 1 – I get 4 HP
 4. I use Vow of Emnity and attack the fat winged Fiend once for 20 HP.
 5. *Geral* asks me to hit it again and I does 32 damage.
 6. *Tasbros* uses confusion and it fails
-7. The oni, which brought the bird Fiend down, finally delivers the killing blow to it.
+7. The Oni, which brought the bird Fiend down, finally delivers the killing blow to it.
 8. I am is stunned.
-9. *Viker* uses lightning bolt for 30 HP damage. She casts daylight, 60 ft radius. Now, she enters the cathedral and sees the 4 shamans, the fat winged creature, the lobster goat creature, and the oni and ork who are fighting things in the back room. She moves her moonbeam onto the lobster goat creature and does 14 HP damage.
+9. *Viker* uses lightning bolt for 30 HP damage. She casts daylight, 60 ft radius. Now, she enters the cathedral and sees the 4 shamans, the fat winged creature, the lobster goat creature, and the Oni and Ork who are fighting things in the back room. She moves her moonbeam onto the lobster goat creature and does 14 HP damage.
 10. *Benjamin* moves into the cathedral and shoots hail of thorns, which fails, doing 12 HP damage. Then, he shoots the fat winged creature and does 14 HP damage.
-11. *Tysnera* casts lightning bolt and does 19 HP damage to the fat winged creature. It does 37 HP damage to an ork shaman, taking him out.
+11. *Tysnera* casts lightning bolt and does 19 HP damage to the fat winged creature. It does 37 HP damage to an Ork shaman, taking him out.
 12. The fat winged creature leaves the cathedral to attack *Steve* and Tasbros by the front gate. Tasbros is afraid and runs away, in his turn. It attacks *Steve* and does 24 HP damage.
 
-Turn 2 – I get 4 HP
+Round 3 – I get 4 HP
 
 1. *Steve* stays hidden
 2. *CoralKing* shoots 2 darts at the fat winged creature and he does 5 HP damage.
-3. The shamans are fighting with the oni and ork and I need to make a saving throw. I make it and am no longer stunned.
-4. *Geral* tells the oni to hit the lobster goat creature. She hits and does 19 HP damage. Then, *Geral* shoots his bow at it and misses.
+3. The shamans are fighting with the Oni and Ork and I need to make a saving throw. I make it and am no longer stunned.
+4. *Geral* tells the Oni to hit the lobster goat creature. She hits and does 19 HP damage. Then, *Geral* shoots his bow at it and misses.
 5. *Calmul* stabs the fat winged creature and does 9 HP damage.
 6. Tasbros is running away, frightened. He casts milf’s meteors on the fat winged creature, doing 3 HP damage.
-7. The oni does 34 HP damage on her first hit and 19 HP on the second one. The ork attacks the shaman with his greataxe, twice. *Viker*’s moonbeam does 17 HP damage. The lobster goat creature does 8 HP damage to the oni.
+7. The Oni does 34 HP damage on her first hit and 19 HP on the second one. The Ork attacks the shaman with his greataxe, twice. *Viker*’s moonbeam does 17 HP damage. The lobster goat creature does 8 HP damage to the Oni.
 8. *Viker* attempts to hit the fat winged creature but fails.
 9. *Benjamin* shoots at the lobster goat creature and misses.
 10. *Tysnera* casts lightning bolt. *Calmul* gets hit twice for 33 HP damage.
 
-Turn 3 – I get 4 HP
+Round 4 – I get 4 HP
 
 1. *Steve* does 23 HP damage on the fat winged creature, taking it out!
 2. *CoralKing* runs closer to the lobster goat creature and dodges.
-3. The shamans hit the ork but he's OK.
+3. The shamans hit the Ork but he's OK.
 4. I move, Teleport to the lobster goat, and hits it twice for 48 HP damage.
 5. *Geral* moves up and does 7 HP damage, I do 18 damage, exactly knocking it down.
 6. *Calmul* moves forward.
 7. Tasbros moves forward and holds his action
 
-The oni yells “wait!” and seems to heal herself. The ork seems to imply the shamans are his friends and instructs the other orks to halt and not attack.
+The Oni yells “wait!” and seems to heal herself. The Ork seems to imply the shamans are his friends and instructs the other orks to halt and not attack.
 
-We ask for the stone and she agrees. *Geral* invites her to stay with us in our town through the winter and he said he will hire her and her people to protect the forge. The oni instructs us to stay in the light so we don’t have to face the 4 shadow demons lurking in the dark. 3 shamans, 1 ork chief, 16 Ogres (4 chain brutes), and 23 orks remain to work in the forge.
+We ask for the stone and she agrees. *Geral* invites her to stay with us in our town through the winter and he said he will hire her and her people to protect the forge. The Oni instructs us to stay in the light so we don’t have to face the 4 shadow demons lurking in the dark. 3 shamans, 1 Ork chief, 16 Ogres (4 chain brutes), and 23 orks remain to work in the forge.
 
 #### 5,000 XP

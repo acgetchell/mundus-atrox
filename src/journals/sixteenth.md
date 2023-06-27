@@ -49,7 +49,7 @@ Chiyo smiles her unsettling tusked grin, her red eyes gleaming. She holds up a s
 
 We need to get the ward stone into our wagon. We decide to use *Tasbros*’ telekinesis to lift it into our wagon. As we do this, we see a bird circling, it lands and turns into this little masked person. His mask is half happy and half sad. He starts giving us shit about how fucked up the ward stone is. We use detect magic and see he’s magic. He asks us if we know how ward stones work. *Actias* asks what his intentions are and he just laughs. *Wulrif* tries to read his mind and it’s strangely missing. *Viker* invites him to join us on our journey back to Phandalin and calls him old, which pisses him off. He grows and starts rearing up at us. We ask what we can do to keep him happy. He said we will amuse him, he snaps his fingers and the skies start to darken. He snaps his fingers again and we feel the ground start to shake. Then, this massive toothed worm breaks out of the ground behind the group.
 
-Turn 1
+Round 1
 
 1. *Benjamin* tries to find its weaknesses. He finds out it’s a purple worm and it has no weaknesses.
 2. *Steve* throws daggers in the girth worm’s mouth, doing 11 HP damage.
@@ -61,7 +61,7 @@ Turn 1
 8. I try casting Hold Person, and fail. I declare a Vow of Enmity.
 9. *Tasbros* casts confusion and it doesn’t affect him. He uses a magic seeking spell and now looks confused.
 
-Turn 2
+Round 2
 
 1. *Benjamin* finds this guy has no weaknesses.
 2. *Steve* is hiding and uses a sneak attack on his short crossbow, doing 29 HP damage.
@@ -73,7 +73,7 @@ Turn 2
 8. I moves toward him, cast Thunderous Smite and hit the guy twice, doing 35HP damage.
 9. *Tasbros* grabs onto *Tysnera* and sees the green glow.
 
-Turn 3
+Round 3
 
 1. *Benjamin* flanks the guy and casts hunter’s mark
 2. *Steve* attacks the guy and does 32 HP damage.
@@ -85,7 +85,7 @@ Turn 3
 8. I dash into the girth hole
 9. *Tasbros* uses his Spider web staff to create a hammock and catch us.
 
-Turn 4
+Round 4
 
 1. *Benjamin* passes
 2. *Steve* jumps down the girth hole
@@ -96,7 +96,7 @@ Turn 4
 
 *Tasbros* contracts short-term madness and falls unconscious for 7 minutes. He seems fine, but has a sort of twitch to him now. *Tysnera* detects a fiendish magic everywhere around us. We walk for 2 days and find a stream. I fill up my water skin and stand watch while everyone else drinks water. I finally see 9 fat, 2-headed, knuckle-dragging figures approaching. *Viker* says “hello friend” in Ork. They respond “small food, let’s get em boys!” and attack.
 
-Turn 1
+Round 1
 
 1. *CoralKing* shoots 2 darts at the gold creature, doing 12 HP damage.
 2. *Benjamin* tries to detect their weaknesses. They have 2 heads so they have great vision, but no weaknesses.
@@ -107,7 +107,7 @@ Turn 1
 7. *Viker* casts scorpions on the creatures and activates her sheyleighlay.
 8. The creatures attack us and the scorpions. This provokes an opportunity of attack from *Viker*, and she absolutely abliterates it. I get hit for 7 HP damage.
 
-Turn 2
+Round 2
 
 1. *CoralKing* moves forward and attacks the yellow creature for 24 HP, killing it!
 2. *Benjamin* shoots his bow and does 17 HP damage
@@ -118,7 +118,7 @@ Turn 2
 7. *Viker* casts Moonbeam, doing 17 HP damage. She uses Shileighleigh? Her scorpeen hit on the claws, doing 14 HP on a creature, killing it.
 8. The creatures hit *Viker*’s Giant Scorpion twice, doing 28 HP damage to it. The other 2 attack me for 26 HP damage.
 
-Turn 3
+Round 3
 
 1. *CoralKing* attacked one of the creatures, doing 13 HP damage and killed it, then moves behind it to flank it.
 2. *Benjamin* shoots the creatures and does 11 damage.
