@@ -12,6 +12,7 @@ but are instead resistant to a great many natural toxins.
 ![Sea Elf](images/sea-elf.png)
 
 - The [Dark Elves] live deep underground, and are in constant conflict with their other kin. They do not have wings, but can instead produce spiderwebs. They are resistant to the toxins of the **Underdark**.
+![Dark Elf](images/dark-elf.png)
 
 [Dark Elves]: https://www.dndbeyond.com/races/3-elf#DarkElf(Drow)
 [Sea Elves]: https://www.dndbeyond.com/races/1026400-sea-elf
