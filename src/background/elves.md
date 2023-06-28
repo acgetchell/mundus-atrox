@@ -9,6 +9,7 @@ They have foldable bat-wings from wrist to ankle with which they can glide great
 but are instead resistant to a great many natural toxins.
 
 - The [Sea Elves] live in [Oceanus](ocean.md) and can breathe underwater. Their wings are thicker and allow them to swim effortlessly. They are resistant to Cold.
+![Sea Elf](images/sea-elf.png)
 
 - The [Dark Elves] live deep underground, and are in constant conflict with their other kin. They do not have wings, but can instead produce spiderwebs. They are resistant to the toxins of the **Underdark**.
 

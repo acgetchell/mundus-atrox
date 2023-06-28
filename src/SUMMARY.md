@@ -26,9 +26,9 @@
     - [Gnomes](background/gnomes.md)
     - [Tiefling](background/tiefling.md)
 - [Civilization](background/civilization.md)
+  - [Castelas](background/castelas.md)
   - [Mines](background/mines.md)
   - [Urbs](background/urbs.md)
-  - [Castelas](background/castelas.md)
 - [Artifacts](background/artifacts.md)
   - [Stonehenge](background/stonehenge.md)
 
