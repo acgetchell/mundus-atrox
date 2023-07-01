@@ -29,7 +29,7 @@ We see the cavern change shapes as we move through it. We see fluorescent patche
 
 ![Shrine of the Deep Father](images/ooa03-04.png)
 
-We are escorted to the altar of the deep father. It consists of a manta ray splayed out with 2 Octopodes on top and tentacles decoratively arranged. Everything is seeping blood and the entire altar reeks of blood and decay. They carry in this dwarf who we can tell is about to be sacrificed and I start to feel furious. I don’t have anything to help him though. Just when I can see *Geral* is about to step in, while the high priestess hovers a dagger above the dwarf’s heart, we see *Ploopploopeen* strike the high priestess, his daughter.
+We are escorted to the altar of the deep father. It consists of a manta ray splayed out with 2 Octopodes on top and tentacles decoratively arranged. Everything is seeping blood and the entire altar reeks of blood and decay. They carry in this Duergar who we can tell is about to be sacrificed and I start to feel furious. I don’t have anything to help him though. Just when I can see *Geral* is about to step in, while the high priestess hovers a dagger above the dwarf’s heart, *Ploopploopeen* strikes the high priestess, his daughter.
 
 Round 1
 
@@ -60,12 +60,12 @@ Round 2
 7. I move next to the priestess and hit her twice with my great sword, doing 32 HP damage.
 8. *Actias* misty steps next to her and attacks her with his sunblade, doing 31 HP damage, killing that awful woman.
 9. Benjamin moves and finds the weaknesses of the Kuo-toa, the priests can see invisible things. They are slippery and escapes grapples. They are vulnerable to sunlight. Their shields are also sticky and if you swing on them, striking them with your weapon, it stays in the shield.
-10. We realize that we accidentally sacrificed the priestess and the water near us bubbles and 2 monsters heads rise from the lake with one body. It has rage in its eyes and growls. Then, most of the Kuo-toa all fall to the ground. The ones who gifted the sea goddess avert their gaze. *Geral*, *Wulrif*, and *Actias* all instinctively know to avert their gaze. Everyone else miraculously survives the gaze attack.
-11. *Geral* screams at all of us to run! We see a bunch of sea serpents appear next to the giant creature. They look like the ones that attacked us on the rafts.
-12. *Wulrif* finds out this guy is demogorgon, the prince of demons and he tells the rest of us telepathically that this is a god and we need to leave immediately. Our group and the good Kuo-toa run away from the water. *Viker*’s scorpion attacks some of the Kuo-toa running by.
-13. *Steve* comes out of his paralysis and readies his action to jump on *Wulrif*’s back when he runs by.
+10. We realize that we accidentally sacrificed the priestess and the water near us bubbles and 2 monstrous heads rise from the lake with one body. It has rage in its eyes and growls. Then, most of the Kuo-toa all fall to the ground. The ones who gifted the Sea goddess -- *Geral*, *Wulrif*, and *Actias* -- all instinctively know to avert their gaze. Everyone else miraculously survives the Gaze attack.
+11. *Geral* screams at all of us to Run! We see a bunch of Merrow appear next to the giant creature. They look like the ones that attacked us on the rafts.
+12. *Wulrif* recognizes this as *Demogorgon*, and he tells the rest of us telepathically that this is a Demon Prince and we need to leave immediately. Our group and the allied Kuo-toa run away. *Viker*’s scorpion is Beguiled and attacks some of the Kuo-toa running by.
+13. The Hold Person on *Steve* drops and he readies his action to jump on *Wulrif*’s back when he runs by.
 14. *Viker* turns into a bat and flies above the T-Rex.
-15. *Wulrif* comes out his polymorph to teleport *Geral* and the dwarf.
+15. *Wulrif* comes out his Polymorph and Dimension Doors *Geral* and the Duergar.
 16. We all flee.
 
 ![Demogorgon](images/ooa03-05.png)
