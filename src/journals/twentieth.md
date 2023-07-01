@@ -21,9 +21,9 @@
 
 #### From the journal of Dame Orky
 
-*Wulrif* dies when he reverts back to his normal form. I use Lay On Hands to give him 50 HP and bring him back to consciousness. Then, we all take a long rest.
+*Wulrif* nearly dies when he reverts back to his normal form. I use Lay On Hands to give him 50 HP and bring him back to consciousness. Then, we all take a long rest.
 
-We discovered an island with mushrooms on it. It seems steep, maybe the top of a stalagmite. I look around to see if we’re safe. I notice some strange but small things rustling around in the mushrooms. The mushrooms are around 60 ft high.
+We discovered an island with mushrooms on it. It seems steep, maybe the top of a stalagmite. I look around to see if we’re safe. I notice some strange but small things rustling around in the mushrooms. The mushrooms are around 60 feet high.
 
 We hear music and singing in a hauntingly beautiful soprano. We see an inverted mushroom cap and a Half-Elven woman holding a lute and playing. *Geral* goes to the shore nearest her craft.
 
@@ -63,7 +63,7 @@ We hear music and singing in a hauntingly beautiful soprano. We see an inverted 
 >
 > "Who lives in **Gracklstugh**?"
 >
-> "Deep Gnomes, Duergar, and Mountain Dwarves. Stay away from *Themberchaud's* Lair and the Keepers of the Flame."
+> "Duergar, Deep Gnomes, and Mountain Dwarves. Stay away from *Themberchaud's* Lair and the Keepers of the Flame."
 >
 > "*Themberchaud*?"
 >
@@ -75,7 +75,7 @@ We hear music and singing in a hauntingly beautiful soprano. We see an inverted 
 
 *Avren* is full of useful information about the mushrooms of the **Underdark**, telling us which ones make water, wine, food, and other things.
 
-We remember that we are here to hunt Fiends for the *Society of Brilliance* and discover how they are getting into the **Underdark**. We decide to take a day and fashion some more secure rafts. That day goes well! The team makes food and water from the mushrooms. *Avren* points out some mushrooms with orange and red stripes and says they are called “The Devil’s Mushrooms”, making a really strong red liquor that the Deep Gnomes like. *Calmul* busts out a still in a cloud of small, whirring, magical devices. No one is brave enough to drink the final product. We end up with 2 wine skins of the stuff, which *Avren* says will be worth a lot in **Gracklstugh**.
+We remember that we are here to hunt Fiends for the *Society of Brilliance* and discover how they are getting into the **Underdark**. We decide to take a day and fashion some more secure rafts. That day goes well! The team makes food and water from the mushrooms. *Avren* points out some mushrooms with orange and red stripes and says they are called “The Devil’s Mushrooms”, making a really strong red liquor that the Duergar like. *Calmul* busts out a still in a cloud of small, whirring, magical devices. No one is brave enough to drink the final product. We end up with 2 wine skins of the stuff, which *Avren* says will be worth a lot in **Gracklstugh**.
 
 *Benjamin* decides to explore and finds 3 octopodes in the tops of the tree-like mushrooms *Avren* calls Zurkhwood. One of them floats off ... in fear? Another is chewing on a Stirge. I like that one. *Steve* attempts to catch it and but somehow it detects ultra-sneaky *Steve* and escapes. Now, all 3 are gone.
 
