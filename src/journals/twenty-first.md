@@ -82,7 +82,7 @@ Round 2
 
 ![Demogorgon](images/ooa03-05.png)
 
-A Kuo-toa opens a marshy passage out of **Sloobludop** and we all run through. We hear immense destruction behind us as we struggle through the marsh. *Avren* Polymorphs into an Owlbear and tosses *Actias* onto her back as she runs.
+A Kuo-toa opens a marshy passage out of **Sloobludop** and we all run through. We hear immense destruction behind us as we struggle through the swamp. *Avren* Polymorphs into an Owlbear and tosses *Actias* onto her back as she runs.
 
 Much later, the Duergar thanks us and introduces himself as *Hemeth*. He tells us he can get us passage into **Gracklstugh**. *CoralKing* uses Insight to see if this guy is telling the truth. He seems genuinely grateful and helpful.
 

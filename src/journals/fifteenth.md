@@ -75,7 +75,7 @@ Round 7 – I get 4 HP
 
 We spend the shadowspawn into the cathedral and it dissipates. *Actias* uses arcana to see if he can discern anything about the darkness. He doesn’t do well and sees that its magical darkness. The darkness seems to bulge out of the cathedral and a voice says “congrats, you got rid of some of my servants.” We say we are only there for the rock. He said “well, we have uses for that rock. However, there are other magic things you can earn.” This cathedral doesn’t seem to be consecrated and that’s the opposite of how a cathedral should be. It’s not keeping undead away and etc.
 
-I use divine sense and I can sense that there were 4 Fiends, and now there are 5. Clearly the ward stone has been reversed and is useless to us in its current state. So, we ask about the swords and the voice tells us 1 is a rod and is in an ancient dwarven fortress overrun by undead. Another sword is in a burial mound. A woodland staff in the shape of a tree is in the depths of the forest. A pair of gloves is in the bowels of Neverwinter.
+I use divine sense and I can sense that there were 4 Fiends, and now there are 5. Clearly the ward stone has been reversed and is useless to us in its current state. So, we ask about the swords and the voice tells us 1 is a rod and is in an ancient dwarven fortress overrun by undead. Another sword is in a burial mound. A woodland staff in the shape of a tree is in the depths of the forest. A pair of gloves is in the bowels of [Neverwinter].
 
 ![Glabrezu](images/glabrezu.png)
 
@@ -150,3 +150,5 @@ The Oni yells “wait!” and seems to heal herself. The Ork seems to imply the 
 We ask for the stone and she agrees. *Geral* invites her to stay with us in our town through the winter and he said he will hire her and her people to protect the forge. The Oni instructs us to stay in the light so we don’t have to face the 4 shadow demons lurking in the dark. 3 shamans, 1 Ork chief, 16 Ogres (4 chain brutes), and 23 Orcs remain to work in the forge.
 
 #### 5,000 XP
+
+[Neverwinter]: ../background/neverwinter.md

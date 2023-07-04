@@ -2,13 +2,13 @@
 
 A great variety of Artifacts can be found on **Mundus**. The most well-known include:
 
-- Arclight
+- [Arclight](neverwinter.md#arclight)
 - Baba Yaga's Hut
 - Book of Exalted Deeds
 - Book of Vile Deeds
 - Chaos Edge
 - Maxwell's Forge
-- NeverWinter
+- [Neverwinter](neverwinter.md)
 - Oracle Stones
 - Orbs of Dragonkind
 - Sky Tower of Ovda

@@ -23,7 +23,7 @@
 The group decides to search the castle, starting with the Southwest corner. We find some Shortbow arrows and ragged bedrolls that stink. In a large room we find many weapons (Morning stars, Long swords), including a finely-wrought Quarterstaff.
 *Actias* picks it up and it's lighter than it looks. We determine that it’s a +1 Quarterstaff, so we give it to *Actias*.
 
-In the large main suite we find a property deed. It names *Magus Arnin* as the owner and seems to be written on brand new, faintly magical, parchment. The deed is registered in **Neverwinter**.
+In the large main suite we find a property deed. It names *Magus Arnin* as the owner and seems to be written on brand new, faintly magical, parchment. The deed is registered in **[Neverwinter]**.
 *Geral* rolls it up and takes it with us.
 
 *Wulrif* and others investigate the remaining rooms. In one, *Tasbros* finds an old brazier. *Steve* pokes at the pile of coal underneath it, and *Wulrif* uses Mage Hand to rummage through it. There's a bloody cloth wrapped around a golden statue
@@ -45,7 +45,7 @@ We investigate the center most Northern room.
 
 We all have a long rest.
 
-Our plan is to go back to **Phandalin** to return *Gundren*, maybe head to **Tresendar Manor**, and then proceed to **Neverwinter** to claim the ruined castle.
+Our plan is to go back to **Phandalin** to return *Gundren*, maybe head to **Tresendar Manor**, and then proceed to **[Neverwinter]** to claim the ruined castle.
 
 On our way back, a young Green Dragon swoops down on us from behind, ambushing us with it's Poisonous breath weapon, doing 26 damage to everyone who succeeds their saving throws!
 For those who didn’t, *Actias* and I, we take 52 damage and get knocked down. The dragon swoops around for a second pass ...
@@ -227,3 +227,5 @@ Round 4
 The players have decided to take a pause here and take up the fight again next week.
 
 ![Tresendar Fight](images/tresendar-fight.png)
+
+[Neverwinter]: ../background/neverwinter.md

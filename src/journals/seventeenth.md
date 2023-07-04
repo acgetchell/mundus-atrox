@@ -156,7 +156,7 @@ impassively at *Chiyo*. *Sildar* looks back and forth between the Oni and her hu
 
 > "We'll need a Bishop to re-consecrate the Ward stone", interjects *Geral* smoothly.
 >
-> "I will message **Neverwinter**", replies *Sister Garaele*.
+> "I will message **[Neverwinter]**", replies *Sister Garaele*.
 >
 > "And where will the Clan be housed?", asks *Sildar*. "Our farmhouses will not suffice ..."
 >
@@ -387,3 +387,5 @@ Not stopping for long, the Irregulars race into the darkness, the Drow pursuit b
 ![Underdark](images/underdark-2.png)
 
 #### 5,000 XP
+
+[Neverwinter]: ../background/neverwinter.md

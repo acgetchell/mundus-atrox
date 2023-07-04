@@ -17,9 +17,9 @@
 
 ![Sword Coast](images/lmop2.jpg)
 
-*Springrise* casts its rays over the **Sword Coast** as [Neverwinter](../background/urbs.md) makes its way along the **High Road** to spend *Summerday* at **Biscayne Bay**, awaiting the arrival of **Waterdeep**, the largest known Submersible Urb.
+*Springrise* casts its rays over the **Sword Coast** as **[Neverwinter]** makes its way along the **High Road** to spend *Summerday* at **Biscayne Bay**, awaiting the arrival of **Waterdeep**, the largest known Submersible Urb.
 
-The *Magisterium* declares *Springrise* as the majority of the inhabitants of **Neverwinter** exchange their musty and clamorous dwellings for the
+The *Magisterium* declares *Springrise* as the majority of the inhabitants of **[Neverwinter]** exchange their musty and clamorous dwellings for the
 warmth of the surrounding lands. Gaily colored tents and trade booths dot the surrounding countryside, patrolled by the *Crusaders* astride their
 clanking beasts.
 
@@ -60,3 +60,5 @@ The party must decide what to do next.
 
 <!-- markdownlint-disable MD033 -->
 <img src="images/owlbear.png" width=50% height=50%>
+
+[Neverwinter]: ../background/neverwinter.md

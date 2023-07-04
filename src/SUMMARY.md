@@ -30,6 +30,7 @@
   - [Mines](background/mines.md)
   - [Urbs](background/urbs.md)
 - [Artifacts](background/artifacts.md)
+  - [Neverwinter](background/neverwinter.md)
   - [Stonehenge](background/stonehenge.md)
 
 # Game Information

@@ -17,13 +17,13 @@ Game statistics for the various races, summarized from the [Player's Handbook] a
 | [Elf], Sky            | +2 Dex, +1 Int, Gliding Wings, Extra Cantrip, Darkvision, Resistances: Acid, Charm/Sleep, Proficiencies: Bow, Swords |
 | [Elf], Wood           | +2 Dex, +1 Wis, Gliding Wings, Extra Cantrip, Darkvision, Resistances: Charm/Sleep, Poison, Proficiencies: Bow, Swords |
 | [Elf, Sea]            | +2 Dex, +1 Con, Swimming Wings, Extra Cantrip, Water Breathing, Resistances: Cold, Charm/Sleep, Proficiencies: Net, Trident, Crossbow |
-| [Elf], Dark           | +2 Dex, +1 Cha, Web spell, Dancing Lights, Faeri Fire, Darkness, Superior Darkvision, Resistances: Charm/Sleep, Poison, Proficiencies: Rapiers, Shortswords, Hand Crossbows |
+| [Elf], Dark           | +2 Dex, +1 Cha, Web spell, Dancing Lights, Faerie Fire, Darkness, Superior Darkvision, Resistances: Charm/Sleep, Poison, Proficiencies: Rapiers, Shortswords, Hand Crossbows |
 | [Fairy]               |
 | [Firbolg]             |
 | [Goblin]              |
 | [Goliath]             |
 | [Gnome], Rock         | +2 Int, +1 Con, Darkvision, Artificers Lore, Tinker |
-| [Half-Elf]            | +2 Cha, +1 on two other abilities, Darkvision, Resistances: Charm/Sleep, Proficiences: Two of Choice |
+| [Half-Elf]            | +2 Cha, +1 on two other abilities, Darkvision, Resistances: Charm/Sleep, Proficiencies: Two of Choice |
 | [Half-Orc]            | +2 Str, +1 Con, Darkvision, Menacing, Relentless Endurance, Savage Attacks |
 | [Halfling], Lightfoot | +2 Dex, +1 Cha, Lucky, Brave, Nimbleness, Stealth |
 | [Harengon]            |
@@ -39,7 +39,6 @@ Game statistics for the various races, summarized from the [Player's Handbook] a
 | [Tabaxi]              |
 | [Tiefling]            | +1 Int, +2 Cha, Darkvision, Resistances: Fire, Infernal legacy |
 | [Yuan-Ti]             |
-
 
 ## Feats
 

@@ -1,6 +1,6 @@
 # Overview
 
-**The Irregulars** are based out of [Neverwinter] and [Phandalin].
+**The Irregulars** are based out of **[Neverwinter]** and **[Phandalin]**.
 
 They are a group of adventurers who have been tasked with finding the [Lost Mine of Phandelver].
 
@@ -46,7 +46,7 @@ Members of the party have included:
 - A nameless Smiling One.
 - *Venomfang*, a Green Dragon.
 
-[Neverwinter]: ../background/urbs.md
+[Neverwinter]: ../background/neverwinter.md
 [Phandalin]: https://www.dndbeyond.com/sources/lmop/phandalin#Part2Phandalin
 [Tiefling]: ../background/tiefling.md
 [Warlock]: ../game/classes.md#warlock
