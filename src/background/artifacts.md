@@ -2,21 +2,22 @@
 
 A great variety of Artifacts can be found on **Mundus**. The most well-known include:
 
-- [Arclight](neverwinter.md#arclight)
+- The [Arclight](neverwinter.md#arclight)
 - Baba Yaga's Hut
-- Book of Exalted Deeds
-- Book of Vile Deeds
+- The Black Cauldron
+- The Book of Exalted Deeds
+- The Book of Vile Deeds
 - Chaos Edge
 - Maxwell's Forge
+- Mournblade
 - [Neverwinter](neverwinter.md)
-- Oracle Stones
-- Orbs of Dragonkind
-- Sky Tower of Ovda
-- Smiting Hammer
+- The Oracle Stones
+- The Orbs of Dragonkind
+- The Sky Tower of Ovda
+- The Smiting Hammer
 - Spellbreaker
 - [Stonehenge](stonehenge.md)
-- Mournblade
-- Vortex Cube
+- The Vortex Cube
 - WaterDeep
 
 Less-famous artifacts abound and are in use by the heroes, villains, and leaders in the various societies.
