@@ -29,8 +29,9 @@
   - [Castelas](background/castelas.md)
   - [Mines](background/mines.md)
   - [Urbs](background/urbs.md)
+    - [Neverwinter](background/neverwinter.md)
 - [Artifacts](background/artifacts.md)
-  - [Neverwinter](background/neverwinter.md)
+  - [The Arclight](background/arclight.md)
   - [Stonehenge](background/stonehenge.md)
 
 # Game Information
