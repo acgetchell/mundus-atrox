@@ -85,7 +85,7 @@ In Common, the Duergar Stone Guard tell us they would like a word with us. We al
 
 They lead us into the dungeon, and we all get a long rest, while we all say “WTF?!?” We are finally taken to a dark office and meet with a large female Duergar.
 
-> After waiting a long while in a dungeon cell carved out of impressively thick stone, you are taken to a dark office and met by an imposing female gray dwarf. She is fully armored and bears an insignia you have not seen on any other duergar. She is flanked by two Stone Guards who remain by the door.
+> After waiting a long while in a dungeon cell carved out of impressively thick stone, you are taken to a dark office and met by an imposing female gray dwarf. She is fully armored and bears an insignia you have not seen on any other Duergar. She is flanked by two Stone Guards who remain by the door.
 >
 > “I am Captain *Errde Blackskull*, Commander of the Stone Guard,” she says, giving each of you a calculating look. “Let me start by saying you are worth nothing here in Gracklstugh. Most of those in my command would sell you off in a heartbeat as the cheapest manual labor. However, I’ve learned to make much better use of adventurers like you.”
 
@@ -95,7 +95,7 @@ I ask what she is going to do with us. She said we have a few options. She can j
 
 Awhile later, a Stone Guard presents us with gold badges and said if we present these to the other Stone Guard, he will let us pass. He also said a group of Drow are asking for a large party, fitting our description. *Droki* is a spy for the Council of Savants, which are an evil rebel group. We are outfitted and take our badges. We are escorted out of the fortress as *Calmul* notices more cannons and the guard are carrying pistols with 7 barrels.
 
-We are now in the **Darklake District** and *Geral* suggests we start at a common area. **Ghohlbrorn's Lair** is the tavern that outsiders can stay in. It’s underneath the docks as we were told. We head there and find a cave system, with a tavern standing on 4 pylons.
+We are now in the **Darklake District** and *Geral* suggests we start at a common area. ****Gholbrorn's Lair**** is the tavern that outsiders can stay in. It’s underneath the docks as we were told. We head there and find a cave system, with a tavern standing on 4 pylons.
 
 As we enter, *Avren* attempts to listen about *Droki* and all she hears about how dangerous the **Underdark** has become. Even the animals and flora seem agitated about a change in the air. Isolated settlements have been attacked by demons. *Tysnera* approaches the inn keeper and asks about *Droki*, a Derro. He said he hasn’t seen any Derro nearby and they usually attack outsiders like us. *Avren* casts detects thoughts and she senses most people are grateful that they made it here. They had a tough journey here and some want to go further but aren’t sure they will make it safely. Suddenly, 2 Orcs jump up and attack each other. We watch in horror as they are separated and they seem to be confused as to why they were fighting in the first place.
 

@@ -63,11 +63,11 @@ We hear music and singing in a hauntingly beautiful soprano. We see an inverted 
 >
 > "Who lives in **Gracklstugh**?"
 >
-> "Duergar, Deep Gnomes, and Mountain Dwarves. Stay away from *Themberchaud's* Lair and the Keepers of the Flame."
+> "Duergar, Deep Gnomes, and Mountain Dwarves. Stay away from *Themberchaud's* Lair and **The Keepers of the Flame**."
 >
 > "*Themberchaud*?"
 >
-> "The Wyrmsmith of **Gracklstugh**. An ancient Red Dragon of unlimited appetite, though the Keepers of the Flame know how to satiate him," *Avren* says darkly.
+> "The Wyrmsmith of **Gracklstugh**. An ancient Red Dragon of unlimited appetite, though **The Keepers of the Flame** know how to satiate him," *Avren* says darkly.
 >
 > "How do you find your way?"
 >
