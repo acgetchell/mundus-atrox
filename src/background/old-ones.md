@@ -4,9 +4,9 @@
 
 The *Old Ones* are a group of utterly inimical **Beings** that seem to have little relationship to the natural order of things.
 
-Near them, the laws of Nature and Magic become warped and hostile to anything nearby, which are often twisted to accomodate this *outre* existence.
+Near them, the laws of Nature and Magic become warped and hostile to anything nearby, which are often twisted to accommodate this *outre* existence.
 
-They often enter or leave **Mundus** during *Autumnset*, when paths to **The Shadowfell** lie open. 
+They often enter or leave **Mundus** during *Autumnset*, when paths to **The Shadowfell** lie open.
 
 Other races also arrive via **The Shadowfell**.
 

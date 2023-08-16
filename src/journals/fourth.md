@@ -25,7 +25,7 @@ forest over to the bodies of the Allosaurs. Ignoring the party entirely, the str
 ![Clockwork Horror](images/clockwork-horror.png)
 
 The sights and sounds were unpleasant to say the least, so the party moved a bit further along the trail of the Urb. The rest period was otherwise uneventful, the light
-from the *Enclouding* giving a dreamlike quality while everyone meditated and healed.
+from the **Enclouding** giving a dreamlike quality while everyone meditated and healed.
 
 Midway through the next 8-hour march, the *Urban* trail turns North into the forest, a vast scar of sawn-down trees and torn-up earth rent between the giant Sequoias.
 
