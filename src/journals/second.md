@@ -48,7 +48,7 @@ The party turned to interrogate the captured Goblin, who revealed a number of it
 
 - The Bugbear's name is *Klarg*, and he's the leader of the band, which numbers more than two dozen. But *Yeemik* is second in command, and know's many things of interest to the group.
 - *Klarg* answers to *King Grol*, chief of the *Cragmaw tribe*, who dwells in **Cragmaw Castle**.
-- *Klarg* received a messenger from *King Grol* a few days ago. Someone named *The Black Spider* was paying the *Cragmaws* to watch for the dwarf
+- *Klarg* received a messenger from *King Grol* a few cycles ago. Someone named *The Black Spider* was paying the *Cragmaws* to watch for the Dwarf
 *Gundren Rockseeker*, capture him, and send him and his effects (but most especially a map) back to *King Grol*.
 - *Klarg* took *Gundren* to **Cragmaw Castle**. *Yeemik* can lead the party there.
 

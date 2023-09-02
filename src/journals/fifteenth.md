@@ -81,7 +81,7 @@ I use divine sense and I can sense that there were 4 Fiends, and now there are 5
 
 #### 15,000 XP
 
-We see a little girl with black hair and she asks us “so, are you going to take the offer from the demon?” We say no, she tells us the weapons are probably cursed.  She tells us her people are trapped in there with her. Her name is *Chiyo* and said her people were misled by promises and told lies. She tells us they are summoning more creatures every day, there are 5 in there currently. There are shadow demons, glabrezu which is the main one talking to us. 2 beasts (Hezrous), 2 Chasmes, and 4 Shadow Demons, and 4 corrupted shamans. She said if we go in to attack them, her people will attack them from behind. Her mate is the leader, the one we talked to first. He is being coerced by the shamans. She estimates we are outnumbered. We learn that glabrezu emits darkness at will. *Wulrif* attempts to read her mind and fails. She shows us her true form, as an Oni, which are lawful. The ward stone is under the altar, using an active gate to call their own kind, Fiends.
+We see a little girl with black hair and she asks us “so, are you going to take the offer from the demon?” We say no, she tells us the weapons are probably cursed.  She tells us her people are trapped in there with her. Her name is *Chiyo* and said her people were misled by promises and told lies. She tells us they are summoning more creatures every cycle, there are 5 in there currently. There are shadow demons, glabrezu which is the main one talking to us. 2 beasts (Hezrous), 2 Chasmes, and 4 Shadow Demons, and 4 corrupted shamans. She said if we go in to attack them, her people will attack them from behind. Her mate is the leader, the one we talked to first. He is being coerced by the shamans. She estimates we are outnumbered. We learn that glabrezu emits darkness at will. *Wulrif* attempts to read her mind and fails. She shows us her true form, as an Oni, which are lawful. The ward stone is under the altar, using an active gate to call their own kind, Fiends.
 
 *Actias* is lighting up his sun blade, we take formation and move into the courtyard. We don’t see anything yet.
 
@@ -117,7 +117,7 @@ Round 2 – I get 4 HP
 6. *Tasbros* uses confusion and it fails
 7. The Oni, which brought the bird Fiend down, finally delivers the killing blow to it.
 8. I am is stunned.
-9. *Viker* uses lightning bolt for 30 HP damage. She casts daylight, 60 ft radius. Now, she enters the cathedral and sees the 4 shamans, the fat winged creature, the lobster goat creature, and the Oni and Ork who are fighting things in the back room. She moves her moonbeam onto the lobster goat creature and does 14 HP damage.
+9. *Viker* uses lightning bolt for 30 HP damage. She casts Daylight, 60 ft radius. Now, she enters the cathedral and sees the 4 shamans, the fat winged creature, the lobster goat creature, and the Oni and Ork who are fighting things in the back room. She moves her moonbeam onto the lobster goat creature and does 14 HP damage.
 10. *Benjamin* moves into the cathedral and shoots hail of thorns, which fails, doing 12 HP damage. Then, he shoots the fat winged creature and does 14 HP damage.
 11. *Tysnera* casts lightning bolt and does 19 HP damage to the fat winged creature. It does 37 HP damage to an Ork shaman, taking him out.
 12. The fat winged creature leaves the cathedral to attack *Steve* and Tasbros by the front gate. Tasbros is afraid and runs away, in his turn. It attacks *Steve* and does 24 HP damage.

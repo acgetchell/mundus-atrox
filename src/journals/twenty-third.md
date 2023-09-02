@@ -28,9 +28,9 @@ As we approach the gate, *Geral* asks if they saw the Derro come by here. He sai
 
 Group 2 staggers ourselves 10 ft apart inside the city gate (leading away from the gate), about 40 ft away from the gate.
 
-Group 1 walks outside of the gate and we all wait. We don’t see him go by for a full day. We regroup back at the inn, rest, and *Geral* asks if he has seen any strange happenings at all recently. He responds yes that he kicked some people out yesterday that were saying strange things. He said he doesn’t pay much attention though.
+Group 1 walks outside of the gate and we all wait. We don’t see him go by for a full cycle. We regroup back at the inn, rest, and *Geral* asks if he has seen any strange happenings at all recently. He responds yes that he kicked some people out yesterday that were saying strange things. He said he doesn’t pay much attention though.
 
-We decide to go to the **Overlake Hold** and interrogate the prisoners. We ask to question them. We are led to them and we see some Orcs, Gnomes, and Dwarves. None of them are doing anything odd. *Geral* questions the Gnomes and asks them what happened yesterday. They said “You've heard it too?” and he replies “I’ve seen it and what it does to people.” They say "Oh, you have the gift too?” and they start discussing a lady. He seems to be following the desire of a female presence. She comes in his dreams and he sees her every night since he “accepted her.” and he drones on about her for some time.
+We decide to go to the **Overlake Hold** and interrogate the prisoners. We ask to question them. We are led to them and we see some Orcs, Gnomes, and Dwarves. None of them are doing anything odd. *Geral* questions the Gnomes and asks them what happened last cycle. They said “You've heard it too?” and he replies “I’ve seen it and what it does to people.” They say "Oh, you have the gift too?” and they start discussing a lady. He seems to be following the desire of a female presence. She comes in his dreams and he sees her every night since he “accepted her.” and he drones on about her for some time.
 
 *Wulrif* takes over and feels a presence in his mind. He feels warm, light, and wonderful. He feels like he’s about to be blessed if he accepts it. *Wulrif* rejects it and is kicked out.
 

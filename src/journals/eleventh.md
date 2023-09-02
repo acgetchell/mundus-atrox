@@ -20,22 +20,22 @@
 
 #### From the journal of Dame Orky
 
-> Six cracked marble pillars line the walls of this hall, at the north end of which stands a nine-foot-tall statue of a dwarf seated on a throne, a mighty stone Warhammer across his lap. Large emeralds gleam in the statue’s eyes.
+> Six cracked marble pillars line the walls of this hall, at the north end of which stands a nine-foot-tall statue of a Dwarf seated on a throne, a mighty stone Warhammer across his lap. Large emeralds gleam in the statue’s eyes.
 
 We have tied and gagged the Wizard and the Drow. *Gundren* brings in a shield for us that has an eye on it, which turns out to be a Shield of Alertness.
 *Geral* takes it.
 
 *Tysnera* casts Ritual Identify on the objects. *Wulrif* shuts the door and locks it, I guard it. *Wulrif* hears a voice in his head “Can you take the gag off? You don’t have to worry about me.” He angrily casts a cantrip on the prisoner and tells him to speak out loud. He rips out the gag. The Drow threatens us to talk to him now or he will hunt us down and kill us, then haunt us forever. *Wulrif* puts the gag back on. *Actias* uses Mage Hand to retrieve a key from around the Drow's neck.
 
-*Actias* and *Wulrif* investigate the statue and find the emeralds are fake. *Tasbros* casts Detect Magic and finds Abjuration magic on the statue. *Geral* asks *Gundren* if the statue is made by dwarfs. He confirms that it is and that the gems are fake. *Gundren* walks over to the table to read the notes on it. He finds a Potion of Healing and *Viker* takes it. *Gundren* thinks *Sildar* would want the two hostages returned to **Phandalin** to stand trial.
+*Actias* and *Wulrif* investigate the statue and find the emeralds are fake. *Tasbros* casts Detect Magic and finds Abjuration magic on the statue. *Geral* asks *Gundren* if the statue is made by Dwarves. He confirms that it is and that the gems are fake. *Gundren* walks over to the table to read the notes on it. He finds a Potion of Healing and *Viker* takes it. *Gundren* thinks *Sildar* would want the two hostages returned to **Phandalin** to stand trial.
 
 *Gundren* starts walking towards the second door that seems to be locked. “Does anyone have a key?” *Wulrif* exclaims that he found a key just now and walks over to unlock the door but hesitates as we need to explore the room further.
 
-*Wulrif* decides to interrogate *Iarno* about *Gundren*’s brother. *Wulrif* tells him to speak or we will cut his hand off. He finally concedes that his brother is in the other room. *Viker* turns into a fly to investigate. She sees a bound dwarf in there with some other stuff. She returns and relays the information to us.
+*Wulrif* decides to interrogate *Iarno* about *Gundren*’s brother. *Wulrif* tells him to speak or we will cut his hand off. He finally concedes that his brother is in the other room. *Viker* turns into a fly to investigate. She sees a bound Dwarf in there with some other stuff. She returns and relays the information to us.
 
 I, *Tasbros*, and *Tysnera* go clear the rest of the room. We find maps of the cave and vague directions of where the spell forge is. We find a bunch of treasure and a mug. We give the treasure to *Gundren* to hold onto until we get back.
 
-Everyone else opens the door and *Gundren* rushes in to the dwarf. He needs to be healed so we give the potion to him. *Gundren* told us about a room full of Undead with one door. He tells us of a cellar we can retreat to for protection. We start figuring out where the Undead are and sense we are probably being closed in on. We strategize about which way to move through the caves toward the spell forge.
+Everyone else opens the door and *Gundren* rushes in to the Dwarf. He needs to be healed so we give the potion to him. *Gundren* told us about a room full of Undead with one door. He tells us of a cellar we can retreat to for protection. We start figuring out where the Undead are and sense we are probably being closed in on. We strategize about which way to move through the caves toward the spell forge.
 
 We march on through the bugbear room we cleared earlier…
 
@@ -67,8 +67,8 @@ Round 1
 
 Round 2
 
-1. *Benjamin* shot the beholder thing for 20+ damage.
-2. *Geral* asks *Benjamin* to hit the beholder thing again for 15 damage and it goes down!
+1. *Benjamin* shot the Beholder thing for 20+ damage.
+2. *Geral* asks *Benjamin* to hit the Beholder thing again for 15 damage and it goes down!
 3. *Tysnera* uses Fireball, sparing CoralKing, and does 29 damage, but doesn’t drop anything.
 4. There is a Lightning Bolt that comes out of nowhere, but *Wulrif* miraculously manages to Counterspell it.
 5. *Actias* moves up and casts bane on 4 Undead.

@@ -59,7 +59,7 @@ We hear music and singing in a hauntingly beautiful soprano. We see an inverted 
 >
 > "Oh," says *Geral*, disappointed. "I suppose you don't go back the same way."
 >
-> "No," *Avren* replies with a tinkling laugh. "I normally meet someone friendly, trade with them, and take one of the trails out, usually through **Gracklstugh**. That's about 8-10 days from here, as the raft wanders."
+> "No," *Avren* replies with a tinkling laugh. "I normally meet someone friendly, trade with them, and take one of the trails out, usually through **Gracklstugh**. That's about 8-10 cycles from here, as the raft wanders."
 >
 > "Who lives in **Gracklstugh**?"
 >
@@ -75,7 +75,7 @@ We hear music and singing in a hauntingly beautiful soprano. We see an inverted 
 
 *Avren* is full of useful information about the mushrooms of the **Underdark**, telling us which ones make water, wine, food, and other things.
 
-We remember that we are here to hunt Fiends for the *Society of Brilliance* and discover how they are getting into the **Underdark**. We decide to take a day and fashion some more secure rafts. That day goes well! The team makes food and water from the mushrooms. *Avren* points out some mushrooms with orange and red stripes and says they are called “The Devil’s Mushrooms”, making a really strong red liquor that the Duergar like. *Calmul* busts out a still in a cloud of small, whirring, magical devices. No one is brave enough to drink the final product. We end up with 2 wine skins of the stuff, which *Avren* says will be worth a lot in **Gracklstugh**.
+We remember that we are here to hunt Fiends for the *Society of Brilliance* and discover how they are getting into the **Underdark**. We decide to take a cycle and fashion some more secure rafts. That cycle goes well! The team makes food and water from the mushrooms. *Avren* points out some mushrooms with orange and red stripes and says they are called “The Devil’s Mushrooms”, making a really strong red liquor that the Duergar like. *Calmul* busts out a still in a cloud of small, whirring, magical devices. No one is brave enough to drink the final product. We end up with 2 wine skins of the stuff, which *Avren* says will be worth a lot in **Gracklstugh**.
 
 *Benjamin* decides to explore and finds 3 octopodes in the tops of the tree-like mushrooms *Avren* calls Zurkhwood. One of them floats off ... in fear? Another is chewing on a Stirge. I like that one. *Steve* attempts to catch it and but somehow it detects ultra-sneaky *Steve* and escapes. Now, all 3 are gone.
 

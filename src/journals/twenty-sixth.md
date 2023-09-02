@@ -21,13 +21,13 @@ We go back to the artificer to ask if he knows how to purge the curse on the wea
 
 I begin the quest of the templar…
 
-The first task is the purification ritual. I must fast for a day and sit in prayer. Then, I must sit in front of a panel who judge my trial by combat as complete as I slayed the Death Knight. Provisionally, I am now a templar. I will complete my quest to become a full-fledged templar if I purge *Lord Varkosian*’s soul from the unholy avenger. I am assigned Brother *Harrod*, a dwarf with a shaved top, to monitor me. He seems like a jolly lad. We all pray before setting off on this quest. I was granted a +2 Cloak of Protection.
+The first task is the purification ritual. I must fast for a cycle and sit in prayer. Then, I must sit in front of a panel who judge my trial by combat as complete as I slayed the Death Knight. Provisionally, I am now a templar. I will complete my quest to become a full-fledged templar if I purge *Lord Varkosian*’s soul from the unholy avenger. I am assigned Brother *Harrod*, a Dwarf with a shaved top, to monitor me. He seems like a jolly lad. We all pray before setting off on this quest. I was granted a +2 Cloak of Protection.
 
-We go back to the air hanger and ask about Lady Varkosian’s. The orb tells us that 3 months ago she went to **Savra's Cathedral**. They tell us in the magical travel area, there is a teleportation circle to the Cathedral. We ask about a wizard and he tells us the other end seems to be closed off. That’s when I remember we’ve been to this cathedral. That’s where we found the cursed ward stone. We go back to the orb and ask if we can requisition an airship to travel to the Cathedral. He allows it and we fly above the clouds, unable to see the sun.
+We go back to the air hanger and ask about *Lady Varkosian*’s. The orb tells us that 3 months ago she went to **Savra's Cathedral**. They tell us in the magical travel area, there is a teleportation circle to the Cathedral. We ask about a wizard and he tells us the other end seems to be closed off. That’s when I remember we’ve been to this cathedral. That’s where we found the cursed ward stone. We go back to the orb and ask if we can requisition an airship to travel to the Cathedral. He allows it and we fly above the clouds, unable to see the sun.
 
-We arrive at the Cathedral to chase down Lady Varkosian. *Actias* sees one of the coffins with a stake through a body that has features similar to the lady on the crystal cube. We discuss how to talk to her without freeing her or putting ourselves in danger. *Actias* decides to cast Magic Circle and Wulrif uses mage hand to remove the stake. She FREAKS OUT and tries to escape by hundreds of methods. She turns into a fairly attractive woman, sits down, and smiles at us asking what we need. She said she hasn’t been around the Lord until the spring rise and didn’t know he became a death knight. She became bored with him since he was concerned about climbing the ladder of the templars and she wanted a family. She decided to pray about it. The vampire lord came to her and converted her to a vampire. Then, she left.
+We arrive at the Cathedral to chase down *Lady Varkosian*. *Actias* sees one of the coffins with a stake through a body that has features similar to the lady on the crystal cube. We discuss how to talk to her without freeing her or putting ourselves in danger. *Actias* decides to cast Magic Circle and *Wulrif* uses mage hand to remove the stake. She FREAKS OUT and tries to escape by hundreds of methods. She turns into a fairly attractive woman, sits down, and smiles at us asking what we need. She said she hasn’t been around the Lord until the spring rise and didn’t know he became a death knight. She became bored with him since he was concerned about climbing the ladder of the templars and she wanted a family. She decided to pray about it. The vampire lord came to her and converted her to a vampire. Then, she left.
 
-She thinks she has something to do with her husband being converted. She thinks *Lord Varkosian* was trying to reconnect with her by doing that. Then, she spends quite some time trying to seduce *Actias*. We decide to stake her again and put her in Wulrif’s bag of holding. Then, we seek out the Vampire lord. *Actias* attempted to swallow the bag of holding. He expresses to all of us how desperately he wants to become a Dhampir.
+She thinks she has something to do with her husband being converted. She thinks *Lord Varkosian* was trying to reconnect with her by doing that. Then, she spends quite some time trying to seduce *Actias*. We decide to stake her again and put her in *Wulrif*’s bag of holding. Then, we seek out the Vampire lord. *Actias* attempted to swallow the bag of holding. He expresses to all of us how desperately he wants to become a Dhampir.
 
 We head back to Phandalin via an airship because we know *Sister Garaele* can cast divination spells. She said she has a good idea of where this vampire lord is. She knows of a town that fell, called **Axeholm**, and there are a ton of undead there. Since our party is pretty thin, we decide to stay in Phandalin and pursue this quest for *Actias*.
 
@@ -37,14 +37,16 @@ We see this strange forest with open sky and a castle off in the distance. *Acti
 
 Quickly they encounter a vampire to battle and I cast Haste onto *Actias*.
 
-Turn 1
-*Actias* casts Hellish Rebuke and does 5 HP damage. He wields his sunblade and casts Hexblade’s curse. He attacks with his dancing blade and his shortsword, doing 72 HP damage.
-CoralKing runs up and tries to grapple the vampire to give *Actias* advantage. He fails but shadow steps to the back of the vampire to succeed in giving *Actias* advantage.
-I harm the vampire by 7 HP.
+Round 1
 
-Turn 2
-CoralKing hits the vampire with one unarmed strike and uses a ki point to make it a stunning strike. He does 8 HP damage.
-*Actias* strikes twice and does 54 HP damage with the sunblade. That kills the vampire. He lets out a scream as he is dissipated forever.
+1. *Actias* casts Hellish Rebuke and does 5 HP damage. He wields his sunblade and casts Hexblade’s curse. He attacks with his dancing blade and his shortsword, doing 72 HP damage.
+2. *CoralKing* runs up and tries to grapple the vampire to give *Actias* advantage. He fails but shadow steps to the back of the vampire to succeed in giving *Actias* advantage.
+3. I harm the vampire by 7 HP.
+
+Round 2
+
+1. *CoralKing* hits the vampire with one unarmed strike and uses a ki point to make it a stunning strike. He does 8 HP damage.
+2. *Actias* strikes twice and does 54 HP damage with the sunblade. That kills the vampire. He lets out a scream as he is dissipated forever.
 
 *Alyssa* emerges from the distance licking blood off of her arm and is impressed by *Actias*’ kill. They proceed to the nearest river, lie under the water as they die, and I pull them from the water at the last moment. They are now both Dhampir. We realize the importance of leaving the area before we take a long rest. We quickly head back to Phandalin.
 

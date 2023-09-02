@@ -53,7 +53,7 @@ The adventurers enter.
 
 After some consultation, the party decides to head South to look at the **Old Owl Well**, a point of interest on the map. The ground gets steeper and the wind picks up.
 
-They encounter an old dwarf riding a horseless carriage.
+They encounter an old Dwarf riding a horseless carriage.
 
 ![Dwarf and his horseless carriage](images/dwarf-horseless-carriage.png)
 

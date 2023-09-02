@@ -1,6 +1,6 @@
 # The Arch
 
-> In the earliest days of the world, the vast lands were empty save for two mighty races: the Dragons and the Giants. These colossal beings were in constant competition, each desiring to shape the world in their own image.
+> In the earliest seasons of the world, the vast lands were empty save for two mighty races: the Dragons and the Giants. These colossal beings were in constant competition, each desiring to shape the world in their own image.
 >
 > The Dragons, graceful and elegant, soared through the skies, painting the heavens with their vibrant flames. Their vision was a world of endless skies and infinite horizons. The Giants, on the other hand, stood tall and mighty, shaping mountains, valleys, and plains with their immense hands. Their dream was a land of towering peaks and deep-rooted forests.
 >

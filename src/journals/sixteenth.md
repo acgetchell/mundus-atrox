@@ -47,7 +47,7 @@ We start by searching the grounds and the cathedral. We find a gift box containi
 >
 > "You tell me." *Chiyo* smiles appraisingly.
 
-We need to get the ward stone into our wagon. We decide to use *Tasbros*’ telekinesis to lift it into our wagon. As we do this, we see a bird circling, it lands and turns into this little masked person. His mask is half happy and half sad. He starts giving us shit about how fucked up the ward stone is. We use detect magic and see he’s magic. He asks us if we know how ward stones work. *Actias* asks what his intentions are and he just laughs. *Wulrif* tries to read his mind and it’s strangely missing. *Viker* invites him to join us on our journey back to Phandalin and calls him old, which pisses him off. He grows and starts rearing up at us. We ask what we can do to keep him happy. He said we will amuse him, he snaps his fingers and the skies start to darken. He snaps his fingers again and we feel the ground start to shake. Then, this massive toothed worm breaks out of the ground behind the group.
+We need to get the ward stone into our wagon. We decide to use *Tasbros*’ Telekinesis to lift it into our wagon. As we do this, we see a bird circling, it lands and turns into this little masked person. His mask is half happy and half sad. He starts giving us shit about how fucked up the ward stone is. We use detect magic and see he’s magic. He asks us if we know how ward stones work. *Actias* asks what his intentions are and he just laughs. *Wulrif* tries to read his mind and it’s strangely missing. *Viker* invites him to join us on our journey back to Phandalin and calls him old, which pisses him off. He grows and starts rearing up at us. We ask what we can do to keep him happy. He said we will amuse him, he snaps his fingers and the skies start to darken. He snaps his fingers again and we feel the ground start to shake. Then, this massive toothed worm breaks out of the ground behind the group.
 
 ![Purple Worm](images/purple-worm.png)
 
@@ -96,7 +96,7 @@ Round 4
 
 *Tasbros* makes a web at the bottom of this girth hole. We land on the web on the bottom of this girth hole. We are in a cavern with fungus. Welcome to the **Underdark**, bitches.
 
-*Tasbros* contracts short-term madness and falls unconscious for 7 minutes. He seems fine, but has a sort of twitch to him now. *Tysnera* detects a fiendish magic everywhere around us. We walk for 2 days and find a stream. I fill up my water skin and stand watch while everyone else drinks water. I finally see 9 fat, 2-headed, knuckle-dragging figures approaching. *Viker* says “hello friend” in Ork. They respond “small food, let’s get em boys!” and attack.
+*Tasbros* contracts short-term madness and falls unconscious for 7 minutes. He seems fine, but has a sort of twitch to him now. *Tysnera* detects a fiendish magic everywhere around us. We walk for 2 cycles and find a stream. I fill up my water skin and stand watch while everyone else drinks water. I finally see 9 fat, 2-headed, knuckle-dragging figures approaching. *Viker* says “hello friend” in Ork. They respond “small food, let’s get em boys!” and attack.
 
 ![Ettins](images/ettin.png)
 

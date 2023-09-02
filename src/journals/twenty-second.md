@@ -85,7 +85,7 @@ In Common, the Duergar Stone Guard tell us they would like a word with us. We al
 
 They lead us into the dungeon, and we all get a long rest, while we all say “WTF?!?” We are finally taken to a dark office and meet with a large female Duergar.
 
-> After waiting a long while in a dungeon cell carved out of impressively thick stone, you are taken to a dark office and met by an imposing female gray dwarf. She is fully armored and bears an insignia you have not seen on any other Duergar. She is flanked by two Stone Guards who remain by the door.
+> After waiting a long while in a dungeon cell carved out of impressively thick stone, you are taken to a dark office and met by an imposing female gray Dwarf. She is fully armored and bears an insignia you have not seen on any other Duergar. She is flanked by two Stone Guards who remain by the door.
 >
 > “I am Captain *Errde Blackskull*, Commander of the Stone Guard,” she says, giving each of you a calculating look. “Let me start by saying you are worth nothing here in Gracklstugh. Most of those in my command would sell you off in a heartbeat as the cheapest manual labor. However, I’ve learned to make much better use of adventurers like you.”
 
@@ -121,7 +121,7 @@ We discuss and can’t find a way in to help Group 1, so I hand her my manacles 
 
 We decide to cast *Viker*’s Daylight spell on her manacles and we walk very quickly through the growing crowd of Derro to the cave.
 
-Group 1 hears lots of screeching and finally see *Viker* and the rest of the group follow into the cave. We join up and attempt to find *Droki*. *Viker* leaves her daylight spell at the bottleneck of the cave, to keep the Derro out.
+Group 1 hears lots of screeching and finally see *Viker* and the rest of the group follow into the cave. We join up and attempt to find *Droki*. *Viker* leaves her Daylight spell at the bottleneck of the cave, to keep the Derro out.
 
 In our minds, we see a figure bent over some symbol drawn on the ground with darkness surrounding it. We understand this as the figure we need to find. We suddenly find a large red creature that I immediately recognize as a Balor demon with an ox face, horns, large wings, a huge sword, and a fire whip.
 

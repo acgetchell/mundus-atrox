@@ -27,7 +27,7 @@ Of new beginnings, a way to cope,
 As if the stones themselves proclaim,  
 The promise of life, the end of the game.
 >
-> So, on this day of resurrection and spring,  
+> So, on this cycle of resurrection and spring,  
 Let us gather at Stonehenge and sing,  
 Songs of joy, of hope, and of love,  
 And let the stones bless us from above.
