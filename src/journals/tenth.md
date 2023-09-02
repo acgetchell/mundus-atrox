@@ -138,7 +138,7 @@ b. He dashes to the wizard.
 3. *Steve* hits a Drow?
 4. A Drow sends a flame and *CoralKing* makes a saving throw and fails. He takes 9 damage.
 5. *Tasbros* casts Chromatic Orb on the wizard for 31 damage, killing him.
-6. *Wulrif* eldritch blasts the Drow onto the star space, doing 19 damage.
+6. *Wulrif* Eldritch Blasts the Drow onto the star space, doing 19 damage.
 7. *Tysnera* uses magic missile and they get absorbed into a special spot.
 8. *Viker* casts moonbeam and the Drow uses a Counterspell to block it.
 9. Orky casts Hold Person and the Drow succeeds on it’s wisdom saving throw.

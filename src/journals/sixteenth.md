@@ -69,7 +69,7 @@ Round 2
 2. *Steve* is hiding and uses a sneak attack on his short crossbow, doing 29 HP damage.
 3. *Actias* moves away from the group and casts thunder step, doing 16 HP damage.
 4. *CoralKing* uses 1 unarmed strike and does 10 HP damage.
-5. *Tysnera* uses a feather fall token. She can see a greenish glow growing closer.
+5. *Tysnera* uses a Feather Fall token. She can see a greenish glow growing closer.
 6. *Viker* uses Shillelagh on something?
 7. The guy is no longer confused, kits *Tasbros* with the telekinetic force, doing 20 HP damage. He is now following *Tysnera* down the girth hole. Then, he attacks *Viker*, doing 21 HP damage, throwing her down the girth hole too.
 8. I moves toward him, cast Thunderous Smite and hit the guy twice, doing 35HP damage.

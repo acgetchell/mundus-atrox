@@ -61,7 +61,7 @@ Round 1
 5. *Geral* does 10 HP damage on a hit and asks me to hit, which I do 27 HP damage.
 6. *Calmul* shoots his musket, doing 20 HP damage. His steel defender misses.
 7. *Avren* shoots her brand new bow
-8. *Tasbros* casts a gem dragon spirit, which makes 2 attacks and 15 HP damage.
+8. *Tasbros* casts a gem Dragon spirit, which makes 2 attacks and 15 HP damage.
 9. The giant’s mutated head swells up with bloodlust and attacks me, *Geral* reacts and hits him for 10 HP damage. I lose 35 HP on the first hit and 18 HP on the second hit.
 10. *Steve* sneak attacks and hits for 35 HP damage.
 11. *Viker* heals me for 18 HP.

@@ -48,7 +48,7 @@ We all have a long rest.
 Our plan is to go back to **Phandalin** to return *Gundren*, maybe head to **Tresendar Manor**, and then proceed to **[Neverwinter]** to claim the ruined castle.
 
 On our way back, a young Green Dragon swoops down on us from behind, ambushing us with it's Poisonous breath weapon, doing 26 damage to everyone who succeeds their saving throws!
-For those who didn’t, *Actias* and I, we take 52 damage and get knocked down. The dragon swoops around for a second pass ...
+For those who didn’t, *Actias* and I, we take 52 damage and get knocked down. The Dragon swoops around for a second pass ...
 
 ![Young Green Dragon Swooping](images/young-green-dragon-swooping.png)
 
@@ -57,7 +57,7 @@ Round 1
 We decide to scatter since we are in the middle of the plains between **Neverwinter Wood** and the **Triboar Trail**.
 
 1. *Benjamin* runs away and shoots his Longbow, but misses. He hits with his second shot and does 10 damage.
-2. *Steve* moves 25 feet in the opposite direction and shoots his Shortbow, hitting for 6 damage. He also hides, strategically. The dragon needs a 22 to spot him.
+2. *Steve* moves 25 feet in the opposite direction and shoots his Shortbow, hitting for 6 damage. He also hides, strategically. The Dragon needs a 22 to spot him.
 3. *CoralKing* runs towards *Benjamin* and holds his action until the Dragon is within range.
 4. *Actias* critically fails his death saving throw.
 5. The Dragon swoops in and attacks *Tasbros*, luckily missing with a bite and claw attack, doing 9 HP damage with the other claw. It breathes in deeply ...

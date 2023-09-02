@@ -70,7 +70,7 @@ Round 6
 2. *Benjamin* shoots an archer for a critical hit and kills him. He takes aim and misses a shot at another guy.
 3. *Calmul* shoots at the remaining 3 guys by the central pit and misses.
 4. *Tysnera* casts magic missile on those 3 guys and hits them for 8 damage.
-5. *Wulrif* eldritch blasts one of the guys and kills him.
+5. *Wulrif* Eldritch Blasts one of the guys and kills him.
 6. *CoralKing* uses 3 attacks on a guy and hits all 3 for 32 damage. So, he pulverized him in front of his friends.
 7. The wizard disappears!!!
 8. *Geral* says “well done your highness, go again!” to allow *CoralKing* to attack again. *CoralKing* hits one critical and another hit to kill the guy. Geral does some damage on a guy.

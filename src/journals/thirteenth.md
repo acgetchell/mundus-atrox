@@ -47,7 +47,7 @@ Round 1
 10. *Tysnera* lands on top of the vehicle, uses Fireball on the Giants she can see, and does 31 damage on them all. (1/3 of their hit points)
 11. *Calmul* lands on top of the vehicle, moves toward the front, and shoots at the Fire Giant but misses.
 12. The battering rams keep attacking the doors and the bolt launchers hit *Steve* for 6 HP damage. They miss at *Wulrif*.
-13. *Wulrif* Hexes the Fire Giant and eldritch blasts him for 15 HP and moves back 10 ft.
+13. *Wulrif* Hexes the Fire Giant and Eldritch Blasts him for 15 HP and moves back 10 ft.
 14. *Steve* shoots.
 15. The Goblins shoot at us on the ground and hits me twice for 16 damage (so 10). They fire at *CoralKing*, he grabs the arrow out of midair, throws it back and kills the Goblin.
 

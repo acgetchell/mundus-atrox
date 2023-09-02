@@ -76,3 +76,6 @@
   - [Twenty-Second Session](journals/twenty-second.md)
   - [Twenty-Third Session](journals/twenty-third.md)
   - [Twenty-Fourth Session](journals/twenty-fourth.md)
+  - [Twenty-Fifth Session](journals/twenty-fifth.md)
+  - [Twenty-Sixth Session](journals/twenty-sixth.md)
+  - [Twenty-Seventh Session](journals/twenty-seventh.md)

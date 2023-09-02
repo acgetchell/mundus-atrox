@@ -23,11 +23,11 @@ We ride back in the crawler with a hundred Dwarves. They thank us and want to th
 
 We are headed to Phandalin to deliver *Iarno Glasstaff* to *Sildar* and deal with the demi-beholder again. As we walk along the path, 2 dinosaurs jump out as us and they look hungry. *Benjamin* speaks with the dinosaurs. He convinced them to go eat the brontosaurus instead. We finally make it to Phandalin.
 
-We head to the Townmaster’s Hall first to deliver *Iarno*. *Sildar* throws him in jail. He reminds us that we are in midsummer and used to have a ward stone to protect them from the undead during Winternight. However, it has been befouled? And doesn’t work. Usually a whole church blesses a ward stone, so not an easy thing to obtain. They are usually 200+ lbs so we would need a wagon to haul it. Alternatively, there’s another haunted mine fortress 15 miles south of here called **Axeholm** that we can take instead. **Savra’s Cathedral** is where we can go to recover an unused ward stone.
+We head to the Townmaster’s Hall first to deliver *Iarno*. *Sildar* throws him in jail. He reminds us that we are in midsummer and used to have a ward stone to protect them from the undead during Winternight. However, it has been befouled? And doesn’t work. Usually a whole church blesses a ward stone, so not an easy thing to obtain. They are usually 200+ lbs so we would need a wagon to haul it. Alternatively, there’s another haunted mine fortress 15 miles south of here called **Axeholm** that we can take instead. **Savra's Cathedral** is where we can go to recover an unused ward stone.
 
-*Sildar* also reminds us that there are a ton of dragons that have been flying around lately. A dragon-laying sword can be found nearby where a famous hero slayed a dragon.
+*Sildar* also reminds us that there are a ton of Dragons that have been flying around lately. A Dragon-laying sword can be found nearby where a famous hero slayed a Dragon.
 
-We decide to head to **Tresendar Manor** to recover the magic armor in the basement, then get the dragon-slaying sword. We walk into the basement and see the Spectator.
+We decide to head to **Tresendar Manor** to recover the magic armor in the basement, then get the Dragon-slaying sword. We walk into the basement and see the Spectator.
 
 ![Spectator](images/spectator.png)
 
@@ -39,7 +39,7 @@ Round 1
 4. *CoralKing* moves behind the creature and holds his action but uses patient defense.
 5. The creature psychically attacks *CoralKing* but he resists it. I get paralyzed. *Geral* survives the attack as well. *Tasbros* takes 16 hp of damage.
 6. *Geral* orders *Steve* to shoot his bow. For his second attack, *Geral* hits?
-7. *Wulrif* Hexes it and it rebounds, hexing *Wulrif*. His 2 eldritch blasts miss, rebound, and miss *Wulrif*.
+7. *Wulrif* Hexes it and it rebounds, hexing *Wulrif*. His 2 Eldritch Blasts miss, rebound, and miss *Wulrif*.
 8. *Viker* goes up to it and uses her boots of spring to jump up and hit it with her mace, then Teleports before she lands. She does 4 HP damage.
 9. *Tysnera* throws a dagger at it and does 4 HP damage.
 10. *Tasbros* moves back a little, uses his crossbow to shoot it ,and misses.
@@ -76,7 +76,7 @@ The spectator dissipates and a tiny one appears, attracted to **Wulrif*'s* magic
 
 *Tasbros* uses move earth to dig, and we see a life-size statue. He detects magic and sees the sword hilt is magic and the tomb. He uses mage hand to lift the sword and it can’t do anything. Me and *Geral* climb up to the statue and I feel a question in my mind, "Am I trustworthy?" I say "Yes" and the sword drops and I grab it. It’s like a Lightsaber. It’s called a Sun Blade and I humbly pass it to *Actias* to use. *Tasbros* uses knock to open the tomb. He sees a body covered in dwarven-made armor. I take it.
 
-We then head to the Cathedral. *Geral* stops by the Townmaster first and wants to know where the gnome mercenaries came from. They came from **Gnomengarde** and get paid 60 gp each Summerday and 120 gp each Winternight. **Gnomengarde** is 15 miles southeast of **Phandalin**. *Benjamin* has Animal Handling so he can use a mule to haul a cart. We do all of that and move along. We see a dragon in the distance but make it to the Cathedral without trouble. *Steve* goes ahead and scouts the premises, detecting 2 dozen Orcs and 2 dozen Ogres in the courtyard and guard towers. 4 Orcs are in each guard tower (adding 16 to the total) and Ogres are in the courtyard. He has no idea how many more are inside the actual building.
+We then head to the Cathedral. *Geral* stops by the Townmaster first and wants to know where the gnome mercenaries came from. They came from **Gnomengarde** and get paid 60 gp each Summerday and 120 gp each Winternight. **Gnomengarde** is 15 miles southeast of **Phandalin**. *Benjamin* has Animal Handling so he can use a mule to haul a cart. We do all of that and move along. We see a Dragon in the distance but make it to the Cathedral without trouble. *Steve* goes ahead and scouts the premises, detecting 2 dozen Orcs and 2 dozen Ogres in the courtyard and guard towers. 4 Orcs are in each guard tower (adding 16 to the total) and Ogres are in the courtyard. He has no idea how many more are inside the actual building.
 
 *CoralKing* approaches the Cathedral using *Wulrif*’s megaphone saying he wants the ward stone. An Ogre approaches asking him to repeat it. *CoralKing* said he wants the ward stone or else. It says “what’s a warthumb?” *CoralKing* said “give us the ward stone or else”. He said “what do you mean ‘or else’ I will crush you.” A smaller Ork approaches and inquires the same. *CoralKing* repeats that we want the ward stone and they respond that they have no idea what we are talking about. They said they have heard of our group and they outnumber us. He tells them about **Axeholm** where they can relocate. They said they just encountered a Dragon and arrived here shortly before, they are not moving. *CoralKing* asks them if we can come in and take a look to identify it.
 
