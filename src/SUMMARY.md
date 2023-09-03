@@ -38,6 +38,7 @@
 # Game Information
 
 - [Starting](game/starting.md)
+  - [Backgrounds](game/backgrounds.md)
   - [Classes](game/classes.md)
     - [Artificer](game/artificer.md)
     - [Playtest Materials](game/playtest.md)

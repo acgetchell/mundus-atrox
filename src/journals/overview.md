@@ -6,18 +6,21 @@ They are a group of adventurers who have been tasked with finding the [Lost Mine
 
 Members of the party have included:
 
-- *Actias Aureus*, a [Tiefling] [Warlock] and Mystic of the *Rockseeker Clan*. **Current XP Total**: 94,700
-- *Avren Varan*, a [Half-Elven] [Bard]. **Current XP Total**: 101,000
+- *Actias Aureus*, a [Dhampir] [Hexblade] [Warlock] and Mystic of the *Rockseeker Clan*. **Current XP Total**: 94,700
 - *Benjamin*, a Wood [Elf] [Ranger] and Scout of the *Rockseeker Clan*. **Current XP Total**: 131,420
-- *Calmul Rhoqiroth*, a [Dragonborn] [Artificer] and Master Smith of the *Rockseeker Clan*. **Current XP Total**: 130,800
 - *CoralKing*, a [Gnome] [Monk] and Mystic of the *Rockseeker Clan*. **Current XP Total**: 153,420
-- *Thane Geral Bryn*, a [Human] [Fighter] from [Neverwinter], Thane of the *Rockseeker Clan* and Raidleader of the *Icebreaker Clan*. **Current XP Total**: 131,600
-- *Orky*, a [Half-Elven] [Paladin] and Champion of the *Rockseeker Clan*. **Current XP Total**: 153,420
+- *Lady Orky*, a [Half-Elven] [Paladin], Countess of Icewind Dale and Champion of the *Rockseeker Clan*. **Current XP Total**: 153,420
 - *Steve*, a [Halfling] [Rogue] and Scout of the *Rockseeker Clan*. **Current XP Total**: 131,420
-- *Tasbros*, a Sky [Elf] [Sorcerer] and War Mage of the *Rockseeker Clan*. **Current XP Total**: 119,300
-- *Tysnera*, a Sky [Elf] [Wizard] and War Mage of the *Rockseeker Clan*. **Current XP Total**: 119,300
-- *Viker*, an [Eladrin] [Druid] and Guardian of the *Rockseeker Clan*. **Current XP Total**: 148,020
+- *Tasbros*, a Sky [Elf] [Sorcerer], Baccalaureate of the Magisterium and War Mage of the *Rockseeker Clan*. **Current XP Total**: 119,300
+- *Tysnera*, a Sky [Elf] [Wizard], Baccalaureate of the Magisterium and War Mage of the *Rockseeker Clan*. **Current XP Total**: 119,300
+- *Viker*, an [Eladrin] [Druid] and Inquisitor and Guardian of the *Rockseeker Clan*. **Current XP Total**: 148,020
 - *Wulrif*, a [Human] [Warlock] and Mystic of the *Rockseeker Clan*. **Current XP Total**: 115,900
+
+Retired members of the party:
+
+- *Avren Varan*, a 12th-level [Half-Elven] [Bard]. **Current XP Total**: 101,000
+- *Calmul Rhoqiroth*, a 13th-level [Dragonborn] [Artificer] and Master Smith of the *Rockseeker Clan*. **Current XP Total**: 130,800
+- *Lord Colonel Geral Bryn*, a 13th-level [Human] [Fighter] from [Neverwinter], Baron of **Cragmaw**, Lieutenant Colonel of the Crusaders, Thane of the *Rockseeker Clan*, and Raidleader of the *Icebreaker Clan*. **Current XP Total**: 131,600
 
 ## Known Friends
 
@@ -26,6 +29,7 @@ Members of the party have included:
 - *Grazillaxx*, a [Mind Flayer] and member of the *Society of Brilliance*.
 - *Gruumsh Icebreaker*, an [Orc] [Barbarian] and Clanleader of the *Icebreaker Clan*.
 - *Gundren Rockseeker*, a [Dwarf] [Fighter] and Chief of the *Rockseeker Clan*.
+- *Lady Alyssa Varkosian*, former wife of *Lord Commander Varkosian* and *Actias Aureus*'s lover.
 - The Orc/Ogre *Icebreaker Clan*, now of [Phandalin].
 - *Mormesk the Magnificent*, a Ghost.
 - *Reidoth*, a [Human] [Druid].
@@ -37,11 +41,12 @@ Members of the party have included:
 ## Known Enemies
 
 - The [Drow] of **Velkynvelve**.
-- *Droki*, a Derro.
+- *Droki*, a ~Derro~ [Drow Shadowblade].
 - *Ffolluk*, a Fire Giant.
 - The [Hobgoblins] of **Cragmaw**.
 - *Iarno Glasstaff*, a [Human] [Wizard] and member of the *Zhentarim*.
-- *Icewing*, a White Dragon.
+- *Icewing*, a White Dragon who drove the *Icebreaker Clan* from their ancestral home.
+- *Lord Commander Varkosian*, a former Lord Commander of the Templar, now a Death Knight.
 - *Mistress Ilvarra* of the [Drow] *House Mizzrym*.
 - *Nezznar the Black Spider*, a [Drow] [Wizard] and member of the *Zhentarim*.
 - A nameless Smiling One.
@@ -49,7 +54,6 @@ Members of the party have included:
 
 [Neverwinter]: ../background/neverwinter.md
 [Phandalin]: https://www.dndbeyond.com/sources/lmop/phandalin#Part2Phandalin
-[Tiefling]: ../background/tiefling.md
 [Warlock]: ../game/classes.md#warlock
 [Bard]: ../game/classes.md#bard
 [Elf]: ../background/elves.md
@@ -78,3 +82,6 @@ Members of the party have included:
 [Airship]: https://www.dndbeyond.com/equipment/airship
 [Hobgoblins]: https://www.dndbeyond.com/races/1026393-hobgoblin
 [Mind Flayer]: https://www.dndbeyond.com/monsters/17104-mind-flayer
+[Dhampir]: https://www.dndbeyond.com/races/706719-lineages#Dhampir
+[Hexblade]: https://www.dndbeyond.com/classes/warlock#TheHexblade
+[Drow Shadowblade]: https://www.dndbeyond.com/monsters/2560790-drow-shadowblade
