@@ -39,6 +39,9 @@
 
 - [Starting](game/starting.md)
   - [Backgrounds](game/backgrounds.md)
+    - [Apostolic See](game/apostolic-see.md)
+    - [Magisterium](game/magisterium.md)
+    - [Peerage](game/peerage.md)
   - [Classes](game/classes.md)
     - [Artificer](game/artificer.md)
     - [Playtest Materials](game/playtest.md)
@@ -46,9 +49,9 @@
     - [Conveyances](game/conveyances.md)
     - [Firearms](game/firearms.md)
   - [Magic Items](game/magic-items.md)
+  - [Races](game/races.md)
   - [Spellcasting](game/spellcasting.md)
     - [Mana](game/mana.md)
-  - [Races](game/races.md)
 
 # Journals
 

@@ -4,7 +4,7 @@ Here is some information to help you create a character for play in **Mundus**.
 
 ## Ability scores
 
-Generate *4* Ability Goups, choose your favorite. [DnDBeyond](https://www.dndbeyond.com) can do this electronically.
+Generate *4* Ability Groups, choose your favorite. [DnDBeyond](https://www.dndbeyond.com) can do this electronically.
 
 There are two additional Ability Scores, [Honor] and [Sanity]. They are based off of [Charisma] and [Wisdom] respectively, and are thereafter independent.
 
@@ -43,7 +43,7 @@ The type of **Hero Dice** depends upon the level of the character, according to 
 
 ## Level
 
-*Level 1*, or minimum XP for *Level - 1* from the [current party](../journals/overview.md) average (currently 10th).
+*Level 1*, or minimum XP for *Level - 1* from the [current party](../journals/overview.md) average (currently 13th).
 
 ## Magic
 
