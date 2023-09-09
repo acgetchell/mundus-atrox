@@ -20,7 +20,7 @@ Retired members of the party:
 
 - *Avren Varan*, a 12th-level [Half-Elven] [Bard]. **Current XP Total**: 101,000
 - *Calmul Rhoqiroth*, a 13th-level [Dragonborn] [Artificer] and Master Smith of the *Rockseeker Clan*. **Current XP Total**: 130,800
-- *Lord Colonel Geral Bryn*, a 13th-level [Human] [Fighter] from [Neverwinter], Baron of **Cragmaw**, Lieutenant Colonel of the Crusaders, Thane of the *Rockseeker Clan*, and Raidleader of the *Icebreaker Clan*. **Current XP Total**: 131,600
+- *Lord Colonel Geral Bryn*, a 13th-level [Human] [Fighter] from **[Neverwinter]**, Baron of **Cragmaw**, Lieutenant Colonel of the Crusaders, Thane of the *Rockseeker Clan*, and Raidleader of the *Icebreaker Clan*. **Current XP Total**: 131,600
 
 ## Known Friends
 
@@ -34,7 +34,7 @@ Retired members of the party:
 - *Mormesk the Magnificent*, a Ghost.
 - *Reidoth*, a [Human] [Druid].
 - *Sildar Hallwinter*, a [Human] [Fighter], Townmaster of [Phandalin] and member of the *Urban League*.
-- *Sister Garaele*, an [Elf] [Cleric] of [Neverwinter] and member of the *Harpers*.
+- *Sister Garaele*, an [Elf] [Cleric] of **[Neverwinter]** and member of the *Harpers*.
 - *Sradgikshadmat*, a Guardian Naga.
 - *Varbation Starsight*, the Sky [Elf] Captain of the [Airship] **Elendil**.
 

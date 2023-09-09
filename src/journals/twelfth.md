@@ -109,7 +109,7 @@ The trap is sprung!
 > Emerging from the weird fungal carpets, two giant-sized Skeletons dripping with greenish slime stand up to block the exit.
 > Behind the party, four huge mounds of sticky black sludge pulsate as they crawl from the floor and ceiling to block the tunnel the party just came through.
 > Swarming along the stalactites are at least eight blobs of what look to be chaotic molten stone.
-> In the far back corner of the cavern, a horrifying undead fungal abomination sends pulses of eldritch power towards the party.
+> In the far back corner of the cavern, a horrifying Undead fungal abomination sends pulses of eldritch power towards the party.
 
 ![Undead Ooze](images/undead-ooze.jpg)
 

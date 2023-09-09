@@ -18,7 +18,7 @@
 
 #### From the journal of Dame Orky
 
-We start by searching the grounds and the cathedral. We find a gift box containing 1200 gp, 13 gems (1000 gp each). We split them evenly and offer *Chiyo* and *Gruumsh, Clanleader of the Icebreakers* 2 gems for their help. We also find a staff, sword, a book, and a rod. *Tysnera* identifies the book as a tome of understanding and we give that to *Viker*. The rod is a rod of absorption and we hand it to *Tasbros*. The Staff of Striking goes to *CoralKing*. The dancing Shortsword goes to *Actias*. The Orcs mentioned killing a bunch of vampires. We dispose of the remnants.
+We start by searching the grounds and the cathedral. We find a gift box containing 1200 gp, 13 gems (1000 gp each). We split them evenly and offer *Chiyo* and *Gruumsh, Clanleader of the Icebreakers* 2 gems for their help. We also find a staff, sword, a book, and a rod. *Tysnera* identifies the book as a tome of understanding and we give that to *Viker*. The rod is a rod of absorption and we hand it to *Tasbros*. The Staff of Striking goes to *CoralKing*. The dancing Shortsword goes to *Actias*. The Orcs mentioned killing a bunch of Vampires. We dispose of the remnants.
 
 > Chiyo gestures towards *Geral*, her deep red eyes contemplative and searching.
 >
@@ -47,7 +47,7 @@ We start by searching the grounds and the cathedral. We find a gift box containi
 >
 > "You tell me." *Chiyo* smiles appraisingly.
 
-We need to get the ward stone into our wagon. We decide to use *Tasbros*’ Telekinesis to lift it into our wagon. As we do this, we see a bird circling, it lands and turns into this little masked person. His mask is half happy and half sad. He starts giving us shit about how fucked up the ward stone is. We use detect magic and see he’s magic. He asks us if we know how ward stones work. *Actias* asks what his intentions are and he just laughs. *Wulrif* tries to read his mind and it’s strangely missing. *Viker* invites him to join us on our journey back to Phandalin and calls him old, which pisses him off. He grows and starts rearing up at us. We ask what we can do to keep him happy. He said we will amuse him, he snaps his fingers and the skies start to darken. He snaps his fingers again and we feel the ground start to shake. Then, this massive toothed worm breaks out of the ground behind the group.
+We need to get the ward stone into our wagon. We decide to use *Tasbros*’ Telekinesis to lift it into our wagon. As we do this, we see a bird circling, it lands and turns into this little masked person. His mask is half happy and half sad. He starts giving us shit about how fucked up the ward stone is. We use Detect Magic and see he’s magic. He asks us if we know how ward stones work. *Actias* asks what his intentions are and he just laughs. *Wulrif* tries to read his mind and it’s strangely missing. *Viker* invites him to join us on our journey back to Phandalin and calls him old, which pisses him off. He grows and starts rearing up at us. We ask what we can do to keep him happy. He said we will amuse him, he snaps his fingers and the skies start to darken. He snaps his fingers again and we feel the ground start to shake. Then, this massive toothed worm breaks out of the ground behind the group.
 
 ![Purple Worm](images/purple-worm.png)
 

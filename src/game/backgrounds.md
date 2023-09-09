@@ -5,6 +5,7 @@ Other organizations not mentioned here exist for the players to discover.
 
 ## [Apostolic See](apostolic-see.md)
 
+- Bard (College of Whispers, College of Lore)
 - Cleric (Life, Light, War)
 - Paladin (Devotion, Vengeance)
 - Monk (Open Hand, Shadow)
@@ -25,8 +26,8 @@ Other organizations not mentioned here exist for the players to discover.
 - Emerald Enclave (Druid, Ranger)
 - Harpers (Bard, Rogue)
 - Zhentarim (Rogue, Warlock)
-- Urban League (Fighter, Rogue)
+- Urban League (Any)
 
 ## [Peerage](peerage.md)
 
-- Any except Barbarian, Druid, and Monk
+- Any except Barbarian, Druid, or Monk

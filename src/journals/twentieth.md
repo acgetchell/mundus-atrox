@@ -85,7 +85,7 @@ Canoe 1 (2 people) - *Steve* and *Benjamin*
 
 Canoe 2 (2 people) - *Tysnera* and *Viker*
 
-Raft (10 people) - Me right in the middle, *Calmul* + Steel Defender, *CoralKing*, *Tasbros*, *Geral*, *Actias*, and *Wulrif*.
+Raft (10 people) - Me right in the middle, *Calmul* + Steel Defender, *CoralKing*, **Tasbros**, *Geral*, *Actias*, and *Wulrif*.
 
 *Avren’s* Mushroom (1 person) - *Avren*
 

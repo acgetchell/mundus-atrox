@@ -16,7 +16,7 @@ In addition to the Clergy and Laity, the Apostolic See has several other organiz
 ## Benedictine Order
 
 Although formally part of the Apostolic See, they are otherwise independent, with each congregation led by an Abbot. The Benedictine Order is dedicated to the preservation of knowledge, and they tend to the
-**Ledger of the Peerage** nearest their Cloister. The Benedictine Order known to have Bards in its ranks.
+[Ledger of the Peerage] nearest their Cloister. The Benedictine Order known to have Bards in its ranks.
 
 ## Dominican Order
 
@@ -38,7 +38,7 @@ The Inquisition is a group dedicated to the protection of the Apostolic See from
 
 The Templar are a military Order of Clerics and Paladins, dedicated to the protection of the Apostolic See from supernatural threats. The Templar are led by the Grand Master, and are further divided into the Knights Templar, who are always members of the Peerage, and non-Peerage Paladins and Clerics. The basic unit is the Tredectet, a group of 12 Templar led by a Knight Templar. The membership and rank structure is as follows:
 
-- Brother/Sister (Cleric)
+- Brother/Sister (War Domain Cleric)
 - Paladin
   - Squire
   - Corporal
@@ -52,3 +52,4 @@ The Templar are a military Order of Clerics and Paladins, dedicated to the prote
   - Grand Master of the Templar
 
 [Neverwinter]: ../background/neverwinter.md
+[Ledger of the Peerage]: peerage.md#ledger
