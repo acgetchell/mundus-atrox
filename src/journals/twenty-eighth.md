@@ -1,6 +1,6 @@
 # Twenty-Eighth Session
 
-## Family Affairs
+## The Twisted Path to Redemption
 
 ### Dramatis Personae
 
