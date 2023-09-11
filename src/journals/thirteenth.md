@@ -42,7 +42,7 @@ Round 1
 5. The Fire Giant swings at the 2 of them and *Geral* gives protection to *CoralKing*. The Giant does 27 damage. He misses on *CoralKing*.
 6. *Viker* lands on top of the vehicle and uses polymorph on the Fire Giant and it succeeds on its wisdom save.
 7. The Ogres move in on our team. One of them attacks *Geral* and misses. They attack *CoralKing* and miss. They attack me and make a critical hit. They deal 26 points of damage (23 with her 3 point reduction).
-8. *Tasbros* lands on top of the vehicle and casts confusion around the big Giants. The Fire Giant is confused now and 1 other Giant.
+8. *Tasbros* lands on top of the vehicle and casts Confusion around the big Giants. The Fire Giant is confused now and 1 other Giant.
 9. I land in front of the Fire Giant but I'm too far away to hit him. I cast Thunderous Smite, hitting one of the Giants for 24 damage. I also manage to push him 10 feet back, knocking him prone.
 10. *Tysnera* lands on top of the vehicle, uses Fireball on the Giants she can see, and does 31 damage on them all. (1/3 of their hit points)
 11. *Calmul* lands on top of the vehicle, moves toward the front, and shoots at the Fire Giant but misses.
@@ -56,7 +56,7 @@ Round 2
 1. *Benjamin* hits the Fire Giant and does 23 damage.
 2. *Geral* makes me swing on him and I do 27 damage.
 3. *CoralKing* swings on the Fire Giant and does 14 damage.
-4. The Fire Giant comes out of his confusion now.
+4. The Fire Giant comes out of his Confusion now.
 5. *Viker* uses healing word, giving me 17 HP, and ice knife on the Fire Giant doing 18 HP damage?
 6. The Giant that I knocked over gets back up, attacks *Benjamin*, and misses.
 7. The other Giants attack and miss.
@@ -108,7 +108,7 @@ Round 5
 4. *Viker* uses her spirit totem, giving everyone 7 HP and *Calmul* 21.
 5. *Tasbros* casts a spell on the remaining bolt launcher for 18 damage.
 6. I Teleport 30 ft, moves 30 ft, then attack the Hill Giant twice. I do 33 damage.
-7. *Tysnera* uses magic missile on 3 enemies and does 5 damage.
+7. *Tysnera* uses Magic Missile on 3 enemies and does 5 damage.
 8. *Calmul* gives heroism back to me (4 Temporary HP)
 9. *Wulrif* is invisible.
 10. *Steve* hits the bolt launcher for 29 damage.
@@ -122,7 +122,7 @@ Round 6 – Everyone gets 4 HP
 4. *Viker* heals me for 18 HP.
 5. *Tasbros* casts Fireball to hit 3 enemies. He hits *CoralKing* and me for 15 HP too. One of the enemies goes down.
 6. I hits a guy for 41 damage.
-7. *Tysnera* uses a wand of magic missiles, 4 darts on the same bolt launcher. She does 14 damage, taking it out. So, just Hill Giants and Goblins left.
+7. *Tysnera* uses a wand of Magic Missiles, 4 darts on the same bolt launcher. She does 14 damage, taking it out. So, just Hill Giants and Goblins left.
 8. *Calmul* shoots a Hill Giant and misses the first one. The second one does 18 damage.
 9. *Steve* hits a Hill Giant for 23 HP, it goes down.
 10. The Goblins dash away 60 ft and hide! The Hill Giants are still hungry. They miss me twice and *Geral* invokes disadvantage on *CoralKing* so he escapes alive.

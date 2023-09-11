@@ -64,7 +64,7 @@ They pass another wagon that has been torn apart, bodies littered everywhere. As
 These strange Undead puff blinding clouds of ash when hit. Worse, they seem resistant to swords, arrows, and even *Calmul*'s breath weapon.
 They likewise take no notice of charms or enchantments, but *Orky* has success with her mace, *CoralKing* with his headbutts, and *Geral* with a
 makeshift club. *Actias* and *Wulrif*'s spells likewise affect the monsters. *Benjamin*, *Steve*, and *Skolg*,
-equipped with only slashing and piercing weapons, guard *Yeemik* to ensure he doesn't run off in the confusion.
+equipped with only slashing and piercing weapons, guard *Yeemik* to ensure he doesn't run off in the Confusion.
 *Sildar* yells out that these are "Ash Zombies".
 
 The Ash Zombies go down very hard, but eventually they do go down.

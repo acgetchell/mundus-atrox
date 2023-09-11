@@ -84,3 +84,4 @@
   - [Twenty-Sixth Session](journals/twenty-sixth.md)
   - [Twenty-Seventh Session](journals/twenty-seventh.md)
   - [Twenty-Eighth Session](journals/twenty-eighth.md)
+  - [Twenty-Ninth Session](journals/twenty-ninth.md)

@@ -51,9 +51,9 @@ Round 5
 2. *Viker* moves her moonbeam to the southern bridge, which was repaired previously. As a bonus action, she uses her unicorn totem (30 ft radius). Her moonbeam, which she dropped on a poor fool, takes 12 damage and dies.
 3. *Calmul* hits someone and does some damage?
 4. *Tysnera* casts a lightning bolt (100 ft long 5 ft wide) for 33 damage on every person hit. So, death.
-5. *Wulrif* hears the screaming from the pit. He casts misty step to rejoin the team. He uses his bonus action to place a hex mark on someone.
+5. *Wulrif* hears the screaming from the pit. He casts Misty Step to rejoin the team. He uses his bonus action to place a hex mark on someone.
 6. *CoralKing* holds his action
-7. *Tysnera* gets his with magic missiles and takes 10 HP damage.
+7. *Tysnera* gets his with Magic Missiles and takes 10 HP damage.
 8. *Geral* swings in his room again and kills the guy closest to him. He screams “*CoralKing*, I could use some help in here!” and gives him 3 temporary HP
 9. *CoralKing* moves into the south room to help *Geral*. He attacks twice and once misses. He deals 8 HP damage.
 10. I use Vow of Enmity and moves to the last guy in the large room and kill him. I turn down the north hallway with the rough terrain and kill the first guy I see also.
@@ -69,7 +69,7 @@ Round 6
 1. *Viker* is going to heal *Tasbros* for 13 damage and everyone gets 5 HP of healing. She takes a guy out.
 2. *Benjamin* shoots an archer for a critical hit and kills him. He takes aim and misses a shot at another guy.
 3. *Calmul* shoots at the remaining 3 guys by the central pit and misses.
-4. *Tysnera* casts magic missile on those 3 guys and hits them for 8 damage.
+4. *Tysnera* casts Magic Missile on those 3 guys and hits them for 8 damage.
 5. *Wulrif* Eldritch Blasts one of the guys and kills him.
 6. *CoralKing* uses 3 attacks on a guy and hits all 3 for 32 damage. So, he pulverized him in front of his friends.
 7. The wizard disappears!!!
@@ -114,7 +114,7 @@ Round 1
 
 - We hear a booming echo and we see a cave entrance and hear the ocean. *Gundren* sees a Dwarf body and *Gundren* gasps and runs toward it. He screams “*Thardon*!” He turns the body over and sees tiny arrow bolts. *Wulrif* starts looking at the bolts and they are silvery but crumble in the sunlight. *Viker* detects magic boots on *Thardon’s* body. She attempts to pry off the boots and *Gundren* says “What are you doing? That’s my brother!” She says “…is he using them?” *Gundren* is taken aback and looks away in hesitant approval. The boots suddenly resize (Boots of Striding and Springing) to her feet.
 - We drop down further into the cave and cannot see very far. The **Spell Forge** is a place where magic weapons are made. We are looking for that here.
-- We decide to head west and it starts becoming a maze of twisty little passages with 6’ high ceilings and several collapsed passageways. We decide to head north. We see a pool with dark water to the west, the shore is full of broken shells and odor. Steps head to the east. *Viker* detects magic and she sees an outline of something in the pool at the bottom, something small and about 20’ down. *Viker* turns into an octopus and dives down. She sees a skeleton and grabs a wand of magic missiles off the body. She generously gives it to *Tasbros*.
+- We decide to head west and it starts becoming a maze of twisty little passages with 6’ high ceilings and several collapsed passageways. We decide to head north. We see a pool with dark water to the west, the shore is full of broken shells and odor. Steps head to the east. *Viker* detects magic and she sees an outline of something in the pool at the bottom, something small and about 20’ down. *Viker* turns into an octopus and dives down. She sees a skeleton and grabs a wand of Magic Missiles off the body. She generously gives it to *Tasbros*.
 - We head forward on the path and encounter a barricaded door. *Viker* decides to turn into a centipede and try to find what’s on the other side. She sees 10 bugbears on the other side.
 - We decide to backtrack down the path and send *Steve* down the northeastern hallway with *Viker* on his back. They see a normal, narrow passageway and as we all follow behind, the whole floor and walls start to wrap around and swallow us. We figure out it’s an Ochre Jelly. It’s basically on a jellyfish’s back. Everyone is surprised except for *Benjamin*, *Viker*, and *Tysnera*. They all get attacked.
 

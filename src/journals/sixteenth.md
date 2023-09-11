@@ -56,12 +56,12 @@ Round 1
 1. *Benjamin* tries to find its weaknesses. He finds out it’s a Purple Worm and it has no weaknesses.
 2. *Steve* throws daggers in the girth worm’s mouth, doing 11 HP damage.
 3. *Actias* casts bane and hits (it has low charisma)
-4. *CoralKing* uses shadow step to move behind the person thing. He hits it for 6 HP damage.
+4. *CoralKing* uses Shadow Step to move behind the person thing. He hits it for 6 HP damage.
 5. *Tysnera* casts Banishment and the girth worm disappears! A massive hole is left in the ground where it was.
 6. *Viker* tries to compliment him and asks what he wants. He doesn’t respond.
 7. He waves his hand and a telekinetic force slams into *Tysnera*, blasting her into the girth hole behind us, doing 24 HP damage. She makes her CON saving throw, but is still falling.
 8. I try casting Hold Person, and fail. I declare a Vow of Enmity.
-9. *Tasbros* casts confusion and it doesn’t affect him. He uses a magic seeking spell and now looks confused.
+9. *Tasbros* casts Confusion and it doesn’t affect him. He uses a magic seeking spell and now looks confused.
 
 Round 2
 
@@ -80,7 +80,7 @@ Round 3
 1. *Benjamin* flanks the guy and casts hunter’s mark
 2. *Steve* attacks the guy and does 32 HP damage.
 3. *Actias* casts booming blade and does 27 HP damage.
-4. *CoralKing* uses flurry of blows and his Staff of Striking, doing 36 HP damage
+4. *CoralKing* uses Flurry of Blows and his Staff of Striking, doing 36 HP damage
 5. *Tysnera* is still falling, but keeping her concentration
 6. *Viker* shapechanges into a Bat and starts to fly out of the girth hole
 7. The guy turns into a flying animal, Teleports 60 ft up, and flies 180 ft straight up. He hits *Benjamin* and does 22 HP damage.
@@ -126,7 +126,7 @@ Round 3
 
 1. *CoralKing* attacked one of the creatures, doing 13 HP damage and killed it, then moves behind it to flank it.
 2. *Benjamin* shoots the creatures and does 11 damage.
-3. *Tysnera* uses magic missile and does 13 damage to one of the 2 remaining creatures.
+3. *Tysnera* uses Magic Missile and does 13 damage to one of the 2 remaining creatures.
 4. *Steve* hits one of them using a normal attack, doing 7 damage.
 5. *Tasbros* uses Chromatic Orb, fire, on the creature attacking me.
 6. I delivers the final 2 blows on the creature in front of me.

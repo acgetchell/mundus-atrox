@@ -96,7 +96,7 @@ Round 6
 2. I hit with the Greatsword and do 14 damage to the 1st Construct.
 3. *Viker* hits it so the Construct is back down.
 4. *Steve* misses a dagger throw.
-5. *CoralKing* does 11 damage to the remaining Construct with a flurry of blows!
+5. *CoralKing* does 11 damage to the remaining Construct with a Flurry of Blows!
 6. The Construct heals his friend 13 and the other 17. The Stegosaur hits with advantage and drops one. The other Stegosaurus gets up, moves, and misses a whack on the 1st Construct.
 
 Round 7

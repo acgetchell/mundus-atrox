@@ -47,8 +47,8 @@ Round 1
 2. *Calmul* readies his action until someone attacks our group. After he is attacked, he infuses my sword with 1d4 lightning damage.
 3. *Wulrif* suddenly Polymorphs into a Tyrannosaurus Rex, throwing everyone back. He then bites at the high priestess, but misses. He swipes his tail and hits a Kuo-toa, doing 17 HP damage.
 4. *Avren* casts greater invisibility and bardic inspiration, going invisible.
-5. The high priestess casts a spell and a bunch of spirit creatures appear, doing necrotic 17 HP damage to *Wulrif*, *Geral*, and *Avren*. *Geral* only gets half damage though. *Ploopploopeen* attacks his daughter again but misses. A couple of Kuo-toa attack *Wulrif*. The high priestess casts magical weapons that do 13 HP damage and 27 HP damage. *CoralKing* uses shadow step on a priest and does 33 HP damage.
-6. I cast Crusader’s Mantle and make a vow of enmity on the high priestess.
+5. The high priestess casts a spell and a bunch of spirit creatures appear, doing necrotic 17 HP damage to *Wulrif*, *Geral*, and *Avren*. *Geral* only gets half damage though. *Ploopploopeen* attacks his daughter again but misses. A couple of Kuo-toa attack *Wulrif*. The high priestess casts magical weapons that do 13 HP damage and 27 HP damage. *CoralKing* uses Shadow Step on a priest and does 33 HP damage.
+6. I cast Crusader’s Mantle and make a Vow of Enmity on the high priestess.
 7. *Steve* sneaks to the back of the line and attacks a priest, doing 28 HP damage.
 8. *Viker* summons a scorpion and it attacks the priest that *Steve* attacked earlier. She does 27 HP damage.
 9. *Actias* casts thunderous step and hits 6 Kuo-toa.
@@ -63,10 +63,10 @@ Round 2
 2. *Calmul* casts a spell and flies 40 feet up.
 3. *Wulrif* bites the priestess and does 49 HP damage to her. He whips his tail and misses another Kuo-toa.
 4. *Avren* moves toward the priestess and stabs her with her rapier and does 7 HP damage to her.
-5. The priestess damages *Geral*, *Wulrif*, *Avren*, from her ongoing spell and escapes from her grapple. Her father attacks her and a priest casts mass cure wounds, making every enemy heal 25 HP. *Steve* gets paralyzed. All of a sudden a bunch of Kuo-toa start attacking each other. The ones doing the attacking seem to be moving out of our way to attack the others. So, I think we can suspect which ones are on our side now.
-6. *Ploopploopeen* casts mass cure wounds, healing 15 HP on every friend.
+5. The priestess damages *Geral*, *Wulrif*, *Avren*, from her ongoing spell and escapes from her grapple. Her father attacks her and a priest casts Mass Cure Wounds, making every enemy heal 25 HP. *Steve* gets paralyzed. All of a sudden a bunch of Kuo-toa start attacking each other. The ones doing the attacking seem to be moving out of our way to attack the others. So, I think we can suspect which ones are on our side now.
+6. *Ploopploopeen* casts Mass Cure Wounds, healing 15 HP on every friend.
 7. I move next to the priestess and hit her twice with my great sword, doing 32 HP damage.
-8. *Actias* misty steps next to her and attacks her with his sunblade, doing 31 HP damage, killing that awful woman.
+8. *Actias* Misty Steps next to her and attacks her with his Sunblade, doing 31 HP damage, killing that awful woman.
 9. Benjamin moves and finds the weaknesses of the Kuo-toa, the priests can see invisible things. They are slippery and escapes grapples. They are vulnerable to sunlight. Their shields are also sticky and if you swing on them, striking them with your weapon, it stays in the shield.
 
 > Another sound rises above the burbling cries of the Kuo-toa. The dark surface of the water farther out bubbles and begins to foam. A thick, oily tentacle bursts forth, followed by another. Then two monstrous heads break the surface, both resembling hideous, angry baboons with wickedly curved tusks. Both heads are attached to a single torso, and the monster’s red eyes burn with bloodlust and madness. The creature rising from the Darklake must stand thirty feet tall or more, with water cascading down its back and shoulders. Upon reaching its full height, the great demon throws back both its heads and roars!

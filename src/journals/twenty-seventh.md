@@ -26,7 +26,7 @@ I present myself and meanwhile, *Viker* presents to the Inquisition. *Viker* not
 
 *CoralKing* figures out that magic items can be traced by their makers. *Viker* goes to the Cathedral with the Templars. I join the group while *Viker* is trying to track down the illuminati. I find *Harrod* and he congratulates me on my ascension with his condolences. I ask him if he knows of anything about the illuminati. He tells me it has led some Templars astray and *CoralKing* can tell he is telling the truth. I ask if he will help us take down the illuminati because I don’t have anyone else I can trust. He says *Lord Varkosian* had a lot of influence, but he trusts the head of our order. The head’s name is *Lord Sozenskaat*. I ask *Harrod* for an audience with the Lord. A cycle passes and we are ushered into his office. A light is in his room and it shines on the entire room. There are 2 suits of armor sitting nearby with slight clanking sounds and roaming muskets. I ask what he knows about the illuminati and he tells me that he thinks they might be changelings, which are a constructed race with the innate ability to modify their bodies. Shapeshifters magic would be canceled by the Arclight. It’s not magic, but they were magically constructed to have that ability. He thinks changelings are doing this by taking 1 form and not changing that form while under the Arclight.
 
-Changelings are fey or infernal. *Lord Varkosian* has proved that changelings are somewhere in the city. They don’t have families, but are identical in a given group. We call them clones or clades. He thinks we have a clade of infernal changelings. He doesn’t know how they got here but this is the time that **[Neverwinter]** is stationary and they would have had to make it past the crusaders. He knows of the unguarded Teleportation Circles and the unguarded gateway summoned by *Lord Varkosian*. I ask if we should go after the unguarded circles. The other approach would be finding pulses of demonic activity in areas where the Arclight doesn’t shine in the lower levels. In addition, barriers are present. *Lord Varkosian* would have had to take them down. So, maybe see how that happened. We can talk to the Artificers guild, many of these areas are guarded by the constructs, where no living things go. The Artificers create the constructs.
+Changelings are fey or infernal. *Lord Varkosian* has proved that changelings are somewhere in the city. They don’t have families, but are identical in a given group. We call them clones or clades. He thinks we have a clade of infernal changelings. He doesn’t know how they got here but this is the time that **[Neverwinter]** is stationary and they would have had to make it past the Crusaders. He knows of the unguarded Teleportation Circles and the unguarded gateway summoned by *Lord Varkosian*. I ask if we should go after the unguarded circles. The other approach would be finding pulses of demonic activity in areas where the Arclight doesn’t shine in the lower levels. In addition, barriers are present. *Lord Varkosian* would have had to take them down. So, maybe see how that happened. We can talk to the Artificers guild, many of these areas are guarded by the constructs, where no living things go. The Artificers create the constructs.
 
 I tell an Artificer that I am investigating weak spots in the defenses of **[Neverwinter]**. He seems flustered and speaks into a bunch of copper tubes. Then, suddenly a light appears in the distance. It becomes obvious I am supposed to follow it. We all follow and we see a military-themed office. We see a gnome and he seems suspicious of *CoralKing*. I tell him that we have evidence of the defenses of **[Neverwinter]** being breached. He asks where we were when *Baphomet* was summoned. I can’t remember and neither can anyone else. He thinks it may have been an input grate with a filter, where they take things in from the outside. He asks if we were fighting on a conveyer belt and I say no. He said that narrows it down. I ask if he knows anywhere else to go or anyone else to talk to. He gives us 2 constructs to follow us. One moves very quickly and we follow it. *Viker* transforms into a horse fly and chases after it. She barely keeps up with it. We weave through the passageways and we are led to a conveyer belt with rocks and we see the Arclight reflected onto each belt. Except we see two light sources with a missing lenses. The constructs are confused. The conveyer belt that is unilluminated is bringing up debris, but we also notice something moving on it. We see 4 earth monsters and a coffin opening up with a blood-thirsty creature approaching. I know Vampires can’t go to any place that they are not invited, but they can enter locations where no one lives…
 
@@ -47,19 +47,19 @@ Round 2
 
 Round 3
 
-1. *CoralKing* hits the earth creature with his staff of striking and does 7 HP damage.
+1. *CoralKing* hits the earth creature with his Staff of Striking and does 7 HP damage.
 2. *Viker* redirects her sunbeam to hit all 3 earth creatures and avoid doing damage to the Vampire while it’s frightened. She does 30 HP damage to each of them.
 3. I cast blinding smite and hit the closest earth creature twice, doing 50 HP damage.
 
 Round 4
 
-1. *CoralKing* uses shadow step to get advantage on hitting an earth creature. He does 36 HP damage, killing it.
+1. *CoralKing* uses Shadow Step to get advantage on hitting an earth creature. He does 36 HP damage, killing it.
 2. *Viker* does 28 HP damage on a creature, killing it.
 3. I hit the remaining creature and do 44 HP, killing it. All that remains is the Vampire.
 
 Round 5
 
-1. *CoralKing* shadow steps behind the Vampire and hits it twice with his staff of striking for 39 HP damage. He is angry now and hisses at *CoralKing*.
+1. *CoralKing* Shadow Steps behind the Vampire and hits it twice with his Staff of Striking for 39 HP damage. He is angry now and hisses at *CoralKing*.
 2. *Viker* hits the Vampire for 30 HP damage.
 3. I miss both of my hits.
 4. The Vampire moves out of the sunlight and turns into mist. We can still see the mist.

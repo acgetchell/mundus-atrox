@@ -89,7 +89,7 @@ Round 1
 1. *Wulrif* deals 21 damage using Eldritch Blast to the Ork that was speaking to *CoralKing*
 2. *Steve* uses a sneak attack with his crossbow and misses.
 3. *Geral* asks *Steve* to hit again and does 27 HP of damage.
-4. I cast Thunderous Smite and attack the Ork with my greatsword. I hit and does 25 HP damage.
+4. I cast Thunderous Smite and attack the Ork with my Greatsword. I hit and does 25 HP damage.
 5. *Tasbros* casts Melf's Minute Meteors around the gate tower and hits the Ork for 11 and the Ogre for 11 HP damage.
 6. *Calmul* casts heroism on me, giving 4 temporary HP each turn and Immunity to being frightened.
 7. *CoralKing* attacks the Ork for 7 damage, taking it down.
@@ -110,7 +110,7 @@ Round 2 – I get 4 temporary HP
 6. *CoralKing* moves near me and holds his action
 7. The Ogres are not affected by the sickening radiance. 2 move to attack me and *CoralKing*, within range and provoke attacks of opportunity. *CoralKing* gets hit for 9 damage. Others start to move out of the gate and meet *Actias*, *Calmul*’s companion, and the shadowspawn. I attack and hit twice doing 35 damage.
 8. *Viker* casts lightning bolts and hits doing 27 HP damage, wiping out the Ogre in front of me.
-9. *Tysnera* uses her wand of magic missiles on the 3 Ogres at the front of the gate. She does 7 HP damage. Her shadowspawn hits an Ogre and does 7 HP damage.
+9. *Tysnera* uses her wand of Magic Missiles on the 3 Ogres at the front of the gate. She does 7 HP damage. Her shadowspawn hits an Ogre and does 7 HP damage.
 10. *Benjamin* hits twice and does 16 damage and 15 damage, taking out 2 Orcs.
 11. *Actias* casts booming blade and attacks, doing 10 damage.
 12. 14 Orcs take 12 HP damage from the sickening radiance.
@@ -121,12 +121,12 @@ Round 3 – I get 4 temporary HP
 2. *Steve* sneak attacks and hits an Ogre for 20 damage. He hides again.
 3. *Geral* asks me to hit the Ogre in front of me, and I does 21 damage.
 4. I hit the Ogre again on my turn and drop it.
-5. *Tasbros* uses magic missiles on the 3 gate Ogres, doing 15 HP damage. Then, Chromatic Orb (fire damage) doing 48 damage, killing him. He narrowly avoids being turned into a sheep by chaotic magic.
+5. *Tasbros* uses Magic Missiles on the 3 gate Ogres, doing 15 HP damage. Then, Chromatic Orb (fire damage) doing 48 damage, killing him. He narrowly avoids being turned into a sheep by chaotic magic.
 6. *Calmul* shoots at an Ork on the northwest guard tower doing 25 damage, killing it.
 7. *CoralKing* works his way through this blown out wall and attacks an Ork, killing it.
 8. One Ogre is killed from the sickening radiance.
 9. *Viker* does 16 hp damage to an Ogre.
-10. *Tysnera* uses magic missile on the remaining Ogre at the gate, doing 6 hp damage.
+10. *Tysnera* uses Magic Missile on the remaining Ogre at the gate, doing 6 hp damage.
 11. *Benjamin* hits 2 Orcs in the guard tower.
 12. *Actias* attacks the gate Ork with his Sunblade, doing 26 hp damage.
 13. The rest of the Orcs and Ogres dash forward. 3 flank and attack *CoralKing*, doing 26 damage.

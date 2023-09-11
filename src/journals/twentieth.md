@@ -146,7 +146,7 @@ Round 3
 8. *Viker* wriggles out of the Merrow's harpoon and does some more damage chewing on the Archpriest.
 9. *CoralKing* gets tangled in a net. Another Kuo-toa swims toward *Avren* and attacks her.
 10. *Avren* stabs it with her rapier for 17 HP damage.
-11. *Tysnera* casts magic missile at the Merrow, doing 12 damage. That kills it!
+11. *Tysnera* casts Magic Missile at the Merrow, doing 12 damage. That kills it!
 
 Round 4
 

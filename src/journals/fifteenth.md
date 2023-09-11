@@ -52,7 +52,7 @@ Round 6 – I get 4 HP
 9. *CoralKing* strikes the Ogre in front of him for 20 HP damage.
 10. The Ogres attack our friends and I hit one for 17 damage on an opportunity of attack. *Wulrif* cracks one of the Ogres for 6 HP damage too. One of them attacks me for 9 HP damage.
 11. *Viker* hits an Ogre for 18 damage and Teleports away
-12. *Tysnera* uses her magic missile wand on the 3 Ogres in front of her and the boys. She does 8 HP damage each.
+12. *Tysnera* uses her Magic Missile wand on the 3 Ogres in front of her and the boys. She does 8 HP damage each.
 13. *Benjamin* takes out one of the Ogres and does 12 HP damage on another one.
 14. *Actias* hits one of the Ogres for 31 HP damage total.
 
@@ -114,7 +114,7 @@ Round 2 – I get 4 HP
 3. We hear scuffles in the darkness.
 4. I use Vow of Enmity and attack the fat winged Fiend once for 20 HP.
 5. *Geral* asks me to hit it again and I does 32 damage.
-6. *Tasbros* uses confusion and it fails
+6. *Tasbros* uses Confusion and it fails
 7. The Oni, which brought the bird Fiend down, finally delivers the killing blow to it.
 8. I am is stunned.
 9. *Viker* uses lightning bolt for 30 HP damage. She casts Daylight, 60 ft radius. Now, she enters the cathedral and sees the 4 shamans, the fat winged creature, the lobster goat creature, and the Oni and Ork who are fighting things in the back room. She moves her moonbeam onto the lobster goat creature and does 14 HP damage.

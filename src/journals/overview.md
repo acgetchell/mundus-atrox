@@ -6,15 +6,15 @@ They are a group of adventurers who have been tasked with finding the [Lost Mine
 
 Members of the party have included:
 
-- *Actias Aureus*, a [Dhampir] [Hexblade] [Warlock] and Mystic of the *Rockseeker Clan*. **Current XP Total**: 94,700
+- *Actias Aureus*, a [Dhampir] [Hexblade] [Warlock] and Mystic of the *Rockseeker Clan*. **Current XP Total**: 124,700
 - *Benjamin*, a Wood [Elf] [Ranger] and Scout of the *Rockseeker Clan*. **Current XP Total**: 131,420
-- *CoralKing*, a [Gnome] [Monk] and Mystic of the *Rockseeker Clan*. **Current XP Total**: 153,420
-- *Lady Orky*, a [Half-Elven] [Paladin], Countess of Icewind Dale and Champion of the *Rockseeker Clan*. **Current XP Total**: 153,420
+- *CoralKing*, a [Gnome] [Monk] and Mystic of the *Rockseeker Clan*. **Current XP Total**: 173,420
+- *Lady Orky*, a [Half-Elven] [Paladin], Countess of Icewind Dale and Champion of the *Rockseeker Clan*. **Current XP Total**: 173,420
 - *Steve*, a [Halfling] [Rogue] and Scout of the *Rockseeker Clan*. **Current XP Total**: 131,420
-- *Tasbros*, a Sky [Elf] [Sorcerer], Baccalaureate of the Magisterium and War Mage of the *Rockseeker Clan*. **Current XP Total**: 119,300
-- *Tysnera*, a Sky [Elf] [Wizard], Baccalaureate of the Magisterium and War Mage of the *Rockseeker Clan*. **Current XP Total**: 119,300
-- *Viker*, an [Eladrin] [Druid] and Inquisitor and Guardian of the *Rockseeker Clan*. **Current XP Total**: 148,020
-- *Wulrif*, a [Human] [Warlock] and Mystic of the *Rockseeker Clan*. **Current XP Total**: 115,900
+- *Tasbros*, a Sky [Elf] [Sorcerer], Baccalaureate of the Magisterium and War Mage of the *Rockseeker Clan*. **Current XP Total**: 139,300
+- *Tysnera*, a Sky [Elf] [Wizard], Baccalaureate of the Magisterium and War Mage of the *Rockseeker Clan*. **Current XP Total**: 139,300
+- *Viker*, an [Eladrin] [Druid] and Inquisitor and Guardian of the *Rockseeker Clan*. **Current XP Total**: 168,020
+- *Wulrif*, a [Human] [Warlock] and Mystic of the *Rockseeker Clan*. **Current XP Total**: 135,900
 
 Retired members of the party:
 

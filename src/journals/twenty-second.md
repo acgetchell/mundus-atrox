@@ -57,7 +57,7 @@ Round 1
 1. The giant attacks me twice with his club, doing 34 HP damage.
 2. *Benjamin* finds the weaknesses of this giant. He is normally a stone giant, but the second deformed head means something else. They are stealthy but no resistances. He also casts Hunter’s Mark on it.
 3. *Tysnera* said “whatever, I cast Magic Missile, I don’t care!” She casts 5, so 15 missiles hit the giant, doing 12 HP total.
-4. *CoralKing* uses shadow step to move opposite me, near the giant. He hits him twice with the staff and gets double damage on one hit. He does 35 HP damage.
+4. *CoralKing* uses Shadow Step to move opposite me, near the giant. He hits him twice with the staff and gets double damage on one hit. He does 35 HP damage.
 5. *Geral* does 10 HP damage on a hit and asks me to hit, which I do 27 HP damage.
 6. *Calmul* shoots his musket, doing 20 HP damage. His steel defender misses.
 7. *Avren* shoots her brand new bow
@@ -71,11 +71,11 @@ Round 2
 
 1. *Benjamin* shoots the giant mutated face for 13 HP damage.
 2. *Tysnera* attempts to banish him but fails. She feels like he should have been banished, but something kept him here.
-3. *CoralKing* hits the giant with his staff of striking twice and it does nothing. He looks very confused, since it worked the first time.
+3. *CoralKing* hits the giant with his Staff of Striking twice and it does nothing. He looks very confused, since it worked the first time.
 4. *Geral* tries to hit him with his magic sword and it does 18 HP damage.
 5. *Calmul* shoots the giant twice with his musket and they miss. His steel defender does 5 HP damage.
 6. *Avren* shoots him with her bow, but it bounces off and does no damage.
-7. *Tasbros* uses a fire-adept spell and takes half damage, 14 HP. He uses chromatic orb? and does 13 HP damage.
+7. *Tasbros* uses a fire-adept spell and takes half damage, 14 HP. He uses Chromatic Orb? and does 13 HP damage.
 8. The giant seems to heal, turn around, and hits *Tasbros*’ giant twice. *Geral* uses an opportunity attack for 12 HP damage. I do the same and do 29 HP damage.
 9. *Steve* does 31 HP damage and the giant dramatically falls to the ground, shaking the earth? Underterra.
 
@@ -130,7 +130,7 @@ In our minds, we see a figure bent over some symbol drawn on the ground with dar
 Round 1
 
 1. The creature teleports near us and whips us, doing 15 HP damage. Another hit does 16 slashing and 10 lightning damage. *Steve* gets hit for 13 HP damage and pulled back with the whip.
-2. *CoralKing* shadow steps behind *Droki* and hit him with his staff, doing 27 HP damage. And uses his stunning strike, but misses.
+2. *CoralKing* Shadow Steps behind *Droki* and hit him with his staff, doing 27 HP damage. And uses his stunning strike, but misses.
 3. The Derro attacks *CoralKing* back and does 65 HP damage. He teleports behind the group.
 4. Everyone within 30 ft of *Calmul* gains 6 HP in health.
 5. I cast Crusader’s Mantle
@@ -157,11 +157,11 @@ Round 2
 Round 3
 
 1. The Balor hits me for 19 slashing damage and 12 HP lightning damage. Also, everyone gets 7 HP fire damage.
-2. *CoralKing* Shadow Steps behind the Balor and uses his staff of striking for 30 HP damage and uses stunning strike but misses.
+2. *CoralKing* Shadow Steps behind the Balor and uses his Staff of Striking for 30 HP damage and uses stunning strike but misses.
 3. *Droki* teleports into darkness and *Calmul* becomes blind. He gets hit for 25 HP and 33 HP total.
 4. We hear a grunt from the direction of *Calmul*
 5. I move to the Balor, cast Blinding Smite, and hit the Balor twice, doing 103 HP damage.
-6. *Avren* uses mass cure wounds on *Calmul*, *CoralKing*, me, *Steve*, Steel Defender, and *Benjamin* for 20 HP.
+6. *Avren* uses Mass Cure Wounds on *Calmul*, *CoralKing*, me, *Steve*, Steel Defender, and *Benjamin* for 20 HP.
 7. *Tysnera* does 22 HP acid damage
 8. *Geral* asks me to hit the Balor for 31 HP and he hits him for 14 HP. He also does another 10 HP damage.
 9. *Tasbros* summons Bigby’s Hand and uses grasping hand, but instead adds chaos. We all take 2 HP necrotic damage.
@@ -171,7 +171,7 @@ Round 3
 Round 4
 
 1. Everyone takes 6 HP fire damage. I get hit and knocked down. *Viker* gets 21 HP of slashing damage and 10 HP lightning damage.
-2. *CoralKing* moves to the Balor and uses his flurry of blows. He hits once for 5 HP damage.
+2. *CoralKing* moves to the Balor and uses his Flurry of Blows. He hits once for 5 HP damage.
 3. The darkness disappears from our sight range and *Tasbros* gets 10 HP damage from a flying arrow, but avoids being poisoned.
 4. *Calmul* stands up and moves away from the Balor. He misses 2 shots with his musket.
 5. *Avren* casts Thunder Clap and moves to attempt to find *Droki*.

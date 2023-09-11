@@ -108,7 +108,7 @@ a. One hit Orky for 4 HP damage, reduced from 7.
 Everyone in the room has to make a saving throw + CON on the start of their turn, if they started in the fog at the beginning of their turn (15 makes it). No one has failed so far.
 7. *Tasbros* casts dispel magic and rids the room of the poison fog.
 8. The spiders make a web around Orky, but she managed to fight her way out of it.
-9. *Tysnera* uses magic missile and does 3 damage to one and 5 to another.
+9. *Tysnera* uses Magic Missile and does 3 damage to one and 5 to another.
 10. *Calmul* ?
 11. Orky kills the most damaged Spider.
 
@@ -139,7 +139,7 @@ b. He dashes to the wizard.
 4. A Drow sends a flame and *CoralKing* makes a saving throw and fails. He takes 9 damage.
 5. *Tasbros* casts Chromatic Orb on the wizard for 31 damage, killing him.
 6. *Wulrif* Eldritch Blasts the Drow onto the star space, doing 19 damage.
-7. *Tysnera* uses magic missile and they get absorbed into a special spot.
+7. *Tysnera* uses Magic Missile and they get absorbed into a special spot.
 8. *Viker* casts moonbeam and the Drow uses a Counterspell to block it.
 9. Orky casts Hold Person and the Drow succeeds on it’s wisdom saving throw.
 10. *Benjamin* tries to shoot and misses.
