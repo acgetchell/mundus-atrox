@@ -1,8 +1,8 @@
 # Neverwinter
 
 - **Population**: 500,000, predominantly Human
-- **Government**: *Marchioness Lyanna Alagondar*, Chancellor of the [Magisterium] of **Neverwinter**
-- **Defense**: The *Ten Thousand Crusaders of Light* form a permanent standing army, supplemented by the *Templar* of the [Apostolic See]. The *Armada* is a fleet of Airships and Hippogriff Riders that patrol the skies, supplemented by the *Reserve* of chartered, privately-owned Airships that can be called up on emergency. Members of the [Magisterium] provide supplemental magical support.
+- **Government**: House of Lords
+- **Defense**: The *Ten Thousand Crusaders of Light* form a permanent standing army, supplemented by the [Templar]. The *Armada* is a fleet of Airships and Hippogriff Riders that patrol the skies, supplemented by the *Reserve* of chartered, privately-owned Airships that can be called up on emergency. The [Magisterium] provides the *Arcane Legion*.
 - **Commerce**: Agriculture, Magic, Manufacturing, Technology, Trade, Travel
 
 ## Description
@@ -16,6 +16,20 @@ The top of **Neverwinter** is dominated by **St. Paul's Cathedral**, a beacon of
 Atop the cathedral sits the [Arclight], the city's most revered Techno-Magical achievement. This [Artifact] emits soothing light that eradicates Aberrations, Fiends, and Undead while freezing Shapeshifters and casting even magical darkness. The Arclight’s bright halo is more than just a strong defense; it has become an integral part of **Neverwinter’s** identity. The warm, omnipresent light illuminates nearly every corner of the city and is visible from leagues away, a lighthouse guiding lost souls and a constant reminder of the city’s vigilance against the darkness.
 
 Despite its unending hunt for resources and grim necessity of survival, **Neverwinter** remains a beacon of civilization and hope. The [Arclight], its glow reflecting off St. George's Cathedral, is a testament to the [Populi]'s capacity for resilience and innovation amidst the challenging, dystopian reality of the world.
+
+## Government
+
+**Neverwinter** is governed by the *House of Lords*:
+
+- *Lords Temporal*, 13 [Peer]s who are appointed by and include the ranking [Peer] *Marchioness Lyanna Alagondar*.
+- *Lords Spiritual*, 13 members of the [Apostolic See] who are appointed by and include the *Archbishop Antonio Jesus Ramirez Villarreal of the Diocese of The Sword Coast*.
+- *Lords Magical*, 12 members of the [Magisterium] and 1 from the [Artificer]'s Guild who are appointed by and include *Chancellor Rhalyf Liabanise*.
+
+## Military
+
+- The *Lord Commandant of the Crusaders* and the *First Air Lord of the Armada* answer to the *Lords Temporal*.
+- The *Grand Master of the Templar* and the *Superior General of the Jesuit* answer to the *Lords Spiritual*.
+- The *Arcane Legion* and the *Artificer's Guild* answer to the *Lords Magical*.
 
 ## Layout
 
@@ -101,3 +115,5 @@ This level contains the city's most important institutions, including the **Ledg
 [Apostolic See]: ../game/apostolic-see.md
 [Jesuit Order]: ../game/apostolic-see.md#jesuit
 [Franciscan Order]: ../game/apostolic-see.md#franciscan
+[Peer]: ../game/peerage.md
+[Templar]: ../game/apostolic-see.md#templar

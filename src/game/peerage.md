@@ -24,6 +24,7 @@ Amongst the Dwarves and Gnomes of the Mines, the following titles are recognized
 The following are the titles recognized in the Urbs, in increasing order of precedence, along with the typical holdings and responsibilities.
 
 - Baron, Baroness (**Barony**, the seat being a Summerday castle)
+- Viscount, Viscountess (**Viscounty**, Several Baronies)
 - Earl, Countess (**County**, Several Viscounties)
 - Marquess, Marchioness (**March**, Several Counties)
 - Duke, Duchess (**Duchy**, Several Marches)

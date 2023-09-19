@@ -1,6 +1,6 @@
 # Magisterium
 
-The Magisterium is a group of Sorcerers and Wizards who are dedicated to the study of magic. Each Urb has a Magisterium led by a Chancellor, with the Campus of [Neverwinter] is the among the most prestigious.
+The Magisterium is a group of Sorcerers and Wizards who are dedicated to the study of magic. Each Urb has a **Campus** led by a Chancellor, with [Neverwinter] being among the most prestigious.
 
 Ranks of within the Magisterium are as follows:
 
