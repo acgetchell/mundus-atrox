@@ -57,7 +57,7 @@ Round 2
 2. *Geral* makes me swing on him and I do 27 damage.
 3. *CoralKing* swings on the Fire Giant and does 14 damage.
 4. The Fire Giant comes out of his Confusion now.
-5. *Viker* uses healing word, giving me 17 HP, and ice knife on the Fire Giant doing 18 HP damage?
+5. *Viker* uses Healing Word, giving me 17 HP, and ice knife on the Fire Giant doing 18 HP damage?
 6. The Giant that I knocked over gets back up, attacks *Benjamin*, and misses.
 7. The other Giants attack and miss.
 8. *Tasbros* casts Fireball and it hits 3 hill Giants and 4 Ogres? for 23 damage each.

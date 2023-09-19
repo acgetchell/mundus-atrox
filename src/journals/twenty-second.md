@@ -148,8 +148,8 @@ Round 2
 3. The Derro hits *CoralKing* for 23 HP damage, teleports next to *Benjamin* and does 24 HP damage.
 4. *Calmul* gets hit but shoots and misses.
 5. *Tysnera* tries to use Hold Person but fails.
-6. *Avren* casts mass heal wounds for 23 HP.
-7. *Viker* moves 30 feet away from the Balor, summons a giant scorpion, and uses healing word on me for 31 HP and 11 HP on everyone else. Her scorpion does 20 HP damage to the Derro.
+6. *Avren* casts Mass Heal Wounds for 23 HP.
+7. *Viker* moves 30 feet away from the Balor, summons a giant scorpion, and uses Healing Word on me for 31 HP and 11 HP on everyone else. Her scorpion does 20 HP damage to the Derro.
 8. *Geral* runs to the Derro and hits him with menacing strike for 13 HP.
 9. *Benjamin* finds it has no weaknesses but is resistant to stuff.
 10. *Tasbros* attempts to cast Confusion, but the Balor saves.

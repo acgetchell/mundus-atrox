@@ -18,6 +18,8 @@
 - *Viker*, a 2nd-level Eladrin Druid
 - *Wulrif*, a 3rd-level Human Warlock
 
+![The Phandalin Post](images/phandalin-post.jpg)
+
 The party finally makes it to **Phandalin**. *Sildar* leads the group to the **Stonehill Inn**, where they set about procuring lodgings. *Sildar* pays the
 party the 50 gold pieces and sets off in search of his friend, *Iarno Glasstaff*.
 

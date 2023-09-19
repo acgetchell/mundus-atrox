@@ -81,7 +81,7 @@ I use divine sense and I can sense that there were 4 Fiends, and now there are 5
 
 #### 15,000 XP
 
-We see a little girl with black hair and she asks us “so, are you going to take the offer from the demon?” We say no, she tells us the weapons are probably cursed.  She tells us her people are trapped in there with her. Her name is *Chiyo* and said her people were misled by promises and told lies. She tells us they are summoning more creatures every cycle, there are 5 in there currently. There are shadow demons, glabrezu which is the main one talking to us. 2 beasts (Hezrous), 2 Chasmes, and 4 Shadow Demons, and 4 corrupted shamans. She said if we go in to attack them, her people will attack them from behind. Her mate is the leader, the one we talked to first. He is being coerced by the shamans. She estimates we are outnumbered. We learn that glabrezu emits darkness at will. *Wulrif* attempts to read her mind and fails. She shows us her true form, as an Oni, which are lawful. The ward stone is under the altar, using an active gate to call their own kind, Fiends.
+We see a little girl with black hair and she asks us “so, are you going to take the offer from the demon?” We say no, she tells us the weapons are probably cursed.  She tells us her people are trapped in there with her. Her name is *Chiyo* and said her people were misled by promises and told lies. She tells us they are summoning more creatures every cycle, there are 5 in there currently. There are shadow demons, Glabrezu which is the main one talking to us. 2 beasts (Hezrous), 2 Chasmes, and 4 Shadow Demons, and 4 corrupted shamans. She said if we go in to attack them, her people will attack them from behind. Her mate is the leader, the one we talked to first. He is being coerced by the shamans. She estimates we are outnumbered. We learn that Glabrezu emits darkness at will. *Wulrif* attempts to read her mind and fails. She shows us her true form, as an Oni, which are lawful. The ward stone is under the altar, using an active gate to call their own kind, Fiends.
 
 *Actias* is lighting up his sun blade, we take formation and move into the courtyard. We don’t see anything yet.
 
@@ -95,7 +95,7 @@ Round 1
 
 <!-- markdownlint-disable MD029 -->
 4. *Wulrif* is unconscious
-5. Now the glabrezu charges forward toward *Geral* and misses an attack. Now the shamans attack *Geral* with magic spears and do 11 HP damage.
+5. Now the Glabrezu charges forward toward *Geral* and misses an attack. Now the shamans attack *Geral* with magic spears and do 11 HP damage.
 6. I cast Thunderous Smite and hits the giant bug twice for 40 HP of damage.
 7. *CoralKing* hits it for 22 HP damage and uses Stunning Strike and fails.
 8. *Geral* has *CoralKing* hit the creature again and he misses.

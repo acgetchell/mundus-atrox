@@ -55,7 +55,7 @@ Round 1
 
 1. *Benjamin* tries to find its weaknesses. He finds out it’s a Purple Worm and it has no weaknesses.
 2. *Steve* throws daggers in the girth worm’s mouth, doing 11 HP damage.
-3. *Actias* casts bane and hits (it has low charisma)
+3. *Actias* casts Bane and hits (it has low charisma)
 4. *CoralKing* uses Shadow Step to move behind the person thing. He hits it for 6 HP damage.
 5. *Tysnera* casts Banishment and the girth worm disappears! A massive hole is left in the ground where it was.
 6. *Viker* tries to compliment him and asks what he wants. He doesn’t respond.

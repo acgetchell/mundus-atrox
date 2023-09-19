@@ -16,18 +16,18 @@
 
 #### From the journal of Countess Orky
 
-We decide to speak to the Crusaders (level 3) to find out where the bodies of the slain Templars are. *CoralKing*, *Actias*, and *Lady Varkosian* are going to the market. *Wulrif* is heading to the nearest inn. The Crusaders have no information, they said the Templars took the bodies and handled the investigation. So, we head to the Templars (level 1) and speak to them. I find *Lord Commander Sozenskaat* and ask him. *Lady Stokes* was the Watch Commander at the time and he doesn’t think she has been corrupted. I invite her to have a meal at the inn that *Wulrif* is in and use him to figure out if she is being truthful.
+We decide to speak to the Crusaders on [Level 5] to find out where the bodies of the slain Templars are. *CoralKing*, *Actias*, and *Lady Varkosian* are going to the market. *Wulrif* is heading to the nearest inn on [Level 3]. The Crusaders have no information, they said the Templars took the bodies and handled the investigation. So, we head to the Templars on [Level 6] and speak to them. I find *Lord Commander Sozenskaat* and ask him. *Lady Stokes* was the Watch Commander at the time and he doesn’t think she has been corrupted. I invite her to have a meal at the inn that *Wulrif* is in and use him to figure out if she is being truthful.
 
-Meanwhile, *Lady Varkosian* remembers that she can inherit *Lord Varkosian’s* Barony due to his death. So, she and *Actias* travel up to the **Ledger of the Peerage** to begin the proceedings. Interestingly, although Lord and Lady Varkosian have no heirs,
-an illegitimate child has also filed a claim and is supposedly in **Conyberry**, but that makes no sense because it’s been wasted by Barbarians.
+Meanwhile, *Lady Varkosian* remembers that she can inherit *Lord Varkosian’s* Barony due to his death. So, she and *Actias* travel up to the **Ledger of the Peerage** on [Level 1] to begin the proceedings.
+Interestingly, although Lord and Lady Varkosian have no heirs, an illegitimate child has also filed a claim and is supposedly in **Conyberry**, but that makes no sense because it’s been wasted by Barbarians.
 
 We all congregate at the inn to question *Lady Stokes*. *Wulrif* immediately notices that he cannot read her. She explains to me that she appointed *Sergeant Carruthers* to take care of the investigation. She questioned him and he doesn’t know either. He questioned his team members and they don’t know either. She mentioned *Brother Basil*, a cleric, who would have handled the bodies after arrival at the cathedral. I decide to arrange to meet the Sergeant at the inn. He tells me that he and his men brought the bodies to Sepulchre and passed them off to *Brother Basil*. *Wulrif* notes that the Sergeant, and someone *Wulrif* cannot see, is suspicious of *Brother Basil* when he mentions him. *Viker* puts her Inquisitor's Robes on and notices a spider in the corner of the room that scuttles away immediately. *Wulrif* senses the second mind has left.
 
-We make our way to **St. Paul's Cathedral** to question *Brother Basil*. Apparently he has gone missing before meeting *Father Saphil* to discuss a sermon. So, I seek out *Father Saphil* and he informs me that he hasn't seen him in 3 cycles. I ask if he knows anything about his disappearance and he said he has always been a strong member of my order. He also performed his original rights. He mentions *Brother Basil's* mother is a miner on the 6th/7th level and he came from poverty. He is also young, which is why he is getting the grunt work of the mortuary.
+We make our way to **St. Paul's Cathedral** to question *Brother Basil*. Apparently he has gone missing before meeting *Father Saphil* to discuss a sermon. So, I seek out *Father Saphil* and he informs me that he hasn't seen him in 3 cycles. I ask if he knows anything about his disappearance and he said he has always been a strong member of my order. He also performed his original *Rites of Passage*. He mentions *Brother Basil's* mother is a miner on the [Level 0] and he came from poverty. He is also young, which is why he is getting the grunt work of the mortuary.
 
 We decide to take a rest cycle and have *Tysnera* tailor a spell list for investigation before heading to *Brother Basil*’s living quarters. He shares with 8 other brothers with chests at the ends of their beds. I decide to physically look around while *Tysnera* tries to open the chest. She opens it with a Knock spell and we immediately feel malaise. We see the inside of the chest is lined with lead, and inside is a strange book that is radiating extraplanar magic. *Tysnera* sees letters in a spidery script between him and his mother, in which she recognizes is Drow. *Tysnera* concludes that this is a Warlock’s Book of Shadows to *Llolth* with a 6th level spell in there. This is a tome that is gifted to the Warlock by his patron.
 
-When we bring the book into the cathedral, the writing disappears. We bring it outside the cathedral and the writing reappears. I decide to rent quarters in the Noble's District with appropriate space. In my new ballroom, I cast Magic Circle, as does *Actias*, and *Tysnera*. I retrieve my Bag of Holding (thanks *Calmul*!), remove the book, and open it. Some kind of spell goes off, and a Gate opens. Immediately, 4 Yochlols and a Marilith step through.
+When we bring the book into the cathedral, the writing disappears. We bring it outside the cathedral and the writing reappears. I decide to rent quarters in the Noble's District on [Level 5] with appropriate space. In my new ballroom, I cast Magic Circle, as does *Actias*, and *Tysnera*. I retrieve my Bag of Holding (thanks *Calmul*!), remove the book, and open it. Some kind of spell goes off, and a Gate opens. Immediately, 4 Yochlols and a Marilith step through.
 
 Round 1
 
@@ -78,3 +78,9 @@ Round 4
 The Gate is still open!
 
 #### 20,000 XP Each
+
+[Level 0]: ../background/neverwinter.md#level-0
+[Level 1]: ../background/neverwinter.md#level-1
+[Level 3]: ../background/neverwinter.md#level-3
+[Level 5]: ../background/neverwinter.md#level-5
+[Level 6]: ../background/neverwinter.md#level-6

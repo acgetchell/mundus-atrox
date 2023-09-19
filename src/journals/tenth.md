@@ -100,13 +100,13 @@ Round 3
 
 1. *Steve* makes a death saving throw and misses.
 2. *Benjamin* uses hunter’s mark on the damaged Spider and shoots twice and kills it.
-3. *Viker* uses healing word and everyone gets healed 5 HP.
+3. *Viker* uses Healing Word and everyone gets healed 5 HP.
 4. The spiders go now:
 a. One hit Orky for 4 HP damage, reduced from 7.
 5. *Wulrif* blasts a Spider back and does 17 damage.
 6. *CoralKing* moves forward to attack the damaged Spider, flanking Orky. He rolls a crit and does 28 damage and kills it!
 Everyone in the room has to make a saving throw + CON on the start of their turn, if they started in the fog at the beginning of their turn (15 makes it). No one has failed so far.
-7. *Tasbros* casts dispel magic and rids the room of the poison fog.
+7. *Tasbros* casts Dispel Magic and rids the room of the poison fog.
 8. The spiders make a web around Orky, but she managed to fight her way out of it.
 9. *Tysnera* uses Magic Missile and does 3 damage to one and 5 to another.
 10. *Calmul* ?

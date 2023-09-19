@@ -71,7 +71,7 @@ Round 2
 2. *Geral* asks *Benjamin* to hit the Beholder thing again for 15 damage and it goes down!
 3. *Tysnera* uses Fireball, sparing CoralKing, and does 29 damage, but doesn’t drop anything.
 4. There is a Lightning Bolt that comes out of nowhere, but *Wulrif* miraculously manages to Counterspell it.
-5. *Actias* moves up and casts bane on 4 Undead.
+5. *Actias* moves up and casts Bane on 4 Undead.
 6. *Steve* uses a Sneak Attack on the Undead Calmul’s fox bit. He does 22 damage.
 7. *Viker* heals everyone 6 HP.
 8. CoralKing runs up to the Wizard, while invisible, and rolls a crit! He uses his magic Ki points and does 16 damage. He hits twice again and does 18 damage. The Wizard gets wrecked and disappears!

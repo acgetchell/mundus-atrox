@@ -46,7 +46,7 @@ Round 2
 3. *Calmul* uses Branding Smite and misses.
 4. *Steve* runs up and stabs a Grick for 24 HP damage, killing it.
 5. *Tysnera* casts Firebolt and does 9 HP damage.
-6. *Viker* uses healing word on *CoralKing*, doing 14 HP healing.
+6. *Viker* uses Healing Word on *CoralKing*, doing 14 HP healing.
 7. *Benjamin* shoots one of the Gricks and does 23 HP damage, killing it.
 8. *Geral* moves toward the last remaining Grick and hits it for 10 HP damage.
 9. It hits back with its tentacles, doing 28 HP damage to *Geral*.

@@ -28,8 +28,6 @@ Despite its unending hunt for resources and grim necessity of survival, **Neverw
 ## Military
 
 - The *Lord Commandant of the Crusaders* and the *First Air Lord of the Armada* answer to the *Lords Temporal*.
-- The *Grand Master of the Templar* and the *Superior General of the Jesuit* answer to the *Lords Spiritual*.
-- The *Arcane Legion* and the *Artificer's Guild* answer to the *Lords Magical*.
 
 ## Layout
 

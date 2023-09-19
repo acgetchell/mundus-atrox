@@ -40,7 +40,7 @@ Round 1
 7. *Calmul*
 8. I move forward 20 ft, cast Searing Smite, and ready my action. If I am attacked within 5 ft, I will attack twice with my great sword. I attack someone for 31 HP damage.
 9. *Droki* sneaks up behind *Wulrif* and attacks him for 57 HP damage. There is a 15 ft darkness radius around *Droki*. The enemies move in to surround me and *Benjamin*. They do 38 HP damage to me and a significant amount to *Benjamin*. They attack *Viker* for 20 HP damage. *Geral* is attacked and so is *CoralKing*. He got hit for 22 HP damage.
-10. *Avren* casts dispel magic and the darkness goes away!
+10. *Avren* casts Dispel Magic and the darkness goes away!
 11. The priestesses heal all of their friends within 30 feet. *Viker*’s wall of fire suddenly disappears. I get 26 HP damage and so does *Tysnera*.
 12. *Steve* attacked *Droki* and did some damage.
 13. *Geral* provokes 3 attacks of opportunity and attacks *Droki* 3 times. He uses action surge to hit him again. He does 30 HP damage.
@@ -54,7 +54,7 @@ Round 2
 5. I turn around, declare a Vow of Enmity at the creature attacking me, and swing at him. I do 31 HP to that guy and he dies. I quickly move and attack a creature at the edge of the tentacles, doing 19 HP damage.
 6. *Tysnera* casts Fireball, doing 28 HP damage to a bunch of creatures.
 7. A Drow attacks *CoralKing*, doing 31 HP damage. Some archers attack *CoralKing* and miss. They hit *Geral* for 5 HP.
-8. *Avren* moves out of the tentacles and casts dispel magic again, getting rid of the tentacles!
+8. *Avren* moves out of the tentacles and casts Dispel Magic again, getting rid of the tentacles!
 9. The head priestess casts something that *Tasbros* attempts to counter, and succeeds!
 10. *Steve* attacks a Drider and misses.
 11. *Viker* casts Daylight, covering the entire battlefield. She also attacks a Drider and does 9 HP damage.
