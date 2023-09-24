@@ -6,15 +6,15 @@ They are a group of adventurers who have been tasked with finding the [Lost Mine
 
 Members of the party have included:
 
-- *Actias Aureus*, a [Dhampir] [Hexblade] [Warlock] and Mystic of the *Rockseeker Clan*. **Current XP Total**: 124,700
-- *Benjamin*, a Wood [Elf] [Ranger] and Scout of the *Rockseeker Clan*. **Current XP Total**: 131,420
-- *CoralKing*, a [Gnome] [Monk] and Mystic of the *Rockseeker Clan*. **Current XP Total**: 173,420
-- *Lady Orky*, a [Half-Elven] [Paladin], Countess of Icewind Dale and Champion of the *Rockseeker Clan*. **Current XP Total**: 173,420
+- *Actias Aureus*, a [Dhampir] [Hexblade] [Warlock] and Mystic of the *Rockseeker Clan*. **Current XP Total**: 141,900
+- *Benjamin*, a Wood [Elf] [Ranger] and Scout of the *Rockseeker Clan*. **Current XP Total**: 175,120
+- *CoralKing*, a [Gnome] [Monk] and Mystic of the *Rockseeker Clan*. **Current XP Total**: 217,120
+- *Lady Orky*, a [Half-Elven] [Paladin], Countess of Icewind Dale and Champion of the *Rockseeker Clan*. **Current XP Total**: 217,120
 - *Steve*, a [Halfling] [Rogue] and Scout of the *Rockseeker Clan*. **Current XP Total**: 131,420
-- *Tasbros*, a Sky [Elf] [Sorcerer], Baccalaureate of the Magisterium and War Mage of the *Rockseeker Clan*. **Current XP Total**: 139,300
+- *Tasbros*, a Sky [Elf] [Sorcerer], Baccalaureate of the Magisterium and War Mage of the *Rockseeker Clan*. **Current XP Total**: 155,800
 - *Tysnera*, a Sky [Elf] [Wizard], Baccalaureate of the Magisterium and War Mage of the *Rockseeker Clan*. **Current XP Total**: 139,300
-- *Viker*, an [Eladrin] [Druid] and Inquisitor and Guardian of the *Rockseeker Clan*. **Current XP Total**: 168,020
-- *Wulrif*, a [Human] [Warlock] and Mystic of the *Rockseeker Clan*. **Current XP Total**: 135,900
+- *Viker*, an [Eladrin] [Druid] and Inquisitor and Guardian of the *Rockseeker Clan*. **Current XP Total**: 201,720
+- *Wulrif*, a [Human] [Warlock] and Mystic of the *Rockseeker Clan*. **Current XP Total**: 179,600
 
 Retired members of the party:
 
