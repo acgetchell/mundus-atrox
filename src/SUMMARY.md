@@ -38,18 +38,20 @@
 # Game Information
 
 - [Starting](game/starting.md)
-  - [Backgrounds](game/backgrounds.md)
-    - [Apostolic See](game/apostolic-see.md)
-    - [Magisterium](game/magisterium.md)
-    - [Peerage](game/peerage.md)
+  - [Races](game/races.md)
   - [Classes](game/classes.md)
     - [Artificer](game/artificer.md)
     - [Playtest Materials](game/playtest.md)
+  - [Factions](game/factions.md)
+    - [Apostolic See](game/apostolic-see.md)
+    - [Magisterium](game/magisterium.md)
+    - [Peerage](game/peerage.md)
+  
   - [Equipment](game/equipment.md)
     - [Conveyances](game/conveyances.md)
     - [Firearms](game/firearms.md)
   - [Magic Items](game/magic-items.md)
-  - [Races](game/races.md)
+  
   - [Spellcasting](game/spellcasting.md)
     - [Mana](game/mana.md)
 
