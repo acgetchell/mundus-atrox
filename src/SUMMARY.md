@@ -13,6 +13,7 @@
 - [Flora and Fauna](background/flora-fauna.md)
   - [Dragons](background/dragons.md)
   - [Fey](background/fey.md)
+  - [Giants](background/giants.md)
   - [Old Ones](background/old-ones.md)
 - [Population](background/population.md)
   - [Barbaria](background/barbaria.md)
@@ -89,3 +90,4 @@
   - [Twenty-Ninth Session](journals/twenty-ninth.md)
   - [Thirtieth Session](journals/thirtieth.md)
   - [Thirty-First Session](journals/thirty-first.md)
+  - [Thirty-Second Session](journals/thirty-second.md)

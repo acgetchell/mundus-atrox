@@ -6,11 +6,11 @@ We will be using the materials from the [D&D Adventurers League](https://dnd.wiz
 
 ## Step 0: Choose Your Campaign
 
-This one is easy, we're playing in **Mundus**.
+This one is easy, we're playing in **[Mundus]**.
 
 ## Step 1: Choose a Race or Lineage
 
-A rather large list of playable races are available, generally grouped into Barbarians, Fey, Old ONes, and Populi.
+A rather large list of playable races are available, generally grouped into [Barbaria], [Fey], [Old Ones], and [Populi], though some [Dragon] and [Giant] lineages exist.
 
 - [Playable Races](races.md)
 
@@ -74,6 +74,7 @@ The type of **Hero Dice** depends upon the level of the character, according to 
 - [Spellcasting][spellcasting]
 - [Magic Items](magic-items.md)
 
+[Mundus]: https://www.adamgetchell.org/mundus-atrox/index.html
 [Honor]: https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#HonorScore
 [Sanity]: https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#SanityScore
 [Wisdom]: https://www.dndbeyond.com/sources/phb/using-ability-scores#Wisdom
@@ -82,3 +83,9 @@ The type of **Hero Dice** depends upon the level of the character, according to 
 [Exhaustion]: https://www.dndbeyond.com/sources/basic-rules/appendix-a-conditions#Exhaustion
 [Customizing Ability Scores]: https://www.dndbeyond.com/sources/phb/step-by-step-characters#3DetermineAbilityScores
 [Player's Guide]: https://assets.ctfassets.net/swt2dsco9mfe/5HsTtt0nV2KIyAGYl4bIi9/6edfd53c11ff71bd647488fe730022ae/D_D_Adventurers_League_Player-s_Guide_v13.0.pdf
+[Barbaria]: ../background/barbaria.md
+[Fey]: ../background/fey.md
+[Old Ones]: ../background/old-ones.md
+[Populi]: ../background/populi.md
+[Dragon]: ../background/dragons.md
+[Giant]: ../background/giants.m

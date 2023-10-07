@@ -5,7 +5,7 @@ The **Ledger** is a kind of distributed magical artifact that associates the Tit
 
 ## Ledger
 
-Each Castela, Mine, and Urb has it's own copy of the **Ledger**, which is an immutable history of all all titles held by all nobles in all cultures on **Mundus**. The records of the **Ledger** stretch backwards in time for thousands of generations, and the vast amount of records in the **Ledger** means that only the largest of Castelas, Mines, and Urbs have the resources to maintain an entire copy of the **Ledger**. Competing claims are often proposed in different copies of the **Ledger**, which is resolved by a kind of magical consensus based upon the number of copies of the **Ledger** that agree with a particular claim. Thus, successful claims are most often registered in the largest Castelas, Mines, and Urbs.
+Each Castela, Mine, and Urb has it's own copy of the **Ledger**, which is an immutable history of all titles held by all nobles in all cultures on **Mundus**. The records of the **Ledger** stretch backwards in time for thousands of generations, and the vast amount of records in the **Ledger** means that only the largest Castelas, Mines, and Urbs have the resources to maintain an entire copy of the **Ledger**. Competing claims are often proposed in different copies of the **Ledger**, which is resolved by a kind of magical consensus based upon the number of copies of the **Ledger** that agree with a particular claim. Thus, successful claims are most often registered in the largest copies.
 
 ## Castelan Titles
 
