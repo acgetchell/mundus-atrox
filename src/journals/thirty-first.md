@@ -59,7 +59,7 @@ Round 3
 
 I grab the Holy Avenger and hear *Lord Varkosian*’s voice in my head “You must wield me to set this right.” He said he will do his penance in this sword until I destroy all sources of evil that led to his downfall. He and *Lady Varkosian* speak about their past and how they got to where they are now. He said because he is a sword, he is passing his estate onto her. She brings up the fact that he has an illegitimate child. He said it wasn’t his fault, the child’s mother is very manipulative.
 
-I arrange for a proper Templar burial. A portal appears and the cathedral is visible on the other side. *Wulrif* uses Telekinesis to move the bodies through.
+I arrange for a proper **Templar** burial. A portal appears and the cathedral is visible on the other side. *Wulrif* uses Telekinesis to move the bodies through.
 
 I inquire about *Brother Basil* and the **Magisterium** Initiates come yelling that there is a massive battle occurring ...
 

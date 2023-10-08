@@ -46,7 +46,7 @@ Retired members of the party:
 - The [Hobgoblins] of **Cragmaw**.
 - *Iarno Glasstaff*, a [Human] [Wizard] and member of the *Zhentarim*.
 - *Icewing*, a White Dragon who drove the *Icebreaker Clan* from their ancestral home.
-- *Lord Commander Varkosian*, a former Lord Commander of the Templar, now a Death Knight.
+- *Lord Commander Varkosian*, a former Lord Commander of the **Templar**, now a Death Knight.
 - *Mistress Ilvarra* of the [Drow] *House Mizzrym*.
 - *Nezznar the Black Spider*, a [Drow] [Wizard] and member of the *Zhentarim*.
 - A nameless Smiling One.

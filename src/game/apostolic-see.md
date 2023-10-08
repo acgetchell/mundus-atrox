@@ -40,7 +40,7 @@ The Inquisition is a group dedicated to the protection of the Apostolic See from
 
 ## Templar
 
-The Templar are a military Order of Clerics and Paladins, dedicated to the protection of the Apostolic See from supernatural threats. The Templar are led by the Grand Master, and are further divided into the Knights Templar, who are always members of the Peerage, and non-Peerage Paladins and Clerics. The basic unit is the Tredectet, a group of 12 Templar led by a Knight Templar. The membership and rank structure is as follows:
+The **Templar** are a military Order of Clerics and Paladins, dedicated to the protection of the Apostolic See from supernatural threats. The **Templar** are led by the Grand Master, and are further divided into the Knights **Templar**, who are always members of the Peerage, and non-Peerage Paladins and Clerics. The basic unit is the Tredectet, a group of 12 **Templar** led by a Knight Templar. The membership and rank structure is as follows:
 
 - Brother/Sister (War Domain Cleric)
 - Paladin

@@ -100,7 +100,7 @@ Round 5
 
 I pull out my dark religious symbol gifted to me from the Dragon, the Monolith heals, and we find ourselves in a maze. We hear a loud clanking, see a smelt, and a guy standing there with dead humans around him. We see a creature saying he “sacrificed his companions to summon ___, who are you?!?” We are standing near a giant creature that looks like a giant goat on its hind legs, with 3 sets of horns, and a pig face (*Baphomet*).
 
-*Wulrif* attempts Telekinesis to lift up the screaming guy, but fails. I recognize the guy as a Death Knight, who is required to state his sins to become a Death Knight. He screams out that he slew all of his fellow Templars over and over. We realize somehow that we are back on the surface, in **[Neverwinter]**.
+*Wulrif* attempts Telekinesis to lift up the screaming guy, but fails. I recognize the guy as a Death Knight, who is required to state his sins to become a Death Knight. He screams out that he slew all of his fellow ****Templar** over and over. We realize somehow that we are back on the surface, in **[Neverwinter]**.
 
 Round 1
 

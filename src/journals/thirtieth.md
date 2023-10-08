@@ -71,21 +71,23 @@ Round 5
 6. *Wulrif* attacks my Hezrou for 38 HP damage, killing it!
 7. *Viker* hits the Hezrou with her Mace of Disruption and obliterates it!
 
-Scimitars and the book are left behind and taken by us. Suddenly, the Crusaders appear at my rental manor. They tell us they heard screams and ask why a Templar is here. We are healed 25 HP each. They leave 20 Crusaders around the neighborhood to make everyone feel safe.
+Scimitars and the book are left behind and taken by us. Suddenly, the Crusaders appear at my [Manor]. They tell us they heard screams and ask why a **Templar** is here. We are healed 25 HP each. They leave 20 Crusaders around the neighborhood to make everyone feel safe.
 
 *Actias* goes to the market to get medium armor. We restart our quest to find Brother Basil. *Benjamin* attempts to find his trail, but lost him around [Level 3]. I learn about the Franciscans who help the poor, and I approach them to help me find Brother Basil’s mother. They don’t know him. *Actias* decides he wants to Scry him. So, we head back to his quarters and he tries to find some DNA. *Actias* hears mechanical machinery in the background of this image, Brother Basil is scared and trying to hide. There are 12 shrouded figures around him and he is scribing some kind of circles. It’s either in [Level 0] or [Level 1], where he is located. We figure out he is on [Level 0].
 
-I decide to go ask an Artificer if they can help. He said he is too busy. I ask the Templars to seal off level 0 from all travel. *Benjamin* attempts to track Brother Basil and he picks up the trail! He leads us and we follow him to a very large room with the underside of the moving treads with a crank shaft in it. *Actias* Scries again and sees the Brother Basil is suspicious, but in the same room as before. Now he seems to be speaking to someone, but *Actias* cannot see who he is talking to. He sees a door that says “Danger, Stay Out!” and a second door with the same side. Now, *Actias* can’t see who he is speaking to, but can see a sort of shimmering portal. *Wulrif* attempts to rips the door open with telekinesis. *Wulrif* opens the door and *Actias* can see a door opening through Brother Basil’s eyes.
+I decide to go ask an Artificer if they can help. He said he is too busy. I ask the ****Templar** to seal off level 0 from all travel. *Benjamin* attempts to track Brother Basil and he picks up the trail! He leads us and we follow him to a very large room with the underside of the moving treads with a crank shaft in it. *Actias* Scries again and sees the Brother Basil is suspicious, but in the same room as before. Now he seems to be speaking to someone, but *Actias* cannot see who he is talking to. He sees a door that says “Danger, Stay Out!” and a second door with the same side. Now, *Actias* can’t see who he is speaking to, but can see a sort of shimmering portal. *Wulrif* attempts to rips the door open with telekinesis. *Wulrif* opens the door and *Actias* can see a door opening through Brother Basil’s eyes.
 
 Round 1
 
 1. I cast Hold Person and succeed!
 2. *Viker* casts Dispel Magic and closes the portal! I think “man, we are on a roll”.
 
-We bind and gag Brother Basil. I put my manacles on him. We see the 12 shrouded bodies around him. *Wulrif* looks for magic residue other than the portal. He finds the portal holds an aberration. Nothing that would help the Brother. He found some saliva from the aberration on the bodies. *Actias* casts Speak with Dead and he asks what was *Lord Varkosian’s* motivation? They remember having a supper with him but nothing else, they don’t realize they are dead. They said they were working with Lord to find a cell of the Illuminati. They thought they found a cell working with the Artificer’s Guild, and before they were to raid the cell, they had a ritual and last supper before they died. However, they don’t seem to understand that they are dead. We ask who prepared the supper and they said Lord did.
+We bind and gag Brother Basil. I put my manacles on him. We see the 12 shrouded bodies around him. *Wulrif* looks for magic residue other than the portal. He finds the portal holds an aberration. Nothing that would help the Brother. He found some saliva from the aberration on the bodies. *Actias* casts Speak with Dead and he asks what was *Lord Varkosian’s* motivation? They remember having a supper with him but nothing else, they don’t realize they are dead. They said they were working with Lord to find a cell of the **Illuminati**. They thought they found a cell working with the Artificer’s Guild, and before they were to raid the cell, they had a ritual and last supper before they died. However, they don’t seem to understand that they are dead. We ask who prepared the supper and they said Lord did.
 
 #### 17,200 XP
 
 [Level 0]: ../background/neverwinter.md#level-0
 [Level 1]: ../background/neverwinter.md#level-1
 [Level 3]: ../background/neverwinter.md#level-3
+
+[Manor]: https://media.dndbeyond.com/compendium-images/ua/bastions-cantrips/BRF3GSu0nTfNu8p4/UA2023-BastionsCantrips.pdf

@@ -2,7 +2,7 @@
 
 - **Population**: 500,000, predominantly Human
 - **Government**: House of Lords
-- **Defense**: The *Ten Thousand Crusaders of Light* form a permanent standing army, supplemented by the [Templar]. The *Armada* is a fleet of Airships and Hippogriff Riders that patrol the skies, supplemented by the *Reserve* of chartered, privately-owned Airships that can be called up on emergency. The [Magisterium] provides the *Arcane Legion*.
+- **Defense**: The *Ten Thousand Crusaders of Light* form a permanent standing army, supplemented by the **[Templar]**. The *Armada* is a fleet of Airships and Hippogriff Riders that patrol the skies, supplemented by the *Reserve* of chartered, privately-owned Airships that can be called up on emergency. The **[Magisterium]** provides the *Arcane Legion*.
 - **Commerce**: Agriculture, Magic, Manufacturing, Technology, Trade, Travel
 
 ## Description
@@ -87,7 +87,7 @@ The Armory is a massive structure that houses the city's standing army, the *Ten
 - **The Sky Docks**
 - **Templar Barracks**
 
-**The Pilot House** of **Neverwinter** is in the forward quarter of this level, from where **Neverwinter** is piloted. The **Sky Docks** are located in the aft quarter, and are where the city's Airships and Hippogriff Riders are housed in the vast **Hangars**. The **Templar Barracks** are located in the middle of the level, and are where the city's Templar are housed.
+**The Pilot House** of **Neverwinter** is in the forward quarter of this level, from where **Neverwinter** is piloted. The **Sky Docks** are located in the aft quarter, and are where the city's Airships and Hippogriff Riders are housed in the vast **Hangars**. The **Templar Barracks** are located in the middle of the level, and are where the city's **Templar** are housed.
 
 ### Level 7
 

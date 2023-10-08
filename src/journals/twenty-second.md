@@ -40,7 +40,7 @@ I am heavy with my armor, so *CoralKing* and some Koa-toa get put with me in 1 r
 
 > After hours of tense navigation, you glimpse an orange glow in the distance. Soon you hear faint metallic echoes, growing louder as you come closer.
 >
-> Firelight illuminates massive columns with structures built around their bases. The cold air of the Underdark is becoming warmer even at this distance, and you can now see a variety of piers made from zurkhwood, stone, and plain rock jutting out along the edge of a huge cavern.
+> Firelight illuminates massive columns with structures built around their bases. The cold air of the **Underdark** is becoming warmer even at this distance, and you can now see a variety of piers made from zurkhwood, stone, and plain rock jutting out along the edge of a huge cavern.
 
 We thank *Hemeth* for his help. He returns *Geral*’s axe and returns thanks, saying we could do business in the future, as the town blacksmith.
 
