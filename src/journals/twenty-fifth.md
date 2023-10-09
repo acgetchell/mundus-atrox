@@ -238,7 +238,7 @@ We search the remnants and take the sword, an Unholy Avenger. The Crusaders come
 >
 > "With all due respect, sir, we're not in service anymore." says *Geral*.
 >
-> "Oh, the forms will be ready for your Recommissioning at your Investiture, I imagine." The Commandant stands and smiles, then snaps off a textbook salute. "I won't hold your noble rank against you, *Lord Colonel Geral Bryn*."
+> "Oh, the forms will be ready for your Recommissioning at your Investiture, I imagine." The Commandant stands and smiles, then snaps off a textbook salute. "I won't hold your noble rank against you."
 
 Our escorts snap to attention when we leave the *Commandant's* office. We wind our way out of the hulking **Armory**, *Calmul* in some sort of reverie, analyzing the guns and machinery defending the fortress. We are escorted to an
 express elevator Topside, opening into the famous **[Hanging Gardens]**. *Benjamin* and *Viker* look around in delight as we are escorted to the shining crystal towers of the **Magisterium**.
