@@ -51,7 +51,7 @@ We approach the next room and feel our items lose their magic. We move slightly 
 >
 > "What happens if we get them mixed up?" asks *CoralKing*.
 >
-> "Well, they're tailored to your genetics, so it might not be a problem. Or it might be a big problem. I don't know, I'm not a geneticist."
+> "Well, they're tailored to your genetics, so it might be a big problem. Or it might not be a problem. I don't know, I'm not a geneticist."
 >
 > We carefully take our own potions to quaff.
 >
@@ -59,9 +59,9 @@ We approach the next room and feel our items lose their magic. We move slightly 
 >
 > A horrible chuckle.
 
- *Calmul* eventually realizes that he has the ability to build one! He nearly disappears into a fog of animated tools and constructs, and we can see him grasping nearby objects as the object manifests. It’s a metal, folding contraption thing that expands and contracts in strange directions and has lots of gears on it.
+ *Calmul* eventually realizes that he has the ability to build one! He nearly disappears into a fog of animated tools and constructs, and we can see him grasping nearby objects as the object manifests. The finished product is a metal, folding contraption thing that expands and contracts in strange directions and has lots of gears on it.
 
-We drink our potions and shrink, watching puddles of reddish-pinkish-brown slime drain away into *Calmul's* metal box. We are now 6" high, and the air is strangely thick. *Benjamin* and *Wulrif* work together to track *Droki*, but the tunnels are long and confusing. After 8 hours of progress, *Benjamin* loses the trail and takes a guess as to which way we should travel. *Geral* gives *Benjamin* some Inspiration and he eventually recovers the track. We start to feel tingly after a long time of traveling. Then, we find ourselves in a larger area and start to see rocks orbit us. We realize that we are growing in size. We quickly get *Calmul* to open the Box of Holding so we can gain our original forms with our original mass.
+We drink our potions and shrink, watching puddles of reddish-pinkish-brown slime drain away into *Calmul's* metal box. We are now 6" high, and the air is strangely thick. *Benjamin* and *Wulrif* work together to track *Droki*, but the tunnels are long and confusing. After 8 hours of progress, *Benjamin* loses the trail and takes a guess as to which way we should travel. *Geral* gives *Benjamin* some Inspiration and he eventually recovers the track. We start to feel tingly after a long time of traveling. Then, we find ourselves in a larger area and start to see rocks orbit us. We realize that we are growing in size, and quickly get *Calmul* to open the Box of Holding so we can gain our original forms with our original mass.
 
 We feel a bit out of sorts, funny tastes and twinges throughout our bodies. We are in a large cavern with a series of stepped pyramids, the Monolith on the central, highest mound. We see a bunch of Drow and Driders and, looking expectantly at us, *Mistress Ilvarra*.
 
@@ -76,11 +76,11 @@ Round 1
 1. *Benjamin* casts a spell to damage 4 Drow by 1 HP and the Shrieker, killing it. The shrieks thankfully fade.
 2. *CoralKing* Teleports to the top of the highest mound and swings at the nearest Drow with his staff, doing 27 HP damage.
 3. *Tasbros* casts a Fireball but gets Counterspelled.
-4. *Tysnera* casts Fireball at 5th level and lands 42 HP damage to the Drow, staggering them.
+4. *Tysnera* casts Fireball at 5th level and lands 42 HP damage to the Drow, staggering them. Many are wearing burning cloaks.
 5. *Viker* casts Firewall and does 18 HP damage on 5 Drow Elite Warriors.
 6. *Wulrif* uses 2 Sorcery points and Quickens Sickening Radiance on the Drow, followed by Eldritch Blast on *Mistress Ilvarra*, which pushes her backwards 10 feet.
 7. *Calmul* shoots a Drider with his musket, because he doesn't like giant Spider-things.
-8. I move forward 20 ft, cast Searing Smite, and ready my action. If I am attacked within 5 ft, I will counterattack twice with my Great Sword. A Drow Elite Warrior obliges me and I slip his strikes, countering for 31 HP damage.
+8. I move forward 20 feet, cast Searing Smite, and ready my action. If I am attacked within 5 feet, I will counterattack twice with my Great Sword. A Drow Elite Warrior obliges me and I slip his strikes, countering for 31 HP damage.
 9. *Droki* sneaks up behind *Wulrif* and backstabs him for 57 HP damage! *Droki* then disappears in a globe of Darkness. The enemies move in to surround me and *Benjamin*. They do 38 HP damage to me and a significant amount to *Benjamin*. They attack *Viker* for 20 HP damage. *Geral* is attacked and so is *CoralKing*, who gets hit for 22 HP damage.
 10. *Avren* casts Dispel Magic and the Darkness goes away!
 11. A Priestess casts Mass Cure Wounds on their forces. *Mistress Ilvarra* Dispels *Viker*’s Wall of Fire, which is burning up her warriors. I get 26 HP damage and so does *Tysnera*. Simultaneously, tentacles and noxious green fumes erupt around us, holding us in place and choking us for a ton of damage.
@@ -94,7 +94,7 @@ Round 2
 3. *Wulrif* tries his best, but fails to hit *Droki* back with *Eldritch Blast*.
 4. *Tasbros* struggles in the Black Tentacles and casts Sunbeam using his Metamagic, damaging a line of Drow as far as the Priestesses for 32 HP damage each.
 5. I turn around, declare a Vow of Enmity on the Drow Elite Warrior attacking me, and swing at him. I do 31 HP and he dies. I quickly move and attack another Drow at the edge of the tentacles, doing 19 HP damage.
-6. *Tysnera* casts Fireball, doing 28 HP damage to a bunch of Drow.
+6. *Tysnera* casts Fireball, doing 28 HP damage to a bunch of Drow. They're definitely all burning now.
 7. A Drow Elite Warrior attacks *CoralKing*, doing 31 HP damage. Some Drow Crossbowmen attack *CoralKing* and miss, but hit *Geral* for 5 HP. *Geral* Saves against the poison.
 8. *Avren* moves out of the Black Tentacles and casts Dispel Magic again, getting rid of them!
 9. *Mistress Ilvarra* casts something extremely nasty at *Tasbros*, who successfully Counterspells it!
@@ -123,7 +123,7 @@ Round 4
 
 1. *Benjamin* sprints up to where *Droki* is before a Drider can drag him away.
 2. *Wulrif* Eldritch Blasts the Drider near Benjamin, knocking it back.
-3. *Tasbros* uses his Dragon Spirit to attack the Drider attacking him and misses. He then uses Chromatic Orb on it, doing 15 HP damage.
+3. *Tasbros* uses his Dragon Spirit to attack the Drider attacking him and misses. He then uses Chromatic Orb on it, doing 15 HP damage and setting it on fire.
 4. *Steve* uses a Sneak Attack with his crossbow for big damage on *Tasbros* Drider.
 5. I move up to *Droki*, throw my manacles to *CoralKing* and direct him to cuff our prisoner. He does so.
 6. *Tysnera* Magic Missiles a Drider for guaranteed damage.
@@ -135,8 +135,8 @@ Round 5
 1. *Wulrif* does 22 HP damage to a Drider.
 2. *Viker* uses Ice Knife and freezes a Drider in place.
 3. *Geral* runs down to the Drider and does 11 HP damage.
-4. *Tasbros* uses Ray of Frost.
-5. *Viker* does 28 HP damage on a Drider, killing it.
+4. *Tasbros* uses Ray of Frost on another Drider.
+5. *Viker* does 28 HP damage on the same Drider, killing it.
 6. *CoralKing* turns and throws a dart at the remaining Drider for 12 HP damage.
 7. *Benjamin* shoot the Drider and kills it!
 
@@ -144,7 +144,8 @@ I pull out my dark religious symbol gifted to me from the Dragon. It is strongly
 
 ![Death Knight](images/death-knight.png)
 
-> We're in a giant shuddering space, filled with clanking and the smell of machinery. We see enormous industrial Smelters, and a huge armored form standing amidst a circle of a dozen slain **Templar**.
+> We're in a giant shuddering space, filled with clanking and the smell of machinery. We see enormous industrial Smelters, and a huge armored form standing amidst a circle of a dozen slain **Templar**. Lines drawn in blood and ash form a summoning circle
+> which has a glowing black rift that *something* is coming through. The figure turns to us.
 >
 > He's clad in blackened, tarnished Adamantium Plate draped with the smoking remnants of a **Templar's** White and Red tabard. Glowing red orbs contemplate us from the eye slits of his helmet. He's holding a huge sword which reeks with the stench of death.
 >
@@ -154,7 +155,7 @@ I pull out my dark religious symbol gifted to me from the Dragon. It is strongly
 
 ![Baphomet](images/baphomet.png)
 
-*Wulrif* attempts Telekinesis to lift up the screaming guy, but fails. I recognize him as a Death Knight, a fallen Paladin, doomed to state the act that turned him. We realize that we are somehow in **[Neverwinter]**.
+*Wulrif* attempts Telekinesis to lift up the screaming guy, but fails. I recognize him as a Death Knight, a fallen Paladin, doomed to state the act that turned him. A terrifying 20 foot tall Fiend steps through the portal. We realize that we are somehow in **[Neverwinter]**.
 
 Round 1
 
@@ -173,7 +174,7 @@ Round 1
 
 Round 2
 
-1. *Steve* hits *Baphomet* once for 20 HP.
+1. *Steve* hits *Baphomet* once from behind for 20 HP.
 2. *Wulrif* casts Witch Bolt for 12 HP damage on *Baphomet*.
 3. *Avren* strikes *Baphomet* with her rapier again, doing 13 HP damage.
 4. *CoralKing* hits the Death Knight with his staff and a Flurry of Blows, for 25 HP damage.
@@ -194,11 +195,13 @@ Round 3
 5. The Death Knight is still confused, luckily!
 6. *Tysnera* blasts it with Magic Missile, and the armor falls to the ground!
 
-We search the remnants and take the sword, an Unholy Avenger. The Crusaders come down running to see the mess and do magical forensics of our battle. They bring us, under polite guard, upstairs to the **Armory** of **[Neverwinter]** and the *Commandant of the Crusaders*.
+We search the remnants and take the sword, an Unholy Avenger. A platoon of Crusaders come running swords drawn, see the mess, and do magical forensics of our battle.
+They bring us, under polite guard, upstairs to the **Armory** of **[Neverwinter]** directly to their *Commandant*.
 
 ![The Armory](images/the-armory.png)
 
-> "How did you come to be in my city?" asks the *Commandant*.
+> "How did you come to be in my city?" asks the *Commandant of the Crusaders*. A bluff, grizzled Human with a trace of grey hair in a buzz cut, wearing a full suit of well-cared for Plate. He somehow manages to sit behind a large desk with a
+> a large sword strapped to his back.
 >
 > "We don't rightly know, we were in a maze and then we were here." replies *Geral*.
 >
@@ -240,14 +243,14 @@ We search the remnants and take the sword, an Unholy Avenger. The Crusaders come
 >
 > "With all due respect, sir, we're not in service anymore." says *Geral*.
 >
-> "Oh, the forms will be ready for your Recommissioning at your Investiture, I imagine." The Commandant stands and smiles, then snaps off a textbook salute. "I won't hold your noble rank against you."
+> "Oh, the forms will be ready for your Recommissioning at your Investiture, I imagine." The Commandant stands and smiles, then executes a textbook salute. "I won't hold your noble rank against you."
 
 Our escorts snap to attention when we leave the *Commandant's* office. We wind our way out of the hulking **Armory**, *Calmul* in some sort of reverie, analyzing the guns and machinery defending the fortress. We are escorted to an
-express elevator Topside, opening into the famous **[Hanging Gardens]**. *Benjamin* and *Viker* look around in delight as we are escorted to the shining crystal towers of the **[Magisterium]**.
+express elevator Topside, opening into the famous **[Hanging Gardens]**. *Benjamin* and *Viker* look around in delight as we come to the shining crystal towers of the **[Magisterium]**.
 
 ![The Magisterium](images/magisterium.png)
 
-The Initiates politely but firmly ask that we remain in the lobby. *Tasbros* and *Tysnera* are escorted into the inner sanctum, the Unholy Avenger in *Tysnera's* Bag of Holding.
+The Initiates politely but firmly ask that we remain in the lobby, filled with moving paintings of donors and long-dead Chancellors. *Tasbros* and *Tysnera* are escorted into the inner sanctum, the Unholy Avenger in *Tysnera's* Bag of Holding.
 
 > "Enter," intones a voice formally, the room dark except for the Examiner's table and glowing crystal orb. Seven robed figures sit in a semicircle around the table, their faces hidden in shadow.
 >
@@ -291,13 +294,13 @@ The Initiates politely but firmly ask that we remain in the lobby. *Tasbros* and
 >
 > "Thank you," says *Tasbros*.
 >
-> "We would like to offer you the position of *Magister*. You would be required to teach others your techniques. It comes with a stipend, and you would be granted access to the **Library**."
+> "We would like to offer you the position of *Magister*. You would be required to teach others your techniques, of course. It comes with a stipend, and you would be granted access to the **Library**."
 >
 > *Tasbros* and *Tysnera* look at each other.
 >
 > "We will consider your offer," says *Tysnera*.
 
-Twenty-four hours later, we are in **St. Paul's Cathedral**, staring at the dizzying spiral that is the **[Ledger of the Peerage]**. *Geral* is resplendent in his new uniform, and *Calmul* is wearing a new set of Crusader Armor. *Tasbros* and *Tysnera* are in the robes of the **[Magisterium]**, *Wulrif* in a new set of clothes. *Avren* sparkles in a silken many-hued dress, humming and taking note of the spectacle for later recounting. My armor is buffed and polished.
+Twenty-four hours later, we are in **St. Paul's Cathedral**, staring at the dizzying spiral that is the **[Ledger of the Peerage]**. *Geral* is resplendent in his new uniform, and *Calmul* is wearing a new suit of Crusader Armor. *Tasbros* and *Tysnera* are in the robes of the **[Magisterium]**, *Wulrif* in a dark suit. *Avren* sparkles in a silken many-hued dress, humming and taking note of the spectacle for later recounting. My armor is buffed and polished.
 
 > "Where are *Benjamin* and *Viker*?" asks *Geral*.
 >
@@ -321,17 +324,17 @@ Twenty-four hours later, we are in **St. Paul's Cathedral**, staring at the dizz
 >
 > "*Major Geral Bryn*, retired, is now made *Baron of Cragmaw*," intones *Marchioness Alagondar*. "All privileges and responsibilities are granted to him and his legal heirs."
 >
-> "*Major Geral Bryn*, retired, I formally reactivate you to the rank of Colonel of the Crusaders," says the *Commandant*. "You are to assume command of the 349th Guards Regiment and proceed forthwith to Cragmaw in performance of your duties."
+> "*Major Geral Bryn*, retired, I formally reactivate you to the rank of *Colonel of the Crusaders*," says the *Commandant*. "You are to assume command of the 349th Guards Regiment and proceed forthwith to Cragmaw in performance of your duties."
 >
-> *Geral* salutes the *Commandant*.
+> *Geral* briskly salutes the *Commandant*.
 >
-> "*Sergeant Calmul Rhoqiroth*, you are mustered to the rank of Master Gunnery Sergeant of the Crusaders. You are to assume responsibility for the armaments and defenses of **Cragmaw Castle** and environs."
+> "*Sergeant Calmul Rhoqiroth*, you are mustered to the 349th Guards Regiment with the rank of *Master Gunnery Sergeant of the Crusaders*. You are to assume responsibility for the armaments and defenses of **Cragmaw Castle** and environs."
 >
 > *Calmul* swishes his tail and puffs his crest. The *Commandant* salutes him.
 >
 > "*Lord Colonel Geral Bryn*, *Baron of Cragmaw*, I request and require your service to defend the peoples of the March," intones *Marchioness Alagondar*.
 >
-> *Geral* kneels and swears his oath. The *Legate* taps him on each shoulder with the Holy Sceptre, and he rises.
+> *Geral* kneels and swears his oath. The *Legate* taps him on each shoulder with the **Holy Sceptre**, and he rises.
 >
 > He turns and nods to us, smiling wistfully. Then he and *Calmul* march out of **St. Paul's**, flanked by the Honor Guard of the 349th.
 
