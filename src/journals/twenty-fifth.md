@@ -291,13 +291,13 @@ The Initiates politely but firmly ask that we remain in the lobby. *Tasbros* and
 >
 > "Thank you," says *Tasbros*.
 >
-> "We would like to offer you the position and rank of *Magister*. You would be required to teach others your techniques. It comes with a stipend, and you would be granted access to the **Library**."
+> "We would like to offer you the position of *Magister*. You would be required to teach others your techniques. It comes with a stipend, and you would be granted access to the **Library**."
 >
 > *Tasbros* and *Tysnera* look at each other.
 >
 > "We will consider your offer," says *Tysnera*.
 
-Twenty-four hours later, we are in **St. Paul's Cathedral**, staring at the dizzying spiral that is the **[Ledger of the Peerage]**. *Geral* is resplendent in his new uniform, and *Calmul* is wearing a new set of Crusader Armor. *Tasbros* and *Tysnera* are wearing the robes of the **[Magisterium]**, and *Wulrif* is wearing a new set of clothes. *Avren* is suitably attired, taking magical notes of the spectacle.  My armor is buffed and polished.
+Twenty-four hours later, we are in **St. Paul's Cathedral**, staring at the dizzying spiral that is the **[Ledger of the Peerage]**. *Geral* is resplendent in his new uniform, and *Calmul* is wearing a new set of Crusader Armor. *Tasbros* and *Tysnera* are wearing the robes of the **[Magisterium]**, and *Wulrif* is wearing a new set of clothes. *Avren* is resplendent in a silken many-hued dress, humming and taking note of the spectacle, no doubt for later recounting. My armor is buffed and polished.
 
 > "Where are *Benjamin* and *Viker*?" asks *Geral*.
 >
