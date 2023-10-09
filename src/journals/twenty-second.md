@@ -129,9 +129,9 @@ In our minds, we see a figure bent over some symbol drawn on the ground with dar
 
 Round 1
 
-1. The creature teleports near us and whips us, doing 15 HP damage. Another hit does 16 slashing and 10 lightning damage. *Steve* gets hit for 13 HP damage and pulled back with the whip.
+1. The creature Teleports near us and whips us, doing 15 HP damage. Another hit does 16 slashing and 10 lightning damage. *Steve* gets hit for 13 HP damage and pulled back with the whip.
 2. *CoralKing* Shadow Steps behind *Droki* and hit him with his staff, doing 27 HP damage. And uses his stunning strike, but misses.
-3. The Derro attacks *CoralKing* back and does 65 HP damage. He teleports behind the group.
+3. The Derro attacks *CoralKing* back and does 65 HP damage. He Teleports behind the group.
 4. Everyone within 30 ft of *Calmul* gains 6 HP in health.
 5. I cast Crusader’s Mantle
 6. *Avren* hits the Balor with her rapier and only 3 HP hits.
@@ -145,7 +145,7 @@ Round 2
 
 1. The Balor whips us again and does 10 HP damage. He attacks me and does 23 slashing damage and 14 lightning. A second hit does 22 slashing, and 16 lightning damage.
 2. *CoralKing* does 28 HP damage and a stunning strike misses.
-3. The Derro hits *CoralKing* for 23 HP damage, teleports next to *Benjamin* and does 24 HP damage.
+3. The Derro hits *CoralKing* for 23 HP damage, Teleports next to *Benjamin* and does 24 HP damage.
 4. *Calmul* gets hit but shoots and misses.
 5. *Tysnera* tries to use Hold Person but fails.
 6. *Avren* casts Mass Heal Wounds for 23 HP.
@@ -158,7 +158,7 @@ Round 3
 
 1. The Balor hits me for 19 slashing damage and 12 HP lightning damage. Also, everyone gets 7 HP fire damage.
 2. *CoralKing* Shadow Steps behind the Balor and uses his Staff of Striking for 30 HP damage and uses stunning strike but misses.
-3. *Droki* teleports into darkness and *Calmul* becomes blind. He gets hit for 25 HP and 33 HP total.
+3. *Droki* Teleports into darkness and *Calmul* becomes blind. He gets hit for 25 HP and 33 HP total.
 4. We hear a grunt from the direction of *Calmul*
 5. I move to the Balor, cast Blinding Smite, and hit the Balor twice, doing 103 HP damage.
 6. *Avren* uses Mass Cure Wounds on *Calmul*, *CoralKing*, me, *Steve*, Steel Defender, and *Benjamin* for 20 HP.

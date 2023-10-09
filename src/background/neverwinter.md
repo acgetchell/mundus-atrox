@@ -103,6 +103,8 @@ This level contains the city's most important institutions, including the **Ledg
 
 "Topside", as it is often called, is open to all citizens, and is the most beautiful and peaceful level of the city.
 
+![The Hanging Gardens](images/hanging-gardens.png)
+
 [Urb]: urbs.md
 [Artifact]: artifacts.md
 [Artificer]: ../game/artificer.md

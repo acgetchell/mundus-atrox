@@ -37,7 +37,11 @@ There are two additional Ability Scores, [Honor] and [Sanity]. They are based of
 ## Step 5: Choosing Equipment
 
 - [Starting Equipment](equipment.md)
-  
+
+## Step 6: Come Together
+
+Figure out why your particular group of miscreants form a band. This may be the subject of a Session Zero.
+
 ## Additional Rules
 
 ### Timekeeping
@@ -49,37 +53,11 @@ In between *Summerday* and *Winternight* is the *Autumnset* cycle; in between *W
   - Missing a long rest during a cycle causes [Exhaustion]
 - 2 Short Rests per cycle
 
-### Hero Dice
-
-Characters have **Hero Dice** equal to their level.
-
-**Hero Dice** once used are gone, but the character gains a new set upon reaching a new level.
-
-**Hero Dice** may be added to an attack roll, ability check, or saving throw by the character after the roll is made, but before the results are applied.
-
-Additionally, **Hero Dice** may be used to turn a failed Death Saving Throw into a success.
-
-The type of **Hero Dice** depends upon the level of the character, according to the following table:
-
-| Level Range | Hero Dice Type |
-| ----------- | -------------- |
-|  1 -  4     |  d4            |
-|  5 - 10     |  d6            |
-| 11 - 15     |  d8            |
-| 16 - 18     |  d10           |
-| 19 - 20     |  d12           |
-
-### Magic
-
-- [Spellcasting][spellcasting]
-- [Magic Items](magic-items.md)
-
 [Mundus]: https://www.adamgetchell.org/mundus-atrox/index.html
 [Honor]: https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#HonorScore
 [Sanity]: https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#SanityScore
 [Wisdom]: https://www.dndbeyond.com/sources/phb/using-ability-scores#Wisdom
 [Charisma]: https://www.dndbeyond.com/sources/phb/using-ability-scores#Charisma
-[spellcasting]: spellcasting.md
 [Exhaustion]: https://www.dndbeyond.com/sources/basic-rules/appendix-a-conditions#Exhaustion
 [Customizing Ability Scores]: https://www.dndbeyond.com/sources/phb/step-by-step-characters#3DetermineAbilityScores
 [Player's Guide]: https://assets.ctfassets.net/swt2dsco9mfe/5HsTtt0nV2KIyAGYl4bIi9/6edfd53c11ff71bd647488fe730022ae/D_D_Adventurers_League_Player-s_Guide_v13.0.pdf

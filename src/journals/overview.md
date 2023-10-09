@@ -11,8 +11,8 @@ Members of the party have included:
 - *CoralKing*, a [Gnome] [Monk] and Mystic of the *Rockseeker Clan*. **Current XP Total**: 217,120
 - *Lady Orky*, a [Half-Elven] [Paladin], Countess of Icewind Dale and Champion of the *Rockseeker Clan*. **Current XP Total**: 217,120
 - *Steve*, a [Halfling] [Rogue] and Scout of the *Rockseeker Clan*. **Current XP Total**: 131,420
-- *Tasbros*, a Sky [Elf] [Sorcerer], Baccalaureate of the Magisterium and War Mage of the *Rockseeker Clan*. **Current XP Total**: 155,800
-- *Tysnera*, a Sky [Elf] [Wizard], Baccalaureate of the Magisterium and War Mage of the *Rockseeker Clan*. **Current XP Total**: 139,300
+- *Tasbros*, a Sky [Elf] [Sorcerer], Magister of the Magisterium and War Mage of the *Rockseeker Clan*. **Current XP Total**: 155,800
+- *Tysnera*, a Sky [Elf] [Wizard], Magister of the Magisterium and War Mage of the *Rockseeker Clan*. **Current XP Total**: 139,300
 - *Viker*, an [Eladrin] [Druid] and Inquisitor and Guardian of the *Rockseeker Clan*. **Current XP Total**: 201,720
 - *Wulrif*, a [Human] [Warlock] and Mystic of the *Rockseeker Clan*. **Current XP Total**: 179,600
 

@@ -19,101 +19,153 @@
 
 ### Summerday +1108 hours
 
+![Beholder](images/beholder.png)
+
 #### From the journal of Dame Orky
 
-We approach the next room and we feel our magic items lose their magic; our amour feels heavier. We move slightly closer and *Geral* sees a Beholder floating about 40 feet off the ground. He can also see some constructs skittering around in the back of the room. He sees flesh golems protecting the Beholder. He said “it’s a shame you broke my toys, did you bring me new ones?” *Geral* asks where *Droki* is and he said he took a shrinking potion and moved through the rat hole in the wall. He said we wouldn’t be able to get through the hole without a potion too. He wants something for his trouble of making us a potion. He wants a drop of blood each. He said *Droki* went to the obelisk at the center of the maze. There is no other way he knows of other than through this hole.
+We approach the next room and we feel our magic items lose their magic; our amour feels heavier. We move slightly closer and *Geral* sees a Beholder floating about 40 feet off the ground, pining us in the baleful glare of it's central eye. We can also see constructs skittering around in the back of the room. Flesh Golems form a wall protecting the Beholder.
 
-*Wulrif* offers to add his name to his book that will revive the Beholder if he were to ever die. The Beholder is very interested and asks to see the book. Now *Wulrif* feels there is an extra attachment to his book. We take a short rest while the Beholder makes the potion. The constructs come by to take a drop of our blood. Finally, the Beholder tells us to drink the potion and enter the rat hole. He tells us one last thing that we need a dimensional pocket to put our extra mass. No one knows if we have one. *Calmul* eventually realizes that he has the ability to build one! He disappears into a fog and we can see him grasping at nearby objects and we see this object manifest. It’s a metal, folding contraption thing that expands and contracts and has lots of gears on it.
+> "It's a shame you broke my toys, did you bring me new ones?" says a Telepathic voice in our heads.
+>
+> "Where is *Droki*?" asks *Geral*.
+>
+> "Scurrying down his usual rat hole to the Obelisk." The huge head nods and indicates a small hole in the wall.
+>
+> "How do we get through the hole?"
+>
+> "You don't. Unless you have a shrinking potion."
+>
+> "Do you have a shrinking potion?"
+>
+> "I can make one, but I'll need something for my trouble. Also, a drop of blood from each of you."
+>
+> "Your name in my Book of Shadows, if you die, I'll bring you back to life." says *Wulrif*.
+>
+> "I'd like to see this book." says the Beholder.
 
-We drink the potion and we shrink, watching our masses sink away into this metal box. We are now 6” high and decide that someone needs to start tracking *Droki*. *Benjamin* and *Wulrif* work together to track *Droki*. After 8 hours we make some progress down these tunnels. *Benjamin* loses the trail and takes a guess as to which way we should travel. *Geral* gives *Benjamin* some inspiration and he eventually finds his way. We start to feel tingly after a long time of traveling. Then, we find ourselves in a larger area and start to see rocks orbit us. We realize that we are growing in size. We quickly get *Calmul* to open the Bag of Holding so we can gain our original forms.
+ Now *Wulrif* feels there is an extra attachment to his book. We take a short rest while the constructs come by to take a drop of our blood. The Beholder busies itself in its corner, telekinetically manipulating a cauldron and various ingredients.
 
-We hear a voice say “See M’lady, here they are.” We are immediately faced with the blaring noise of an alarm, alerting every creature in this cavern of our presence.
+ A little while later ...
+
+> "Your potions are ready. Don't get them mixed up, they are not labeled," giggles the Beholder.
+>
+> "What happens if we get them mixed up?" asks *CoralKing*.
+>
+> "Well, they're tailored to your genetics, so it might not be a problem. Or it might be a big problem. I don't know, I'm not a geneticist."
+>
+> We carefully take our own potions to quaff.
+>
+> "One last thing, you'll need a dimensional pocket to put your extra mass in. I don't know if you have one, but you'll need one. Otherwise, you may not like what happens when you revert to your normal size."
+>
+> A horrible chuckle.
+
+ *Calmul* eventually realizes that he has the ability to build one! He nearly disappears into a fog of animated tools and constructs, and we can see him grasping nearby objects and we see this object manifest. It’s a metal, folding contraption thing that expands and contracts and has lots of gears on it.
+
+We drink the potions and shrink, watching puddles of reddish-pinkish-brown slime drain away into this metal box. We are now 6” high; *Benjamin* and *Wulrif* work together to track *Droki*. After 8 hours we make some progress down these tunnels. *Benjamin* loses the trail and takes a guess as to which way we should travel. *Geral* gives *Benjamin* some inspiration and he eventually finds his way. We start to feel tingly after a long time of traveling. Then, we find ourselves in a larger area and start to see rocks orbit us. We realize that we are growing in size. We quickly get *Calmul* to open the Box of Holding so we can gain our original forms with our original mass.
+
+We feel a bit out of sorts, funny tastes and twinges throughout our bodies. We are in a large cavern with a Monolith in the center. We see a bunch of Drow and Driders and, looking expectantly at us, *Mistress Ilvarra*.
+
+> “See M’lady, here they are.” says *Droki*.
+
+![Ilvarra](images/Ilvarra.png)
+
+We are immediately faced with the blaring noise of a Shrieker, alerting every creature in this cavern of our presence.
 
 Round 1
 
-1. *Benjamin* casts a spell to damage 4 creatures by 1 HP and the alarm, killing it.
-2. *CoralKing* teleports to the top of the highest mountain and swings at the nearest Drow with his staff, doing 27 HP damage.
-3. *Tasbros* casts a Fireball and somehow the spell doesn’t work.
-4. *Tysnera* casts Fireball at 5th level and she does 42 HP damage to a bunch of creatures.
-5. *Viker* casts a firewall and does 18 HP damage on 5 creatures.
-6. *Wulrif* uses 2 sorcery points and quicken casts sicken radiance on a bunch of creatures and he pushes the priestess back 10 ft.
-7. *Calmul*
-8. I move forward 20 ft, cast Searing Smite, and ready my action. If I am attacked within 5 ft, I will attack twice with my great sword. I attack someone for 31 HP damage.
-9. *Droki* sneaks up behind *Wulrif* and attacks him for 57 HP damage. There is a 15 ft darkness radius around *Droki*. The enemies move in to surround me and *Benjamin*. They do 38 HP damage to me and a significant amount to *Benjamin*. They attack *Viker* for 20 HP damage. *Geral* is attacked and so is *CoralKing*. He got hit for 22 HP damage.
-10. *Avren* casts Dispel Magic and the darkness goes away!
-11. The priestesses heal all of their friends within 30 feet. *Viker*’s wall of fire suddenly disappears. I get 26 HP damage and so does *Tysnera*.
-12. *Steve* attacked *Droki* and did some damage.
-13. *Geral* provokes 3 attacks of opportunity and attacks *Droki* 3 times. He uses action surge to hit him again. He does 30 HP damage.
+1. *Benjamin* casts a spell to damage 4 Drow by 1 HP and the Shrieker, killing it.
+2. *CoralKing* Teleports to the top of the highest mound and swings at the nearest Drow with his staff, doing 27 HP damage.
+3. *Tasbros* casts a Fireball but gets Counterspelled.
+4. *Tysnera* casts Fireball at 5th level and lands 42 HP damage to a bunch of the Drow, staggering them.
+5. *Viker* casts Firewall and does 18 HP damage on 5 Drow.
+6. *Wulrif* uses 2 Sorcery points and Quickens Sickening Radiance on the Drow, followed by Eldritch Blast on *Mistress Ilvarra* which pushes her back 10 ft.
+7. *Calmul* shoots a Drider with his musket.
+8. I move forward 20 ft, cast Searing Smite, and ready my action. If I am attacked within 5 ft, I will attack twice with my Great Sword. A Drow Elite Warrior obliges me but misses, I counter for 31 HP damage.
+9. *Droki* sneaks up behind *Wulrif* and backstabs him for 57 HP damage! *Droki* then disappears in a globe of Darkness. The enemies move in to surround me and *Benjamin*. They do 38 HP damage to me and a significant amount to *Benjamin*. They attack *Viker* for 20 HP damage. *Geral* is attacked and so is *CoralKing*, who gets hit for 22 HP damage.
+10. *Avren* casts Dispel Magic and the Darkness goes away!
+11. A Priestess casts Mass Cure Wounds on their forces within 30 feet. *Mistress Ilvarra* Dispels *Viker*’s Wall of Fire, which is burning up her warriors. I get 26 HP damage and so does *Tysnera*. Simultaneously, tentacles and noxious green fumes erupt around us, holding us in place and choking us for a ton of damage.
+12. *Steve* nimbly skips out of the way of the Black Tentacles and Cloudkill and attacks *Droki*, doing some damage.
+13. *Geral* also avoided the spells and provokes 3 attacks of opportunity while moving to attack *Droki* 3 times. He uses Action Surge to hit him again, doing 30 HP damage.
 
 Round 2
 
 1. *Benjamin* damages some creatures.
-2. *CoralKing* Shadow Steps onto the opposite side of the Monolith and attacks one of the magic users, doing 34 HP damage and killing it and dispelling the cloud kill.
-3. *Wulrif* tries his best, but fails.
-4. *Tasbros* struggles in the black tentacles and casts sunbeam and Metamagic, damaging a line of people as far as one of the priestesses for 32 HP damage each.
-5. I turn around, declare a Vow of Enmity at the creature attacking me, and swing at him. I do 31 HP to that guy and he dies. I quickly move and attack a creature at the edge of the tentacles, doing 19 HP damage.
-6. *Tysnera* casts Fireball, doing 28 HP damage to a bunch of creatures.
-7. A Drow attacks *CoralKing*, doing 31 HP damage. Some archers attack *CoralKing* and miss. They hit *Geral* for 5 HP.
-8. *Avren* moves out of the tentacles and casts Dispel Magic again, getting rid of the tentacles!
-9. The head priestess casts something that *Tasbros* attempts to counter, and succeeds!
+2. *CoralKing* Shadow Steps onto the opposite side of the Monolith and attacks one of the Drow magic users, killing him and dispelling the Cloudkill.
+3. *Wulrif* tries his best, but fails to hit *Droki* back with *Eldritch Blast*.
+4. *Tasbros* struggles in the Black Tentacles and casts Sunbeam and Metamagic, damaging a line of Drow as far as one of the priestesses for 32 HP damage each.
+5. I turn around, declare a Vow of Enmity on the Drow attacking me, and swing at him. I do 31 HP and he dies. I quickly move and attack another Drow at the edge of the tentacles, doing 19 HP damage.
+6. *Tysnera* casts Fireball, doing 28 HP damage to a bunch of Drow.
+7. A Drow Elite Warrior attacks *CoralKing*, doing 31 HP damage. Some Drow crossbowmen attack *CoralKing* and miss, but hit *Geral* for 5 HP.
+8. *Avren* moves out of the Black Tentacles and casts Dispel Magic again, getting rid of them!
+9. *Mistress Ilvarra* casts something extremely nasty at *Tasbros*, who Counterspells and succeeds!
 10. *Steve* attacks a Drider and misses.
 11. *Viker* casts Daylight, covering the entire battlefield. She also attacks a Drider and does 9 HP damage.
-12. The remaining mage casts lightning bolt and hits *Benjamin*, *Tasbros*, and me.
+12. The remaining Drow Mage casts Lightning Bolt and hits *Benjamin*, *Tasbros*, and me.
 13. The Driders attack *Viker* and do some damage.
 14. *Geral* attacks and kills a Drider.
 
 Round 3
 
-1. *Benjamin* hits *Droki* with his bow and does 14 HP damage.
+1. *Benjamin* shoots *Droki* with his bow and does 14 HP damage.
 2. *CoralKing* strikes *Droki* with his staff and does 46 HP damage.
-3. *Tysnera* casts Fireball on *Droki* and the priestess, doing 35 HP damage. That takes *Droki* out.
-4. *Calmul* does 7 HP damage to a Drider
-5. *Tasbros* summons a draconic spirit and
-6. *Wulrif* casts a quickened Witch Bolt on the cleric, killing her. He casts Eldritch Blast on the remaining mage, hitting him 3 times for 40 HP. He completely flies off the mountain and dies a horrific death.
+3. *Tysnera* casts Fireball on *Droki* and *Mistress Ilvarra*, doing 35 HP damage. That takes *Droki* out.
+4. *Calmul* does 7 HP damage to a Drider.
+5. *Tasbros* summons a Draconic Spirit which attacks *Mistress Ilvarra*, taking her out.
+6. *Wulrif* casts a Quickened Witch Bolt on the remaining Priestess, killing her. He casts Eldritch Blast on the remaining Mage, hitting him 3 times for 40 HP. He completely flies off the mountain and dies a horrific death.
 7. *Viker* heals *Wulrif* for 70 HP.
 8. The 2 remaining warriors touch the Monolith and disappear.
 9. *Avren* casts Mass Cure Wounds for 20 HP each.
 10. I barely avoid getting hit by the Driders. *Tasbros* gets 19 HP damage to his Dragon spirit. I do 40 damage on a Drider.
-11. *Geral* asks me to hit the Drider and we kill one.
-12. I finally went and did significant damage on another Drider.
+11. *Geral* directs a Commander's Strike on me to hit the Drider and we kill one.
+12. I finally do significant damage on another Drider.
 
 Round 4
 
 1. *Benjamin* sprints up to where *Droki* is.
 2. *Wulrif* hits one of the Driders and knocks him back.
 3. *Tasbros* uses his Dragon to attack the nearest Drider and misses. He uses Chromatic Orb on a Drider, doing 15 HP damage.
-4. *Steve* uses a sneak attack on his crossbow for some damage.
+4. *Steve* uses a sneak attack on his crossbow for big damage on a Drider.
 5. I move up to *Droki*, throw my manacles to *CoralKing* and direct him to cuff our prisoner.
-6. *Tysnera*
+6. *Tysnera* Magic Missiles a Drider for guaranteed damage.
 7. *Avren* does 9 HP damage.
 8. *Geral* asks *Wulrif* to Eldritch Blast a Drider. He and *Geral* do 28 HP.
 
 Round 5
 
-1. *Wulrif* does 22 HP damage to a Drider
-2. *Viker* uses ice knife and
-3. *Geral* runs down to the Drider and does 11 HP damage
-4. *Tasbros* uses ray of frost
-5. *Viker* uses 28 HP damage on a Drider
+1. *Wulrif* does 22 HP damage to a Drider.
+2. *Viker* uses ice knife and freezes a Drider in place.
+3. *Geral* runs down to the Drider and does 11 HP damage.
+4. *Tasbros* uses Ray of Frost.
+5. *Viker* does 28 HP damage on a Drider, killing it.
 6. *CoralKing* turns and throws a dart at the remaining Drider for 12 HP damage.
 7. *Benjamin* shoots a bolt at the Drider and kills it!
 
-I pull out my dark religious symbol gifted to me from the Dragon, the Monolith heals, and we find ourselves in a maze. We hear a loud clanking, see a smelt, and a guy standing there with dead humans around him. We see a creature saying he “sacrificed his companions to summon ___, who are you?!?” We are standing near a giant creature that looks like a giant goat on its hind legs, with 3 sets of horns, and a pig face (*Baphomet*).
+I pull out my dark religious symbol gifted to me from the Dragon. It is strongly drawn to the Monolith, leaping out of my hand and merging with it. The Monolith heals, there's a flash, and we find ourselves in a maze. A confusing blur, twisting in unknown directions, and then ...
 
-*Wulrif* attempts Telekinesis to lift up the screaming guy, but fails. I recognize the guy as a Death Knight, who is required to state his sins to become a Death Knight. He screams out that he slew all of his fellow ****Templar** over and over. We realize somehow that we are back on the surface, in **[Neverwinter]**.
+> We're in a giant shuddering space, filled with clanking and the smell of machinery. We see enormous industrial Smelters, and a huge armored form standing amidst a circle of a dozen slain **Templar**.
+>
+> He's clad in blackened, tarnished Adamantium Plate draped with the smoking remnants of a **Templar's** White and Red tabard. Glowing red orbs contemplate us from the eye slits of his helmet. He's holding a huge sword which reeks with the stench of death.
+>
+> "**I SACRIFICED MY FRIENDS TO SUMMON YOU!!!**" screams the armored form.
+>
+> "**I AM *BAPHOMET*, LORD OF MAZES, AND YOU WILL ALL DIE!**"
+
+![Baphomet](images/Baphomet.png)
+
+*Wulrif* attempts Telekinesis to lift up the screaming guy, but fails. I recognize him as a Death Knight, a fallen Paladin, doomed to state the act that turned him. We realize that we are somehow in **[Neverwinter]**.
 
 Round 1
 
-1. *Steve* readies his action
+1. *Steve* readies his action.
 2. *Wulrif* uses Eldritch Blast on the Death Knight.
 3. *Avren* does 17 HP damage.
-4. *CoralKing* Shadow Steps to the Death Knight and uses 2 staff strikes, doing 23 HP damage. He tries a stunning strike, but it fails strangely.
-5. *Benjamin* uses his ranger’s sense on the *Baphomet* and he is resistant to lightning, cold, and fire.
+4. *CoralKing* Shadow Steps to the Death Knight and uses 2 staff strikes, doing 23 HP damage. He tries a Stunning Strike, but it fails.
+5. *Benjamin* uses his Hunter’s Sense on *Baphomet*; he is resistant to lightning, cold, and fire.
 6. The Death Knight continues to scream his sins and attempts to attack *CoralKing*.
-7. *Tysnera* attempts to banish the 2, but fails.
-8. *Tasbros* uses level 4 Confusion on the Death Knight and succeeds. His draconic spirit attacks the *Baphomet* for
+7. *Tysnera* attempts to Banish the 2, but fails.
+8. *Tasbros* uses Level 4 Confusion on the Death Knight and succeeds. His Draconic Spirit attacks *Baphomet*
 9. *Geral* attacks *Baphomet*.
-10. I cast blinding smite and attack *Baphomet* twice, doing 47 HP damage.
+10. I cast Blinding Smite and attack *Baphomet* twice, doing 47 HP damage.
 11. *Viker* hits *Baphomet* for 13 HP damage.
 12. *Calmul* moves away.
 
@@ -124,26 +176,164 @@ Round 2
 3. *Avren* strikes with her rapier again, doing 13 HP damage.
 4. *CoralKing* hits the Death Knight with his staff and a Flurry of Blows, for 25 HP damage.
 5. *Benjamin* hits *Baphomet* for 11 HP damage.
-6. The Death Knight moves toward us and attempts thunder damage, but is stopped.
-7. I was saved at the last second from being forced into a maze.
+6. The Death Knight moves toward us and casts Destructive Wave, but is Counterspelled by *Tasbros*.
+7. *Tysnera* Counterspells a Maze directed at me by *Baphomet*.
 8. *Tysnera* casts Evard’s Black Tentacles on the Death Knight, doing 10 HP damage.
-9. *Tasbros* burns *Baphomet*?
+9. *Tasbros* burns *Baphomet* with Fire Bolt.
 10. *Geral* hits *Baphomet* for 25 HP damage.
-11. I cast blinding smite again and deal 54 HP damage to *Baphomet*.
+11. I cast Blinding Smite again and deal 54 HP damage to *Baphomet*.
 
 Round 3
 
-1. *Wulrif* uses quickens Eldritch Blast and another Eldritch Blast, for 36 HP damage, killing it!
+1. *Wulrif* Quickens Eldritch Blast and then casts another Eldritch Blast, for 36 HP damage, sending *Baphomet* back to where he came from!
 2. *Avren* shoots the Death Knight for 30 HP
 3. *CoralKing* uses Flurry of Blows for 8 HP damage.
 4. *Benjamin* does 24 HP damage.
 5. The Death Knight is still confused, luckily!
-6. *Tysnera* kills it!
+6. *Tysnera* blasts it with Magic Missile, and the armor falls to the ground!
 
-We search the bodies and take the sword, an Unholy Avenger. We give that to *Wulrif*. The Crusaders come down to see the mess and have a magic photograph of our battle. They bring us upstairs to the lord commander and ask us how we got there. We explain what happened with the Monolith. We are not imprisoned and are told some people were there to vouch for us. We see an airship and some dwarves. We make claims? And some reporters come by to hear us? Then, *Geral* becomes a baron? The dwarves ask us if there is anything we want. We feel that it’s likely that if the Dragon egg is returned, it would be destroyed.  
+We search the remnants and take the sword, an Unholy Avenger. The Crusaders come down running to see the mess and do magical forensics of our battle. They bring us, under polite guard, upstairs to the **Armory** of **[Neverwinter]** and the *Commandant of the Crusaders*.
 
-The Death Knight is going to keep reappearing and summoning *Baphomet* unless we destroy the Unholy Avenger. We can suppress its magic in an Antimagic Field until we can cleanse it. An ancient Red Dragon’s breath can destroy it, curiously.
+![The Armory](images/the-armory.png)
 
-*Calmul* is given a 7-barrel musket.
+> "How did you come to be in my city?" asks the *Commandant*.
+>
+> "We don't rightly know, we were in a maze and then we were here." replies *Geral*.
+>
+> "And then we fought the *Lord of Mazes* and sent him back to the Abyss." says *Wulrif*, helpfully.
+>
+> The *Commandant* eyes *Wulrif*.
+>
+> "You seem to have a fallen **Templar**," I add.
+>
+> "Yes, that's a matter for the ... other ... Paladins to decide. By the way, where is his sword?"
+>
+> "We have it," I reply.
+>
+> "You're going to want to take that to the **Magisterium**, and soon. I understand that Death Knights can be ... persistent."
+>
+> "M'lord?," asks *Geral*. "You have some prior knowledge?"
+>
+> "I'm no lord," replies the *Commandant*. "Rising through the ranks of the Crusaders is based on merit, not birth. And you seem familiar to me."
+>
+> "*Major Geral Bryn*, retired, at your service, sir."
+>
+> "Ah, yes, I remember you now. You were the one involved in that incident with the Aboleths. I'm glad to see you're still alive."
+>
+> "Sir."
+>
+> "And I see your Armorer is still with you. I'm glad you're alive too, *Sergeant Calmul*."
+>
+> "Burn it with fire," replies *Calmul*.
+>
+> "Indeed," muses the *Commandant*, speculatively. "I'm sure the **Magisterium** will be interested in your story. I'll have a squad escort you there to deal with your ... prisoner."
+>
+> "Prisoner?" asks *Geral*.
+>
+> "Yes," chuckles the *Commandant*. "*Lord Varkosian* will certainly come out of that sword for Round Two, in about twenty hours, if I'm not mistaken."
+>
+> "Then we'd better hurry," says *Geral*.
+>
+> "Dismissed," says the *Commandant*, with a twinkle in his eye.
+>
+> "With all due respect, sir, we're not in service anymore." says *Geral*.
+>
+> "Oh, the forms will be ready for your Recommissioning at your Investiture, I imagine." The Commandant stands and smiles, then snaps off a textbook salute. "I won't hold your noble rank against you, *Lord Colonel Geral Bryn*."
+
+Our escorts snap to attention when we leave the *Commandant's* office. We wind our way out of the hulking **Armory**, *Calmul* in some sort of reverie, analyzing the guns and machinery defending the fortress. We are escorted to an
+express elevator Topside, opening into the famous **[Hanging Gardens]**. *Benjamin* and *Viker* look around in delight as we are escorted to the shining crystal towers of the **Magisterium**.
+
+![The Magisterium](images/magisterium.png)
+
+The Initiates politely but firmly ask that we remain in the lobby. *Tasbros* and *Tysnera* are escorted into the inner sanctum, the Unholy Avenger in *Tysnera's* Bag of Holding.
+
+> "Enter," intones a voice formally, the room dark except for the Examiner's table and glowing crystal orb. Seven robed figures sit in a semicircle around the table, their faces hidden in shadow.
+>
+> "What are we doing here?" asks *Tasbros*.
+>
+> "We have brought the Unholy Avenger," says *Tysnera*.
+>
+> "How shall we deal with this artifact?" asks the voice.
+>
+> "We should destroy it," says *Tysnera*.
+>
+> "Destruction of an artifact is a serious matter," says the voice. "What is your reasoning?"
+>
+> "It is a weapon of evil, and it is cursed," says *Tysnera*.
+>
+> "Destruction would require the fires of an Ancient Red Dragon, or access to the Deep Underdark. Do you have such access?"
+>
+> "We should cleanse it," says *Tasbros*.
+>
+> "How would you cleanse it?" asks the voice.
+>
+> "We would need to find a way to release the soul of *Lord Varkosian* from the sword," says *Tasbros*.
+>
+> "That would be a matter for the **Templar**," says the voice. "Do you have any other suggestions?"
+>
+> "We could suppress the magic of the sword," says *Tysnera*. "You have an Anti-Magic Field, don't you?"
+>
+> "We do," says the voice. "But that would not be a permanent solution."
+>
+> "We will consult with our friends," says *Tysnera*.
+>
+> "Very well," says the voice. "We will keep the sword suppressed until you return."
+>
+> "Thank you," says *Tysnera*. They turn to go.
+>
+> "Wait," says the voice. "We have a question for you."
+>
+> "Yes?" asks *Tysnera*.
+>
+> "We have seen the traces of your battle with *Baphomet*. That was a skillful use of Mana."
+>
+> "Thank you," says *Tasbros*.
+>
+> "We would like to offer you the position and rank of **Magister**. You would be required to teach others your techniques. It comes with a stipend, and you would be granted access to the **Library**."
+>
+> *Tasbros* and *Tysnera* look at each other.
+>
+> "We will consider your offer," says *Tysnera*.
+
+Twenty-four hours later, we are in **St. Paul's Cathedral**, staring at the dizzying spiral that is the **Ledger of the Peerage**. *Geral* is resplendent in his new uniform, and *Calmul* is wearing a new set of Crusader Armor. *Tasbros* and *Tysnera* are wearing the robes of the **Magisterium**, and *Wulrif* is wearing a new set of clothes. *Avren* is suitably attired, taking magical notes of the spectacle.  My armor is buffed and polished.
+
+> "Where are *Benjamin* and *Viker*?" asks *Geral*.
+>
+> "Fussing over a Dragon's egg," I reply.
+>
+> "CoralKing?"
+>
+> "Not his thing," I reply. "He's off with *Steve*. They send their regards."
+>
+> "Oh," says *Geral*.
+>
+> "Game time," I say. "You look great, by the way."
+>
+> He nods and smiles. "You too."
+>
+> Squaring his shoulders, *Geral* and *Calmul* walk to the base of the **Ledger**.
+>
+> *Marchioness Lyanna Alagondar*, the ruling Temporal Lord of **[Neverwinter]**, is standing there, flanked by the *Commandant of the Crusaders* and the *Legate of the Apostolic See*.
+>
+>The *Marchioness* nods when they arrive, and a golden orb floats over to *Geral*, pulsing. He nods gravely. The orb touches his finger, turning red, then soars to the top of the **Ledger**, which pulses golden.
+>
+> "*Major Geral Bryn*, retired, is now made *Baron of Cragmaw*," intones *Marchioness Alagondar*. "All privileges and responsibilities are granted to him and his legal heirs."
+>
+> "*Major Geral Bryn*, retired, I formally reactivate you to the rank of Colonel of the Crusaders," says the *Commandant*. "You are to assume command of the 349th Guards Regiment and proceed forthwith to Cragmaw in performance of your duties."
+>
+> *Geral* salutes the *Commandant*.
+>
+> "*Sergeant Calmul Rhoqiroth*, you are mustered to the rank of Master Gunnery Sergeant of the Crusaders," says the *Commandant*. "You are to assume responsibility for the armaments and defenses of **Cragmaw Castle** and environs."
+>
+> *Calmul* swishes his tail and puffs his crest. The *Commandant* salutes him.
+>
+> "*Lord Colonel Geral Bryn*, *Baron of Cragmaw*, I request and require your service to defend the peoples of the realm," intones *Marchioness Alagondar*.
+>
+> *Geral* kneels and swears his oath. The *Legate* taps him on the shoulder with the Holy Sceptre, and he rises.
+>
+> He turns and nods to us, smiling sadly. Then he and *Calmul* march out of the Cathedral, flanked by the Honor Guard of the 349th Guards.
 
 #### 30,000 XP Each
+
+[Neverwinter]: ../background/neverwinter.md
+[Hanging Gardens]: ../background/neverwinter.html#level-7
