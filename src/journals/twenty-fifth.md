@@ -59,7 +59,7 @@ We approach the next room and we feel our magic items lose their magic; our amou
 >
 > A horrible chuckle.
 
- *Calmul* eventually realizes that he has the ability to build one! He nearly disappears into a fog of animated tools and constructs, and we can see him grasping nearby objects and we see this object manifest. It’s a metal, folding contraption thing that expands and contracts and has lots of gears on it.
+ *Calmul* eventually realizes that he has the ability to build one! He nearly disappears into a fog of animated tools and constructs, and we can see him grasping nearby objects as we see this object manifest. It’s a metal, folding contraption thing that expands and contracts and has lots of gears on it.
 
 We drink the potions and shrink, watching puddles of reddish-pinkish-brown slime drain away into this metal box. We are now 6” high; *Benjamin* and *Wulrif* work together to track *Droki*. After 8 hours we make some progress down these tunnels. *Benjamin* loses the trail and takes a guess as to which way we should travel. *Geral* gives *Benjamin* some inspiration and he eventually finds his way. We start to feel tingly after a long time of traveling. Then, we find ourselves in a larger area and start to see rocks orbit us. We realize that we are growing in size. We quickly get *Calmul* to open the Box of Holding so we can gain our original forms with our original mass.
 
@@ -145,7 +145,9 @@ I pull out my dark religious symbol gifted to me from the Dragon. It is strongly
 > We're in a giant shuddering space, filled with clanking and the smell of machinery. We see enormous industrial Smelters, and a huge armored form standing amidst a circle of a dozen slain **Templar**.
 >
 > He's clad in blackened, tarnished Adamantium Plate draped with the smoking remnants of a **Templar's** White and Red tabard. Glowing red orbs contemplate us from the eye slits of his helmet. He's holding a huge sword which reeks with the stench of death.
->
+
+![Death Knight](images/death-knight.png)
+
 > "**I SACRIFICED MY FRIENDS TO SUMMON YOU!!!**" screams the armored form.
 >
 > "**I AM *BAPHOMET*, LORD OF MAZES, AND YOU WILL ALL DIE!**"
@@ -295,7 +297,7 @@ The Initiates politely but firmly ask that we remain in the lobby. *Tasbros* and
 >
 > "We will consider your offer," says *Tysnera*.
 
-Twenty-four hours later, we are in **St. Paul's Cathedral**, staring at the dizzying spiral that is the **Ledger of the Peerage**. *Geral* is resplendent in his new uniform, and *Calmul* is wearing a new set of Crusader Armor. *Tasbros* and *Tysnera* are wearing the robes of the **Magisterium**, and *Wulrif* is wearing a new set of clothes. *Avren* is suitably attired, taking magical notes of the spectacle.  My armor is buffed and polished.
+Twenty-four hours later, we are in **St. Paul's Cathedral**, staring at the dizzying spiral that is the **[Ledger of the Peerage]**. *Geral* is resplendent in his new uniform, and *Calmul* is wearing a new set of Crusader Armor. *Tasbros* and *Tysnera* are wearing the robes of the **Magisterium**, and *Wulrif* is wearing a new set of clothes. *Avren* is suitably attired, taking magical notes of the spectacle.  My armor is buffed and polished.
 
 > "Where are *Benjamin* and *Viker*?" asks *Geral*.
 >
@@ -337,3 +339,4 @@ Twenty-four hours later, we are in **St. Paul's Cathedral**, staring at the dizz
 
 [Neverwinter]: ../background/neverwinter.md
 [Hanging Gardens]: ../background/neverwinter.html#level-7
+[Ledger of the Peerage]: ../game/peerage.md#ledger
