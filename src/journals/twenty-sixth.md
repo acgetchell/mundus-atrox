@@ -9,7 +9,7 @@
 - *Orky*, a 12th-level Half-Elf Paladin
 - *Wulrif*, an 11th-level Human Warlock
 
-### Summerday +1108 hours
+### Summerday +1132 hours
 
 #### From the journal of Dame Orky
 

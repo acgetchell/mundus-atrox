@@ -11,7 +11,7 @@
 - *Viker*, a 15th-level Eladrin Druid
 - *Wulrif*, a 15th level Human Warlock
 
-### Summerday +1288 hours
+### Summerday +1312 hours
 
 #### From the journal of Countess Orky
 

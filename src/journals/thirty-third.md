@@ -11,7 +11,7 @@
 - *Viker*, a 15th-level Eladrin Druid
 - *Wulrif*, a 15th level Human Warlock
 
-### Summerday +1388 hours
+### Summerday +1408 hours
 
 #### From the journal of Countess Orky
 
@@ -31,7 +31,7 @@ I receive an official summons from *Lord Commander Sozenskaat*. I attend to his 
 
 Incidentally, *King Bruenor* is holding a convention and wants a representative of the **Templar**. By attending I can accomplish both at once. *Lord Commander Sozenskaat* has procured an airship for our party since ****Gauntlgrym**** is in the mountains. As it’s getting close to *Winternight* (when it's too dangerous to fly), we should return by Teleportation.
 
-*Tasbros* and Tysnera are also summoned by the Provost of the **Magisterium**. They were asked for by name by *King Bruenor* to attend a convention in **Gauntlgrym** within 7 cycles.
+*Tasbros* and Tysnera are also summoned by the Provost of the **Magisterium**. They were asked for by name by *King Bruenor* to attend a convention in **Gauntlgrym** within 1 cycle.
 
 Meanwhile, *Wulrif* is researching guides to the **Far Realm** to track down the author of **The Book**. He comes upon the Demilich *Acerak*, an Archlich who travels between worlds and is known to take sick pleasure in devouring the souls of adventurers, whom he lures into trap-ridden dungeons where they suffer horrible deaths. One such dungeon is at the Spine of the World, called the Tomb of the Nine because *Acerak* slew 9 false gods and sealed their souls within it.
 

@@ -331,7 +331,7 @@ Twenty-four hours later, we are in **St. Paul's Cathedral**, staring at the dizz
 >
 > *Geral* kneels and swears his oath. The *Legate* taps him on the shoulder with the Holy Sceptre, and he rises.
 >
-> He turns and nods to us, smiling sadly. Then he and *Calmul* march out of the Cathedral, flanked by the Honor Guard of the 349th Guards.
+> He turns and nods to us, smiling sadly. Then he and *Calmul* march out of the Cathedral, flanked by the Honor Guard of the 349th.
 
 #### 30,000 XP Each
 

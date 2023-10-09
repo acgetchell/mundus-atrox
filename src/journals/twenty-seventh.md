@@ -8,7 +8,7 @@
 - *Orky*, a 13th-level Half-Elf Paladin
 - *Viker*, an 13th-level Eladrin Druid
 
-### Summerday +1172 hours
+### Summerday +1196 hours
 
 #### From the journal of Dame Orky
 
