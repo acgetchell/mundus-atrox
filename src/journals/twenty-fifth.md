@@ -99,10 +99,10 @@ Round 2
 8. *Avren* moves out of the Black Tentacles and casts Dispel Magic again, getting rid of them!
 9. *Mistress Ilvarra* casts something extremely nasty at *Tasbros*, who successfully Counterspells it!
 10. *Steve* attacks *Droki* and misses.
-11. *Viker* casts Daylight, covering the entire battlefield. She also attacks a Drider and does 9 HP damage.
-12. The remaining Drow Mage casts Lightning Bolt and hits *Benjamin*, *Tasbros*, and me.
-13. The Driders attack *Viker* and do some damage.
-14. *Geral* attacks and kills a Drider.
+11. *Viker* casts Daylight, covering the entire battlefield. All the Drow and Driders immediately flinch and are Disadvantaged! She also attacks a Drider and does 9 HP damage.
+12. The surviving Drow Mage casts Lightning Bolt and hits *Benjamin*, *Tasbros*, and me.
+13. The Driders attack *Viker* and do serious damage.
+14. *Geral* kills one of *Viker*'s attackers.
 
 Round 3
 
@@ -115,7 +115,7 @@ Round 3
 7. *Viker* heals *Wulrif* for 70 HP, reviving him from the brink of death!
 8. The 2 remaining Drow Elite Warriors touch the Monolith and disappear.
 9. *Avren* casts Mass Cure Wounds on us for 20 HP each.
-10. I barely avoid getting hit by the Driders. *Tasbros* Dragon spirit interposes and takes 19 HP from a Drider. I do 40 damage on a Drider.
+10. I barely avoid getting hit by the Driders. *Tasbros* Dragon Spirit interposes and takes 19 HP from a Drider. I do 40 damage on a Drider.
 11. *Geral* directs a Commander's Strike on me to hit the Drider and we kill one.
 12. I finally do significant damage on another Drider.
 
@@ -125,7 +125,7 @@ Round 4
 2. *Wulrif* Eldritch Blasts the Drider near Benjamin, knocking it back.
 3. *Tasbros* uses his Dragon Spirit to attack the Drider attacking him and misses. He then uses Chromatic Orb on it, doing 15 HP damage.
 4. *Steve* uses a Sneak Attack with his crossbow for big damage on *Tasbros* Drider.
-5. I move up to *Droki*, throw my manacles to *CoralKing* and direct him to cuff our prisoner.
+5. I move up to *Droki*, throw my manacles to *CoralKing* and direct him to cuff our prisoner. He does so.
 6. *Tysnera* Magic Missiles a Drider for guaranteed damage.
 7. *Avren* shoots a Drider 9 HP damage.
 8. *Geral* does Commander's Strike on *Wulrif* to Eldritch Blast a Drider. He and *Geral* do 28 HP.
@@ -158,37 +158,37 @@ I pull out my dark religious symbol gifted to me from the Dragon. It is strongly
 
 Round 1
 
-1. *Steve* readies his action.
+1. *Steve* sneaks away and Hides from the big scary things.
 2. *Wulrif* uses Eldritch Blast on the Death Knight.
 3. *Avren* does 17 HP damage to *Baphomet*. She uses her Bardic Inspiration on *CoralKing*.
 4. *CoralKing* Shadow Steps to the Death Knight and uses 2 staff strikes, doing 23 HP damage. He tries a Stunning Strike, but it fails.
 5. *Benjamin* uses his Hunter’s Sense on *Baphomet*. He is resistant to lightning, cold, and fire.
 6. The Death Knight continues to scream his sins and attempts to attack *CoralKing*.
-7. *Tysnera* attempts to Banish the 2, but fails.
-8. *Tasbros* uses Level 4 Confusion on the Death Knight and succeeds. His Draconic Spirit attacks *Baphomet*.
+7. *Tysnera* attempts to Banish *Baphomet* and the Death Knight, but fails.
+8. *Tasbros* uses Level 4 Confusion on the Death Knight and succeeds! His Draconic Spirit attacks *Baphomet*.
 9. *Geral* attacks *Baphomet*.
 10. I cast Blinding Smite and attack *Baphomet* twice, doing 47 HP damage.
 11. *Viker* hits *Baphomet* for 13 HP damage.
-12. *Calmul* moves away.
+12. *Calmul* moves away and shoots *Baphomet*.
 
 Round 2
 
 1. *Steve* hits *Baphomet* once for 20 HP.
-2. *Wulrif* casts Witch Bolt for 12 HP damage.
-3. *Avren* strikes with her rapier again, doing 13 HP damage.
+2. *Wulrif* casts Witch Bolt for 12 HP damage on *Baphomet*.
+3. *Avren* strikes *Baphomet* with her rapier again, doing 13 HP damage.
 4. *CoralKing* hits the Death Knight with his staff and a Flurry of Blows, for 25 HP damage.
 5. *Benjamin* hits *Baphomet* for 11 HP damage.
 6. The Death Knight moves toward us and casts Destructive Wave, but is Counterspelled by *Tasbros*.
 7. *Tysnera* Counterspells a Maze directed at me by *Baphomet*.
 8. *Tysnera* casts Evard’s Black Tentacles on the Death Knight, doing 10 HP damage.
-9. *Tasbros* burns *Baphomet* with Fire Bolt.
+9. *Tasbros* burns through *Baphomet*'s Fire Resistance with Fire Bolt.
 10. *Geral* hits *Baphomet* for 25 HP damage.
 11. I cast Blinding Smite again and deal 54 HP damage to *Baphomet*.
 
 Round 3
 
-1. *Wulrif* Quickens Eldritch Blast and then casts another Eldritch Blast, for 36 HP damage, sending *Baphomet* back to where he came from!
-2. *Avren* shoots the Death Knight for 30 HP.
+1. *Wulrif* Quickens Eldritch Blast and then casts another Eldritch Blast, for 36 HP damage each, sending *Baphomet* back to where he came from!
+2. *Avren* shoots the Death Knight for 30 HP. Nice shot!
 3. *CoralKing* uses Flurry of Blows for 8 HP damage.
 4. *Benjamin* does 24 HP damage.
 5. The Death Knight is still confused, luckily!
