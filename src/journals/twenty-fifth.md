@@ -111,7 +111,7 @@ Round 3
 3. *Tysnera* casts Fireball on *Droki* and *Mistress Ilvarra*, doing 35 HP damage. That takes *Droki* out.
 4. *Calmul* does 7 HP damage to a Drider.
 5. *Tasbros* summons a Draconic Spirit which attacks *Mistress Ilvarra*, taking her out.
-6. *Wulrif* casts a Quickened Witch Bolt on the remaining Priestess, killing her. He casts Eldritch Blast on the remaining Mage, hitting him 3 times for 40 HP. He completely flies off the mountain and dies a horrific death.
+6. *Wulrif* casts a Quickened Witch Bolt on the remaining Priestess, killing her. He casts Eldritch Blast on the remaining Mage, hitting him 3 times for 40 HP. He completely flies off the mound and dies a horrific death.
 7. *Viker* heals *Wulrif* for 70 HP.
 8. The 2 remaining warriors touch the Monolith and disappear.
 9. *Avren* casts Mass Cure Wounds for 20 HP each.
@@ -150,7 +150,7 @@ I pull out my dark religious symbol gifted to me from the Dragon. It is strongly
 >
 > "**I AM *BAPHOMET*, LORD OF MAZES, AND YOU WILL ALL DIE!**"
 
-![Baphomet](images/Baphomet.png)
+![Baphomet](images/baphomet.png)
 
 *Wulrif* attempts Telekinesis to lift up the screaming guy, but fails. I recognize him as a Death Knight, a fallen Paladin, doomed to state the act that turned him. We realize that we are somehow in **[Neverwinter]**.
 
