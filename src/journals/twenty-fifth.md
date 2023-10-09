@@ -297,7 +297,7 @@ The Initiates politely but firmly ask that we remain in the lobby. *Tasbros* and
 >
 > "We will consider your offer," says *Tysnera*.
 
-Twenty-four hours later, we are in **St. Paul's Cathedral**, staring at the dizzying spiral that is the **[Ledger of the Peerage]**. *Geral* is resplendent in his new uniform, and *Calmul* is wearing a new set of Crusader Armor. *Tasbros* and *Tysnera* are wearing the robes of the **[Magisterium]**, and *Wulrif* is wearing a new set of clothes. *Avren* is resplendent in a silken many-hued dress, humming and taking note of the spectacle, no doubt for later recounting. My armor is buffed and polished.
+Twenty-four hours later, we are in **St. Paul's Cathedral**, staring at the dizzying spiral that is the **[Ledger of the Peerage]**. *Geral* is resplendent in his new uniform, and *Calmul* is wearing a new set of Crusader Armor. *Tasbros* and *Tysnera* are in the robes of the **[Magisterium]**, *Wulrif* in a new set of clothes. *Avren* sparkles in a silken many-hued dress, humming and taking note of the spectacle for later recounting. My armor is buffed and polished.
 
 > "Where are *Benjamin* and *Viker*?" asks *Geral*.
 >
@@ -305,7 +305,7 @@ Twenty-four hours later, we are in **St. Paul's Cathedral**, staring at the dizz
 >
 > "CoralKing?"
 >
-> "Not his thing," I reply. "He's off with *Steve*. They send their regards."
+> "Not his thing," I commiserate. "He's off with *Steve*. They send their regards."
 >
 > "Oh," says *Geral*.
 >
@@ -313,11 +313,11 @@ Twenty-four hours later, we are in **St. Paul's Cathedral**, staring at the dizz
 >
 > He nods and smiles. "You too."
 >
-> Squaring his shoulders, *Geral* and *Calmul* walk to the base of the **[Ledger of the Peerage]**.
+> Squaring his shoulders, *Geral* and *Calmul* stride confidently to the base of the **[Ledger of the Peerage]**.
 >
 > *Marchioness Lyanna Alagondar*, the ruling Temporal Lord of **[Neverwinter]**, is standing there, flanked by the *Commandant of the Crusaders* and the *Legate of the Apostolic See*.
 >
->The *Marchioness* nods when they arrive, and a golden orb floats over to *Geral*, pulsing. He nods gravely. The orb touches his finger, turning red, then soars to the top of the **Ledger**, which pulses golden.
+>The *Marchioness* acknowledges their arrival, and a golden orb floats over to *Geral*, pulsing. He nods gravely. The orb touches his finger, turning red, then soars to the top of the **Ledger**, which pulses golden.
 >
 > "*Major Geral Bryn*, retired, is now made *Baron of Cragmaw*," intones *Marchioness Alagondar*. "All privileges and responsibilities are granted to him and his legal heirs."
 >
@@ -325,7 +325,7 @@ Twenty-four hours later, we are in **St. Paul's Cathedral**, staring at the dizz
 >
 > *Geral* salutes the *Commandant*.
 >
-> "*Sergeant Calmul Rhoqiroth*, you are mustered to the rank of Master Gunnery Sergeant of the Crusaders," says the *Commandant*. "You are to assume responsibility for the armaments and defenses of **Cragmaw Castle** and environs."
+> "*Sergeant Calmul Rhoqiroth*, you are mustered to the rank of Master Gunnery Sergeant of the Crusaders. You are to assume responsibility for the armaments and defenses of **Cragmaw Castle** and environs."
 >
 > *Calmul* swishes his tail and puffs his crest. The *Commandant* salutes him.
 >
@@ -333,7 +333,7 @@ Twenty-four hours later, we are in **St. Paul's Cathedral**, staring at the dizz
 >
 > *Geral* kneels and swears his oath. The *Legate* taps him on each shoulder with the Holy Sceptre, and he rises.
 >
-> He turns and nods to us, smiling sadly. Then he and *Calmul* march out of **St. Paul's**, flanked by the Honor Guard of the 349th.
+> He turns and nods to us, smiling wistfully. Then he and *Calmul* march out of **St. Paul's**, flanked by the Honor Guard of the 349th.
 
 #### 30,000 XP Each
 
