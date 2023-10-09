@@ -142,12 +142,12 @@ Round 5
 
 I pull out my dark religious symbol gifted to me from the Dragon. It is strongly drawn to the Monolith, leaping out of my hand and merging with it. The Monolith heals, there's a flash, and we find ourselves in a maze. A confusing blur, twisting in unknown directions, and then ...
 
+![Death Knight](images/death-knight.png)
+
 > We're in a giant shuddering space, filled with clanking and the smell of machinery. We see enormous industrial Smelters, and a huge armored form standing amidst a circle of a dozen slain **Templar**.
 >
 > He's clad in blackened, tarnished Adamantium Plate draped with the smoking remnants of a **Templar's** White and Red tabard. Glowing red orbs contemplate us from the eye slits of his helmet. He's holding a huge sword which reeks with the stench of death.
-
-![Death Knight](images/death-knight.png)
-
+>
 > "**I SACRIFICED MY FRIENDS TO SUMMON YOU!!!**" screams the armored form.
 >
 > "**I AM *BAPHOMET*, LORD OF MAZES, AND YOU WILL ALL DIE!**"
@@ -160,12 +160,12 @@ Round 1
 
 1. *Steve* readies his action.
 2. *Wulrif* uses Eldritch Blast on the Death Knight.
-3. *Avren* does 17 HP damage.
+3. *Avren* does 17 HP damage to *Baphomet*. She uses her Bardic Inspiration on *CoralKing*.
 4. *CoralKing* Shadow Steps to the Death Knight and uses 2 staff strikes, doing 23 HP damage. He tries a Stunning Strike, but it fails.
-5. *Benjamin* uses his Hunter’s Sense on *Baphomet*; he is resistant to lightning, cold, and fire.
+5. *Benjamin* uses his Hunter’s Sense on *Baphomet*. He is resistant to lightning, cold, and fire.
 6. The Death Knight continues to scream his sins and attempts to attack *CoralKing*.
 7. *Tysnera* attempts to Banish the 2, but fails.
-8. *Tasbros* uses Level 4 Confusion on the Death Knight and succeeds. His Draconic Spirit attacks *Baphomet*
+8. *Tasbros* uses Level 4 Confusion on the Death Knight and succeeds. His Draconic Spirit attacks *Baphomet*.
 9. *Geral* attacks *Baphomet*.
 10. I cast Blinding Smite and attack *Baphomet* twice, doing 47 HP damage.
 11. *Viker* hits *Baphomet* for 13 HP damage.
@@ -188,7 +188,7 @@ Round 2
 Round 3
 
 1. *Wulrif* Quickens Eldritch Blast and then casts another Eldritch Blast, for 36 HP damage, sending *Baphomet* back to where he came from!
-2. *Avren* shoots the Death Knight for 30 HP
+2. *Avren* shoots the Death Knight for 30 HP.
 3. *CoralKing* uses Flurry of Blows for 8 HP damage.
 4. *Benjamin* does 24 HP damage.
 5. The Death Knight is still confused, luckily!
@@ -206,17 +206,17 @@ We search the remnants and take the sword, an Unholy Avenger. The Crusaders come
 >
 > The *Commandant* eyes *Wulrif*.
 >
-> "You seem to have a fallen **Templar**," I add.
+> "You seem to have a fallen **[Templar]**," I add.
 >
 > "Yes, that's a matter for the ... other ... Paladins to decide. By the way, where is his sword?"
 >
 > "We have it," I reply.
 >
-> "You're going to want to take that to the **Magisterium**, and soon. I understand that Death Knights can be ... persistent."
+> "You're going to want to take that to the **[Magisterium]**, and soon. I understand that Death Knights can be ... persistent."
 >
 > "M'lord?," asks *Geral*. "You have some prior knowledge?"
 >
-> "I'm no lord," replies the *Commandant*. "Rising through the ranks of the Crusaders is based on merit, not birth. And you seem familiar to me."
+> "I'm no lord," replies the *Commandant*. "Rising through the ranks of the [Crusaders] is based on merit, not birth. And you seem familiar to me."
 >
 > "*Major Geral Bryn*, retired, at your service, sir."
 >
@@ -228,7 +228,7 @@ We search the remnants and take the sword, an Unholy Avenger. The Crusaders come
 >
 > "Burn it with fire," replies *Calmul*.
 >
-> "Indeed," muses the *Commandant*, speculatively. "I'm sure the **Magisterium** will be interested in your story. I'll have a squad escort you there to deal with your ... prisoner."
+> "Indeed," muses the *Commandant*, speculatively. "I'm sure the **[Magisterium]** will be interested in your story. I'll have a squad escort you there to deal with your ... prisoner."
 >
 > "Prisoner?" asks *Geral*.
 >
@@ -243,7 +243,7 @@ We search the remnants and take the sword, an Unholy Avenger. The Crusaders come
 > "Oh, the forms will be ready for your Recommissioning at your Investiture, I imagine." The Commandant stands and smiles, then snaps off a textbook salute. "I won't hold your noble rank against you."
 
 Our escorts snap to attention when we leave the *Commandant's* office. We wind our way out of the hulking **Armory**, *Calmul* in some sort of reverie, analyzing the guns and machinery defending the fortress. We are escorted to an
-express elevator Topside, opening into the famous **[Hanging Gardens]**. *Benjamin* and *Viker* look around in delight as we are escorted to the shining crystal towers of the **Magisterium**.
+express elevator Topside, opening into the famous **[Hanging Gardens]**. *Benjamin* and *Viker* look around in delight as we are escorted to the shining crystal towers of the **[Magisterium]**.
 
 ![The Magisterium](images/magisterium.png)
 
@@ -271,7 +271,7 @@ The Initiates politely but firmly ask that we remain in the lobby. *Tasbros* and
 >
 > "We would need to find a way to release the soul of *Lord Varkosian* from the sword," says *Tasbros*.
 >
-> "That would be a matter for the **Templar**," says the voice. "Do you have any other suggestions?"
+> "That would be a matter for the **[Templar]**," says the voice. "Do you have any other suggestions?"
 >
 > "We could suppress the magic of the sword," says *Tysnera*. "You have an Anti-Magic Field, don't you?"
 >
@@ -291,13 +291,13 @@ The Initiates politely but firmly ask that we remain in the lobby. *Tasbros* and
 >
 > "Thank you," says *Tasbros*.
 >
-> "We would like to offer you the position and rank of **Magister**. You would be required to teach others your techniques. It comes with a stipend, and you would be granted access to the **Library**."
+> "We would like to offer you the position and rank of *Magister*. You would be required to teach others your techniques. It comes with a stipend, and you would be granted access to the **Library**."
 >
 > *Tasbros* and *Tysnera* look at each other.
 >
 > "We will consider your offer," says *Tysnera*.
 
-Twenty-four hours later, we are in **St. Paul's Cathedral**, staring at the dizzying spiral that is the **[Ledger of the Peerage]**. *Geral* is resplendent in his new uniform, and *Calmul* is wearing a new set of Crusader Armor. *Tasbros* and *Tysnera* are wearing the robes of the **Magisterium**, and *Wulrif* is wearing a new set of clothes. *Avren* is suitably attired, taking magical notes of the spectacle.  My armor is buffed and polished.
+Twenty-four hours later, we are in **St. Paul's Cathedral**, staring at the dizzying spiral that is the **[Ledger of the Peerage]**. *Geral* is resplendent in his new uniform, and *Calmul* is wearing a new set of Crusader Armor. *Tasbros* and *Tysnera* are wearing the robes of the **[Magisterium]**, and *Wulrif* is wearing a new set of clothes. *Avren* is suitably attired, taking magical notes of the spectacle.  My armor is buffed and polished.
 
 > "Where are *Benjamin* and *Viker*?" asks *Geral*.
 >
@@ -313,7 +313,7 @@ Twenty-four hours later, we are in **St. Paul's Cathedral**, staring at the dizz
 >
 > He nods and smiles. "You too."
 >
-> Squaring his shoulders, *Geral* and *Calmul* walk to the base of the **Ledger**.
+> Squaring his shoulders, *Geral* and *Calmul* walk to the base of the **[Ledger of the Peerage]**.
 >
 > *Marchioness Lyanna Alagondar*, the ruling Temporal Lord of **[Neverwinter]**, is standing there, flanked by the *Commandant of the Crusaders* and the *Legate of the Apostolic See*.
 >
@@ -329,14 +329,17 @@ Twenty-four hours later, we are in **St. Paul's Cathedral**, staring at the dizz
 >
 > *Calmul* swishes his tail and puffs his crest. The *Commandant* salutes him.
 >
-> "*Lord Colonel Geral Bryn*, *Baron of Cragmaw*, I request and require your service to defend the peoples of the realm," intones *Marchioness Alagondar*.
+> "*Lord Colonel Geral Bryn*, *Baron of Cragmaw*, I request and require your service to defend the peoples of the March," intones *Marchioness Alagondar*.
 >
-> *Geral* kneels and swears his oath. The *Legate* taps him on the shoulder with the Holy Sceptre, and he rises.
+> *Geral* kneels and swears his oath. The *Legate* taps him on each shoulder with the Holy Sceptre, and he rises.
 >
-> He turns and nods to us, smiling sadly. Then he and *Calmul* march out of the Cathedral, flanked by the Honor Guard of the 349th.
+> He turns and nods to us, smiling sadly. Then he and *Calmul* march out of **St. Paul's**, flanked by the Honor Guard of the 349th.
 
 #### 30,000 XP Each
 
 [Neverwinter]: ../background/neverwinter.md
 [Hanging Gardens]: ../background/neverwinter.html#level-7
-[Ledger of the Peerage]: ../game/peerage.md#ledger
+[Ledger of the Peerage]: ../game/peerage.md
+[Templar]: ../game/apostolic-see.md#templar
+[Magisterium]: ../game/magisterium.md
+[Crusaders]: ../background/neverwinter.md#military

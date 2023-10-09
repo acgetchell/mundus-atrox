@@ -27,7 +27,7 @@ Despite its unending hunt for resources and grim necessity of survival, **Neverw
 
 ## Military
 
-- The *Lord Commandant of the Crusaders* and the *First Air Lord of the Armada* answer to the *Lords Temporal*.
+- The *Commandant of the Crusaders* and the *First Air Lord of the Armada* answer to the *Lords Temporal*.
 
 ## Layout
 
