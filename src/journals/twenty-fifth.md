@@ -23,13 +23,13 @@
 
 #### From the journal of Dame Orky
 
-We approach the next room and we feel our magic items lose their magic; our amour feels heavier. We move slightly closer and *Geral* sees a Beholder floating about 40 feet off the ground, pining us in the baleful glare of it's central eye. We can also see constructs skittering around in the back of the room. Flesh Golems form a wall protecting the Beholder.
+We approach the next room and feel our items lose their magic. We move slightly closer and *Geral* sees a Beholder floating about 40 feet off the ground, pinning us in the baleful glare of the central eye. We also see Constructs skittering around in the back of the room. Flesh Golems form a wall protecting the Beholder.
 
-> "It's a shame you broke my toys, did you bring me new ones?" says a Telepathic voice in our heads.
+> "It's a shame you broke my toys, did you bring me new ones?" a Telepathic voice echoes in our heads.
 >
 > "Where is *Droki*?" asks *Geral*.
 >
-> "Scurrying down his usual rat hole to the Obelisk." The huge head nods and indicates a small hole in the wall.
+> "Scurrying down his usual rat hole to the Monolith." The huge head nods and indicates a small hole in the wall.
 >
 > "How do we get through the hole?"
 >
@@ -43,7 +43,7 @@ We approach the next room and we feel our magic items lose their magic; our amou
 >
 > "I'd like to see this book." says the Beholder.
 
- Now *Wulrif* feels there is an extra attachment to his book. We take a short rest while the constructs come by to take a drop of our blood. The Beholder busies itself in its corner, telekinetically manipulating a cauldron and various ingredients.
+*Wulrif* feels there is an extra attachment to his book. We take a short rest while the small Clockworks come by to take a drop of our blood. The Beholder busies itself in its corner, Telekinetically manipulating a cauldron and various ingredients.
 
  A little while later ...
 
@@ -59,11 +59,11 @@ We approach the next room and we feel our magic items lose their magic; our amou
 >
 > A horrible chuckle.
 
- *Calmul* eventually realizes that he has the ability to build one! He nearly disappears into a fog of animated tools and constructs, and we can see him grasping nearby objects as we see this object manifest. It’s a metal, folding contraption thing that expands and contracts and has lots of gears on it.
+ *Calmul* eventually realizes that he has the ability to build one! He nearly disappears into a fog of animated tools and constructs, and we can see him grasping nearby objects as the object manifests. It’s a metal, folding contraption thing that expands and contracts in strange directions and has lots of gears on it.
 
-We drink the potions and shrink, watching puddles of reddish-pinkish-brown slime drain away into this metal box. We are now 6” high; *Benjamin* and *Wulrif* work together to track *Droki*. After 8 hours we make some progress down these tunnels. *Benjamin* loses the trail and takes a guess as to which way we should travel. *Geral* gives *Benjamin* some inspiration and he eventually finds his way. We start to feel tingly after a long time of traveling. Then, we find ourselves in a larger area and start to see rocks orbit us. We realize that we are growing in size. We quickly get *Calmul* to open the Box of Holding so we can gain our original forms with our original mass.
+We drink our potions and shrink, watching puddles of reddish-pinkish-brown slime drain away into *Calmul's* metal box. We are now 6" high, and the air is strangely thick. *Benjamin* and *Wulrif* work together to track *Droki*, but the tunnels are long and confusing. After 8 hours of progress, *Benjamin* loses the trail and takes a guess as to which way we should travel. *Geral* gives *Benjamin* some Inspiration and he eventually recovers the track. We start to feel tingly after a long time of traveling. Then, we find ourselves in a larger area and start to see rocks orbit us. We realize that we are growing in size. We quickly get *Calmul* to open the Box of Holding so we can gain our original forms with our original mass.
 
-We feel a bit out of sorts, funny tastes and twinges throughout our bodies. We are in a large cavern with a Monolith in the center. We see a bunch of Drow and Driders and, looking expectantly at us, *Mistress Ilvarra*.
+We feel a bit out of sorts, funny tastes and twinges throughout our bodies. We are in a large cavern with a series of stepped pyramids, the Monolith on the central, highest mound. We see a bunch of Drow and Driders and, looking expectantly at us, *Mistress Ilvarra*.
 
 > “See M’lady, here they are.” says *Droki*.
 
@@ -73,32 +73,32 @@ We are immediately faced with the blaring noise of a Shrieker, alerting every cr
 
 Round 1
 
-1. *Benjamin* casts a spell to damage 4 Drow by 1 HP and the Shrieker, killing it.
+1. *Benjamin* casts a spell to damage 4 Drow by 1 HP and the Shrieker, killing it. The shrieks thankfully fade.
 2. *CoralKing* Teleports to the top of the highest mound and swings at the nearest Drow with his staff, doing 27 HP damage.
 3. *Tasbros* casts a Fireball but gets Counterspelled.
-4. *Tysnera* casts Fireball at 5th level and lands 42 HP damage to a bunch of the Drow, staggering them.
-5. *Viker* casts Firewall and does 18 HP damage on 5 Drow.
-6. *Wulrif* uses 2 Sorcery points and Quickens Sickening Radiance on the Drow, followed by Eldritch Blast on *Mistress Ilvarra* which pushes her back 10 ft.
-7. *Calmul* shoots a Drider with his musket.
-8. I move forward 20 ft, cast Searing Smite, and ready my action. If I am attacked within 5 ft, I will attack twice with my Great Sword. A Drow Elite Warrior obliges me but misses, I counter for 31 HP damage.
+4. *Tysnera* casts Fireball at 5th level and lands 42 HP damage to the Drow, staggering them.
+5. *Viker* casts Firewall and does 18 HP damage on 5 Drow Elite Warriors.
+6. *Wulrif* uses 2 Sorcery points and Quickens Sickening Radiance on the Drow, followed by Eldritch Blast on *Mistress Ilvarra*, which pushes her backwards 10 feet.
+7. *Calmul* shoots a Drider with his musket, because he doesn't like giant Spider-things.
+8. I move forward 20 ft, cast Searing Smite, and ready my action. If I am attacked within 5 ft, I will counterattack twice with my Great Sword. A Drow Elite Warrior obliges me and I slip his strikes, countering for 31 HP damage.
 9. *Droki* sneaks up behind *Wulrif* and backstabs him for 57 HP damage! *Droki* then disappears in a globe of Darkness. The enemies move in to surround me and *Benjamin*. They do 38 HP damage to me and a significant amount to *Benjamin*. They attack *Viker* for 20 HP damage. *Geral* is attacked and so is *CoralKing*, who gets hit for 22 HP damage.
 10. *Avren* casts Dispel Magic and the Darkness goes away!
-11. A Priestess casts Mass Cure Wounds on their forces within 30 feet. *Mistress Ilvarra* Dispels *Viker*’s Wall of Fire, which is burning up her warriors. I get 26 HP damage and so does *Tysnera*. Simultaneously, tentacles and noxious green fumes erupt around us, holding us in place and choking us for a ton of damage.
-12. *Steve* nimbly skips out of the way of the Black Tentacles and Cloudkill and attacks *Droki*, doing some damage.
-13. *Geral* also avoided the spells and provokes 3 attacks of opportunity while moving to attack *Droki* 3 times. He uses Action Surge to hit him again, doing 30 HP damage.
+11. A Priestess casts Mass Cure Wounds on their forces. *Mistress Ilvarra* Dispels *Viker*’s Wall of Fire, which is burning up her warriors. I get 26 HP damage and so does *Tysnera*. Simultaneously, tentacles and noxious green fumes erupt around us, holding us in place and choking us for a ton of damage.
+12. *Steve* nimbly skips out of the way of the Black Tentacles and Cloudkill and backstabs *Droki*, avenging *Wulrif* and doing significant damage.
+13. *Geral's* Shield of Alertness warded him from the spells, so he charges and provokes 3 attacks of opportunity while moving to attack *Droki* 3 times. He uses Action Surge to hit him again, doing 30 HP damage.
 
 Round 2
 
-1. *Benjamin* damages some creatures.
-2. *CoralKing* Shadow Steps onto the opposite side of the Monolith and attacks one of the Drow magic users, killing him and dispelling the Cloudkill.
+1. *Benjamin* shoots the Drider *Calmul* shot, because he also doesn't like giant Spider-things.
+2. *CoralKing* Shadow Steps onto the opposite side of the Monolith and attacks one of the Drow Mages, killing him and incidentally dispelling the Cloudkill, because you can't hold a Concentration Spell when you're dead.
 3. *Wulrif* tries his best, but fails to hit *Droki* back with *Eldritch Blast*.
-4. *Tasbros* struggles in the Black Tentacles and casts Sunbeam and Metamagic, damaging a line of Drow as far as one of the priestesses for 32 HP damage each.
-5. I turn around, declare a Vow of Enmity on the Drow attacking me, and swing at him. I do 31 HP and he dies. I quickly move and attack another Drow at the edge of the tentacles, doing 19 HP damage.
+4. *Tasbros* struggles in the Black Tentacles and casts Sunbeam using his Metamagic, damaging a line of Drow as far as the Priestesses for 32 HP damage each.
+5. I turn around, declare a Vow of Enmity on the Drow Elite Warrior attacking me, and swing at him. I do 31 HP and he dies. I quickly move and attack another Drow at the edge of the tentacles, doing 19 HP damage.
 6. *Tysnera* casts Fireball, doing 28 HP damage to a bunch of Drow.
-7. A Drow Elite Warrior attacks *CoralKing*, doing 31 HP damage. Some Drow crossbowmen attack *CoralKing* and miss, but hit *Geral* for 5 HP.
+7. A Drow Elite Warrior attacks *CoralKing*, doing 31 HP damage. Some Drow Crossbowmen attack *CoralKing* and miss, but hit *Geral* for 5 HP. *Geral* Saves against the poison.
 8. *Avren* moves out of the Black Tentacles and casts Dispel Magic again, getting rid of them!
-9. *Mistress Ilvarra* casts something extremely nasty at *Tasbros*, who Counterspells and succeeds!
-10. *Steve* attacks a Drider and misses.
+9. *Mistress Ilvarra* casts something extremely nasty at *Tasbros*, who successfully Counterspells it!
+10. *Steve* attacks *Droki* and misses.
 11. *Viker* casts Daylight, covering the entire battlefield. She also attacks a Drider and does 9 HP damage.
 12. The remaining Drow Mage casts Lightning Bolt and hits *Benjamin*, *Tasbros*, and me.
 13. The Driders attack *Viker* and do some damage.
@@ -109,38 +109,38 @@ Round 3
 1. *Benjamin* shoots *Droki* with his bow and does 14 HP damage.
 2. *CoralKing* strikes *Droki* with his staff and does 46 HP damage.
 3. *Tysnera* casts Fireball on *Droki* and *Mistress Ilvarra*, doing 35 HP damage. That takes *Droki* out.
-4. *Calmul* does 7 HP damage to a Drider.
+4. *Calmul* shoots a Drider for 7 HP.
 5. *Tasbros* summons a Draconic Spirit which attacks *Mistress Ilvarra*, taking her out.
 6. *Wulrif* casts a Quickened Witch Bolt on the remaining Priestess, killing her. He casts Eldritch Blast on the remaining Mage, hitting him 3 times for 40 HP. He completely flies off the mound and dies a horrific death.
-7. *Viker* heals *Wulrif* for 70 HP.
-8. The 2 remaining warriors touch the Monolith and disappear.
-9. *Avren* casts Mass Cure Wounds for 20 HP each.
-10. I barely avoid getting hit by the Driders. *Tasbros* gets 19 HP damage to his Dragon spirit. I do 40 damage on a Drider.
+7. *Viker* heals *Wulrif* for 70 HP, reviving him from the brink of death!
+8. The 2 remaining Drow Elite Warriors touch the Monolith and disappear.
+9. *Avren* casts Mass Cure Wounds on us for 20 HP each.
+10. I barely avoid getting hit by the Driders. *Tasbros* Dragon spirit interposes and takes 19 HP from a Drider. I do 40 damage on a Drider.
 11. *Geral* directs a Commander's Strike on me to hit the Drider and we kill one.
 12. I finally do significant damage on another Drider.
 
 Round 4
 
-1. *Benjamin* sprints up to where *Droki* is.
-2. *Wulrif* hits one of the Driders and knocks him back.
-3. *Tasbros* uses his Dragon to attack the nearest Drider and misses. He uses Chromatic Orb on a Drider, doing 15 HP damage.
-4. *Steve* uses a sneak attack on his crossbow for big damage on a Drider.
+1. *Benjamin* sprints up to where *Droki* is before a Drider can drag him away.
+2. *Wulrif* Eldritch Blasts the Drider near Benjamin, knocking it back.
+3. *Tasbros* uses his Dragon Spirit to attack the Drider attacking him and misses. He then uses Chromatic Orb on it, doing 15 HP damage.
+4. *Steve* uses a Sneak Attack with his crossbow for big damage on *Tasbros* Drider.
 5. I move up to *Droki*, throw my manacles to *CoralKing* and direct him to cuff our prisoner.
 6. *Tysnera* Magic Missiles a Drider for guaranteed damage.
-7. *Avren* does 9 HP damage.
-8. *Geral* asks *Wulrif* to Eldritch Blast a Drider. He and *Geral* do 28 HP.
+7. *Avren* shoots a Drider 9 HP damage.
+8. *Geral* does Commander's Strike on *Wulrif* to Eldritch Blast a Drider. He and *Geral* do 28 HP.
 
 Round 5
 
 1. *Wulrif* does 22 HP damage to a Drider.
-2. *Viker* uses ice knife and freezes a Drider in place.
+2. *Viker* uses Ice Knife and freezes a Drider in place.
 3. *Geral* runs down to the Drider and does 11 HP damage.
 4. *Tasbros* uses Ray of Frost.
 5. *Viker* does 28 HP damage on a Drider, killing it.
 6. *CoralKing* turns and throws a dart at the remaining Drider for 12 HP damage.
-7. *Benjamin* shoots a bolt at the Drider and kills it!
+7. *Benjamin* shoot the Drider and kills it!
 
-I pull out my dark religious symbol gifted to me from the Dragon. It is strongly drawn to the Monolith, leaping out of my hand and merging with it. The Monolith heals, there's a flash, and we find ourselves in a maze. A confusing blur, twisting in unknown directions, and then ...
+I pull out my dark religious symbol gifted to me from the Dragon. It is strongly drawn to the Monolith, leaping out of my hand and merging with it. The Monolith heals a crack, there's a flash, and we find ourselves in a maze. A confusing blur, twisting in unknown directions, and then ...
 
 ![Death Knight](images/death-knight.png)
 
