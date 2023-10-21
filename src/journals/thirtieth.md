@@ -5,7 +5,7 @@
 ### Dramatis Personae
 
 - *Actias Aureus*, a 13th level Dhampir Warlock
-- *Benjamin*, a 13th-level Elf Ranger
+- *Benjamin*, a 13th-level Wood Elf Ranger
 - *CoralKing*, a 15th-level Gnome Monk
 - *Orky*, a 15th-level Half-Elf Paladin
 - *Viker*, a 15th-level Eladrin Druid

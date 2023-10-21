@@ -5,14 +5,14 @@
 ### Dramatis Personae
 
 - *Avren Varan*, a 9th-level Half-Elf Bard
-- *Benjamin*, an 11th-level Elf Ranger
+- *Benjamin*, an 11th-level Wood Elf Ranger
 - *Calmul Rhoqiroth*, a 10th-level Dragonborn Artificer
 - *CoralKing*, an 11th-level Gnome Monk
 - *Geral Bryn*, a 10th-level Human Fighter
 - *Orky*, an 11th-level Half-Elf Paladin
 - *Steve*, an 11th-level Halfling Rogue
-- *Tasbros*, a 10th-level Elf Sorcerer
-- *Tysnera*, a 10th-level Elf Wizard
+- *Tasbros*, a 10th-level Sky Elf Sorcerer
+- *Tysnera*, a 10th-level Sky Elf Wizard
 - *Viker*, an 11th-level Eladrin Druid
 
 ### Summerday +940 hours

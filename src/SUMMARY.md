@@ -93,3 +93,4 @@
   - [Thirty-Second Session](journals/thirty-second.md)
   - [Thirty-Third Session](journals/thirty-third.md)
   - [Thirty-Fourth Session](journals/thirty-fourth.md)
+  - [Thirty-Fifth Session](journals/thirty-fifth.md)

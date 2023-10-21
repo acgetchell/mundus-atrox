@@ -6,14 +6,14 @@
 
 ### Dramatis Personae
 
-- *Benjamin*, a 5th-level Elf Ranger
+- *Benjamin*, a 5th-level Wood Elf Ranger
 - *Calmul Rhoqiroth*, a 5th-level Dragonborn Artificer
 - *CoralKing*, a 5th-level Gnome Monk
 - *Geral Bryn*, a 5th-level Human Fighter
 - *Orky*, a 5th-level Half-Elf Paladin
 - *Steve*, a 5th-level Halfling Rogue
-- *Tasbros*, a 5th-level Elf Sorcerer
-- *Tysnera*, a 5th-level Elf Wizard
+- *Tasbros*, a 5th-level Sky Elf Sorcerer
+- *Tysnera*, a 5th-level Sky Elf Wizard
 - *Viker*, a 5th-level Eladrin Druid
 - *Wulrif*, a 5th-level Human Warlock
 

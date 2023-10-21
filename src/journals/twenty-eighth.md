@@ -6,8 +6,8 @@
 
 - *CoralKing*, a 14th-level Gnome Monk
 - *Orky*, a 14th-level Half-Elf Paladin
-- *Tasbros*, a 12th-level Elf Sorcerer
-- *Tysnera*, a 12th-level Elf Wizard
+- *Tasbros*, a 12th-level Sky Elf Sorcerer
+- *Tysnera*, a 12th-level Sky Elf Wizard
 - *Viker*, a 14th-level Eladrin Druid
 - *Wulrif*, a 12th level Human Warlock
 

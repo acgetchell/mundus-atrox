@@ -6,14 +6,14 @@
 
 ### Dramatis Personae
 
-- *Benjamin*, a 7th-level Elf Ranger
+- *Benjamin*, a 7th-level Wood Elf Ranger
 - *Calmul Rhoqiroth*, a 7th-level Dragonborn Artificer
 - *CoralKing*, a 6th-level Gnome Monk
 - *Geral Bryn*, a 7th-level Human Fighter
 - *Orky*, a 6th-level Half-Elf Paladin
 - *Steve*, a 7th-level Halfling Rogue
-- *Tasbros*, a 7th-level Elf Sorcerer
-- *Tysnera*, a 7th-level Elf Wizard
+- *Tasbros*, a 7th-level Sky Elf Sorcerer
+- *Tysnera*, a 7th-level Sky Elf Wizard
 - *Viker*, a 7th-level Eladrin Druid
 - *Wulrif*, a 6th-level Human Warlock
 

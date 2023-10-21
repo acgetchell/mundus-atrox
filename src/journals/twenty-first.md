@@ -6,7 +6,7 @@
 
 - *Actias Aureus*, a 9th-level Tiefling Warlock
 - *Avren Varan*, a 9th-level Half-Elf Bard
-- *Benjamin*, a 10th-level Elf Ranger
+- *Benjamin*, a 10th-level Wood Elf Ranger
 - *Calmul Rhoqiroth*, a 9th-level Dragonborn Artificer
 - *CoralKing*, a 10th-level Gnome Monk
 - *Geral Bryn*, a 9th-level Human Fighter

@@ -4,10 +4,10 @@
 
 ### Dramatis Personae
 
-- *Benjamin*, a 13th-level Elf Ranger
+- *Benjamin*, a 13th-level Wood Elf Ranger
 - *CoralKing*, a 15th-level Gnome Monk
 - *Orky*, a 15th-level Half-Elf Paladin
-- *Tasbros*, a 13th-level Elf Sorcerer
+- *Tasbros*, a 13th-level Sky Elf Sorcerer
 - *Viker*, a 15th-level Eladrin Druid
 - *Wulrif*, a 15th level Human Warlock
 

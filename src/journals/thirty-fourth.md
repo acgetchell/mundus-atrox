@@ -5,10 +5,10 @@
 ### Dramatis Personae
 
 - *Actias Aureus*, a 14th level Dhampir Warlock
-- *Benjamin*, a 15-level Elf Ranger
+- *Benjamin*, a 15-level Wood Elf Ranger
 - *CoralKing*, a 15th-level Gnome Monk
 - *Orky*, a 15th-level Half-Elf Paladin
-- *Tasbros*, a 15th-level Elf Sorcerer
+- *Tasbros*, a 15th-level Sky Elf Sorcerer
 - *Viker*, a 15th-level Eladrin Druid
 - *Wulrif*, a 15th level Human Warlock
 
@@ -23,7 +23,7 @@ The great gate of **Gauntlgrym** is huge. There are tons of Dwarves, tons of lev
 
 We are kindly greeted at the gate and led to our quarters. Out of the corner of *Actias*’ and *Wulrif*’s eyes, they see Ghosts. We are told they won’t mess with us as long as we don’t desecrate the locations of their demise. We are also told to avoid the **Iron Tabernacle**, the cathedral. They said the king will see us when we have rested from our travels. We decide to short rest.
 
-We are taken to meet a red-haired Dwarf and the magic users can feel a strong divine magic. I can feel a consecrated magic. He says “welcome friends, I want to know about the depths outside my city.” So, he discern that he wants to know about the underdark. We tell him about  the Koa-Toa summoning *Demogorgon*. We attempted to stop it, but failed and were forced to flee. We continued to update him on all of our travels until this point.
+We are taken to meet a red-haired Dwarf and the magic users can feel a strong divine magic. I can feel a consecrated magic. He says “welcome friends, I want to know about the depths outside my city.” So, he discern that he wants to know about the **Underdark**. We tell him about  the Koa-Toa summoning *Demogorgon*. We attempted to stop it, but failed and were forced to flee. We continued to update him on all of our travels until this point.
 
 He said he recently reclaimed the kingdom from the Illithids. He said in the deeper levels, we shouldn't trust what we find. It’s rumored there is some sort of primordial creature guarding the lower levels. The weapons forged there are superior.
 
@@ -43,3 +43,5 @@ Round 1
 4. *Benjamin* is as well does the same.
 5. *Viker* Fey Steps behind the group, casts Moonbeam on 2 trolls, and does 12 HP damage.
 6. *Actias* casts Blur.
+
+Action continues next session ...

@@ -6,14 +6,14 @@
 
 - *Actias Aureus*, a 10th-level Tiefling Warlock
 - *Avren Varan*, a 10th-level Half-Elf Bard
-- *Benjamin*, a 12th-level Elf Ranger
+- *Benjamin*, a 12th-level Wood Elf Ranger
 - *Calmul Rhoqiroth*, a 12th-level Dragonborn Artificer
 - *CoralKing*, a 12th-level Gnome Monk
 - *Geral Bryn*, a 12th-level Human Fighter
 - *Orky*, a 12th-level Half-Elf Paladin
 - *Steve*, a 12th-level Halfling Rogue
-- *Tasbros*, a 12th-level Elf Sorcerer
-- *Tysnera*, a 12th-level Elf Wizard
+- *Tasbros*, a 12th-level Sky Elf Sorcerer
+- *Tysnera*, a 12th-level Sky Elf Wizard
 - *Viker*, a 12th-level Eladrin Druid
 - *Wulrif*, an 11th-level Human Warlock
 

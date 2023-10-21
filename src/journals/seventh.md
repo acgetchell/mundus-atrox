@@ -6,7 +6,7 @@
 
 ### Dramatis Personae
 
-- *Benjamin*, a 4th-level Elf Ranger
+- *Benjamin*, a 4th-level Wood Elf Ranger
 - *CoralKing*, a 4th-level Gnome Monk
 - *Orky*, a 4th-level Half-Elf Paladin
 - *Steve*, a 4th-level Halfling Rogue

@@ -7,14 +7,14 @@
 ### Dramatis Personae
 
 - *Actias Aureus*, a 5th-level Tiefling Warlock
-- *Benjamin*, a 6th-level Elf Ranger
+- *Benjamin*, a 6th-level Wood Elf Ranger
 - *Calmul Rhoqiroth*, a 5th-level Dragonborn Artificer
 - *CoralKing*, a 6th-level Gnome Monk
 - *Geral Bryn*, a 5th-level Human Fighter
 - *Orky*, a 6th-level Half-Elf Paladin
 - *Steve*, a 6th-level Halfling Rogue
-- *Tasbros*, a 5th-level Elf Sorcerer
-- *Tysnera*, a 5th-level Elf Wizard
+- *Tasbros*, a 5th-level Sky Elf Sorcerer
+- *Tysnera*, a 5th-level Sky Elf Wizard
 - *Viker*, a 6th-level Eladrin Druid
 - *Wulrif*, a 5th-level Human Warlock
 

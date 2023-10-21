@@ -8,7 +8,7 @@
 ### Dramatis Personae
 
 - *Actias Aureus*, a 1st-level Tiefling Warlock
-- *Benjamin*, a 2nd-level Elf Ranger
+- *Benjamin*, a 2nd-level Wood Elf Ranger
 - *Calmul Rhoqiroth*, a 1st-level Dragonborn Bard
 - *CoralKing*, a 2nd-level Gnome Monk
 - *Geral Bryn*, a 2nd-level Human Fighter

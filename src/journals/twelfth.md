@@ -7,12 +7,12 @@
 ### Dramatis Personae
 
 - *Actias Aureus*, a 5th-level Tiefling Warlock
-- *Benjamin*, a 6th-level Elf Ranger
+- *Benjamin*, a 6th-level Wood Elf Ranger
 - *Calmul Rhoqiroth*, a 6th-level Dragonborn Artificer
 - *Geral Bryn*, a 6th-level Human Fighter
 - *Steve*, a 6th-level Halfling Rogue
-- *Tasbros*, a 6th-level Elf Sorcerer
-- *Tysnera*, a 6th-level Elf Wizard
+- *Tasbros*, a 6th-level Sky Elf Sorcerer
+- *Tysnera*, a 6th-level Sky Elf Wizard
 - *Viker*, a 6th-level Eladrin Druid
 
 > The Naga stares unblinking with piercing golden eyes.

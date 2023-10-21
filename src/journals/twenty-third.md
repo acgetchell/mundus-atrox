@@ -4,7 +4,7 @@
 
 ### Dramatis Personae
 
-- *Benjamin*, a 12th-level Elf Ranger
+- *Benjamin*, a 12th-level Wood Elf Ranger
 - *Calmul Rhoqiroth*, an 11th-level Dragonborn Artificer
 - *CoralKing*, an 11th-level Gnome Monk
 - *Geral Bryn*, an 11th-level Human Fighter

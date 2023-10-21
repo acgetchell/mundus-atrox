@@ -7,14 +7,14 @@
 ### Dramatis Personae
 
 - *Actias Aureus*, a 3rd-level Tiefling Warlock
-- *Benjamin*, a 3nd-level Elf Ranger
+- *Benjamin*, a 3nd-level Wood Elf Ranger
 - *Calmul Rhoqiroth*, a 3rd-level Dragonborn Bard
 - *CoralKing*, a 3rd-level Gnome Monk
 - *Geral Bryn*, a 3rd-level Human Fighter
 - *Orky*, a 3rd-level Half-Elf Paladin
 - *Steve*, a 3rd-level Halfling Rogue
-- *Tasbros*, a 3rd-level Elf Sorcerer
-- *Tysnera*, a 3rd-level Elf Wizard
+- *Tasbros*, a 3rd-level Sky Elf Sorcerer
+- *Tysnera*, a 3rd-level Sky Elf Wizard
 - *Viker*, a 3rd-level Eladrin Druid
 - *Wulrif*, a 3rd-level Human Warlock
 

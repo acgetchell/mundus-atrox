@@ -5,12 +5,12 @@
 ### Dramatis Personae
 
 - *Actias Aureus*, a 9th-level Tiefling Warlock
-- *Benjamin*, a 10th-level Elf Ranger
+- *Benjamin*, a 10th-level Wood Elf Ranger
 - *CoralKing*, a 10th-level Gnome Monk
 - *Orky*, a 10th-level Half-Elf Paladin
 - *Steve*, a 10th-level Halfling Rogue
-- *Tasbros*, a 10th-level Elf Sorcerer
-- *Tysnera*, a 10th-level Elf Wizard
+- *Tasbros*, a 10th-level Sky Elf Sorcerer
+- *Tysnera*, a 10th-level Sky Elf Wizard
 - *Viker*, a 10th-level Eladrin Druid
 - *Wulrif*, a 9th-level Human Warlock
 
