@@ -1,0 +1,473 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Twenty-Fifth Session - The Mundus Atrox Campaign</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../index.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">Background</li><li class="chapter-item expanded "><a href="../background/seasons.html"><strong aria-hidden="true">1.</strong> Sky and Seasons</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/arch.html"><strong aria-hidden="true">1.1.</strong> The Arch</a></li></ol></li><li class="chapter-item expanded "><a href="../background/geography.html"><strong aria-hidden="true">2.</strong> Geography</a></li><li class="chapter-item expanded "><a href="../background/ocean.html"><strong aria-hidden="true">3.</strong> Oceanography</a></li><li class="chapter-item expanded "><a href="../background/climate.html"><strong aria-hidden="true">4.</strong> Climate</a></li><li class="chapter-item expanded "><a href="../background/flora-fauna.html"><strong aria-hidden="true">5.</strong> Flora and Fauna</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/dragons.html"><strong aria-hidden="true">5.1.</strong> Dragons</a></li><li class="chapter-item expanded "><a href="../background/fey.html"><strong aria-hidden="true">5.2.</strong> Fey</a></li><li class="chapter-item expanded "><a href="../background/giants.html"><strong aria-hidden="true">5.3.</strong> Giants</a></li><li class="chapter-item expanded "><a href="../background/old-ones.html"><strong aria-hidden="true">5.4.</strong> Old Ones</a></li></ol></li><li class="chapter-item expanded "><a href="../background/population.html"><strong aria-hidden="true">6.</strong> Population</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/barbaria.html"><strong aria-hidden="true">6.1.</strong> Barbaria</a></li><li class="chapter-item expanded "><a href="../background/populi.html"><strong aria-hidden="true">6.2.</strong> Populi</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/dragonborn.html"><strong aria-hidden="true">6.2.1.</strong> Dragonborn</a></li><li class="chapter-item expanded "><a href="../background/dwarves.html"><strong aria-hidden="true">6.2.2.</strong> Dwarves</a></li><li class="chapter-item expanded "><a href="../background/elves.html"><strong aria-hidden="true">6.2.3.</strong> Elves</a></li><li class="chapter-item expanded "><a href="../background/half-elves.html"><strong aria-hidden="true">6.2.4.</strong> Half-Elves</a></li><li class="chapter-item expanded "><a href="../background/half-orcs.html"><strong aria-hidden="true">6.2.5.</strong> Half-Orcs</a></li><li class="chapter-item expanded "><a href="../background/halflings.html"><strong aria-hidden="true">6.2.6.</strong> Halflings</a></li><li class="chapter-item expanded "><a href="../background/humans.html"><strong aria-hidden="true">6.2.7.</strong> Humans</a></li><li class="chapter-item expanded "><a href="../background/gnomes.html"><strong aria-hidden="true">6.2.8.</strong> Gnomes</a></li><li class="chapter-item expanded "><a href="../background/tiefling.html"><strong aria-hidden="true">6.2.9.</strong> Tiefling</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../background/civilization.html"><strong aria-hidden="true">7.</strong> Civilization</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/castelas.html"><strong aria-hidden="true">7.1.</strong> Castelas</a></li><li class="chapter-item expanded "><a href="../background/mines.html"><strong aria-hidden="true">7.2.</strong> Mines</a></li><li class="chapter-item expanded "><a href="../background/urbs.html"><strong aria-hidden="true">7.3.</strong> Urbs</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/neverwinter.html"><strong aria-hidden="true">7.3.1.</strong> Neverwinter</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../background/artifacts.html"><strong aria-hidden="true">8.</strong> Artifacts</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/arclight.html"><strong aria-hidden="true">8.1.</strong> The Arclight</a></li><li class="chapter-item expanded "><a href="../background/stonehenge.html"><strong aria-hidden="true">8.2.</strong> Stonehenge</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Game Information</li><li class="chapter-item expanded "><a href="../game/starting.html"><strong aria-hidden="true">9.</strong> Starting</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/races.html"><strong aria-hidden="true">9.1.</strong> Races</a></li><li class="chapter-item expanded "><a href="../game/classes.html"><strong aria-hidden="true">9.2.</strong> Classes</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/artificer.html"><strong aria-hidden="true">9.2.1.</strong> Artificer</a></li><li class="chapter-item expanded "><a href="../game/playtest.html"><strong aria-hidden="true">9.2.2.</strong> Playtest Materials</a></li></ol></li><li class="chapter-item expanded "><a href="../game/factions.html"><strong aria-hidden="true">9.3.</strong> Factions</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/apostolic-see.html"><strong aria-hidden="true">9.3.1.</strong> Apostolic See</a></li><li class="chapter-item expanded "><a href="../game/magisterium.html"><strong aria-hidden="true">9.3.2.</strong> Magisterium</a></li><li class="chapter-item expanded "><a href="../game/peerage.html"><strong aria-hidden="true">9.3.3.</strong> Peerage</a></li></ol></li><li class="chapter-item expanded "><a href="../game/equipment.html"><strong aria-hidden="true">9.4.</strong> Equipment</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/conveyances.html"><strong aria-hidden="true">9.4.1.</strong> Conveyances</a></li><li class="chapter-item expanded "><a href="../game/firearms.html"><strong aria-hidden="true">9.4.2.</strong> Firearms</a></li></ol></li><li class="chapter-item expanded "><a href="../game/magic-items.html"><strong aria-hidden="true">9.5.</strong> Magic Items</a></li><li class="chapter-item expanded "><a href="../game/spellcasting.html"><strong aria-hidden="true">9.6.</strong> Spellcasting</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/mana.html"><strong aria-hidden="true">9.6.1.</strong> Mana</a></li></ol></li></ol></li><li class="chapter-item expanded "><li class="part-title">Journals</li><li class="chapter-item expanded "><a href="../journals/overview.html"><strong aria-hidden="true">10.</strong> Overview</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../journals/first.html"><strong aria-hidden="true">10.1.</strong> First Session</a></li><li class="chapter-item expanded "><a href="../journals/second.html"><strong aria-hidden="true">10.2.</strong> Second Session</a></li><li class="chapter-item expanded "><a href="../journals/third.html"><strong aria-hidden="true">10.3.</strong> Third Session</a></li><li class="chapter-item expanded "><a href="../journals/fourth.html"><strong aria-hidden="true">10.4.</strong> Fourth Session</a></li><li class="chapter-item expanded "><a href="../journals/fifth.html"><strong aria-hidden="true">10.5.</strong> Fifth Session</a></li><li class="chapter-item expanded "><a href="../journals/sixth.html"><strong aria-hidden="true">10.6.</strong> Sixth Session</a></li><li class="chapter-item expanded "><a href="../journals/seventh.html"><strong aria-hidden="true">10.7.</strong> Seventh Session</a></li><li class="chapter-item expanded "><a href="../journals/eighth.html"><strong aria-hidden="true">10.8.</strong> Eighth Session</a></li><li class="chapter-item expanded "><a href="../journals/ninth.html"><strong aria-hidden="true">10.9.</strong> Ninth Session</a></li><li class="chapter-item expanded "><a href="../journals/tenth.html"><strong aria-hidden="true">10.10.</strong> Tenth Session</a></li><li class="chapter-item expanded "><a href="../journals/eleventh.html"><strong aria-hidden="true">10.11.</strong> Eleventh Session</a></li><li class="chapter-item expanded "><a href="../journals/twelfth.html"><strong aria-hidden="true">10.12.</strong> Twelfth Session</a></li><li class="chapter-item expanded "><a href="../journals/thirteenth.html"><strong aria-hidden="true">10.13.</strong> Thirteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/fourteenth.html"><strong aria-hidden="true">10.14.</strong> Fourteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/fifteenth.html"><strong aria-hidden="true">10.15.</strong> Fifteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/sixteenth.html"><strong aria-hidden="true">10.16.</strong> Sixteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/seventeenth.html"><strong aria-hidden="true">10.17.</strong> Seventeenth Session</a></li><li class="chapter-item expanded "><a href="../journals/eighteenth.html"><strong aria-hidden="true">10.18.</strong> Eighteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/nineteenth.html"><strong aria-hidden="true">10.19.</strong> Nineteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/twentieth.html"><strong aria-hidden="true">10.20.</strong> Twentieth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-first.html"><strong aria-hidden="true">10.21.</strong> Twenty-First Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-second.html"><strong aria-hidden="true">10.22.</strong> Twenty-Second Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-third.html"><strong aria-hidden="true">10.23.</strong> Twenty-Third Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-fourth.html"><strong aria-hidden="true">10.24.</strong> Twenty-Fourth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-fifth.html" class="active"><strong aria-hidden="true">10.25.</strong> Twenty-Fifth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-sixth.html"><strong aria-hidden="true">10.26.</strong> Twenty-Sixth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-seventh.html"><strong aria-hidden="true">10.27.</strong> Twenty-Seventh Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-eighth.html"><strong aria-hidden="true">10.28.</strong> Twenty-Eighth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-ninth.html"><strong aria-hidden="true">10.29.</strong> Twenty-Ninth Session</a></li><li class="chapter-item expanded "><a href="../journals/thirtieth.html"><strong aria-hidden="true">10.30.</strong> Thirtieth Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-first.html"><strong aria-hidden="true">10.31.</strong> Thirty-First Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-second.html"><strong aria-hidden="true">10.32.</strong> Thirty-Second Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-third.html"><strong aria-hidden="true">10.33.</strong> Thirty-Third Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-fourth.html"><strong aria-hidden="true">10.34.</strong> Thirty-Fourth Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-fifth.html"><strong aria-hidden="true">10.35.</strong> Thirty-Fifth Session</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">The Mundus Atrox Campaign</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="twenty-fifth-session"><a class="header" href="#twenty-fifth-session">Twenty-Fifth Session</a></h1>
+<h2 id="the-end-of-the-beginning"><a class="header" href="#the-end-of-the-beginning">The End of the Beginning</a></h2>
+<h3 id="dramatis-personae"><a class="header" href="#dramatis-personae">Dramatis Personae</a></h3>
+<ul>
+<li><em>Actias Aureus</em>, a 10th-level Tiefling Warlock</li>
+<li><em>Avren Varan</em>, a 10th-level Half-Elf Bard</li>
+<li><em>Benjamin</em>, a 12th-level Wood Elf Ranger</li>
+<li><em>Calmul Rhoqiroth</em>, a 12th-level Dragonborn Artificer</li>
+<li><em>CoralKing</em>, a 12th-level Gnome Monk</li>
+<li><em>Geral Bryn</em>, a 12th-level Human Fighter</li>
+<li><em>Orky</em>, a 12th-level Half-Elf Paladin</li>
+<li><em>Steve</em>, a 12th-level Halfling Rogue</li>
+<li><em>Tasbros</em>, a 12th-level Sky Elf Sorcerer</li>
+<li><em>Tysnera</em>, a 12th-level Sky Elf Wizard</li>
+<li><em>Viker</em>, a 12th-level Eladrin Druid</li>
+<li><em>Wulrif</em>, an 11th-level Human Warlock</li>
+</ul>
+<h3 id="summerday-1108-hours"><a class="header" href="#summerday-1108-hours">Summerday +1108 hours</a></h3>
+<p><img src="images/beholder.png" alt="Beholder" /></p>
+<h4 id="from-the-journal-of-dame-orky"><a class="header" href="#from-the-journal-of-dame-orky">From the journal of Dame Orky</a></h4>
+<p>We approach the next room and feel our items lose their magic. We move slightly closer and <em>Geral</em> sees a Beholder floating about 40 feet off the ground, pinning us in the baleful glare of the central eye. We also see Constructs skittering around in the back of the room. Flesh Golems form a wall protecting the Beholder.</p>
+<blockquote>
+<p>&quot;It's a shame you broke my toys, did you bring me new ones?&quot; a Telepathic voice echoes in our heads.</p>
+<p>&quot;Where is <em>Droki</em>?&quot; asks <em>Geral</em>.</p>
+<p>&quot;Scurrying down his usual rat hole to the Monolith.&quot; The huge head nods and indicates a small hole in the wall.</p>
+<p>&quot;How do we get through the hole?&quot;</p>
+<p>&quot;You don't. Unless you have a shrinking potion.&quot;</p>
+<p>&quot;Do you have a shrinking potion?&quot;</p>
+<p>&quot;I can make one, but I'll need something for my trouble. Also, a drop of blood from each of you.&quot;</p>
+<p>&quot;Your name in my Book of Shadows, if you die, I'll bring you back to life.&quot; says <em>Wulrif</em>.</p>
+<p>&quot;I'd like to see this book.&quot; says the Beholder.</p>
+</blockquote>
+<p><em>Wulrif</em> feels there is an extra attachment to his book. We take a short rest while the small Clockworks come by to take a drop of our blood. The Beholder busies itself in its corner, Telekinetically manipulating a cauldron and various ingredients.</p>
+<p>A little while later ...</p>
+<blockquote>
+<p>&quot;Your potions are ready. Don't get them mixed up, they are not labeled,&quot; giggles the Beholder.</p>
+<p>&quot;What happens if we get them mixed up?&quot; asks <em>CoralKing</em>.</p>
+<p>&quot;Well, they're tailored to your genetics, so it might be a big problem. Or it might not be a problem. I don't know, I'm not a geneticist.&quot;</p>
+<p>We carefully take our own potions to quaff.</p>
+<p>&quot;One last thing, you'll need a dimensional pocket to put your extra mass in. I don't know if you have one, but you'll need one. Otherwise, you may not like what happens when you revert to your normal size.&quot;</p>
+<p>A horrible chuckle.</p>
+</blockquote>
+<p><em>Calmul</em> eventually realizes that he has the ability to build one! He nearly disappears into a fog of animated tools and constructs, and we can see him grasping nearby objects as the object manifests. The finished product is a metal, folding contraption thing that expands and contracts in strange directions and has lots of gears on it.</p>
+<p>We drink our potions and shrink, watching puddles of reddish-pinkish-brown slime drain away into <em>Calmul's</em> metal box. We are now 6&quot; high, and the air is strangely thick. <em>Benjamin</em> and <em>Wulrif</em> work together to track <em>Droki</em>, but the tunnels are long and confusing. After 8 hours of progress, <em>Benjamin</em> loses the trail and takes a guess as to which way we should travel. <em>Geral</em> gives <em>Benjamin</em> some Inspiration and he eventually recovers the track. We start to feel tingly after a long time of traveling. Then, we find ourselves in a larger area and start to see rocks orbit us. We realize that we are growing in size, and quickly get <em>Calmul</em> to open the Box of Holding so we can gain our original forms with our original mass.</p>
+<p>We feel a bit out of sorts, funny tastes and twinges throughout our bodies. We are in a large cavern with a series of stepped pyramids, the Monolith on the central, highest mound. We see a bunch of Drow and Driders and, looking expectantly at us, <em>Mistress Ilvarra</em>.</p>
+<blockquote>
+<p>“See M’lady, here they are.” says <em>Droki</em>.</p>
+</blockquote>
+<p><img src="images/Ilvarra.png" alt="Ilvarra" /></p>
+<p>We are immediately faced with the blaring noise of a Shrieker, alerting every creature in this cavern of our presence.</p>
+<p>Round 1</p>
+<ol>
+<li><em>Benjamin</em> casts a spell to damage 4 Drow by 1 HP and the Shrieker, killing it. The shrieks thankfully fade.</li>
+<li><em>CoralKing</em> Teleports to the top of the highest mound and swings at the nearest Drow with his staff, doing 27 HP damage.</li>
+<li><em>Tasbros</em> casts a Fireball but gets Counterspelled.</li>
+<li><em>Tysnera</em> casts Fireball at 5th level and lands 42 HP damage to the Drow, staggering them. Many are wearing burning cloaks.</li>
+<li><em>Viker</em> casts Firewall and does 18 HP damage on 5 Drow Elite Warriors.</li>
+<li><em>Wulrif</em> uses 2 Sorcery points and Quickens Sickening Radiance on the Drow, followed by Eldritch Blast on <em>Mistress Ilvarra</em>, which pushes her backwards 10 feet.</li>
+<li><em>Calmul</em> shoots a Drider with his musket, because he doesn't like giant Spider-things.</li>
+<li>I move forward 20 feet, cast Searing Smite, and ready my action. If I am attacked within 5 feet, I will counterattack twice with my Great Sword. A Drow Elite Warrior obliges me and I slip his strikes, countering for 31 HP damage.</li>
+<li><em>Droki</em> sneaks up behind <em>Wulrif</em> and backstabs him for 57 HP damage! <em>Droki</em> then disappears in a globe of Darkness. The enemies move in to surround me and <em>Benjamin</em>. They do 38 HP damage to me and a significant amount to <em>Benjamin</em>. They attack <em>Viker</em> for 20 HP damage. <em>Geral</em> is attacked and so is <em>CoralKing</em>, who gets hit for 22 HP damage.</li>
+<li><em>Avren</em> casts Dispel Magic and the Darkness goes away!</li>
+<li>A Priestess casts Mass Cure Wounds on their forces. <em>Mistress Ilvarra</em> Dispels <em>Viker</em>’s Wall of Fire, which is burning up her warriors. I get 26 HP damage and so does <em>Tysnera</em>. Simultaneously, tentacles and noxious green fumes erupt around us, holding us in place and choking us for a ton of damage.</li>
+<li><em>Steve</em> nimbly skips out of the way of the Black Tentacles and Cloudkill and backstabs <em>Droki</em>, avenging <em>Wulrif</em> and doing significant damage.</li>
+<li><em>Geral's</em> Shield of Alertness warded him from the spells, so he charges and provokes 3 attacks of opportunity while moving to attack <em>Droki</em> 3 times. He uses Action Surge to hit him again, doing 30 HP damage.</li>
+</ol>
+<p>Round 2</p>
+<ol>
+<li><em>Benjamin</em> shoots the Drider <em>Calmul</em> shot, because he also doesn't like giant Spider-things.</li>
+<li><em>CoralKing</em> Shadow Steps onto the opposite side of the Monolith and attacks one of the Drow Mages, killing him and incidentally dispelling the Cloudkill, because you can't hold a Concentration Spell when you're dead.</li>
+<li><em>Wulrif</em> tries his best, but fails to hit <em>Droki</em> back with <em>Eldritch Blast</em>.</li>
+<li><em>Tasbros</em> struggles in the Black Tentacles and casts Sunbeam using his Metamagic, damaging a line of Drow as far as the Priestesses for 32 HP damage each.</li>
+<li>I turn around, declare a Vow of Enmity on the Drow Elite Warrior attacking me, and swing at him. I do 31 HP and he dies. I quickly move and attack another Drow at the edge of the tentacles, doing 19 HP damage.</li>
+<li><em>Tysnera</em> casts Fireball, doing 28 HP damage to a bunch of Drow. They're definitely all burning now.</li>
+<li>A Drow Elite Warrior attacks <em>CoralKing</em>, doing 31 HP damage. Some Drow Crossbowmen attack <em>CoralKing</em> and miss, but hit <em>Geral</em> for 5 HP. <em>Geral</em> Saves against the poison.</li>
+<li><em>Avren</em> moves out of the Black Tentacles and casts Dispel Magic again, getting rid of them!</li>
+<li><em>Mistress Ilvarra</em> casts something extremely nasty at <em>Tasbros</em>, who successfully Counterspells it!</li>
+<li><em>Steve</em> attacks <em>Droki</em> and misses.</li>
+<li><em>Viker</em> casts Daylight, covering the entire battlefield. All the Drow and Driders immediately flinch and are Disadvantaged! She also attacks a Drider and does 9 HP damage.</li>
+<li>The surviving Drow Mage casts Lightning Bolt and hits <em>Benjamin</em>, <em>Tasbros</em>, and me.</li>
+<li>The Driders attack <em>Viker</em> and do serious damage.</li>
+<li><em>Geral</em> kills one of <em>Viker</em>'s attackers.</li>
+</ol>
+<p>Round 3</p>
+<ol>
+<li><em>Benjamin</em> shoots <em>Droki</em> with his bow and does 14 HP damage.</li>
+<li><em>CoralKing</em> strikes <em>Droki</em> with his staff and does 46 HP damage.</li>
+<li><em>Tysnera</em> casts Fireball on <em>Droki</em> and <em>Mistress Ilvarra</em>, doing 35 HP damage. That takes <em>Droki</em> out.</li>
+<li><em>Calmul</em> shoots a Drider for 7 HP.</li>
+<li><em>Tasbros</em> summons a Draconic Spirit which attacks <em>Mistress Ilvarra</em>, taking her out.</li>
+<li><em>Wulrif</em> casts a Quickened Witch Bolt on the remaining Priestess, killing her. He casts Eldritch Blast on the remaining Mage, hitting him 3 times for 40 HP. He completely flies off the mound and dies a horrific death.</li>
+<li><em>Viker</em> heals <em>Wulrif</em> for 70 HP, reviving him from the brink of death!</li>
+<li>The 2 remaining Drow Elite Warriors touch the Monolith and disappear.</li>
+<li><em>Avren</em> casts Mass Cure Wounds on us for 20 HP each.</li>
+<li>I barely avoid getting hit by the Driders. <em>Tasbros</em> Dragon Spirit interposes and takes 19 HP from a Drider. I do 40 damage on a Drider.</li>
+<li><em>Geral</em> directs a Commander's Strike on me to hit the Drider and we kill one.</li>
+<li>I finally do significant damage on another Drider.</li>
+</ol>
+<p>Round 4</p>
+<ol>
+<li><em>Benjamin</em> sprints up to where <em>Droki</em> is before a Drider can drag him away.</li>
+<li><em>Wulrif</em> Eldritch Blasts the Drider near Benjamin, knocking it back.</li>
+<li><em>Tasbros</em> uses his Dragon Spirit to attack the Drider attacking him and misses. He then uses Chromatic Orb on it, doing 15 HP damage and setting it on fire.</li>
+<li><em>Steve</em> uses a Sneak Attack with his crossbow for big damage on <em>Tasbros</em> Drider.</li>
+<li>I move up to <em>Droki</em>, throw my manacles to <em>CoralKing</em> and direct him to cuff our prisoner. He does so.</li>
+<li><em>Tysnera</em> Magic Missiles a Drider for guaranteed damage.</li>
+<li><em>Avren</em> shoots a Drider 9 HP damage.</li>
+<li><em>Geral</em> does Commander's Strike on <em>Wulrif</em> to Eldritch Blast a Drider. He and <em>Geral</em> do 28 HP.</li>
+</ol>
+<p>Round 5</p>
+<ol>
+<li><em>Wulrif</em> does 22 HP damage to a Drider.</li>
+<li><em>Viker</em> uses Ice Knife and freezes a Drider in place.</li>
+<li><em>Geral</em> runs down to the Drider and does 11 HP damage.</li>
+<li><em>Tasbros</em> uses Ray of Frost on another Drider.</li>
+<li><em>Viker</em> does 28 HP damage on the same Drider, killing it.</li>
+<li><em>CoralKing</em> turns and throws a dart at the remaining Drider for 12 HP damage.</li>
+<li><em>Benjamin</em> shoot the Drider and kills it!</li>
+</ol>
+<p>I pull out my dark religious symbol gifted to me from the Dragon. It is strongly drawn to the Monolith, leaping out of my hand and merging with it. The Monolith heals a crack, there's a flash, and we find ourselves in a maze. A confusing blur, twisting in unknown directions, and then ...</p>
+<p><img src="images/death-knight.png" alt="Death Knight" /></p>
+<blockquote>
+<p>We're in a giant shuddering space, filled with clanking and the smell of machinery. We see enormous industrial Smelters, and a huge armored form standing amidst a circle of a dozen slain <strong>Templar</strong>. Lines drawn in blood and ash form a summoning circle
+which has a glowing black rift that <em>something</em> is coming through. The figure turns to us.</p>
+<p>He's clad in blackened, tarnished Adamantium Plate draped with the smoking remnants of a <strong>Templar's</strong> White and Red tabard. Glowing red orbs contemplate us from the eye slits of his helmet. He's holding a huge sword which reeks with the stench of death.</p>
+<p>&quot;<strong>I SACRIFICED MY FRIENDS TO SUMMON YOU!!!</strong>&quot; screams the armored form.</p>
+<p>&quot;<strong>I AM <em>BAPHOMET</em>, LORD OF MAZES, AND YOU WILL ALL DIE!</strong>&quot;</p>
+</blockquote>
+<p><img src="images/baphomet.png" alt="Baphomet" /></p>
+<p><em>Wulrif</em> attempts Telekinesis to lift up the screaming guy, but fails. I recognize him as a Death Knight, a fallen Paladin, doomed to state the act that turned him. A terrifying 20 foot tall Fiend steps through the portal. We realize that we are somehow in <strong><a href="../background/neverwinter.html">Neverwinter</a></strong>.</p>
+<p>Round 1</p>
+<ol>
+<li><em>Steve</em> sneaks away and Hides from the big scary things.</li>
+<li><em>Wulrif</em> uses Eldritch Blast on the Death Knight.</li>
+<li><em>Avren</em> does 17 HP damage to <em>Baphomet</em>. She uses her Bardic Inspiration on <em>CoralKing</em>.</li>
+<li><em>CoralKing</em> Shadow Steps to the Death Knight and uses 2 staff strikes, doing 23 HP damage. He tries a Stunning Strike, but it fails.</li>
+<li><em>Benjamin</em> uses his Hunter’s Sense on <em>Baphomet</em>. He is resistant to lightning, cold, and fire.</li>
+<li>The Death Knight continues to scream his sins and attempts to attack <em>CoralKing</em>.</li>
+<li><em>Tysnera</em> attempts to Banish <em>Baphomet</em> and the Death Knight, but fails.</li>
+<li><em>Tasbros</em> uses Level 4 Confusion on the Death Knight and succeeds! His Draconic Spirit attacks <em>Baphomet</em>.</li>
+<li><em>Geral</em> attacks <em>Baphomet</em>.</li>
+<li>I cast Blinding Smite and attack <em>Baphomet</em> twice, doing 47 HP damage.</li>
+<li><em>Viker</em> hits <em>Baphomet</em> for 13 HP damage.</li>
+<li><em>Calmul</em> moves away and shoots <em>Baphomet</em>.</li>
+</ol>
+<p>Round 2</p>
+<ol>
+<li><em>Steve</em> hits <em>Baphomet</em> once from behind for 20 HP.</li>
+<li><em>Wulrif</em> casts Witch Bolt for 12 HP damage on <em>Baphomet</em>.</li>
+<li><em>Avren</em> strikes <em>Baphomet</em> with her rapier again, doing 13 HP damage.</li>
+<li><em>CoralKing</em> hits the Death Knight with his staff and a Flurry of Blows, for 25 HP damage.</li>
+<li><em>Benjamin</em> hits <em>Baphomet</em> for 11 HP damage.</li>
+<li>The Death Knight moves toward us and casts Destructive Wave, but is Counterspelled by <em>Tasbros</em>.</li>
+<li><em>Tysnera</em> Counterspells a Maze directed at me by <em>Baphomet</em>.</li>
+<li><em>Tysnera</em> casts Evard’s Black Tentacles on the Death Knight, doing 10 HP damage.</li>
+<li><em>Tasbros</em> burns through <em>Baphomet</em>'s Fire Resistance with Fire Bolt.</li>
+<li><em>Geral</em> hits <em>Baphomet</em> for 25 HP damage.</li>
+<li>I cast Blinding Smite again and deal 54 HP damage to <em>Baphomet</em>.</li>
+</ol>
+<p>Round 3</p>
+<ol>
+<li><em>Wulrif</em> Quickens Eldritch Blast and then casts another Eldritch Blast, for 36 HP damage each, sending <em>Baphomet</em> back to where he came from!</li>
+<li><em>Avren</em> shoots the Death Knight for 30 HP. Nice shot!</li>
+<li><em>CoralKing</em> uses Flurry of Blows for 8 HP damage.</li>
+<li><em>Benjamin</em> does 24 HP damage.</li>
+<li>The Death Knight is still confused, luckily!</li>
+<li><em>Tysnera</em> blasts it with Magic Missile, and the armor falls to the ground!</li>
+</ol>
+<p>We search the remnants and take the sword, an Unholy Avenger. A platoon of Crusaders come running swords drawn, see the mess, and do magical forensics of our battle.
+They bring us, under polite guard, upstairs to the <strong>Armory</strong> of <strong><a href="../background/neverwinter.html">Neverwinter</a></strong> directly to their <em>Commandant</em>.</p>
+<p><img src="images/the-armory.png" alt="The Armory" /></p>
+<blockquote>
+<p>&quot;How did you come to be in my city?&quot; asks the <em>Commandant of the Crusaders</em>. A bluff, grizzled Human with a trace of grey hair in a buzz cut, wearing a full suit of well-cared for Plate. He somehow manages to sit behind a large desk with a
+a large sword strapped to his back.</p>
+<p>&quot;We don't rightly know, we were in a maze and then we were here.&quot; replies <em>Geral</em>.</p>
+<p>&quot;And then we fought the <em>Lord of Mazes</em> and sent him back to the Abyss.&quot; says <em>Wulrif</em>, helpfully.</p>
+<p>The <em>Commandant</em> eyes <em>Wulrif</em>.</p>
+<p>&quot;You seem to have a fallen <strong><a href="../game/apostolic-see.html#templar">Templar</a></strong>,&quot; I add.</p>
+<p>&quot;Yes, that's a matter for the ... other ... Paladins to decide. By the way, where is his sword?&quot;</p>
+<p>&quot;We have it,&quot; I reply.</p>
+<p>&quot;You're going to want to take that to the <strong><a href="../game/magisterium.html">Magisterium</a></strong>, and soon. I understand that Death Knights can be ... persistent.&quot;</p>
+<p>&quot;M'lord?,&quot; asks <em>Geral</em>. &quot;You have some prior knowledge?&quot;</p>
+<p>&quot;I'm no lord,&quot; replies the <em>Commandant</em>. &quot;Rising through the ranks of the <a href="../background/neverwinter.html#military">Crusaders</a> is based on merit, not birth. And you seem familiar to me.&quot;</p>
+<p>&quot;<em>Major Geral Bryn</em>, retired, at your service, sir.&quot;</p>
+<p>&quot;Ah, yes, I remember you now. You were the one involved in that incident with the Aboleths. I'm glad to see you're still alive.&quot;</p>
+<p>&quot;Sir.&quot;</p>
+<p>&quot;And I see your Armorer is still with you. I'm glad you're alive too, <em>Sergeant Calmul</em>.&quot;</p>
+<p>&quot;Burn it with fire,&quot; replies <em>Calmul</em>.</p>
+<p>&quot;Indeed,&quot; muses the <em>Commandant</em>, speculatively. &quot;I'm sure the <strong><a href="../game/magisterium.html">Magisterium</a></strong> will be interested in your story. I'll have a squad escort you there to deal with your ... prisoner.&quot;</p>
+<p>&quot;Prisoner?&quot; asks <em>Geral</em>.</p>
+<p>&quot;Yes,&quot; chuckles the <em>Commandant</em>. &quot;<em>Lord Varkosian</em> will certainly come out of that sword for Round Two, in about twenty hours, if I'm not mistaken.&quot;</p>
+<p>&quot;Then we'd better hurry,&quot; says <em>Geral</em>.</p>
+<p>&quot;Dismissed,&quot; says the <em>Commandant</em>, with a twinkle in his eye.</p>
+<p>&quot;With all due respect, sir, we're not in service anymore.&quot; says <em>Geral</em>.</p>
+<p>&quot;Oh, the forms will be ready for your Recommissioning at your Investiture, I imagine.&quot; The Commandant stands and smiles, then executes a textbook salute. &quot;I won't hold your noble rank against you.&quot;</p>
+</blockquote>
+<p>Our escorts snap to attention when we leave the <em>Commandant's</em> office. We wind our way out of the hulking <strong>Armory</strong>, <em>Calmul</em> in some sort of reverie, analyzing the guns and machinery defending the fortress. We are escorted to an
+express elevator Topside, opening into the famous <strong><a href="../background/neverwinter.html#level-7">Hanging Gardens</a></strong>. <em>Benjamin</em> and <em>Viker</em> look around in delight as we come to the shining crystal towers of the <strong><a href="../game/magisterium.html">Magisterium</a></strong>.</p>
+<p><img src="images/magisterium.png" alt="The Magisterium" /></p>
+<p>The Initiates politely but firmly ask that we remain in the lobby, filled with moving paintings of donors and long-dead Chancellors. <em>Tasbros</em> and <em>Tysnera</em> are escorted into the inner sanctum, the Unholy Avenger in <em>Tysnera's</em> Bag of Holding.</p>
+<blockquote>
+<p>&quot;Enter,&quot; intones a voice formally, the room dark except for the Examiner's table and glowing crystal orb. Seven robed figures sit in a semicircle around the table, their faces hidden in shadow.</p>
+<p>&quot;What are we doing here?&quot; asks <em>Tasbros</em>.</p>
+<p>&quot;We have brought the Unholy Avenger,&quot; says <em>Tysnera</em>.</p>
+<p>&quot;How shall we deal with this artifact?&quot; asks the voice.</p>
+<p>&quot;We should destroy it,&quot; says <em>Tysnera</em>.</p>
+<p>&quot;Destruction of an artifact is a serious matter,&quot; says the voice. &quot;What is your reasoning?&quot;</p>
+<p>&quot;It is a weapon of evil, and it is cursed,&quot; says <em>Tysnera</em>.</p>
+<p>&quot;Destruction would require the fires of an Ancient Red Dragon, or access to the Deep Underdark. Do you have such access?&quot;</p>
+<p>&quot;We should cleanse it,&quot; says <em>Tasbros</em>.</p>
+<p>&quot;How would you cleanse it?&quot; asks the voice.</p>
+<p>&quot;We would need to find a way to release the soul of <em>Lord Varkosian</em> from the sword,&quot; says <em>Tasbros</em>.</p>
+<p>&quot;That would be a matter for the <strong><a href="../game/apostolic-see.html#templar">Templar</a></strong>,&quot; says the voice. &quot;Do you have any other suggestions?&quot;</p>
+<p>&quot;We could suppress the magic of the sword,&quot; says <em>Tysnera</em>. &quot;You have an Anti-Magic Field, don't you?&quot;</p>
+<p>&quot;We do,&quot; says the voice. &quot;But that would not be a permanent solution.&quot;</p>
+<p>&quot;We will consult with our friends,&quot; says <em>Tysnera</em>.</p>
+<p>&quot;Very well,&quot; says the voice. &quot;We will keep the sword suppressed until you return.&quot;</p>
+<p>&quot;Thank you,&quot; says <em>Tysnera</em>. They turn to go.</p>
+<p>&quot;Wait,&quot; says the voice. &quot;We have a question for you.&quot;</p>
+<p>&quot;Yes?&quot; asks <em>Tysnera</em>.</p>
+<p>&quot;We have seen the traces of your battle with <em>Baphomet</em>. That was a skillful use of Mana.&quot;</p>
+<p>&quot;Thank you,&quot; says <em>Tasbros</em>.</p>
+<p>&quot;We would like to offer you the position of <em>Magister</em>. You would be required to teach others your techniques, of course. It comes with a stipend, and you would be granted access to the <strong>Library</strong>.&quot;</p>
+<p><em>Tasbros</em> and <em>Tysnera</em> look at each other.</p>
+<p>&quot;We will consider your offer,&quot; says <em>Tysnera</em>.</p>
+</blockquote>
+<p>Twenty-four hours later, we are in <strong>St. Paul's Cathedral</strong>, staring at the dizzying spiral that is the <strong><a href="../game/peerage.html">Ledger of the Peerage</a></strong>. <em>Geral</em> is resplendent in his new uniform, and <em>Calmul</em> is wearing a new suit of Crusader Armor. <em>Tasbros</em> and <em>Tysnera</em> are in the robes of the <strong><a href="../game/magisterium.html">Magisterium</a></strong>, <em>Wulrif</em> in a dark suit. <em>Avren</em> sparkles in a silken many-hued dress, humming and taking note of the spectacle for later recounting. My armor is buffed and polished.</p>
+<blockquote>
+<p>&quot;Where are <em>Benjamin</em> and <em>Viker</em>?&quot; asks <em>Geral</em>.</p>
+<p>&quot;Fussing over a Dragon's egg,&quot; I reply.</p>
+<p>&quot;CoralKing?&quot;</p>
+<p>&quot;Not his thing,&quot; I commiserate. &quot;He's off with <em>Steve</em>. They send their regards.&quot;</p>
+<p>&quot;Oh,&quot; says <em>Geral</em>.</p>
+<p>&quot;Game time,&quot; I say. &quot;You look great, by the way.&quot;</p>
+<p>He nods and smiles. &quot;You too.&quot;</p>
+<p>Squaring his shoulders, <em>Geral</em> and <em>Calmul</em> stride confidently to the base of the <strong><a href="../game/peerage.html">Ledger of the Peerage</a></strong>.</p>
+<p><em>Marchioness Lyanna Alagondar</em>, the ruling Temporal Lord of <strong><a href="../background/neverwinter.html">Neverwinter</a></strong>, is standing there, flanked by the <em>Commandant of the Crusaders</em> and the <em>Legate of the Apostolic See</em>.</p>
+<p>The <em>Marchioness</em> acknowledges their arrival, and a golden orb floats over to <em>Geral</em>, pulsing. He nods gravely. The orb touches his finger, turning red, then soars to the top of the <strong>Ledger</strong>, which pulses golden.</p>
+<p>&quot;<em>Major Geral Bryn</em>, retired, is now made <em>Baron of Cragmaw</em>,&quot; intones <em>Marchioness Alagondar</em>. &quot;All privileges and responsibilities are granted to him and his legal heirs.&quot;</p>
+<p>&quot;<em>Major Geral Bryn</em>, retired, I formally reactivate you to the rank of <em>Colonel of the Crusaders</em>,&quot; says the <em>Commandant</em>. &quot;You are to assume command of the 349th Guards Regiment and proceed forthwith to Cragmaw in performance of your duties.&quot;</p>
+<p><em>Geral</em> briskly salutes the <em>Commandant</em>.</p>
+<p>&quot;<em>Sergeant Calmul Rhoqiroth</em>, you are mustered to the 349th Guards Regiment with the rank of <em>Master Gunnery Sergeant of the Crusaders</em>. You are to assume responsibility for the armaments and defenses of <strong>Cragmaw Castle</strong> and environs.&quot;</p>
+<p><em>Calmul</em> swishes his tail and puffs his crest. The <em>Commandant</em> salutes him.</p>
+<p>&quot;<em>Lord Colonel Geral Bryn</em>, <em>Baron of Cragmaw</em>, I request and require your service to defend the peoples of the March,&quot; intones <em>Marchioness Alagondar</em>.</p>
+<p><em>Geral</em> kneels and swears his oath. The <em>Legate</em> taps him on each shoulder with the <strong>Holy Sceptre</strong>, and he rises.</p>
+<p>He turns and nods to us, smiling wistfully. Then he and <em>Calmul</em> march out of <strong>St. Paul's</strong>, flanked by the Honor Guard of the 349th.</p>
+</blockquote>
+<h4 id="30000-xp-each"><a class="header" href="#30000-xp-each">30,000 XP Each</a></h4>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../journals/twenty-fourth.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../journals/twenty-sixth.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../journals/twenty-fourth.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../journals/twenty-sixth.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

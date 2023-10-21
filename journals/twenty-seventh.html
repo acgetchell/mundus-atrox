@@ -1,0 +1,285 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Twenty-Seventh Session - The Mundus Atrox Campaign</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../index.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">Background</li><li class="chapter-item expanded "><a href="../background/seasons.html"><strong aria-hidden="true">1.</strong> Sky and Seasons</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/arch.html"><strong aria-hidden="true">1.1.</strong> The Arch</a></li></ol></li><li class="chapter-item expanded "><a href="../background/geography.html"><strong aria-hidden="true">2.</strong> Geography</a></li><li class="chapter-item expanded "><a href="../background/ocean.html"><strong aria-hidden="true">3.</strong> Oceanography</a></li><li class="chapter-item expanded "><a href="../background/climate.html"><strong aria-hidden="true">4.</strong> Climate</a></li><li class="chapter-item expanded "><a href="../background/flora-fauna.html"><strong aria-hidden="true">5.</strong> Flora and Fauna</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/dragons.html"><strong aria-hidden="true">5.1.</strong> Dragons</a></li><li class="chapter-item expanded "><a href="../background/fey.html"><strong aria-hidden="true">5.2.</strong> Fey</a></li><li class="chapter-item expanded "><a href="../background/giants.html"><strong aria-hidden="true">5.3.</strong> Giants</a></li><li class="chapter-item expanded "><a href="../background/old-ones.html"><strong aria-hidden="true">5.4.</strong> Old Ones</a></li></ol></li><li class="chapter-item expanded "><a href="../background/population.html"><strong aria-hidden="true">6.</strong> Population</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/barbaria.html"><strong aria-hidden="true">6.1.</strong> Barbaria</a></li><li class="chapter-item expanded "><a href="../background/populi.html"><strong aria-hidden="true">6.2.</strong> Populi</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/dragonborn.html"><strong aria-hidden="true">6.2.1.</strong> Dragonborn</a></li><li class="chapter-item expanded "><a href="../background/dwarves.html"><strong aria-hidden="true">6.2.2.</strong> Dwarves</a></li><li class="chapter-item expanded "><a href="../background/elves.html"><strong aria-hidden="true">6.2.3.</strong> Elves</a></li><li class="chapter-item expanded "><a href="../background/half-elves.html"><strong aria-hidden="true">6.2.4.</strong> Half-Elves</a></li><li class="chapter-item expanded "><a href="../background/half-orcs.html"><strong aria-hidden="true">6.2.5.</strong> Half-Orcs</a></li><li class="chapter-item expanded "><a href="../background/halflings.html"><strong aria-hidden="true">6.2.6.</strong> Halflings</a></li><li class="chapter-item expanded "><a href="../background/humans.html"><strong aria-hidden="true">6.2.7.</strong> Humans</a></li><li class="chapter-item expanded "><a href="../background/gnomes.html"><strong aria-hidden="true">6.2.8.</strong> Gnomes</a></li><li class="chapter-item expanded "><a href="../background/tiefling.html"><strong aria-hidden="true">6.2.9.</strong> Tiefling</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../background/civilization.html"><strong aria-hidden="true">7.</strong> Civilization</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/castelas.html"><strong aria-hidden="true">7.1.</strong> Castelas</a></li><li class="chapter-item expanded "><a href="../background/mines.html"><strong aria-hidden="true">7.2.</strong> Mines</a></li><li class="chapter-item expanded "><a href="../background/urbs.html"><strong aria-hidden="true">7.3.</strong> Urbs</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/neverwinter.html"><strong aria-hidden="true">7.3.1.</strong> Neverwinter</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../background/artifacts.html"><strong aria-hidden="true">8.</strong> Artifacts</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/arclight.html"><strong aria-hidden="true">8.1.</strong> The Arclight</a></li><li class="chapter-item expanded "><a href="../background/stonehenge.html"><strong aria-hidden="true">8.2.</strong> Stonehenge</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Game Information</li><li class="chapter-item expanded "><a href="../game/starting.html"><strong aria-hidden="true">9.</strong> Starting</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/races.html"><strong aria-hidden="true">9.1.</strong> Races</a></li><li class="chapter-item expanded "><a href="../game/classes.html"><strong aria-hidden="true">9.2.</strong> Classes</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/artificer.html"><strong aria-hidden="true">9.2.1.</strong> Artificer</a></li><li class="chapter-item expanded "><a href="../game/playtest.html"><strong aria-hidden="true">9.2.2.</strong> Playtest Materials</a></li></ol></li><li class="chapter-item expanded "><a href="../game/factions.html"><strong aria-hidden="true">9.3.</strong> Factions</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/apostolic-see.html"><strong aria-hidden="true">9.3.1.</strong> Apostolic See</a></li><li class="chapter-item expanded "><a href="../game/magisterium.html"><strong aria-hidden="true">9.3.2.</strong> Magisterium</a></li><li class="chapter-item expanded "><a href="../game/peerage.html"><strong aria-hidden="true">9.3.3.</strong> Peerage</a></li></ol></li><li class="chapter-item expanded "><a href="../game/equipment.html"><strong aria-hidden="true">9.4.</strong> Equipment</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/conveyances.html"><strong aria-hidden="true">9.4.1.</strong> Conveyances</a></li><li class="chapter-item expanded "><a href="../game/firearms.html"><strong aria-hidden="true">9.4.2.</strong> Firearms</a></li></ol></li><li class="chapter-item expanded "><a href="../game/magic-items.html"><strong aria-hidden="true">9.5.</strong> Magic Items</a></li><li class="chapter-item expanded "><a href="../game/spellcasting.html"><strong aria-hidden="true">9.6.</strong> Spellcasting</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/mana.html"><strong aria-hidden="true">9.6.1.</strong> Mana</a></li></ol></li></ol></li><li class="chapter-item expanded "><li class="part-title">Journals</li><li class="chapter-item expanded "><a href="../journals/overview.html"><strong aria-hidden="true">10.</strong> Overview</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../journals/first.html"><strong aria-hidden="true">10.1.</strong> First Session</a></li><li class="chapter-item expanded "><a href="../journals/second.html"><strong aria-hidden="true">10.2.</strong> Second Session</a></li><li class="chapter-item expanded "><a href="../journals/third.html"><strong aria-hidden="true">10.3.</strong> Third Session</a></li><li class="chapter-item expanded "><a href="../journals/fourth.html"><strong aria-hidden="true">10.4.</strong> Fourth Session</a></li><li class="chapter-item expanded "><a href="../journals/fifth.html"><strong aria-hidden="true">10.5.</strong> Fifth Session</a></li><li class="chapter-item expanded "><a href="../journals/sixth.html"><strong aria-hidden="true">10.6.</strong> Sixth Session</a></li><li class="chapter-item expanded "><a href="../journals/seventh.html"><strong aria-hidden="true">10.7.</strong> Seventh Session</a></li><li class="chapter-item expanded "><a href="../journals/eighth.html"><strong aria-hidden="true">10.8.</strong> Eighth Session</a></li><li class="chapter-item expanded "><a href="../journals/ninth.html"><strong aria-hidden="true">10.9.</strong> Ninth Session</a></li><li class="chapter-item expanded "><a href="../journals/tenth.html"><strong aria-hidden="true">10.10.</strong> Tenth Session</a></li><li class="chapter-item expanded "><a href="../journals/eleventh.html"><strong aria-hidden="true">10.11.</strong> Eleventh Session</a></li><li class="chapter-item expanded "><a href="../journals/twelfth.html"><strong aria-hidden="true">10.12.</strong> Twelfth Session</a></li><li class="chapter-item expanded "><a href="../journals/thirteenth.html"><strong aria-hidden="true">10.13.</strong> Thirteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/fourteenth.html"><strong aria-hidden="true">10.14.</strong> Fourteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/fifteenth.html"><strong aria-hidden="true">10.15.</strong> Fifteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/sixteenth.html"><strong aria-hidden="true">10.16.</strong> Sixteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/seventeenth.html"><strong aria-hidden="true">10.17.</strong> Seventeenth Session</a></li><li class="chapter-item expanded "><a href="../journals/eighteenth.html"><strong aria-hidden="true">10.18.</strong> Eighteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/nineteenth.html"><strong aria-hidden="true">10.19.</strong> Nineteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/twentieth.html"><strong aria-hidden="true">10.20.</strong> Twentieth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-first.html"><strong aria-hidden="true">10.21.</strong> Twenty-First Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-second.html"><strong aria-hidden="true">10.22.</strong> Twenty-Second Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-third.html"><strong aria-hidden="true">10.23.</strong> Twenty-Third Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-fourth.html"><strong aria-hidden="true">10.24.</strong> Twenty-Fourth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-fifth.html"><strong aria-hidden="true">10.25.</strong> Twenty-Fifth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-sixth.html"><strong aria-hidden="true">10.26.</strong> Twenty-Sixth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-seventh.html" class="active"><strong aria-hidden="true">10.27.</strong> Twenty-Seventh Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-eighth.html"><strong aria-hidden="true">10.28.</strong> Twenty-Eighth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-ninth.html"><strong aria-hidden="true">10.29.</strong> Twenty-Ninth Session</a></li><li class="chapter-item expanded "><a href="../journals/thirtieth.html"><strong aria-hidden="true">10.30.</strong> Thirtieth Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-first.html"><strong aria-hidden="true">10.31.</strong> Thirty-First Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-second.html"><strong aria-hidden="true">10.32.</strong> Thirty-Second Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-third.html"><strong aria-hidden="true">10.33.</strong> Thirty-Third Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-fourth.html"><strong aria-hidden="true">10.34.</strong> Thirty-Fourth Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-fifth.html"><strong aria-hidden="true">10.35.</strong> Thirty-Fifth Session</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">The Mundus Atrox Campaign</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="twenty-seventh-session"><a class="header" href="#twenty-seventh-session">Twenty-Seventh Session</a></h1>
+<h2 id="family-affairs"><a class="header" href="#family-affairs">Family Affairs</a></h2>
+<h3 id="dramatis-personae"><a class="header" href="#dramatis-personae">Dramatis Personae</a></h3>
+<ul>
+<li><em>CoralKing</em>, a 13th-level Gnome Monk</li>
+<li><em>Orky</em>, a 13th-level Half-Elf Paladin</li>
+<li><em>Viker</em>, an 13th-level Eladrin Druid</li>
+</ul>
+<h3 id="summerday-1196-hours"><a class="header" href="#summerday-1196-hours">Summerday +1196 hours</a></h3>
+<h4 id="from-the-journal-of-dame-orky"><a class="header" href="#from-the-journal-of-dame-orky">From the journal of Dame Orky</a></h4>
+<p><em>CoralKing</em> decides he wants to go on his journey to <strong>Phandalin</strong> and talk to <em>Chiyo</em> about his BLOOD FURY tattoo. <em>Viker</em> transforms into a horse to carry <em>CoralKing</em> and I summon a steed so we get there faster. We ride by a herd of elephants and wave to them. They wave their trunks back at us.</p>
+<p>We arrive in <strong>Phandalin</strong> and head to Tresendar Manor, where the Orcs are. They recognize us and <em>Viker</em> says “boo.” <em>CoralKing</em> said “greetings best friends.” They respond to “oh, the Gnome talks. What can we do for you lady Orky?” <em>CoralKing</em> said we are looking for “<em>Chiyo</em>” and they barely subside their fury. They said she is busy, but they would let her know we are looking for her. I tell them it’s a matter of great importance and smile. They cheerfully agree, ask us to wait in their foyer, and hastily run off. <em>Chiyo</em> appears and asks what we need. I explain that <em>CoralKing</em> is in need of a Blood Fury tattoo. She says “in need of?” and chuckles. I ask what we would need to fulfill that quest.</p>
+<p>She says we would need to find someone with the skill to hold that pattern. <em>CoralKing</em> asks who could? She responds that she could, but she needs some things. We need to slay Icewing, who was the Dragon who exiled the Orcs. We could slay a black Dragon in Dead Man’s Marsh instead. She needs white Dragon and black Dragon blood to make the ink. She said we need access to her workshop for the tattoo, so we need to deal with Icewing for access since it’s lair is in her workshop. She said the tattoo would take 7 cycles and it needs to be done on Autumnset, when the shadowfell is open, which is in 200 hours.</p>
+<p>We ask <em>Chiyo</em> how we can possibly beat these Dragons. She responds that her whole tribe couldn’t beat Icewing, so they don’t know. She cannot spare the troops and cannot recommend mercenaries. Benjamin tells us Icewing is slightly weaker than the black Dragon.</p>
+<p>We decide there’s no way to take down any of the Dragons and decide to try and follow <em>Viker</em>’s quest instead. So, we head to <strong>[Neverwinter]</strong> to get more information. I petition as a <strong>Templar</strong> to stand before the inquisition. They agree to hear me. They offer me condolences. I ask why and they told me my father died. I have 3 cycles to present myself to the <strong>Ledger</strong> in <strong>St. George’s Cathedral</strong> to undergo a genetic scan. Then, they will analyze that my genetic pattern matches his and I will inherit his lands and titles to me, since my half brothers’ fell as well. This is about a 4 hour ceremony. I find out my father fell in <strong>Icewind Dale</strong> in battle against Frost Giants.</p>
+<p>I present myself and meanwhile, <em>Viker</em> presents to the Inquisition. <em>Viker</em> notices the human woman is wearing a cloak covered in eyeballs. She tells her she has to root out some evil and prove herself to enter into the society. She asks how and the human tells her to find the <strong>Illuminati</strong> and the unguarded Teleportation Circles. <em>Viker</em> asks what they are like, she is told they are Shapeshifters by race. The human wants to know how they got here.</p>
+<p><em>CoralKing</em> figures out that magic items can be traced by their makers. <em>Viker</em> goes to the Cathedral with the **<strong>Templar</strong>. I join the group while <em>Viker</em> is trying to track down the <strong>Illuminati</strong>. I find <em>Harrod</em> and he congratulates me on my ascension with his condolences. I ask him if he knows of anything about the <strong>Illuminati</strong>. He tells me it has led some Templars astray and <em>CoralKing</em> can tell he is telling the truth. I ask if he will help us take down the <strong>Illuminati</strong> because I don’t have anyone else I can trust. He says <em>Lord Varkosian</em> had a lot of influence, but he trusts the head of our order. The head’s name is <em>Lord Sozenskaat</em>. I ask <em>Harrod</em> for an audience with the Lord. A cycle passes and we are ushered into his office. A light is in his room and it shines on the entire room. There are 2 suits of armor sitting nearby with slight clanking sounds and roaming muskets. I ask what he knows about the <strong>Illuminati</strong> and he tells me that he thinks they might be changelings, which are a constructed race with the innate ability to modify their bodies. Shapeshifters magic would be canceled by the Arclight. It’s not magic, but they were magically constructed to have that ability. He thinks changelings are doing this by taking 1 form and not changing that form while under the Arclight.</p>
+<p>Changelings are fey or infernal. <em>Lord Varkosian</em> has proved that changelings are somewhere in the city. They don’t have families, but are identical in a given group. We call them clones or clades. He thinks we have a clade of infernal changelings. He doesn’t know how they got here but this is the time that <strong>[Neverwinter]</strong> is stationary and they would have had to make it past the Crusaders. He knows of the unguarded Teleportation Circles and the unguarded gateway summoned by <em>Lord Varkosian</em>. I ask if we should go after the unguarded circles. The other approach would be finding pulses of demonic activity in areas where the Arclight doesn’t shine in the lower levels. In addition, barriers are present. <em>Lord Varkosian</em> would have had to take them down. So, maybe see how that happened. We can talk to the Artificers guild, many of these areas are guarded by the constructs, where no living things go. The Artificers create the constructs.</p>
+<p>I tell an Artificer that I am investigating weak spots in the defenses of <strong>[Neverwinter]</strong>. He seems flustered and speaks into a bunch of copper tubes. Then, suddenly a light appears in the distance. It becomes obvious I am supposed to follow it. We all follow and we see a military-themed office. We see a Gnome and he seems suspicious of <em>CoralKing</em>. I tell him that we have evidence of the defenses of <strong>[Neverwinter]</strong> being breached. He asks where we were when <em>Baphomet</em> was summoned. I can’t remember and neither can anyone else. He thinks it may have been an input grate with a filter, where they take things in from the outside. He asks if we were fighting on a conveyer belt and I say no. He said that narrows it down. I ask if he knows anywhere else to go or anyone else to talk to. He gives us 2 constructs to follow us. One moves very quickly and we follow it. <em>Viker</em> transforms into a horse fly and chases after it. She barely keeps up with it. We weave through the passageways and we are led to a conveyer belt with rocks and we see the Arclight reflected onto each belt. Except we see two light sources with a missing lenses. The constructs are confused. The conveyer belt that is unilluminated is bringing up debris, but we also notice something moving on it. We see 4 earth monsters and a coffin opening up with a blood-thirsty creature approaching. I know Vampires can’t go to any place that they are not invited, but they can enter locations where no one lives…</p>
+<p>Round 1</p>
+<ol>
+<li><em>CoralKing</em> hits one of the earth creatures for 26 HP damage.</li>
+<li><em>Viker</em> casts sunbeam on the 4 creatures and the Vampire. She does 21 HP damage on the earth monsters and 30 HP on the Vampire.</li>
+<li><em>CoralKing</em> is attacked twice, taking 71 HP damage. I get hit once for 34 HP.</li>
+<li>I move toward the first earth creature, cast blinding smite, and hit the creature twice with my great sword, doing 63 HP damage.</li>
+<li>The Vampire hits <em>Viker</em> for 21 HP damage.</li>
+</ol>
+<p>Round 2</p>
+<ol>
+<li><em>CoralKing</em> hits the same creature he hit and kills it. He hits the one next to him and does 20 HP damage.</li>
+<li><em>Viker</em> moves to redirect her sunbeam and hits 2 of the other earth creatures for 18 HP damage each and 29 HP damage to the Vampire. She also casts the bear spirit.</li>
+<li>The earth creatures hit <em>CoralKing</em> and do 33 HP damage.</li>
+<li>I Channel Divinity: Abjure Enemy and Vow of Enmity, which frightens the Vampire for 1 minute</li>
+</ol>
+<p>Round 3</p>
+<ol>
+<li><em>CoralKing</em> hits the earth creature with his Staff of Striking and does 7 HP damage.</li>
+<li><em>Viker</em> redirects her sunbeam to hit all 3 earth creatures and avoid doing damage to the Vampire while it’s frightened. She does 30 HP damage to each of them.</li>
+<li>I cast blinding smite and hit the closest earth creature twice, doing 50 HP damage.</li>
+</ol>
+<p>Round 4</p>
+<ol>
+<li><em>CoralKing</em> uses Shadow Step to get advantage on hitting an earth creature. He does 36 HP damage, killing it.</li>
+<li><em>Viker</em> does 28 HP damage on a creature, killing it.</li>
+<li>I hit the remaining creature and do 44 HP, killing it. All that remains is the Vampire.</li>
+</ol>
+<p>Round 5</p>
+<ol>
+<li><em>CoralKing</em> Shadow Steps behind the Vampire and hits it twice with his Staff of Striking for 39 HP damage. He is angry now and hisses at <em>CoralKing</em>.</li>
+<li><em>Viker</em> hits the Vampire for 30 HP damage.</li>
+<li>I miss both of my hits.</li>
+<li>The Vampire moves out of the sunlight and turns into mist. We can still see the mist.</li>
+</ol>
+<p>Round 6</p>
+<ol>
+<li><em>CoralKing</em> holds his action until the sunbeam comes back.</li>
+<li><em>Viker</em> does 58 HP damage, burning it completely.</li>
+</ol>
+<p>We turn around and see many more coffins begin to open.</p>
+<h4 id="18000-xp-each"><a class="header" href="#18000-xp-each">18,000 XP Each</a></h4>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../journals/twenty-sixth.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../journals/twenty-eighth.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../journals/twenty-sixth.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../journals/twenty-eighth.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

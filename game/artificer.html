@@ -1,0 +1,258 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Artificer - The Mundus Atrox Campaign</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../index.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">Background</li><li class="chapter-item expanded "><a href="../background/seasons.html"><strong aria-hidden="true">1.</strong> Sky and Seasons</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/arch.html"><strong aria-hidden="true">1.1.</strong> The Arch</a></li></ol></li><li class="chapter-item expanded "><a href="../background/geography.html"><strong aria-hidden="true">2.</strong> Geography</a></li><li class="chapter-item expanded "><a href="../background/ocean.html"><strong aria-hidden="true">3.</strong> Oceanography</a></li><li class="chapter-item expanded "><a href="../background/climate.html"><strong aria-hidden="true">4.</strong> Climate</a></li><li class="chapter-item expanded "><a href="../background/flora-fauna.html"><strong aria-hidden="true">5.</strong> Flora and Fauna</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/dragons.html"><strong aria-hidden="true">5.1.</strong> Dragons</a></li><li class="chapter-item expanded "><a href="../background/fey.html"><strong aria-hidden="true">5.2.</strong> Fey</a></li><li class="chapter-item expanded "><a href="../background/giants.html"><strong aria-hidden="true">5.3.</strong> Giants</a></li><li class="chapter-item expanded "><a href="../background/old-ones.html"><strong aria-hidden="true">5.4.</strong> Old Ones</a></li></ol></li><li class="chapter-item expanded "><a href="../background/population.html"><strong aria-hidden="true">6.</strong> Population</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/barbaria.html"><strong aria-hidden="true">6.1.</strong> Barbaria</a></li><li class="chapter-item expanded "><a href="../background/populi.html"><strong aria-hidden="true">6.2.</strong> Populi</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/dragonborn.html"><strong aria-hidden="true">6.2.1.</strong> Dragonborn</a></li><li class="chapter-item expanded "><a href="../background/dwarves.html"><strong aria-hidden="true">6.2.2.</strong> Dwarves</a></li><li class="chapter-item expanded "><a href="../background/elves.html"><strong aria-hidden="true">6.2.3.</strong> Elves</a></li><li class="chapter-item expanded "><a href="../background/half-elves.html"><strong aria-hidden="true">6.2.4.</strong> Half-Elves</a></li><li class="chapter-item expanded "><a href="../background/half-orcs.html"><strong aria-hidden="true">6.2.5.</strong> Half-Orcs</a></li><li class="chapter-item expanded "><a href="../background/halflings.html"><strong aria-hidden="true">6.2.6.</strong> Halflings</a></li><li class="chapter-item expanded "><a href="../background/humans.html"><strong aria-hidden="true">6.2.7.</strong> Humans</a></li><li class="chapter-item expanded "><a href="../background/gnomes.html"><strong aria-hidden="true">6.2.8.</strong> Gnomes</a></li><li class="chapter-item expanded "><a href="../background/tiefling.html"><strong aria-hidden="true">6.2.9.</strong> Tiefling</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../background/civilization.html"><strong aria-hidden="true">7.</strong> Civilization</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/castelas.html"><strong aria-hidden="true">7.1.</strong> Castelas</a></li><li class="chapter-item expanded "><a href="../background/mines.html"><strong aria-hidden="true">7.2.</strong> Mines</a></li><li class="chapter-item expanded "><a href="../background/urbs.html"><strong aria-hidden="true">7.3.</strong> Urbs</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/neverwinter.html"><strong aria-hidden="true">7.3.1.</strong> Neverwinter</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../background/artifacts.html"><strong aria-hidden="true">8.</strong> Artifacts</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/arclight.html"><strong aria-hidden="true">8.1.</strong> The Arclight</a></li><li class="chapter-item expanded "><a href="../background/stonehenge.html"><strong aria-hidden="true">8.2.</strong> Stonehenge</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Game Information</li><li class="chapter-item expanded "><a href="../game/starting.html"><strong aria-hidden="true">9.</strong> Starting</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/races.html"><strong aria-hidden="true">9.1.</strong> Races</a></li><li class="chapter-item expanded "><a href="../game/classes.html"><strong aria-hidden="true">9.2.</strong> Classes</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/artificer.html" class="active"><strong aria-hidden="true">9.2.1.</strong> Artificer</a></li><li class="chapter-item expanded "><a href="../game/playtest.html"><strong aria-hidden="true">9.2.2.</strong> Playtest Materials</a></li></ol></li><li class="chapter-item expanded "><a href="../game/factions.html"><strong aria-hidden="true">9.3.</strong> Factions</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/apostolic-see.html"><strong aria-hidden="true">9.3.1.</strong> Apostolic See</a></li><li class="chapter-item expanded "><a href="../game/magisterium.html"><strong aria-hidden="true">9.3.2.</strong> Magisterium</a></li><li class="chapter-item expanded "><a href="../game/peerage.html"><strong aria-hidden="true">9.3.3.</strong> Peerage</a></li></ol></li><li class="chapter-item expanded "><a href="../game/equipment.html"><strong aria-hidden="true">9.4.</strong> Equipment</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/conveyances.html"><strong aria-hidden="true">9.4.1.</strong> Conveyances</a></li><li class="chapter-item expanded "><a href="../game/firearms.html"><strong aria-hidden="true">9.4.2.</strong> Firearms</a></li></ol></li><li class="chapter-item expanded "><a href="../game/magic-items.html"><strong aria-hidden="true">9.5.</strong> Magic Items</a></li><li class="chapter-item expanded "><a href="../game/spellcasting.html"><strong aria-hidden="true">9.6.</strong> Spellcasting</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/mana.html"><strong aria-hidden="true">9.6.1.</strong> Mana</a></li></ol></li></ol></li><li class="chapter-item expanded "><li class="part-title">Journals</li><li class="chapter-item expanded "><a href="../journals/overview.html"><strong aria-hidden="true">10.</strong> Overview</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../journals/first.html"><strong aria-hidden="true">10.1.</strong> First Session</a></li><li class="chapter-item expanded "><a href="../journals/second.html"><strong aria-hidden="true">10.2.</strong> Second Session</a></li><li class="chapter-item expanded "><a href="../journals/third.html"><strong aria-hidden="true">10.3.</strong> Third Session</a></li><li class="chapter-item expanded "><a href="../journals/fourth.html"><strong aria-hidden="true">10.4.</strong> Fourth Session</a></li><li class="chapter-item expanded "><a href="../journals/fifth.html"><strong aria-hidden="true">10.5.</strong> Fifth Session</a></li><li class="chapter-item expanded "><a href="../journals/sixth.html"><strong aria-hidden="true">10.6.</strong> Sixth Session</a></li><li class="chapter-item expanded "><a href="../journals/seventh.html"><strong aria-hidden="true">10.7.</strong> Seventh Session</a></li><li class="chapter-item expanded "><a href="../journals/eighth.html"><strong aria-hidden="true">10.8.</strong> Eighth Session</a></li><li class="chapter-item expanded "><a href="../journals/ninth.html"><strong aria-hidden="true">10.9.</strong> Ninth Session</a></li><li class="chapter-item expanded "><a href="../journals/tenth.html"><strong aria-hidden="true">10.10.</strong> Tenth Session</a></li><li class="chapter-item expanded "><a href="../journals/eleventh.html"><strong aria-hidden="true">10.11.</strong> Eleventh Session</a></li><li class="chapter-item expanded "><a href="../journals/twelfth.html"><strong aria-hidden="true">10.12.</strong> Twelfth Session</a></li><li class="chapter-item expanded "><a href="../journals/thirteenth.html"><strong aria-hidden="true">10.13.</strong> Thirteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/fourteenth.html"><strong aria-hidden="true">10.14.</strong> Fourteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/fifteenth.html"><strong aria-hidden="true">10.15.</strong> Fifteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/sixteenth.html"><strong aria-hidden="true">10.16.</strong> Sixteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/seventeenth.html"><strong aria-hidden="true">10.17.</strong> Seventeenth Session</a></li><li class="chapter-item expanded "><a href="../journals/eighteenth.html"><strong aria-hidden="true">10.18.</strong> Eighteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/nineteenth.html"><strong aria-hidden="true">10.19.</strong> Nineteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/twentieth.html"><strong aria-hidden="true">10.20.</strong> Twentieth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-first.html"><strong aria-hidden="true">10.21.</strong> Twenty-First Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-second.html"><strong aria-hidden="true">10.22.</strong> Twenty-Second Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-third.html"><strong aria-hidden="true">10.23.</strong> Twenty-Third Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-fourth.html"><strong aria-hidden="true">10.24.</strong> Twenty-Fourth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-fifth.html"><strong aria-hidden="true">10.25.</strong> Twenty-Fifth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-sixth.html"><strong aria-hidden="true">10.26.</strong> Twenty-Sixth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-seventh.html"><strong aria-hidden="true">10.27.</strong> Twenty-Seventh Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-eighth.html"><strong aria-hidden="true">10.28.</strong> Twenty-Eighth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-ninth.html"><strong aria-hidden="true">10.29.</strong> Twenty-Ninth Session</a></li><li class="chapter-item expanded "><a href="../journals/thirtieth.html"><strong aria-hidden="true">10.30.</strong> Thirtieth Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-first.html"><strong aria-hidden="true">10.31.</strong> Thirty-First Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-second.html"><strong aria-hidden="true">10.32.</strong> Thirty-Second Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-third.html"><strong aria-hidden="true">10.33.</strong> Thirty-Third Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-fourth.html"><strong aria-hidden="true">10.34.</strong> Thirty-Fourth Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-fifth.html"><strong aria-hidden="true">10.35.</strong> Thirty-Fifth Session</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">The Mundus Atrox Campaign</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="artificer"><a class="header" href="#artificer">Artificer</a></h1>
+<p><em>Artificers</em> are described in <a href="https://www.dndbeyond.com/sources/tcoe/artificer#Artificer">Tasha's Cauldron of Everything</a>.</p>
+<p>Most <em>Artificers</em> on <strong>Mundus</strong> belong to the <em>Artificers Guild</em>. Members of the <em>Artificers' Guild</em> speak to each other in a highly technical
+language that sounds like <em>Common</em> but is full of outlandish words with little meaning to outsiders. <em>Artificers' Guild</em> members can recognize
+each other via this <em>Artificers' Cant</em>.</p>
+<p>As <em>Artificers</em> are present in all centers of
+<a href="../background/civilization.html">Civilization</a>, they are highly valued and protected by the <em>Artificers' Guild</em> (as
+long as they are members of good standing). Naturally, the <em>Artificers' Guild</em> frowns upon non-Guild practicioners, but such folk are in demand
+and do quite well trading or living amongst the <a href="../background/barbaria.html">Barbaria</a>.</p>
+<h2 id="hit-points"><a class="header" href="#hit-points">Hit Points</a></h2>
+<p><em>Hit Dice</em>: 1d8 per Artificer level</p>
+<p><em>Hit Points at 1st Level</em>: 8 + Constitution modifier</p>
+<p><em>Hit Points at Higher Levels</em>: 1d8 (or 5) + Constitution modifier per level after 1st</p>
+<h2 id="proficiencies"><a class="header" href="#proficiencies">Proficiencies</a></h2>
+<p><em>Armor</em>: Light armor, medium armor, shields</p>
+<p><em>Weapons</em>: Simple weapons, <a href="firearms.html">Firearms</a></p>
+<p><em>Tools</em>: Thieves' Tools, Tinkers' Tools, one type of Artisans' Tools</p>
+<p><em>Saving Throws</em>: Intelligence, Constitution</p>
+<p><em>Skills</em>: Choose two from <em>Arcana</em>, <em>History</em>, <em>Investigation</em>, <em>Medicine</em>, <em>Nature</em>, <em>Perception</em>, <em>Sleight of Hand</em></p>
+<h2 id="spellcasting"><a class="header" href="#spellcasting">Spellcasting</a></h2>
+<p>Spells &quot;cast&quot; by an <em>Artificer</em> involve wonders and outlandish inventions, and either <em>Thieves' Tools</em> or <em>Artisans' Tools</em> are always
+required as a <em>Material</em> component to the spell. Once <a href="https://www.dndbeyond.com/sources/tcoe/artificer#InfuseItem">Infuse Item</a> is attained at 2nd level, any item bearing an <em>Infusion</em> may be used
+as a spellcasting focus.</p>
+<p>Intelligence is used as the <em>Artificers</em> spellcasting ability.</p>
+<h2 id="starting-equipment"><a class="header" href="#starting-equipment">Starting Equipment</a></h2>
+<ul>
+<li>Any 2 simple weapons</li>
+<li>1 <a href="firearms.html">Musket</a> or 2 <a href="firearms.html">Pistols</a> with 20 pieces of ammunition</li>
+<li><a href="https://www.dndbeyond.com/equipment/studded-leather">Studded Leather</a> armor or <a href="https://www.dndbeyond.com/equipment/scale-mail">Scale Mail</a></li>
+<li><a href="https://www.dndbeyond.com/equipment/tinkers-tools">Tinkers' Tools</a></li>
+<li><a href="https://www.dndbeyond.com/equipment/thieves-tools">Thieves' Tools</a></li>
+<li><a href="https://www.dndbeyond.com/equipment/dungeoneers-pack">Dungeoneers' Pack</a></li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../game/classes.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../game/playtest.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../game/classes.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../game/playtest.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

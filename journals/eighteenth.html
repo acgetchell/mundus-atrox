@@ -1,0 +1,334 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Eighteenth Session - The Mundus Atrox Campaign</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../index.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">Background</li><li class="chapter-item expanded "><a href="../background/seasons.html"><strong aria-hidden="true">1.</strong> Sky and Seasons</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/arch.html"><strong aria-hidden="true">1.1.</strong> The Arch</a></li></ol></li><li class="chapter-item expanded "><a href="../background/geography.html"><strong aria-hidden="true">2.</strong> Geography</a></li><li class="chapter-item expanded "><a href="../background/ocean.html"><strong aria-hidden="true">3.</strong> Oceanography</a></li><li class="chapter-item expanded "><a href="../background/climate.html"><strong aria-hidden="true">4.</strong> Climate</a></li><li class="chapter-item expanded "><a href="../background/flora-fauna.html"><strong aria-hidden="true">5.</strong> Flora and Fauna</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/dragons.html"><strong aria-hidden="true">5.1.</strong> Dragons</a></li><li class="chapter-item expanded "><a href="../background/fey.html"><strong aria-hidden="true">5.2.</strong> Fey</a></li><li class="chapter-item expanded "><a href="../background/giants.html"><strong aria-hidden="true">5.3.</strong> Giants</a></li><li class="chapter-item expanded "><a href="../background/old-ones.html"><strong aria-hidden="true">5.4.</strong> Old Ones</a></li></ol></li><li class="chapter-item expanded "><a href="../background/population.html"><strong aria-hidden="true">6.</strong> Population</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/barbaria.html"><strong aria-hidden="true">6.1.</strong> Barbaria</a></li><li class="chapter-item expanded "><a href="../background/populi.html"><strong aria-hidden="true">6.2.</strong> Populi</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/dragonborn.html"><strong aria-hidden="true">6.2.1.</strong> Dragonborn</a></li><li class="chapter-item expanded "><a href="../background/dwarves.html"><strong aria-hidden="true">6.2.2.</strong> Dwarves</a></li><li class="chapter-item expanded "><a href="../background/elves.html"><strong aria-hidden="true">6.2.3.</strong> Elves</a></li><li class="chapter-item expanded "><a href="../background/half-elves.html"><strong aria-hidden="true">6.2.4.</strong> Half-Elves</a></li><li class="chapter-item expanded "><a href="../background/half-orcs.html"><strong aria-hidden="true">6.2.5.</strong> Half-Orcs</a></li><li class="chapter-item expanded "><a href="../background/halflings.html"><strong aria-hidden="true">6.2.6.</strong> Halflings</a></li><li class="chapter-item expanded "><a href="../background/humans.html"><strong aria-hidden="true">6.2.7.</strong> Humans</a></li><li class="chapter-item expanded "><a href="../background/gnomes.html"><strong aria-hidden="true">6.2.8.</strong> Gnomes</a></li><li class="chapter-item expanded "><a href="../background/tiefling.html"><strong aria-hidden="true">6.2.9.</strong> Tiefling</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../background/civilization.html"><strong aria-hidden="true">7.</strong> Civilization</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/castelas.html"><strong aria-hidden="true">7.1.</strong> Castelas</a></li><li class="chapter-item expanded "><a href="../background/mines.html"><strong aria-hidden="true">7.2.</strong> Mines</a></li><li class="chapter-item expanded "><a href="../background/urbs.html"><strong aria-hidden="true">7.3.</strong> Urbs</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/neverwinter.html"><strong aria-hidden="true">7.3.1.</strong> Neverwinter</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../background/artifacts.html"><strong aria-hidden="true">8.</strong> Artifacts</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/arclight.html"><strong aria-hidden="true">8.1.</strong> The Arclight</a></li><li class="chapter-item expanded "><a href="../background/stonehenge.html"><strong aria-hidden="true">8.2.</strong> Stonehenge</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Game Information</li><li class="chapter-item expanded "><a href="../game/starting.html"><strong aria-hidden="true">9.</strong> Starting</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/races.html"><strong aria-hidden="true">9.1.</strong> Races</a></li><li class="chapter-item expanded "><a href="../game/classes.html"><strong aria-hidden="true">9.2.</strong> Classes</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/artificer.html"><strong aria-hidden="true">9.2.1.</strong> Artificer</a></li><li class="chapter-item expanded "><a href="../game/playtest.html"><strong aria-hidden="true">9.2.2.</strong> Playtest Materials</a></li></ol></li><li class="chapter-item expanded "><a href="../game/factions.html"><strong aria-hidden="true">9.3.</strong> Factions</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/apostolic-see.html"><strong aria-hidden="true">9.3.1.</strong> Apostolic See</a></li><li class="chapter-item expanded "><a href="../game/magisterium.html"><strong aria-hidden="true">9.3.2.</strong> Magisterium</a></li><li class="chapter-item expanded "><a href="../game/peerage.html"><strong aria-hidden="true">9.3.3.</strong> Peerage</a></li></ol></li><li class="chapter-item expanded "><a href="../game/equipment.html"><strong aria-hidden="true">9.4.</strong> Equipment</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/conveyances.html"><strong aria-hidden="true">9.4.1.</strong> Conveyances</a></li><li class="chapter-item expanded "><a href="../game/firearms.html"><strong aria-hidden="true">9.4.2.</strong> Firearms</a></li></ol></li><li class="chapter-item expanded "><a href="../game/magic-items.html"><strong aria-hidden="true">9.5.</strong> Magic Items</a></li><li class="chapter-item expanded "><a href="../game/spellcasting.html"><strong aria-hidden="true">9.6.</strong> Spellcasting</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/mana.html"><strong aria-hidden="true">9.6.1.</strong> Mana</a></li></ol></li></ol></li><li class="chapter-item expanded "><li class="part-title">Journals</li><li class="chapter-item expanded "><a href="../journals/overview.html"><strong aria-hidden="true">10.</strong> Overview</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../journals/first.html"><strong aria-hidden="true">10.1.</strong> First Session</a></li><li class="chapter-item expanded "><a href="../journals/second.html"><strong aria-hidden="true">10.2.</strong> Second Session</a></li><li class="chapter-item expanded "><a href="../journals/third.html"><strong aria-hidden="true">10.3.</strong> Third Session</a></li><li class="chapter-item expanded "><a href="../journals/fourth.html"><strong aria-hidden="true">10.4.</strong> Fourth Session</a></li><li class="chapter-item expanded "><a href="../journals/fifth.html"><strong aria-hidden="true">10.5.</strong> Fifth Session</a></li><li class="chapter-item expanded "><a href="../journals/sixth.html"><strong aria-hidden="true">10.6.</strong> Sixth Session</a></li><li class="chapter-item expanded "><a href="../journals/seventh.html"><strong aria-hidden="true">10.7.</strong> Seventh Session</a></li><li class="chapter-item expanded "><a href="../journals/eighth.html"><strong aria-hidden="true">10.8.</strong> Eighth Session</a></li><li class="chapter-item expanded "><a href="../journals/ninth.html"><strong aria-hidden="true">10.9.</strong> Ninth Session</a></li><li class="chapter-item expanded "><a href="../journals/tenth.html"><strong aria-hidden="true">10.10.</strong> Tenth Session</a></li><li class="chapter-item expanded "><a href="../journals/eleventh.html"><strong aria-hidden="true">10.11.</strong> Eleventh Session</a></li><li class="chapter-item expanded "><a href="../journals/twelfth.html"><strong aria-hidden="true">10.12.</strong> Twelfth Session</a></li><li class="chapter-item expanded "><a href="../journals/thirteenth.html"><strong aria-hidden="true">10.13.</strong> Thirteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/fourteenth.html"><strong aria-hidden="true">10.14.</strong> Fourteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/fifteenth.html"><strong aria-hidden="true">10.15.</strong> Fifteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/sixteenth.html"><strong aria-hidden="true">10.16.</strong> Sixteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/seventeenth.html"><strong aria-hidden="true">10.17.</strong> Seventeenth Session</a></li><li class="chapter-item expanded "><a href="../journals/eighteenth.html" class="active"><strong aria-hidden="true">10.18.</strong> Eighteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/nineteenth.html"><strong aria-hidden="true">10.19.</strong> Nineteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/twentieth.html"><strong aria-hidden="true">10.20.</strong> Twentieth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-first.html"><strong aria-hidden="true">10.21.</strong> Twenty-First Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-second.html"><strong aria-hidden="true">10.22.</strong> Twenty-Second Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-third.html"><strong aria-hidden="true">10.23.</strong> Twenty-Third Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-fourth.html"><strong aria-hidden="true">10.24.</strong> Twenty-Fourth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-fifth.html"><strong aria-hidden="true">10.25.</strong> Twenty-Fifth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-sixth.html"><strong aria-hidden="true">10.26.</strong> Twenty-Sixth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-seventh.html"><strong aria-hidden="true">10.27.</strong> Twenty-Seventh Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-eighth.html"><strong aria-hidden="true">10.28.</strong> Twenty-Eighth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-ninth.html"><strong aria-hidden="true">10.29.</strong> Twenty-Ninth Session</a></li><li class="chapter-item expanded "><a href="../journals/thirtieth.html"><strong aria-hidden="true">10.30.</strong> Thirtieth Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-first.html"><strong aria-hidden="true">10.31.</strong> Thirty-First Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-second.html"><strong aria-hidden="true">10.32.</strong> Thirty-Second Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-third.html"><strong aria-hidden="true">10.33.</strong> Thirty-Third Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-fourth.html"><strong aria-hidden="true">10.34.</strong> Thirty-Fourth Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-fifth.html"><strong aria-hidden="true">10.35.</strong> Thirty-Fifth Session</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">The Mundus Atrox Campaign</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="eighteenth-session"><a class="header" href="#eighteenth-session">Eighteenth Session</a></h1>
+<h2 id="lost-in-the-underdark"><a class="header" href="#lost-in-the-underdark">Lost in the Underdark</a></h2>
+<h3 id="dramatis-personae"><a class="header" href="#dramatis-personae">Dramatis Personae</a></h3>
+<ul>
+<li><em>Actias Aureus</em>, an 8th-level Tiefling Warlock</li>
+<li><em>Benjamin</em>, a 9th-level Wood Elf Ranger</li>
+<li><em>Calmul Rhoqiroth</em>, a 9th-level Dragonborn Artificer</li>
+<li><em>CoralKing</em>, a 9th-level Gnome Monk</li>
+<li><em>Geral Bryn</em>, a 9th-level Human Fighter</li>
+<li><em>Orky</em>, a 9th-level Half-Elf Paladin</li>
+<li><em>Steve</em>, a 9th-level Halfling Rogue</li>
+<li><em>Tasbros</em>, a 9th-level Sky Elf Sorcerer</li>
+<li><em>Tysnera</em>, a 9th-level Sky Elf Wizard</li>
+<li><em>Viker</em>, a 9th-level Eladrin Druid</li>
+<li><em>Wulrif</em>, a 9th-level Human Warlock</li>
+</ul>
+<h3 id="summerday-756-hours"><a class="header" href="#summerday-756-hours">Summerday +756 hours</a></h3>
+<p><img src="images/underdark.png" alt="Underdark" /></p>
+<h4 id="from-the-journal-of-dame-orky"><a class="header" href="#from-the-journal-of-dame-orky">From the journal of Dame Orky</a></h4>
+<p>The Tentacle Rod was given to <em>Wulrif</em>.  <em>Benjamin</em> told us there are Fiends near by, within a mile. We continue in a random direction, because we have no idea where we are going. I stumble forward into a cavern of 7 giant Gricks and 10 small ones.</p>
+<p>Round 1</p>
+<ol>
+<li><em>CoralKing</em> moves up and uses his Staff of Striking and an unarmed strike on the closest small Grick, doing 53 HP damage, slaughtering it!</li>
+<li><em>Actias</em> uses his Sunblade twice and his Dancing Sword once.</li>
+<li><em>Calmul</em> does 5 HP damage, killing a small one. Then, he commands his Steel Defender to attack another small one, doing 12 HP damage.</li>
+<li><em>Steve</em> attacks a small Grick, doing 22 HP damage, killing it.</li>
+<li><em>Tysnera</em> casts Fireball, avoiding Orky. She kills all of the small Gricks, with 30 HP damage each.</li>
+<li><em>Viker</em> moves through the party to attack some Gricks.</li>
+<li><em>Benjamin</em> moves up and shoots one of the Gricks</li>
+<li><em>Geral</em> moves up and attacks, doing 14 HP damage killing it. He hits a second one for 10 HP.</li>
+<li>A Grick attempts to hit me, but misses. <em>Geral</em> reacts to hit that Grick. Another one hits her for 36 HP damage. They hit <em>Geral</em> for 11 HP damage. One attacks <em>CoralKing</em> for 51HP damage and its tail attacks <em>Geral</em>, missing.</li>
+<li><em>Tasbros</em> casts Vitriolic Sphere for 26 damage, doing 13 damage to <em>Geral</em> and Orky. <em>CoralKing</em> gets 0 damage.
+<em>Wulrif</em> Hexes and hits a Grick with an Eldritch Blast, doing 37 damage, killing it.</li>
+<li>I get my clumsy ass up and cast Thunderous Smite. I attempt to swing my blade, but I'm too dizzy from a mild concussion and miss.</li>
+</ol>
+<p>Round 2</p>
+<ol>
+<li><em>CoralKing</em> uses 3 unarmed strikes, doing 12 HP damage.</li>
+<li><em>Actias</em> hits one for 6 HP damage.</li>
+<li><em>Calmul</em> uses Branding Smite and misses.</li>
+<li><em>Steve</em> runs up and stabs a Grick for 24 HP damage, killing it.</li>
+<li><em>Tysnera</em> casts Firebolt and does 9 HP damage.</li>
+<li><em>Viker</em> uses Healing Word on <em>CoralKing</em>, doing 14 HP healing.</li>
+<li><em>Benjamin</em> shoots one of the Gricks and does 23 HP damage, killing it.</li>
+<li><em>Geral</em> moves toward the last remaining Grick and hits it for 10 HP damage.</li>
+<li>It hits back with its tentacles, doing 28 HP damage to <em>Geral</em>.</li>
+<li><em>Tasbros</em> casts Chromatic Orb on the remaining Grick, level 1, for 18HP lightning damage and kills it!</li>
+</ol>
+<p>We explore and scavenge and we find clusters of skulls and bones. In the manure, we find gems and <em>Wulrif</em> cleans them. Thirteen gems worth 500 hp each! <em>Wulrif</em> takes 5, <em>Geral</em> takes 1 and I hand over 4 more to pay for the militia.</p>
+<p>A Pearl of Power is also found and given to <em>Tysnera</em>. A Rod of the Pact Keeper +1 is handed over to <em>Wulrif</em>. A Stone of Good Luck is taken by <em>Tasbros</em>. A +1 Light Hammer is found by me.</p>
+<h4 id="7000-xp"><a class="header" href="#7000-xp">7,000 XP</a></h4>
+<p>We continue along this cavern and discover 4 exit tunnels. <em>Viker</em> turns into a Bat and explores all 4 holes. One of the tunnels she discovers a trail worn with boots and lined with mushrooms. The other 3 look used by animals only and she almost flies into a spiderweb in one! Our tracker investigates the tracks in the trail tunnel and sees they were used by Duergar recently because he finds the bodies. <em>CoralKing</em> grabs their clothing and we follow their trail toward their origin. We decide to go down the trail-looking tunnel after <em>Benjamin</em>. <em>Wulrif</em> puts a Minor Illusion on us so we look like Duergar. A dim light from the mushrooms lights our path until we finally hear water and see a large black lake. <em>Wulrif</em> sees a raft on the shore. All of a sudden, we are attacked by invisible things.</p>
+<p><img src="images/barlgura.png" alt="Barlgura" /></p>
+<p>Round 1</p>
+<ol>
+<li><em>Benjamin</em> swings randomly around him in a panic and doesn’t hit anything.</li>
+<li><em>Steve</em> holds his action.</li>
+<li><em>Actias</em> moves a bit and casts Blur on himself.</li>
+<li><em>Calmul</em> holds his action.</li>
+<li><em>Geral</em> dodges.</li>
+<li><em>Viker</em> holds her action.</li>
+<li><em>CoralKing</em> dodges.</li>
+<li><em>Wulrif</em> casts Detect Thoughts.</li>
+<li><em>Tasbros</em> casts a Wall of Fire on the right side of our single-file group.</li>
+<li>All of a sudden, 3 large money-looking creatures each jump out on either side of us the moment they attack. So, 6 total. I immediately detect them as Fiends. They attack <em>Wulrif</em>, doing 20 HP damage and he gets knocked prone. The 3 that jumped through the Wall of Fire get 9 HP damage each. <em>Tasbros</em> uses luck to avoid getting knocked down but gets hit for 30 HP damage. <em>Calmul</em> gets attacked for 24 damage and knocked down. <em>Tysnera</em> gets attacked next but lifts her shield in time to dodge. I get hit for 6 HP damage.</li>
+<li>I cast Protection from Evil.</li>
+<li>Viker Summons a Scorpion to fight for us.</li>
+<li><em>Tysnera</em> Summons a Shadowspawn to fight for us.</li>
+</ol>
+<p>Round 2</p>
+<ol>
+<li><em>Benjamin</em> wants to know their weakness.</li>
+<li><em>Steve</em> uses his crossbow to hit one of the monkey-Fiends.</li>
+<li><em>Actias</em> uses his Hexblade to Curse one of the middle monkey-Fiends. He does 29 HP damage.</li>
+<li><em>Calmul</em> stands up, casts Branding Smite, and hits with 15 HP damage.</li>
+<li><em>Geral</em> moves forward, uses Commander's Strike on me to hit it and I do 16 HP damage.</li>
+<li><em>Viker</em> uses her Scorpion to attack the weakest monkey-Fiend.</li>
+<li><em>CoralKing</em> uses one unarmed strike and one Stunning Strike for 18 HP damage.</li>
+<li><em>Wulrif</em> stands up and spends 6 spell points to cast Polymorph to turn himself into a Giant Ape. He punches the attacking monkey-Fiend in the face, doing 17 HP damage.</li>
+<li><em>Tasbros</em> casts Haste on <em>Wulrif</em>.</li>
+<li>A monkey-Fiend attacks <em>Wulrif</em> for 14 HP damage. Another attacks <em>Tysnera</em> and <em>Geral</em> reacts by hitting it and actually kills it. Another one attacks <em>CoralKing</em> for 12 HP damage. I get hit for 7 HP damage.</li>
+<li>I cast Thunderous Smite and hit a Troll for 23 HP damage.</li>
+<li><em>Tysnera</em> casts Evard's Black Tentacles that entangles all of the Trolls for damage.</li>
+</ol>
+<p>Round 3</p>
+<ol>
+<li><em>Benjamin</em> does 16 HP damage.</li>
+<li><em>Steve</em> hits the monkey-Fiend <em>Wulrif</em> was fighting for 8 HP damage.</li>
+<li><em>Actias</em> uses the Bonus Action of the Dancing Blade to do 19HP damage. His Sunblade does 28 HP damage. He also does 11 HP damage.</li>
+<li><em>Calmul</em> does something?</li>
+<li><em>Geral</em> uses Commander's Strike on me to hit one of them for 10 damage. <em>Geral</em> hits one too.</li>
+<li><em>Viker</em> Teleports and hits one of the monkey-Fiends, killing it. It's remains disperse in a stinky cloud. Her scorpion does enough damage to evaporate another one.</li>
+<li><em>CoralKing</em> moves just out of the way of Evard's Black Tentacles to attack one of the 3 remaining Trolls. He does 16 HP damage on each of 2 hits.</li>
+<li><em>Wulrif</em> gets up, turns around and smacks a Troll, killing it hard.</li>
+<li><em>Tasbros</em> kills one with 63 HP damage of Cloudkill. This prevents literally anyone but our enemies from seeing.</li>
+<li>The Shadowspawn hits one of the remaining Trolls.</li>
+<li>The entangled one gets out of the tentacles, still taking 13 HP damage on the way, and moves toward <em>Wulrif</em>. It attacks him and knocks him down, doing 20 HP damage.</li>
+<li>The other one attacks <em>Actias</em> twice and gets 5 HP damage.</li>
+<li>I hit one of the trolls for some 27 HP damage.</li>
+<li><em>Tysnera</em> holds her action</li>
+</ol>
+<p>Round 4</p>
+<ol>
+<li><em>Benjamin</em> moves his Bane onto another Troll and shoots it.</li>
+<li><em>Actias</em> hits one for 22 HP damage, killing it!</li>
+</ol>
+<p>We draw our attention back to the strange raft by the lake. We notice it has some kind of device on it's side that trails into the water.</p>
+<h4 id="1500-xp"><a class="header" href="#1500-xp">1,500 XP</a></h4>
+<p><img src="images/darklake.png" alt="Darklake" /></p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../journals/seventeenth.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../journals/nineteenth.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../journals/seventeenth.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../journals/nineteenth.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

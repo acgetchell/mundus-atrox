@@ -1,0 +1,481 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Seventeenth Session - The Mundus Atrox Campaign</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../index.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">Background</li><li class="chapter-item expanded "><a href="../background/seasons.html"><strong aria-hidden="true">1.</strong> Sky and Seasons</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/arch.html"><strong aria-hidden="true">1.1.</strong> The Arch</a></li></ol></li><li class="chapter-item expanded "><a href="../background/geography.html"><strong aria-hidden="true">2.</strong> Geography</a></li><li class="chapter-item expanded "><a href="../background/ocean.html"><strong aria-hidden="true">3.</strong> Oceanography</a></li><li class="chapter-item expanded "><a href="../background/climate.html"><strong aria-hidden="true">4.</strong> Climate</a></li><li class="chapter-item expanded "><a href="../background/flora-fauna.html"><strong aria-hidden="true">5.</strong> Flora and Fauna</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/dragons.html"><strong aria-hidden="true">5.1.</strong> Dragons</a></li><li class="chapter-item expanded "><a href="../background/fey.html"><strong aria-hidden="true">5.2.</strong> Fey</a></li><li class="chapter-item expanded "><a href="../background/giants.html"><strong aria-hidden="true">5.3.</strong> Giants</a></li><li class="chapter-item expanded "><a href="../background/old-ones.html"><strong aria-hidden="true">5.4.</strong> Old Ones</a></li></ol></li><li class="chapter-item expanded "><a href="../background/population.html"><strong aria-hidden="true">6.</strong> Population</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/barbaria.html"><strong aria-hidden="true">6.1.</strong> Barbaria</a></li><li class="chapter-item expanded "><a href="../background/populi.html"><strong aria-hidden="true">6.2.</strong> Populi</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/dragonborn.html"><strong aria-hidden="true">6.2.1.</strong> Dragonborn</a></li><li class="chapter-item expanded "><a href="../background/dwarves.html"><strong aria-hidden="true">6.2.2.</strong> Dwarves</a></li><li class="chapter-item expanded "><a href="../background/elves.html"><strong aria-hidden="true">6.2.3.</strong> Elves</a></li><li class="chapter-item expanded "><a href="../background/half-elves.html"><strong aria-hidden="true">6.2.4.</strong> Half-Elves</a></li><li class="chapter-item expanded "><a href="../background/half-orcs.html"><strong aria-hidden="true">6.2.5.</strong> Half-Orcs</a></li><li class="chapter-item expanded "><a href="../background/halflings.html"><strong aria-hidden="true">6.2.6.</strong> Halflings</a></li><li class="chapter-item expanded "><a href="../background/humans.html"><strong aria-hidden="true">6.2.7.</strong> Humans</a></li><li class="chapter-item expanded "><a href="../background/gnomes.html"><strong aria-hidden="true">6.2.8.</strong> Gnomes</a></li><li class="chapter-item expanded "><a href="../background/tiefling.html"><strong aria-hidden="true">6.2.9.</strong> Tiefling</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../background/civilization.html"><strong aria-hidden="true">7.</strong> Civilization</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/castelas.html"><strong aria-hidden="true">7.1.</strong> Castelas</a></li><li class="chapter-item expanded "><a href="../background/mines.html"><strong aria-hidden="true">7.2.</strong> Mines</a></li><li class="chapter-item expanded "><a href="../background/urbs.html"><strong aria-hidden="true">7.3.</strong> Urbs</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/neverwinter.html"><strong aria-hidden="true">7.3.1.</strong> Neverwinter</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../background/artifacts.html"><strong aria-hidden="true">8.</strong> Artifacts</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../background/arclight.html"><strong aria-hidden="true">8.1.</strong> The Arclight</a></li><li class="chapter-item expanded "><a href="../background/stonehenge.html"><strong aria-hidden="true">8.2.</strong> Stonehenge</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Game Information</li><li class="chapter-item expanded "><a href="../game/starting.html"><strong aria-hidden="true">9.</strong> Starting</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/races.html"><strong aria-hidden="true">9.1.</strong> Races</a></li><li class="chapter-item expanded "><a href="../game/classes.html"><strong aria-hidden="true">9.2.</strong> Classes</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/artificer.html"><strong aria-hidden="true">9.2.1.</strong> Artificer</a></li><li class="chapter-item expanded "><a href="../game/playtest.html"><strong aria-hidden="true">9.2.2.</strong> Playtest Materials</a></li></ol></li><li class="chapter-item expanded "><a href="../game/factions.html"><strong aria-hidden="true">9.3.</strong> Factions</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/apostolic-see.html"><strong aria-hidden="true">9.3.1.</strong> Apostolic See</a></li><li class="chapter-item expanded "><a href="../game/magisterium.html"><strong aria-hidden="true">9.3.2.</strong> Magisterium</a></li><li class="chapter-item expanded "><a href="../game/peerage.html"><strong aria-hidden="true">9.3.3.</strong> Peerage</a></li></ol></li><li class="chapter-item expanded "><a href="../game/equipment.html"><strong aria-hidden="true">9.4.</strong> Equipment</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/conveyances.html"><strong aria-hidden="true">9.4.1.</strong> Conveyances</a></li><li class="chapter-item expanded "><a href="../game/firearms.html"><strong aria-hidden="true">9.4.2.</strong> Firearms</a></li></ol></li><li class="chapter-item expanded "><a href="../game/magic-items.html"><strong aria-hidden="true">9.5.</strong> Magic Items</a></li><li class="chapter-item expanded "><a href="../game/spellcasting.html"><strong aria-hidden="true">9.6.</strong> Spellcasting</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../game/mana.html"><strong aria-hidden="true">9.6.1.</strong> Mana</a></li></ol></li></ol></li><li class="chapter-item expanded "><li class="part-title">Journals</li><li class="chapter-item expanded "><a href="../journals/overview.html"><strong aria-hidden="true">10.</strong> Overview</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../journals/first.html"><strong aria-hidden="true">10.1.</strong> First Session</a></li><li class="chapter-item expanded "><a href="../journals/second.html"><strong aria-hidden="true">10.2.</strong> Second Session</a></li><li class="chapter-item expanded "><a href="../journals/third.html"><strong aria-hidden="true">10.3.</strong> Third Session</a></li><li class="chapter-item expanded "><a href="../journals/fourth.html"><strong aria-hidden="true">10.4.</strong> Fourth Session</a></li><li class="chapter-item expanded "><a href="../journals/fifth.html"><strong aria-hidden="true">10.5.</strong> Fifth Session</a></li><li class="chapter-item expanded "><a href="../journals/sixth.html"><strong aria-hidden="true">10.6.</strong> Sixth Session</a></li><li class="chapter-item expanded "><a href="../journals/seventh.html"><strong aria-hidden="true">10.7.</strong> Seventh Session</a></li><li class="chapter-item expanded "><a href="../journals/eighth.html"><strong aria-hidden="true">10.8.</strong> Eighth Session</a></li><li class="chapter-item expanded "><a href="../journals/ninth.html"><strong aria-hidden="true">10.9.</strong> Ninth Session</a></li><li class="chapter-item expanded "><a href="../journals/tenth.html"><strong aria-hidden="true">10.10.</strong> Tenth Session</a></li><li class="chapter-item expanded "><a href="../journals/eleventh.html"><strong aria-hidden="true">10.11.</strong> Eleventh Session</a></li><li class="chapter-item expanded "><a href="../journals/twelfth.html"><strong aria-hidden="true">10.12.</strong> Twelfth Session</a></li><li class="chapter-item expanded "><a href="../journals/thirteenth.html"><strong aria-hidden="true">10.13.</strong> Thirteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/fourteenth.html"><strong aria-hidden="true">10.14.</strong> Fourteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/fifteenth.html"><strong aria-hidden="true">10.15.</strong> Fifteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/sixteenth.html"><strong aria-hidden="true">10.16.</strong> Sixteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/seventeenth.html" class="active"><strong aria-hidden="true">10.17.</strong> Seventeenth Session</a></li><li class="chapter-item expanded "><a href="../journals/eighteenth.html"><strong aria-hidden="true">10.18.</strong> Eighteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/nineteenth.html"><strong aria-hidden="true">10.19.</strong> Nineteenth Session</a></li><li class="chapter-item expanded "><a href="../journals/twentieth.html"><strong aria-hidden="true">10.20.</strong> Twentieth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-first.html"><strong aria-hidden="true">10.21.</strong> Twenty-First Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-second.html"><strong aria-hidden="true">10.22.</strong> Twenty-Second Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-third.html"><strong aria-hidden="true">10.23.</strong> Twenty-Third Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-fourth.html"><strong aria-hidden="true">10.24.</strong> Twenty-Fourth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-fifth.html"><strong aria-hidden="true">10.25.</strong> Twenty-Fifth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-sixth.html"><strong aria-hidden="true">10.26.</strong> Twenty-Sixth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-seventh.html"><strong aria-hidden="true">10.27.</strong> Twenty-Seventh Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-eighth.html"><strong aria-hidden="true">10.28.</strong> Twenty-Eighth Session</a></li><li class="chapter-item expanded "><a href="../journals/twenty-ninth.html"><strong aria-hidden="true">10.29.</strong> Twenty-Ninth Session</a></li><li class="chapter-item expanded "><a href="../journals/thirtieth.html"><strong aria-hidden="true">10.30.</strong> Thirtieth Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-first.html"><strong aria-hidden="true">10.31.</strong> Thirty-First Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-second.html"><strong aria-hidden="true">10.32.</strong> Thirty-Second Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-third.html"><strong aria-hidden="true">10.33.</strong> Thirty-Third Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-fourth.html"><strong aria-hidden="true">10.34.</strong> Thirty-Fourth Session</a></li><li class="chapter-item expanded "><a href="../journals/thirty-fifth.html"><strong aria-hidden="true">10.35.</strong> Thirty-Fifth Session</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">The Mundus Atrox Campaign</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="seventeenth-session"><a class="header" href="#seventeenth-session">Seventeenth Session</a></h1>
+<h2 id="escape-from-velkynvelve"><a class="header" href="#escape-from-velkynvelve">Escape from Velkynvelve</a></h2>
+<h3 id="dramatis-personae"><a class="header" href="#dramatis-personae">Dramatis Personae</a></h3>
+<ul>
+<li><em>Benjamin</em>, a 9th-level Wood Elf Ranger</li>
+<li><em>Calmul Rhoqiroth</em>, a 9th-level Dragonborn Artificer</li>
+<li><em>CoralKing</em>, a 9th-level Gnome Monk</li>
+<li><em>Geral Bryn</em>, a 9th-level Human Fighter</li>
+<li><em>Orky</em>, a 9th-level Half-Elf Paladin</li>
+<li><em>Steve</em>, a 9th-level Halfling Rogue</li>
+<li><em>Tasbros</em>, a 9th-level Sky Elf Sorcerer</li>
+<li><em>Tysnera</em>, a 9th-level Sky Elf Wizard</li>
+<li><em>Viker</em>, a 9th-level Eladrin Druid</li>
+<li><em>Wulrif</em>, a 9th-level Human Warlock</li>
+</ul>
+<h3 id="summerday-588-hours"><a class="header" href="#summerday-588-hours">Summerday +588 hours</a></h3>
+<p><em>Calmul</em> watches, fascinated, as <em>Chiyo</em> manipulates the needle, tracing intricate patterns of inky blackness across <em>Geral's</em> broad back.</p>
+<p><em>Wulrif's</em> familiar zooms over and around the tableau, looking at the scene from many different angles.</p>
+<p><em>Chiyo's</em> darkness insulates them from the rest of the world.</p>
+<p>A pattern takes shape, fantastic figures depicting battle against infernal forces.</p>
+<p><img src="images/geral-tattoo.png" alt="Geral Tattoo" /></p>
+<p><em>Geral</em> wakes with a start to a droning, buzzing sound. <em>Calmul</em> is snoring, his Steel Guardian marching resolute circles around the pair.</p>
+<p>A feeling he ought to be thinking of something.</p>
+<blockquote>
+<p><em>The rest of the party is gone</em>, says <em>Wulrif's</em> voice in his mind.</p>
+<p>&quot;What has happened?&quot;</p>
+</blockquote>
+<p><em>Gruumsh</em> points to a wide pit in front of the ruined Cathedral gate.</p>
+<blockquote>
+<p>&quot;A Giant flew in as a little bird and taunted your companions. When they insulted it back, it summoned a Purple Worm from the <strong>Underdark</strong> and attacked.
+Your wizard banished the Worm, but by the time we could reach them, it had flung them down the Purple Wormhole and fled.&quot;</p>
+<p>&quot;A Fire Giant?&quot;, asks <em>Geral</em>, thinking of their last enemy commanding the forces attacking the Dwarven Mining Crawler.</p>
+<p>&quot;A Smiling One&quot;, said <em>Chiyo</em> darkly. &quot;We know it. We sought its help against the coming of <em>Icewing</em>, but it is playing a different game.
+Something fell has happened to the Ordning.&quot;</p>
+<p>&quot;Ordning?&quot; asks <em>Geral</em>.</p>
+<p>&quot;The power structure of Giants. It is complex, and seems to be changing.&quot;</p>
+<p>&quot;Why would you seek help from Giants against a Dragon?&quot;</p>
+<p>&quot;Ah, you do not know of the Great War fought between Dragons and Giants in ages past. Well, that is a tale for another time --
+what are you going to do now?&quot;</p>
+</blockquote>
+<p><em>Geral</em> stares hard at the Purple Wormhole.</p>
+<blockquote>
+<p>&quot;My people,&quot; rumbles <em>Gruumsh</em>, &quot;do not wish to hang about an accursed Cathedral.&quot;</p>
+</blockquote>
+<p>Still looking, <em>Geral</em> nods. Command places a heavy burden.</p>
+<hr />
+<p>Except for <em>Benjamin</em>, they never saw it coming.</p>
+<p>One moment they were trudging along single file in the weird luminous gloom of the <strong>Underdark</strong>, then darkness cut off that vision.</p>
+<p><em>Benjamin</em> starts, avoiding 3 darts before taking 5 more. <em>Orky</em> feel the pricks of bolts and hears her companions slumping into unconsciousness around her.</p>
+<blockquote>
+<p>&quot;Cease attacking!&quot; A strong, silken female voice.</p>
+</blockquote>
+<p><em>Orky</em> clenches her gauntlets, feeling Divine Power building in her Greatsword.</p>
+<p>The Drow Priestess locks eyes with her.</p>
+<blockquote>
+<p>&quot;Surrender, or your friends will die.&quot;</p>
+</blockquote>
+<p>She could smite this woman and a half-dozen of them back into whatever foul pit they crawled from, but then what?</p>
+<p>The Drow Elite Guard shuffle, all weapons pointing unerringly at her.</p>
+<blockquote>
+<p>&quot;Last chance -- then they become fodder for spiders.&quot;</p>
+</blockquote>
+<p><em>Orky</em> stares hard at the half-Drow half-Spider things. They scuttle backwards.</p>
+<p>Finally, she nods.</p>
+<p>They take her weapons and place magic shackles on her, but know better than to push it further. The huge Spider-centaurs
+come forward and, as <em>Orky</em> watches, subdued, her companions are webbed to their broad backs.</p>
+<hr />
+<p>The Clan women and children march in the center of a hollow square of Ogres, who bear huge loads upon their backs, in a surprisingly disciplined formation. Two shamans break the trail and one follows, some sort of
+magic making the passage of the large group both quieter and less discernible. The remaining Orcs range out widely from the group. Two of them, riding Velociraptors, pull up abruptly to <em>Gruumsh</em> and <em>Chiyo</em>, talking
+excitedly while their mounts snarl and drool in anticipation. <em>Gruumsh</em> abruptly jumps up onto a raptor as its rider smoothly dismounts. <em>Chiyo</em> blurs and takes to the sky as a large black Raven. The group
+comes to a halt as the Orcs run, following their leader. The dismounted Orc rider glares sullenly at <em>Geral</em>.</p>
+<p>After a time, one of the Shamans cocks his head and then lets out a celebratory cry. The group changes direction and follows the path of the outriders.</p>
+<p>A short march leads to the site of a Thunderbeast kill, the Velociraptor mounts already feasting. The Clan makes camp around the savage scene, the Orcs quickly erecting wooden stakes around the perimeter while
+the Ogres drop their burdens and begin digging a huge firepit. A Tyrannosaur lurks off in the distance, but a black bird seems to be perched upon its snout.</p>
+<p>Great quantities of wood are gathered and much of the meat is cooked in the baking sun. There is dancing and loud ululations that seems to pass for singing in the Clan as everyone gorges upon the kill.</p>
+<p>Later, the Ogres tear great strips from the carcass, swelling their packs even larger.</p>
+<p>Within a few hours, the Clan dissembles the stakes and leaves the scene.</p>
+<p>As the group marches toward <strong>Phandalin</strong>, <em>Geral</em> can see the unmistakable form of the Tyrannosaur partaking in the remains.</p>
+<blockquote>
+<p>&quot;You will convince the Humans to co-exist with us?&quot; rumbles <em>Gruumsh</em>, a few hours later.</p>
+<p>&quot;I will,&quot; replies <em>Geral</em>.</p>
+<p>&quot;We will see,&quot; huffs <em>Gruumsh</em>, as <strong>Tresendar Manor</strong> comes into view.</p>
+</blockquote>
+<hr />
+<p><img src="images/Ilvarra.png" alt="Ilvarra" /></p>
+<p>Captured by the Drow! You wouldn’t wish this fate upon anyone, yet here you are — on a platform suspended by spiderwebs above a seemingly endless abyss, the cold, heavy weight of metal tight around your throat and wrists. You are not alone. Other prisoners are trapped in here with you, in an underground outpost far from the light of the sun. Your captors include a cruel Drow Priestess who calls herself <em>Mistress Ilvarra</em> of <strong>House Mizzrym</strong>. Over the past several cycles, you’ve met her several times, robed in silken garments and flanked by two male Drow, one of whom has a mass of scars along one side of his face and neck. <em>Mistress Ilvarra</em> likes to impress her will with scourge in hand and remind you that your life now belongs to her.</p>
+<blockquote>
+<p>“Welcome to <strong>Velkynvelve</strong>! Accept your fate, learn to obey, and you may survive.” Her words echo in your memory, even as you plot your escape.</p>
+</blockquote>
+<p>Some of your fellow prisoners do not accept this fate. A stubborn Dwarf refuses to do the pointless work your captors assign, and is summarily thrown over the edge of the platform. He falls a hundred feet into a web and quickly beset upon by Giant Spiders, some blinking into and out of existence.</p>
+<p>The last Dwarf in your wretched band of captives is taken up into the smaller of the three Stalagmites, doorways leading to unguessable chambers. A piercing scream, and black mist tinged with red flows out of doorway and various orifices of what is now, clearly, a vile temple of some kind.</p>
+<p><img src="images/Velkynvelve.png" alt="Velkynvelve" /></p>
+<hr />
+<blockquote>
+<p>&quot;Thane <em>Geral</em>!,&quot; greets <em>Sildar</em>, as <em>Geral</em> enters the Townmaster's Hall.</p>
+</blockquote>
+<p>The two clasp forearms in the Crusader's greeting of fellow soldiers.</p>
+<blockquote>
+<p>&quot;I have procured the militia to protect <strong>Phandelver Mine</strong>, and this town,&quot; says <em>Geral</em> with a winning smile. &quot;But you're going to have to trust me.&quot;</p>
+</blockquote>
+<p><em>Sister Garaele</em> and <em>Reidoth</em>, a big hulking Druid and friend of <em>Qelline Alderleaf</em> and her son <em>Carp</em> who led the party through the back way into <strong>Tresendar Manor</strong>, stare
+impassively at <em>Chiyo</em>. <em>Sildar</em> looks back and forth between the Oni and her husband, a wary expression on his face.</p>
+<blockquote>
+<p>&quot;We have the Ward Stone,&quot; says <em>Gruumsh</em> in surprisingly unaccented Common. &quot;We took it from the Vampires we slew at the Cathedral.&quot;</p>
+</blockquote>
+<p><em>Sildar</em> looks at <em>Sister Garaele</em>, who nods minutely. <em>Reidoth's</em> scowl fades.</p>
+<blockquote>
+<p>&quot;I had noted their infestation,&quot; he declaims, &quot;but was busy with the Dragon.&quot;</p>
+<p>&quot;<em>Icewing</em>?&quot;, asks <em>Gruumsh</em>.</p>
+<p>&quot;<em>Venomfang</em>&quot;, replies <em>Reidoth</em>.</p>
+<p>&quot;A curse upon Dragons!&quot; roars <em>Gruumsh</em>.</p>
+</blockquote>
+<p><em>Reidoth's</em> craggy face relaxes into a slight smile.</p>
+<blockquote>
+<p>&quot;We'll need a Bishop to re-consecrate the Ward stone&quot;, interjects <em>Geral</em> smoothly.</p>
+<p>&quot;I will message <strong><a href="../background/neverwinter.html">Neverwinter</a></strong>&quot;, replies <em>Sister Garaele</em>.</p>
+<p>&quot;And where will the Clan be housed?&quot;, asks <em>Sildar</em>. &quot;Our farmhouses will not suffice ...&quot;</p>
+<p>&quot;<strong>Tresendar Manor</strong>&quot;, replies <em>Geral</em>.</p>
+<p>&quot;Hmmm.&quot; <em>Sildar</em> looks thoughtful. &quot;That could work.&quot;</p>
+<p>&quot;My people can provide for themselves, but we want to be able to buy the things we cannot make for ourselves, from you,&quot; rumbles <em>Gruumsh</em>.</p>
+<p>&quot;That's fair,&quot; notes <em>Geral</em>.</p>
+<p>&quot;The <strong>Phandalin Miner's Exchange</strong>,&quot; says <em>Sildar</em>, stroking his chin, &quot;the folk there are more rugged and tolerant.&quot;</p>
+<p>&quot;I will send only my most level-headed warriors,&quot; says <em>Gruumsh</em>, &quot;but they will not tolerate disrespect whatever I tell them.&quot;</p>
+<p>&quot;Miners are a practical folk,&quot; says <em>Sildar</em>. &quot;We'll keep the Dwarves away for now.&quot;</p>
+<p>&quot;About that,&quot; says <em>Geral</em>.</p>
+</blockquote>
+<hr />
+<p><strong>Velkynvelve</strong> is three large stalagmites hanging from the roof of a vast cavern. Above, endless skitterings and shriekings announce the presence of huge flocks of flying creatures that somehow nest
+in the unseen roof above. Below, endless spiderwebs and the spinners thereof.</p>
+<p>In between, the prisoners huddle on a large platform made of some strange-grained wood hung between the inverse towers of <strong>Velkynvelve</strong>. The larger upside-down tower seems to be where <em>Mistress Ilvarra</em>
+and her ilk dwell. The mid-sized one appears to be barracks for the Drow soldiers, who number perhaps a score. The smallest one is the accursed temple.</p>
+<p>White-furred and savage, Quaggoths move freely amongst the prisoners, feral eyes and teeth gleaming as they appear to consider which of the prisoners would make the tastiest meal. They climb freely around
+<strong>Velkynvelve</strong>, seeing to unguessable tasks.</p>
+<p>The hours pass slowly. The Drow guards play cruel games with the prisoners, giving them pointless make-work such as coiling and uncoiling large lengths of silken rope, and moving stone ballast from one side of the
+platform to the other, laughing when sudden shifts cause everyone to flatten as their tiny world swings from side to side.</p>
+<hr />
+<blockquote>
+<p>&quot;Thane <em>Geral</em>!&quot;, greets <em>Gundren</em>, as <em>Geral</em> enters <strong>Phandelver Mine</strong>. &quot;And my old friend <em>Sildar</em>! This is a great hour indeed!&quot;.</p>
+<p>&quot;I bring great news! I have brought the militia that will defend <strong>Phandelver</strong>!&quot; intones <em>Geral</em>.</p>
+<p>&quot;That is great news indeed,&quot; says <em>Gundren</em>, urgently. &quot;My scouts have reported a large war-band of Orcs and Ogres in the area.&quot;</p>
+<p>&quot;Then let me ease your mind!&quot; replies <em>Geral</em>, a touch too heartily. &quot;They are indeed the militia under my command!&quot;</p>
+</blockquote>
+<p>After fifteen minutes or so, <em>Gundren</em> finally runs out of curses.</p>
+<blockquote>
+<p>&quot;You're going to have to trust me,&quot; says <em>Geral</em>, winningly.</p>
+</blockquote>
+<hr />
+<p>The party has been stripped of all of their gear, and are dressed only in rags.</p>
+<p>Speaking in hushed whispers with the other prisoners, in moments snatched from under the watchful glare of the Drow, the party learns the following:</p>
+<ul>
+<li>There are slightly more than two dozen Drow in <strong>Velkynvelve</strong>, including <em>Ilvarra</em>, another Priestess <em>Asha</em>, and their lovers <em>Shoor</em> and <em>Jorlan</em>, who are Sorcerers.</li>
+<li>The inverted towers each have 3 guards on duty at all times</li>
+<li>The main tower has an anti-magic effect, and seems to be where prisoners are processed before being thrown onto the platform</li>
+<li>The smaller tower seems to be the barracks for the guards</li>
+<li>No prisoner has ever returned from the smallest tower</li>
+<li>It might be a matter of cycles before a contingent from <strong>Menzoberranzan</strong> arrives to take the remaining prisoners</li>
+</ul>
+<hr />
+<blockquote>
+<p>&quot;You want to go where?&quot; asks <em>Gundren</em>, disbelievingly.</p>
+<p>&quot;The <strong>Underdark</strong>,&quot; replies <em>Geral</em>.</p>
+<p>&quot;I thought that's what you said, but I didnae imagine yer had a death wish.&quot;</p>
+<p>&quot;As it happens, you already have a partial portal there.&quot;</p>
+<p>&quot;Aye, the Fungal Cavern. We were thinkin' a hae to block it off.&quot;</p>
+<p>&quot;Well, first I'd like you to dig a tunnel.&quot;</p>
+<p>&quot;That seems mad, but I know yer want to find yer companions and all. Seems a' hopeless task, dinnae yer ken how big the <strong>Underdark</strong> is?&quot;</p>
+<p>&quot;Trust me,&quot; replies <em>Geral</em>.</p>
+<p>&quot;I was afraid a' you'd say thaet.&quot;</p>
+</blockquote>
+<p>Two cycles later, the Dwarves have dug a 6'x6' shaft straight through the remains of the Fungal Overlord and into the porous rock. It ends on a shelf of granite on the
+lip of a vast crevice stretching unimaginably deep.</p>
+<blockquote>
+<p>&quot;Here goes nothing,&quot; says <em>Calmul</em>, tossing his finely-wrought, seven-hundred foot length of rope ladder over the edge.</p>
+</blockquote>
+<p><em>Geral</em>, <em>Calmul</em>, <em>Wulrif</em>, and the faithful Steel Guardian take their time climbing down the endless darkness.</p>
+<hr />
+<p>Disheveled as the rest of the group, but somehow escaping the unwanted attention of the Drow guards and Quaggoths, <em>Steve</em> repeatedly studies the main Stalagmite, a calculating gleam in his eye.</p>
+<hr />
+<p>The cavern is covered with florescent green lichen, and even <em>Geral</em> and <em>Wulrif</em>'s eyes can appreciate the strange splendor of the <strong>Underdark</strong> as they march its trackless depths.</p>
+<blockquote>
+<p>&quot;Hmmm ... it appears that Divination and Alteration magic do not work in this place,&quot; says <em>Wulrif</em> musingly.</p>
+<p>&quot;Well, that's not good. Then again, it's not as if I expected this would be easy,&quot; replies <em>Geral</em>.</p>
+<p><em>That's not strictly true</em> says a voice in their minds.</p>
+</blockquote>
+<p><em>Geral</em>, <em>Wulrif</em>, and <em>Calmul</em> whirl around, looking for the source. In a distant cavern, a pool of unnatural inky blackness swirls.</p>
+<blockquote>
+<p><em>Do not be alarmed, I mean you no harm.</em></p>
+<p>&quot;Have you seen a group of adventurers, perhaps lost?&quot; replies <em>Geral</em>.</p>
+<p><em>I am aware of a group taken captive by the Drow</em>, the mental voice replies. <em>Mostly Elves, but two smaller folk among them.</em></p>
+<p>&quot;Did they look like this?&quot; asks <em>Geral</em>, firmly fixing his memories of <em>Actias</em>, <em>Orky</em>, <em>CoralKing</em>, <em>Benjamin</em>, <em>Steve</em>, <em>Tasbros</em>, <em>Tysnera</em>, and <em>Viker</em> in his mind.</p>
+<p><em>Ah yes, those are unusually sharp impressions. I believe that was indeed the group taken.</em></p>
+<p><em>They are alive?</em> interjects <em>Wulrif</em>, telepathically.</p>
+<p><em>Very good</em> the Voice seems amused. <em>They are alive, for now, but the Drow will doubtless have uses for their ... power.</em></p>
+<p>&quot;Do you know where they are?&quot;</p>
+<p><em><strong>Velkynvelve</strong>, undoubtedly, for that is where Drow in this area take their prisoners.</em></p>
+<p>&quot;How do we get there?&quot;</p>
+<p>A mental laugh. <em>You would probably be eaten or lost if you were to attempt to traverse the space locally.</em></p>
+<p>&quot;Anything you can do to help direct us, we would appreciate.&quot;</p>
+<p><em>Locally?</em> asks <em>Wulrif</em></p>
+<p><em>Very good indeed</em>. The mental laugh again. <em>I know of a global shortcut</em>.</p>
+<p>&quot;What does that mean?&quot;</p>
+<p><em>I can project you to my fellow Society member, who is at this moment surveilling <strong>Velkynvelve</strong>.</em></p>
+<p>&quot;What do you ask of us in return?&quot;</p>
+<p><em>Only that you convey any information you may gain from the Drow to the Society of Brilliance.</em></p>
+<p>&quot;That we will do,&quot; says <em>Geral</em>.</p>
+<p><em>Indeed, you have so far shown yourself to be a Being of Honor. I will project you to my companion, Skriss. Do not be alarmed at his appearance, he
+is un-dangerous to your kind, unless provoked.</em></p>
+<p>&quot;You have our thanks. What is your name?&quot;</p>
+<p><em>Grazillaxx</em>.</p>
+</blockquote>
+<p>The darkness dissipates, and for a moment they see a tall, mauve figure with horrible tentacles for a face. Then reality fades ...</p>
+<p><img src="images/society-of-brilliance.png" alt="The Society of Brilliance" /></p>
+<hr />
+<p>The hours on the platform drag on.</p>
+<p>Her companions conspiring to draw the guards attention, <em>Viker</em> slips over the edge of the platform before shapeshifting into a Giant Spider.</p>
+<p>She explores the webbing external to <strong>Velkynvelve</strong>, noting the locations of her fellow spiders as well as the delicious meats guarding the less-delicious meats.</p>
+<p>Climbing along the non-sticky threads, something at the edge of the crevasse catches her attention.</p>
+<hr />
+<p><em>Geral</em> can't see much in the darkness, but the fetid stench of the Troglodyte tests his limits.</p>
+<blockquote>
+<p>&quot;Our thanks, <em>Skriss</em>&quot;</p>
+</blockquote>
+<p>A snuffling grunt in reply, then a large scaly reptillian arm points down a particular path. The cavern is so big no one can see its limits. Vast subterranean air currents stir.</p>
+<p>The mini-Beholder emits a series of grunts and clicks, then dives into <em>Wulrif's</em> cloak.</p>
+<p><em>Geral</em>, <em>Calmul</em>, and <em>Wulrif</em> trudge forward in the darkness, leaning into the swirling wind. A waterfall can be heard somewhere off in the distance, though no water can be seen.</p>
+<p>After awhile, dim lighting can be seen ringing what appear to be three inverted towers. Something in the darkness sways.</p>
+<p><em>Wulrif</em> coaxes his familiar out.</p>
+<p>&quot;I'm going to look around,&quot; he says, after admonishing the Gazer. &quot;Yes, you be careful.&quot;</p>
+<hr />
+<p>She's nearly at the end of her shapechange time, but something familiar is ahead.</p>
+<p><em>Viker?</em> <em>Wulrif's</em> voice echoes in her mind.</p>
+<p>Their reunion is joyful, if muted. Reaching nearly the end of her endurance, <em>Calmul</em>, <em>Geral</em>, <em>Viker</em>, and <em>Wulrif</em> devise an escape plan.</p>
+<p><em>Viker</em> scuttles back as fast as she can to convey the news.</p>
+<hr />
+<p>The plan starts with the greatest larceny in <em>Steve's</em> career.</p>
+<p>Supremely sneaky, <em>Steve</em> climbs unseen into the largest stalagmite, somehow avoiding the sharp eyes of the Drow. He melts into the shadows of the garrison, gone for a few minutes, everyone intensely not-watching,
+before reappearing with a spiderweb satchel of weapons. Somehow he climbs back down without a clink of metal or cry of alarm.</p>
+<p>Then he does it again. And again. And again. And again.</p>
+<p>When <em>Steve</em> is finished, the party has recovered their precious magic items and most of their wealth. Their mundane items were too numerous and, <em>Steve</em> deemed, too bulky and risky to retrieve.</p>
+<p>Stage two starts off with the simultaneous explosion of <em>Viker's</em> Daylight spell and <em>Wulrif's</em> Synaptic Static, both encompassing the guard positions of the middle tower.</p>
+<p>As the Drow reel from the twin hammering of light and psychic energy, the party leaps over the edge and onto the non-sticky threads that <em>Viker</em> spun while in Spider form.</p>
+<p>The party races down twin tightropes, a thousand feet between them and safety, endless dark below if they fall.</p>
+<p><em>Tasbros</em> bobbles and sways dangerously at one point, but somehow regains his balance.</p>
+<p>By the time the Drow have recovered and Dispelled Daylight and Synaptic Static, the party has reunited on their end of the cavern.</p>
+<p>Not stopping for long, the Irregulars race into the darkness, the Drow pursuit behind.</p>
+<blockquote>
+<p>&quot;I think we lost them,&quot; says <em>Tysnera</em>, breathlessly.</p>
+<p>&quot;We should keep going,&quot; replies <em>CoralKing</em> with no trace of exertion in his voice.</p>
+<p>&quot;Yeah, that kinda might be a good idea,&quot; says <em>Steve</em>, huffing. &quot;Just let me catch my breath and we can keep going.&quot;</p>
+<p>&quot;Is there any particular reason, other than not wanting to be tortured or sacrificed?&quot; asks <em>Geral</em>.</p>
+<p>&quot;Well, y'know, the Drow High Priestess? She might be kinda a little upset,&quot; says <em>Steve</em>.</p>
+<p>&quot;She seemed pretty upset before,&quot; replies <em>Geral</em>.</p>
+<p>&quot;Yeah, well, I took back our stuff, what belonged to us, y' know? But I <em>stole</em> her Hand Crossbow and Tentacle Rod,&quot; says <em>Steve</em> proudly.</p>
+</blockquote>
+<p><img src="images/underdark-2.png" alt="Underdark" /></p>
+<h4 id="5000-xp"><a class="header" href="#5000-xp">5,000 XP</a></h4>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../journals/sixteenth.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../journals/eighteenth.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../journals/sixteenth.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../journals/eighteenth.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>
