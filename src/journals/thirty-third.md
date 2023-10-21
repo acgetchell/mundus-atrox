@@ -53,7 +53,7 @@ Round 2
 
 1. The Duergar rush the door and fail to shove through me.
 2. *Viker* enables her unicorn totem. Everyone is healed 30 HP.
-3. 2 tentacles lash through us. I took 60 HP damage and all the dwarves are killed by them.
+3. 2 tentacles lash through us. I took 60 HP damage and all the Dwarves are killed by them.
 4. *Tasbros* recovers
 5. *CoralKing* shuts the door and barricades it with his ring of telekinesis.
 6. *Benjamin*
